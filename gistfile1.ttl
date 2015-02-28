@@ -1,0 +1,19 @@
+@prefix dc: http://purl.org/dc/elements/1.1/
+@prefix dcmitype: http://purl.org/dc/dcmitype/
+@prefix dcterms: http://purl.org/dc/terms/
+@prefix edm: http://www.europeana.eu/schemas/edm/
+@prefix premiscopy: http://id.loc.gov/vocabulary/preservation/copyrightStatus/
+@prefix rdfs: http://www.w3.org/2000/01/rdf-schema#
+@prefix skos: http://www.w3.org/2004/02/skos/core#
+
+_:ic a dcterms:RightsStatement ;
+     skos:prefLabel "In Copyright (IC)" ;
+     skos:editorialNote "Equivalent to free access no reuse" ;
+     skos:closeMatch <http://www.europeana.eu/rights/rr-f/> ;
+     skos:definition """This digital object is protected by copyright and/or related rights. This digital object is accessible without charge, but its use is subject to the licensing conditions set by the organization giving access to it.
+
+Unless expressly stated otherwise in the licensing conditions, you are free to make any of the acts permitted by your national copyright and related rights act, including browsing, printing and making a copy for your own personal purposes.
+
+All other acts of reproduction and communication to the public are subject to the licensing conditions attached to the digital object.""" ; 
+     skos:scopeNote "This rights statement is applicable when users have free (as in gratis), direct and full access to the digitised object.  Access is granted subject to the licensing conditions described the  on the data provider's website." ; 
+     skos:relatedMatch premiscopy:cpr . 
