@@ -1,0 +1,2 @@
+rightsstatements.org data model
+---
