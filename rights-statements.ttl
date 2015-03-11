@@ -9,7 +9,7 @@
 @prefix schema: http://schema.org/
 @prefix skos: http://www.w3.org/2004/02/skos/core#
 
-_:ic a cc:License ;
+_:ic a dcterms:RightsStatement ;
      dc:title "In Copyright"@en ;
      skos:prefLabel "In Copyright (IC)"@en ;
      skos:editorialNote "Equivalent to free access no reuse"@en ;
@@ -25,7 +25,7 @@ All other acts of reproduction and communication to the public are subject to th
      dc:creator: "Digital Public Library of America and Europeana Rights Working Group" ;
      dc:identifier "ic" .
 
-_:ic-ow-eu a cc:License ;
+_:ic-ow-eu a dcterms:RightsStatement ;
      dc:title "In Copyright - Orphan Works - EU"@en ;
      skos:prefLabel "In Copyright - Orphan Works - EU (IC-OW-EU)"@en ;
      skos:editorialNote "For use with works that have been identified in line with EU Orphan Works directive"@en ;
@@ -44,7 +44,7 @@ You are free to make any of the acts permitted by your national copyright and re
      dcterms:hasVersion "1.0" ;
      dc:identifier "ic-ow-eu" .
 
-_:ic-ow a cc:License ;
+_:ic-ow a dcterms:RightsStatement ;
      dc:title "In Copyright - Orphan Works"@en ;
      skos:prefLabel "In Copyright - Orphan Works (IC-OW)"@en ;
      skos:editorialNote "Known it’s in copyright but can’t identify or locate the rights holder"@en ;
@@ -59,7 +59,7 @@ You are free to make any of the acts permitted by your national copyright and re
      dcterms:hasVersion "1.0" ;
      dc:identifier "ic-ow" .
 
-_:ic-edu a cc:License ;
+_:ic-edu a dcterms:RightsStatement ;
      dc:title: "In Copyright - Educational Use Only"@en ;
      skos:prefLabel "Copyright - Educational Use Only (IC-EDU)"@en ;
      skos:editorialNote "Where organisation has been allowed to authorise educational uses"@en ;
@@ -75,7 +75,7 @@ All other acts of reproduction and communication to the public are subject to th
      dcterms:hasVersion "1.0" ;
      dc:identifier "ic-edu" .
 
-_:ic-nc a cc:License ;
+_:ic-nc a dcterms:RightsStatement ;
      dc:title "In Copyright - Non Commercial Use Only"@en ;
      skos:prefLabel "In Copyright - Non Commercial Use Only (IC-NC)"@en ;
      skos:editorialNote "Where organisation has been allowed to authorise non commercial use"@en ;
@@ -92,7 +92,7 @@ All other acts of reproduction and communication to the public are subject to th
      dcterms:hasVersion "1.0" ;
      dc:identifier "ic-nc" .
 
-_:ic-permission a cc:License ;
+_:ic-permission a dcterms:RightsStatement ;
      dc:title "In Copyright - Permissive Uses Available"@en ;
      skos:prefLabel "In Copyright - Permissive Uses Available (IC-Permission)"@en ;
      skos:editorialNote "Additional permissions based on contract/donor restrictions"@en ;
@@ -107,7 +107,7 @@ All other acts of reproduction and communication to the public are subject to th
      dcterms:hasVersion "1.0" ;
      dc:identifier "ic-permission" .
 
-_:pd-nc a cc:License ;
+_:pd-nc a dcterms:RightsStatement ;
      dc:title "Public Domain - Non Commercial Use Only"@en ;
      skos:prefLabel "Public Domain - Non Commercial Use Only (PD-NC)"@en ;
      skos:editorialNote "Requires proof of contractual non-commercial restriction"@en ;
@@ -127,7 +127,7 @@ When using this digital object please respect Europeana's usage Guidelines for p
      dcterms:hasVersion "1.0" ;
      dc:identifier "pd-nc" .
 
-_:pd-contractual-restriction a cc:License ;
+_:pd-contractual-restriction a dcterms:RightsStatement ;
      dc:title "Public Domain - Other Contractual Restrictions Present"@en ;
      skos:prefLabel "Public Domain - Other Contractual Restrictions Present (PD-Contractual Restriction)"@en ;
      skos:editorialNote "Requires proof of contractual restriction.  Additional information could be provided by the data provider (ie via URL)"@en ;
@@ -144,7 +144,7 @@ When using this digital object please respect xxx guidelines."""@en ;
      dc:creator: "Digital Public Library of America and Europeana Rights Working Group" ;
      dc:identifier "pd-contractual-restriction" .
 
-_:pd-other a cc:License ;
+_:pd-other a dcterms:RightsStatement ;
      dc:title "Public Domain - Other Legal Restrictions"@en ;
      skos:prefLabel "Public Domain - Other Legal Restrictions (PD-Other Legal Restrictions)"@en ;
      skos:editorialNote "Requires proof of legal restriction.   Additional information could be provided by the data provider (ie via url)."@en ;
@@ -161,7 +161,7 @@ When using this digital object please respect xxx guidelines."""@en ;
      dc:creator: "Digital Public Library of America and Europeana Rights Working Group" ;
      dc:identifier "pd-other" .
 
-_:nkr a cc:License ;
+_:nkr a dcterms:RightsStatement ;
      dc:title "No Known Rights"@en ;
      skos:prefLabel "No Known Rights (NKR)"@en ;
      skos:editorialNote "Good faith effort but not confident enough to make a status assertion (probably PD)"@en ;
@@ -179,7 +179,7 @@ This statement should not be used without prior consultation with the ingestion 
      dc:creator: "Digital Public Library of America and Europeana Rights Working Group" ;
      dc:identifier "nkr" .
 
-_:und a cc:License ;
+_:und a dcterms:RightsStatement ;
      dc:title "Rights Undetermined"@en ;
      skos:prefLabel "Rights Undetermined (UND)"@en ;
      skos:editorialNote "Rights Status has not been investigated"@en ;
