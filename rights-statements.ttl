@@ -1,32 +1,199 @@
+@prefix cc: http://creativecommons.org/ns#
 @prefix dc: http://purl.org/dc/elements/1.1/
 @prefix dcmitype: http://purl.org/dc/dcmitype/
 @prefix dcterms: http://purl.org/dc/terms/
 @prefix edm: http://www.europeana.eu/schemas/edm/
+@prefix odrl: http://www.w3c.org/community/odrl/two/vocab/2.1/
 @prefix premiscopy: http://id.loc.gov/vocabulary/preservation/copyrightStatus/
 @prefix rdfs: http://www.w3.org/2000/01/rdf-schema#
+@prefix schema: http://schema.org/
 @prefix skos: http://www.w3.org/2004/02/skos/core#
 
 _:ic a dcterms:RightsStatement ;
-     skos:prefLabel "In Copyright (IC)" ;
-     skos:editorialNote "Equivalent to free access no reuse" ;
+     dc:title "In Copyright"@en ;
+     skos:prefLabel "In Copyright (IC)"@en ;
+     skos:editorialNote "Equivalent to free access no reuse"@en ;
      skos:closeMatch <http://www.europeana.eu/rights/rr-f/> ;
      skos:definition """This digital object is protected by copyright and/or related rights. This digital object is accessible without charge, but its use is subject to the licensing conditions set by the organization giving access to it.
 
 Unless expressly stated otherwise in the licensing conditions, you are free to make any of the acts permitted by your national copyright and related rights act, including browsing, printing and making a copy for your own personal purposes.
 
-All other acts of reproduction and communication to the public are subject to the licensing conditions attached to the digital object.""" ; 
-     skos:scopeNote "This rights statement is applicable when users have free (as in gratis), direct and full access to the digitised object. Access is granted subject to the licensing conditions described the on the data provider's website." ; 
-     skos:relatedMatch premiscopy:cpr . 
-     
-_:pd-contractual-restriction a dcterms:RightsStatement;
-     skos:prefLabel "Public Domain - Other Contractual Restrictions Present (PD-Contractual Restriction)" ;
-     skos:editorialNote "Requires proof of contractual restriction.  Additional information could be provided by the data provider (ie via URL)" ;
-     dcterms:modified "2014-12-18" ; 
-     skos:definition """This object is in the public domain. As part of the digitisation of this object, the parties have agreed to limit use of this object.  
+All other acts of reproduction and communication to the public are subject to the licensing conditions attached to the digital object."""@en ;
+     skos:scopeNote "This rights statement is applicable when users have free (as in gratis), direct and full access to the digitised object. Access is granted subject to the licensing conditions described the on the data provider's website."@en ;
+     skos:relatedMatch premiscopy:cpr ;
+     dcterms:hasVersion "1.0" ;
+     dc:creator: "Digital Public Library of America and Europeana Rights Working Group" ;
+     dc:identifier "ic" .
+
+_:ic-ow-eu a dcterms:RightsStatement ;
+     dc:title "In Copyright - Orphan Works - EU"@en ;
+     skos:prefLabel "In Copyright - Orphan Works - EU (IC-OW-EU)"@en ;
+     skos:editorialNote "For use with works that have been identified in line with EU Orphan Works directive"@en ;
+     dcterms:modified "2014-12-18" ;
+     skos:closeMatch <http://www.europeana.eu/rights/orphan-work-eu/> ;
+     skos:definition """This item has been identified by an eligible EU organisation as an orphan work in the country of first publication and in line Directive 2012/28/EU of the European Parliament and of the Council of 25 October 2012 on certain permitted uses of orphan works.
+
+For this item no rightholder(s) have been identified or, if one or more of them have been identified, none has been located despite a diligent search for the rightholders having been carried out.
+
+If you have information about the identity or the location of the rightholder(s), please contact the Data Provider.
+
+You are free to make any of the acts permitted by your national copyright and related rights act, including browsing, printing and making a copy for your own personal purposes."""@en ;
+     skos:scopeNote "The EU Orphan works statement can be applied by eligible EU organisations to objects that have been identified as orphan works in the country of first publication and in line with the requirements of the national law implementing Directive 2012/28/EU of the European Parliament and of the Council of 25 October 2012 on certain permitted uses of orphan works."@en ;
+     skos:relatedMatch premiscopy:cpr ;
+     dc:creator: "Digital Public Library of America and Europeana Rights Working Group" ;
+     dcterms:hasVersion "1.0" ;
+     dc:identifier "ic-ow-eu" .
+
+_:ic-ow a dcterms:RightsStatement ;
+     dc:title "In Copyright - Orphan Works"@en ;
+     skos:prefLabel "In Copyright - Orphan Works (IC-OW)"@en ;
+     skos:editorialNote "Known it’s in copyright but can’t identify or locate the rights holder"@en ;
+     dcterms:modified "2014-12-18" ;
+     skos:definition """For this item no rightholder(s) have been identified or, if one or more of them have been identified, none has been located despite a diligent search for the rightholder(s) having been carried out.
+
+If you have information about the identity or the location of the rightholder(s), please contact the Data Provider.
+
+You are free to make any of the acts permitted by your national copyright and related rights act, including browsing, printing and making a copy for your own personal purposes."""@en ;
+     skos:relatedMatch premiscopy:cpr ;
+     dc:creator: "Digital Public Library of America and Europeana Rights Working Group" ;
+     dcterms:hasVersion "1.0" ;
+     dc:identifier "ic-ow" .
+
+_:ic-edu a dcterms:RightsStatement ;
+     dc:title: "In Copyright - Educational Use Only"@en ;
+     skos:prefLabel "Copyright - Educational Use Only (IC-EDU)"@en ;
+     skos:editorialNote "Where organisation has been allowed to authorise educational uses"@en ;
+     dcterms:modified "2014-12-18" ;
+     skos:definition """This digital object is protected by copyright and/or related rights. This digital object is accessible without charge, but is available for educational use only.
+
+Unless expressly stated otherwise in the licensing conditions, you are free to make any of the acts permitted by your national copyright and related rights act, including browsing, printing and making a copy for your own personal purposes.
+
+All other acts of reproduction and communication to the public are subject to the licensing conditions attached to the digital object."""@en ;
+     odrl:purpose schema:educationalUse ;
+     skos:relatedMatch premiscopy:cpr ;
+     dc:creator: "Digital Public Library of America and Europeana Rights Working Group" ;
+     dcterms:hasVersion "1.0" ;
+     dc:identifier "ic-edu" .
+
+_:ic-nc a dcterms:RightsStatement ;
+     dc:title "In Copyright - Non Commercial Use Only"@en ;
+     skos:prefLabel "In Copyright - Non Commercial Use Only (IC-NC)"@en ;
+     skos:editorialNote "Where organisation has been allowed to authorise non commercial use"@en ;
+     dcterms:modified "2014-12-18" ;
+     skos:definition """This digital object is protected by copyright and/or related rights. This digital object is accessible without charge, but is available for non-commercial use only.
+
+Unless expressly stated otherwise in the licensing conditions, you are free to make any of the acts permitted by your national copyright and related rights act, including browsing, printing and making a copy for your own personal purposes.
+
+All other acts of reproduction and communication to the public are subject to the licensing conditions attached to the digital object."""@en ;
+     cc:prohibits cc:CommercialUse ;
+     skos:closeMatch <http://creativecommons.org/licenses/by-nc/4.0/> ;
+     skos:relatedMatch premiscopy:cpr ;
+     dc:creator: "Digital Public Library of America and Europeana Rights Working Group" ;
+     dcterms:hasVersion "1.0" ;
+     dc:identifier "ic-nc" .
+
+_:ic-permission a dcterms:RightsStatement ;
+     dc:title "In Copyright - Permissive Uses Available"@en ;
+     skos:prefLabel "In Copyright - Permissive Uses Available (IC-Permission)"@en ;
+     skos:editorialNote "Additional permissions based on contract/donor restrictions"@en ;
+     dcterms:modified "2014-12-18" ;
+     skos:definition """This digital object is protected by copyright and/or related rights. This digital object is accessible without charge, but its use is subject to the licensing conditions set by the organization giving access to it.
+
+Unless expressly stated otherwise in the licensing conditions, you are free to make any of the acts permitted by your national copyright and related rights act, including browsing, printing and making a copy for your own personal purposes.
+
+All other acts of reproduction and communication to the public are subject to the licensing conditions attached to the digital object."""@en ;
+     skos:relatedMatch premiscopy:cpr ;
+     dc:creator: "Digital Public Library of America and Europeana Rights Working Group" ;
+     dcterms:hasVersion "1.0" ;
+     dc:identifier "ic-permission" .
+
+_:pd-nc a dcterms:RightsStatement ;
+     dc:title "Public Domain - Non Commercial Use Only"@en ;
+     skos:prefLabel "Public Domain - Non Commercial Use Only (PD-NC)"@en ;
+     skos:editorialNote "Requires proof of contractual non-commercial restriction"@en ;
+     dcterms:modified "2014-12-18";
+     skos:definition: """This object has been digitized in a public-private partnership. As part of this partnership, the partners have agreed to limit commercial uses of this digital representation of the object by third parties.
+
+This object is in the public domain. As part of the acquisition or digitisation of this object, the contributing institution is contractually obligated to limit commercial use.
+
+You can, without permission, copy, modify, distribute, display, or perform the digital object, for non-commercial uses. For any other permissible uses, please review the terms and conditions of the Data Provider.
+
+In some jurisdictions moral rights of the author may persist beyond the term of copyright. These rights may include the right to be identified as the author and the right to object to derogatory treatments.
+
+When using this digital object please respect Europeana's usage Guidelines for public domain works."""@en ;
+     cc:prohibits cc:CommercialUse ;
+     skos:relatedMatch premiscopy:pub ;
+     dc:creator: "Digital Public Library of America and Europeana Rights Working Group" ;
+     dcterms:hasVersion "1.0" ;
+     dc:identifier "pd-nc" .
+
+_:pd-contractual-restriction a dcterms:RightsStatement ;
+     dc:title "Public Domain - Other Contractual Restrictions Present"@en ;
+     skos:prefLabel "Public Domain - Other Contractual Restrictions Present (PD-Contractual Restriction)"@en ;
+     skos:editorialNote "Requires proof of contractual restriction.  Additional information could be provided by the data provider (ie via URL)"@en ;
+     dcterms:modified "2014-12-18" ;
+     skos:definition """This object is in the public domain. As part of the digitisation of this object, the parties have agreed to limit use of this object.
 
 For permissible uses, please review the terms and conditions of the Data Provider.
 
 In some jurisdictions moral rights of the author may persist beyond the term of copyright. These rights may include the right to be identified as the author and the right to object to derogatory treatments.
 
-When using this digital object please respect xxx guidelines.""" ;
-     skos:relatedMatch premiscopy:pub . 
+When using this digital object please respect xxx guidelines."""@en ;
+     skos:relatedMatch premiscopy:pub ;
+     dcterms:hasVersion "1.0" ;
+     dc:creator: "Digital Public Library of America and Europeana Rights Working Group" ;
+     dc:identifier "pd-contractual-restriction" .
+
+_:pd-other a dcterms:RightsStatement ;
+     dc:title "Public Domain - Other Legal Restrictions"@en ;
+     skos:prefLabel "Public Domain - Other Legal Restrictions (PD-Other Legal Restrictions)"@en ;
+     skos:editorialNote "Requires proof of legal restriction.   Additional information could be provided by the data provider (ie via url)."@en ;
+     dcterms:modified "2014-12-18" ;
+     skos:definition """This object is in the public domain.  In one or more jurisdictions there are restrictions on how this object may be used.
+
+For permissible uses, please review the terms and conditions of the Data Provider.
+
+In some jurisdictions moral rights of the author may persist beyond the term of copyright. These rights may include the right to be identified as the author and the right to object to derogatory treatments.
+
+When using this digital object please respect xxx guidelines."""@en ;
+     skos:relatedMatch premiscopy:pub ;
+     dcterms:hasVersion "1.0" ;
+     dc:creator: "Digital Public Library of America and Europeana Rights Working Group" ;
+     dc:identifier "pd-other" .
+
+_:nkr a dcterms:RightsStatement ;
+     dc:title "No Known Rights"@en ;
+     skos:prefLabel "No Known Rights (NKR)"@en ;
+     skos:editorialNote "Good faith effort but not confident enough to make a status assertion (probably PD)"@en ;
+     dcterms:modified "2014-12-18" ;
+     skos:definition """No copyright or related rights are known to exist in this digital object. Please refer to the website of the Data Provider for additional information.
+
+In some jurisdictions moral rights of the author may persist beyond the term of copyright. These rights may include the right to be identified as the author and the right to object to derogatory treatments."""@en ;
+     skos:scopeNote """The No Known Rights statement can be applied to objects for which the Data Provider does not have conclusive information pertaining to the rights status of the digital object.
+
+This is intended for use where a diligent search has taken place.
+
+This statement should not be used without prior consultation with the ingestion team."""@en ;
+     skos:relatedMatch premiscopy:unk ;
+     dcterms:hasVersion "1.0" ;
+     dc:creator: "Digital Public Library of America and Europeana Rights Working Group" ;
+     dc:identifier "nkr" .
+
+_:und a dcterms:RightsStatement ;
+     dc:title "Rights Undetermined"@en ;
+     skos:prefLabel "Rights Undetermined (UND)"@en ;
+     skos:editorialNote "Rights Status has not been investigated"@en ;
+     dcterms:modified "2014-12-18" ;
+     skos:definition """The copyright and related rights status of this digital object is unknown. Please refer to the website of the Data Provider for additional information.
+
+You are free to make any of the acts permitted by your national copyright and related rights act, including browsing, printing and making a copy for your own personal purposes."""@en ;
+     skos:scopeNote """The Unknown rights statement can be applied to objects for which the Data Provider does not have conclusive information pertaining to the rights status of the digital object.
+
+This is intended for objects where a diligent search has not taken place, and which as a result cannot be labeled as an EU Orphan Works or equivalent.
+
+This statement should not be used without prior consultation with the ingestion team."""@en ;
+     skos:closeMatch <http://www.europeana.eu/rights/unknown/> ;
+     skos:related     skos:relatedMatch premiscopy:unk ;
+     dcterms:hasVersion "1.0" ;
+     dc:creator: "Digital Public Library of America and Europeana Rights Working Group" ;
+     dc:identifier "und" .
