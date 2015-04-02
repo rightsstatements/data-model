@@ -1,0 +1,5 @@
+before_install:
+  - sudo apt-get update -qq
+  - sudo apt-get install -y raptor2-utils
+script:
+  - rapper -q -i turtle rights-statements.ttl > /dev/null
