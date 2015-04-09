@@ -61,7 +61,13 @@ rsdotorg:ic-edu a dcterms:RightsStatement ;
      dcterms:modified "2014-12-18" ;
      skos:definition "This digital object is protected by copyright and/or related rights. For educational uses, no additional copyright permission is required from the copyright holder. Please refer to the Data Provider for additional information."@en ;
      # how to model "more information"?
-     odrl:purpose schema:educationalUse ;
+     odrl:permission [
+	odrl:action odrl:use ;
+	odrl:constraint [
+	   odrl:operator odrl:eq ;
+           odrl:purpose <http://rightsstatements.org/purpose/education>
+	   ]
+     ] ;
      skos:relatedMatch premiscopy:cpr ;
      dc:creator "Digital Public Library of America and Europeana Rights Working Group" ;
      dcterms:hasVersion "1.0" ;
