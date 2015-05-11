@@ -10,6 +10,31 @@
 @prefix schema: <http://schema.org/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
+rsdotorg:rscs a skos:ConceptScheme;
+  dcterms:title "RightsStatements.org Standardized International Rights Statements"@en ;
+  dc:creator "International Rights Statements Working Group"@en ;
+  dc:identifier "rscs" .
+
+_:b0 a skos:Collection ;
+   skos:prefLabel "in-copyright statements"@en ;
+   skos:member rsdotorg:ic ;
+   skos:member rsdotorg:ic-ow-eu ;
+   skos:member rsdotorg:ic-couu ;
+   skos:member rsdotorg:ic-edu ;
+   skos:member rsdotorg:ic-nc ;
+   skos:member rsdotorg:ic-permission .
+
+_:b1 a skos:Collection ;
+   skos:prefLabel "public domain statements"@en ;
+   skos:member rsdotorg:pd-nc ;
+   skos:member rsdotorg:pd-contractual-restriction ;
+   skos:member rsdotorg:pd-other-legal-restrictions .
+
+_:b2 a skos:Collection ;
+   skos:prefLabel "undetermined statements"@en ;
+   skos:member rsdotorg:nkr ;
+   skos:member rsdotorg:und .
+
 rsdotorg:ic a dcterms:RightsStatement ;
      skos:prefLabel "In Copyright"@en ;
      dcterms:modified "2015-05-11" ;
@@ -18,7 +43,8 @@ rsdotorg:ic a dcterms:RightsStatement ;
      skos:relatedMatch premiscopy:cpr ;
      dcterms:hasVersion "1.0" ;
      dc:creator "Digital Public Library of America and Europeana Rights Working Group" ;
-     dc:identifier "ic" .
+     dc:identifier "ic" ;
+     skos:inScheme rsdotorg:rscs .
 
 rsdotorg:ic-ow-eu a dcterms:RightsStatement ;
      skos:prefLabel "In Copyright - Orphan Works - EU"@en ;
@@ -28,16 +54,18 @@ rsdotorg:ic-ow-eu a dcterms:RightsStatement ;
      skos:relatedMatch premiscopy:cpr ;
      dc:creator "Digital Public Library of America and Europeana Rights Working Group" ;
      dcterms:hasVersion "1.0" ;
-     dc:identifier "ic-ow-eu" .
+     dc:identifier "ic-ow-eu" ;
+     skos:inScheme rsdotorg:rscs .
 
-rsdotorg:ic-ow a dcterms:RightsStatement ;
+rsdotorg:ic-couu a dcterms:RightsStatement ;
      skos:prefLabel "In Copyright - Copyright Owner Unlocatable or Unidentifiable"@en ;
      dcterms:modified "2015-05-11" ;
      skos:definition "Indicates that the work labeled with this rights statement has been identified as in copyright, but whose owner either cannot be identified or cannot be located."@en ;
      skos:relatedMatch premiscopy:cpr ;
      dc:creator "Digital Public Library of America and Europeana Rights Working Group" ;
      dcterms:hasVersion "1.0" ;
-     dc:identifier "ic-couu" .
+     dc:identifier "ic-couu" ;
+     skos:inScheme rsdotorg:rscs .
 
 rsdotorg:ic-edu a dcterms:RightsStatement ;
      skos:prefLabel "Copyright - Educational Use Only"@en ;
@@ -53,7 +81,8 @@ rsdotorg:ic-edu a dcterms:RightsStatement ;
      skos:relatedMatch premiscopy:cpr ;
      dc:creator "Digital Public Library of America and Europeana Rights Working Group" ;
      dcterms:hasVersion "1.0" ;
-     dc:identifier "ic-edu" .
+     dc:identifier "ic-edu" ;
+     skos:inScheme rsdotorg:rscs .
 
 rsdotorg:ic-nc a dcterms:RightsStatement ;
      skos:prefLabel "In Copyright - Non-Commercial Use Only"@en ;
@@ -64,7 +93,8 @@ rsdotorg:ic-nc a dcterms:RightsStatement ;
      skos:relatedMatch premiscopy:cpr ;
      dc:creator "Digital Public Library of America and Europeana Rights Working Group" ;
      dcterms:hasVersion "1.0" ;
-     dc:identifier "ic-nc" .
+     dc:identifier "ic-nc" ;
+     skos:inScheme rsdotorg:rscs .
 
 rsdotorg:ic-permission a dcterms:RightsStatement ;
      skos:prefLabel "In Copyright - Permissive Uses Available"@en ;
@@ -73,7 +103,8 @@ rsdotorg:ic-permission a dcterms:RightsStatement ;
      skos:relatedMatch premiscopy:cpr ;
      dc:creator "Digital Public Library of America and Europeana Rights Working Group" ;
      dcterms:hasVersion "1.0" ;
-     dc:identifier "ic-permission" .
+     dc:identifier "ic-permission" ;
+     skos:inScheme rsdotorg:rscs .
 
 rsdotorg:pd-nc a dcterms:RightsStatement ;
      skos:prefLabel "Public Domain - Non-Commercial Use Only"@en ;
@@ -83,7 +114,8 @@ rsdotorg:pd-nc a dcterms:RightsStatement ;
      skos:relatedMatch premiscopy:pub ;
      dc:creator "Digital Public Library of America and Europeana Rights Working Group" ;
      dcterms:hasVersion "1.0" ;
-     dc:identifier "pd-nc" .
+     dc:identifier "pd-nc" ;
+     skos:inScheme rsdotorg:rscs .
 
 rsdotorg:pd-contractual-restriction a dcterms:RightsStatement ;
      skos:prefLabel "Public Domain - Contractual Restrictions Present"@en ;
@@ -92,16 +124,18 @@ rsdotorg:pd-contractual-restriction a dcterms:RightsStatement ;
      skos:relatedMatch premiscopy:pub ;
      dcterms:hasVersion "1.0" ;
      dc:creator "Digital Public Library of America and Europeana Rights Working Group" ;
-     dc:identifier "pd-contractual-restriction" .
+     dc:identifier "pd-contractual-restriction" ;
+     skos:inScheme rsdotorg:rscs .
 
-rsdotorg:pd-other a dcterms:RightsStatement ;
+rsdotorg:pd-other-legal-restrictions a dcterms:RightsStatement ;
      skos:prefLabel "Public Domain - Other Legal Restrictions"@en ;
      dcterms:modified "2015-05-11" ;
      skos:definition "Indicates that the work is in the public domain, but that laws other than copyright impose restrictions on the use of the object by third parties."@en ;
      skos:relatedMatch premiscopy:pub ;
      dcterms:hasVersion "1.0" ;
      dc:creator "Digital Public Library of America and Europeana Rights Working Group" ;
-     dc:identifier "pd-other-legal-restrictions" .
+     dc:identifier "pd-other-legal-restrictions" ;
+     skos:inScheme rsdotorg:rscs .
 
 rsdotorg:nkr a dcterms:RightsStatement ;
      skos:prefLabel "No Known Rights"@en ;
@@ -110,7 +144,8 @@ rsdotorg:nkr a dcterms:RightsStatement ;
      skos:relatedMatch premiscopy:unk ;
      dcterms:hasVersion "1.0" ;
      dc:creator "Digital Public Library of America and Europeana Rights Working Group" ;
-     dc:identifier "nkr" .
+     dc:identifier "nkr" ;
+     skos:inScheme rsdotorg:rscs .
 
 rsdotorg:und a dcterms:RightsStatement ;
      skos:prefLabel "Rights Undetermined"@en ;
@@ -120,4 +155,5 @@ rsdotorg:und a dcterms:RightsStatement ;
      skos:relatedMatch premiscopy:unk ;
      dcterms:hasVersion "1.0" ;
      dc:creator "Digital Public Library of America and Europeana Rights Working Group" ;
-     dc:identifier "und" .
+     dc:identifier "und" ;
+     skos:inScheme rsdotorg:rscs .
