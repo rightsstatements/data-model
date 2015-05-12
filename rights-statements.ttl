@@ -12,7 +12,7 @@
 
 rsdotorg:ic a dcterms:RightsStatement ;
 
-     skos:prefLabel "In Copyright (IC)"@en ;
+     skos:prefLabel "In Copyright"@en ;
      skos:closeMatch <http://www.europeana.eu/rights/rr-f/> ;
      skos:definition "This digital object is protected by copyright and/or related rights. Use of this digital object is subject to the licensing conditions set by the rightsholder and/or organization giving access to it."@en ;
      # how to model "more information"?
@@ -25,7 +25,7 @@ rsdotorg:ic a dcterms:RightsStatement ;
 
 rsdotorg:ic-ow-eu a dcterms:RightsStatement ;
 
-     skos:prefLabel "In Copyright - Orphan Works - EU (IC-OW-EU)"@en ;
+     skos:prefLabel "In Copyright - Orphan Works - EU"@en ;
      dcterms:modified "2014-12-18" ;
      skos:closeMatch <http://www.europeana.eu/rights/orphan-work-eu/> ;
      skos:definition """This item has been identified by an eligible EU organisation as an orphan work in the country of first publication and consistent with Directive 2012/28/EU of the European Parliament and of the Council of 25 October 2012 on certain permitted uses of orphan works.
@@ -43,7 +43,7 @@ If you have information about the identity or the location of the rightholder(s)
 
 rsdotorg:ic-ow a dcterms:RightsStatement ;
 
-     skos:prefLabel "In Copyright - Orphan Works (IC-OW)"@en ;
+     skos:prefLabel "In Copyright - Orphan Works"@en ;
      dcterms:modified "2014-12-18" ;
      skos:definition """This item has been identified by as an orphan work, which means that either no rightsholder(s) have been identified, or, if one or more of them have been identified, none has been located despite a diligent search for the rightholders having been carried out.
 
@@ -57,7 +57,7 @@ If you have information about the identity or the location of the rightholder(s)
 
 rsdotorg:ic-edu a dcterms:RightsStatement ;
 
-     skos:prefLabel "Copyright - Educational Use Only (IC-EDU)"@en ;
+     skos:prefLabel "Copyright - Educational Use Only"@en ;
      dcterms:modified "2014-12-18" ;
      skos:definition "This digital object is protected by copyright and/or related rights. For educational uses, no additional copyright permission is required from the copyright holder. Please refer to the Data Provider for additional information."@en ;
      # how to model "more information"?
@@ -75,7 +75,7 @@ rsdotorg:ic-edu a dcterms:RightsStatement ;
 
 rsdotorg:ic-nc a dcterms:RightsStatement ;
 
-     skos:prefLabel "In Copyright - Non Commercial Use Only (IC-NC)"@en ;
+     skos:prefLabel "In Copyright - Non Commercial Use Only"@en ;
      dcterms:modified "2014-12-18" ;
      skos:definition "This digital object is protected by copyright and/or related rights. For noncommercial uses, no additional copyright permission is required from the copyright holder. Please refer to the Data Provider for additional information."@en ;
      # how to model "more information"?
@@ -88,7 +88,7 @@ rsdotorg:ic-nc a dcterms:RightsStatement ;
 
 rsdotorg:ic-permission a dcterms:RightsStatement ;
 
-     skos:prefLabel "In Copyright - Permissive Uses Available (IC-Permission)"@en ;
+     skos:prefLabel "In Copyright - Permissive Uses Available"@en ;
      dcterms:modified "2014-12-18" ;
      skos:definition "This digital object is protected by copyright and/or related rights. The copyright holder has made this object available subject to a license or waiver of rights that permits users to make certain uses without securing additional copyright clearance from the rightsholder (e.g., Creative Commons licenses). For more information about the permissive terms this object is subject to, please refer to Data Provider."@en ;
      # how to model "more information"?
@@ -99,7 +99,7 @@ rsdotorg:ic-permission a dcterms:RightsStatement ;
 
 rsdotorg:pd-nc a dcterms:RightsStatement ;
 
-     skos:prefLabel "Public Domain - Non Commercial Use Only (PD-NC)"@en ;
+     skos:prefLabel "Public Domain - Non Commercial Use Only"@en ;
      dcterms:modified "2014-12-18";
      skos:definition """This object is in the public domain. As part of the acquisition or digitization of this object, the contributing institution is contractually obligated to limit commercial uses.
 
@@ -124,7 +124,7 @@ rsdotorg:pd-contractual-restriction a dcterms:RightsStatement ;
 
 rsdotorg:pd-other a dcterms:RightsStatement ;
 
-     skos:prefLabel "Public Domain - Other Legal Restrictions (PD-Other Legal Restrictions)"@en ;
+     skos:prefLabel "Public Domain - Other Legal Restrictions"@en ;
      dcterms:modified "2014-12-18" ;
      skos:definition "This object is in the public domain, but in one or more jurisdictions, laws impose restrictions on the use of this object. Please refer to the Data Provider for additional information."@en ;
      # how to model "more information"?
@@ -148,7 +148,7 @@ rsdotorg:pd-other a dcterms:RightsStatement ;
 
 rsdotorg:nkr a dcterms:RightsStatement ;
 
-     skos:prefLabel "No Known Rights (NKR)"@en ;
+     skos:prefLabel "No Known Rights"@en ;
      dcterms:modified "2014-12-18" ;
      skos:definition "The Data Provider believes that no copyright or related rights are known to exist in this digital object, but conclusive facts may be missing or ambiguous. Please refer to the Data Provider for additional information."@en ;
      # how to model "more information"?
@@ -165,7 +165,7 @@ This statement should not be used without prior consultation with the ingestion 
 
 rsdotorg:und a dcterms:RightsStatement ;
 
-     skos:prefLabel "Rights Undetermined (UND)"@en ;
+     skos:prefLabel "Rights Undetermined"@en ;
      dcterms:modified "2014-12-18" ;
      skos:definition "The copyright and related rights status of this digital object is unknown. Please refer to the Data Provider for additional information."@en ;
      # how to model "more information"?
