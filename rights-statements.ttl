@@ -15,9 +15,6 @@ rsdotorg:ic a dcterms:RightsStatement ;
      skos:prefLabel "In Copyright"@en ;
      skos:closeMatch <http://www.europeana.eu/rights/rr-f/> ;
      skos:definition "This digital object is protected by copyright and/or related rights. Use of this digital object is subject to the licensing conditions set by the rightsholder and/or organization giving access to it."@en ;
-     # how to model "more information"?
-     # keep / rewrite scopeNote?
-     skos:scopeNote "This rights statement is applicable when users have free (as in gratis), direct and full access to the digitised object. Access is granted subject to the licensing conditions described the on the data provider's website."@en ;
      skos:relatedMatch premiscopy:cpr ;
      dcterms:hasVersion "1.0" ;
      dc:creator "Digital Public Library of America and Europeana Rights Working Group" ;
@@ -33,9 +30,6 @@ rsdotorg:ic-ow-eu a dcterms:RightsStatement ;
 For this item no rightholder(s) have been identified or, if one or more of them have been identified, none has been located despite a diligent search for the rightholders having been carried out.
 
 If you have information about the identity or the location of the rightholder(s), please contact the Data Provider."""@en ;
-     # how to model "more information"?
-     # keep / rewrite scopeNote?
-     skos:scopeNote "The EU Orphan works statement can be applied by eligible EU organisations to objects that have been identified as orphan works in the country of first publication and in line with the requirements of the national law implementing Directive 2012/28/EU of the European Parliament and of the Council of 25 October 2012 on certain permitted uses of orphan works."@en ;
      skos:relatedMatch premiscopy:cpr ;
      dc:creator "Digital Public Library of America and Europeana Rights Working Group" ;
      dcterms:hasVersion "1.0" ;
@@ -48,8 +42,6 @@ rsdotorg:ic-ow a dcterms:RightsStatement ;
      skos:definition """This item has been identified by as an orphan work, which means that either no rightsholder(s) have been identified, or, if one or more of them have been identified, none has been located despite a diligent search for the rightholders having been carried out.
 
 If you have information about the identity or the location of the rightholder(s), please contact the Data Provider."""@en ;
-     # how to model "more information"?
-     # scopeNote should state that this is eligible to be used in US
      skos:relatedMatch premiscopy:cpr ;
      dc:creator "Digital Public Library of America and Europeana Rights Working Group" ;
      dcterms:hasVersion "1.0" ;
@@ -60,7 +52,6 @@ rsdotorg:ic-edu a dcterms:RightsStatement ;
      skos:prefLabel "Copyright - Educational Use Only"@en ;
      dcterms:modified "2014-12-18" ;
      skos:definition "This digital object is protected by copyright and/or related rights. For educational uses, no additional copyright permission is required from the copyright holder. Please refer to the Data Provider for additional information."@en ;
-     # how to model "more information"?
      odrl:permission [
 	odrl:action odrl:use ;
 	odrl:constraint [
@@ -78,7 +69,7 @@ rsdotorg:ic-nc a dcterms:RightsStatement ;
      skos:prefLabel "In Copyright - Non Commercial Use Only"@en ;
      dcterms:modified "2014-12-18" ;
      skos:definition "This digital object is protected by copyright and/or related rights. For noncommercial uses, no additional copyright permission is required from the copyright holder. Please refer to the Data Provider for additional information."@en ;
-     # how to model "more information"?
+
      cc:prohibits cc:CommercialUse ;
      skos:closeMatch <http://creativecommons.org/licenses/by-nc/4.0/> ;
      skos:relatedMatch premiscopy:cpr ;
@@ -91,7 +82,6 @@ rsdotorg:ic-permission a dcterms:RightsStatement ;
      skos:prefLabel "In Copyright - Permissive Uses Available"@en ;
      dcterms:modified "2014-12-18" ;
      skos:definition "This digital object is protected by copyright and/or related rights. The copyright holder has made this object available subject to a license or waiver of rights that permits users to make certain uses without securing additional copyright clearance from the rightsholder (e.g., Creative Commons licenses). For more information about the permissive terms this object is subject to, please refer to Data Provider."@en ;
-     # how to model "more information"?
      skos:relatedMatch premiscopy:cpr ;
      dc:creator "Digital Public Library of America and Europeana Rights Working Group" ;
      dcterms:hasVersion "1.0" ;
@@ -104,7 +94,6 @@ rsdotorg:pd-nc a dcterms:RightsStatement ;
      skos:definition """This object is in the public domain. As part of the acquisition or digitization of this object, the contributing institution is contractually obligated to limit commercial uses.
 
 You can, without permission, copy, modify, distribute, display, or perform the digital object, for non-commercial uses. For any other permissible uses, please review the terms and conditions of the Data Provider."""@en ;
-     # how to model "more information"?
      cc:prohibits cc:CommercialUse ;
      skos:relatedMatch premiscopy:pub ;
      dc:creator "Digital Public Library of America and Europeana Rights Working Group" ;
@@ -116,7 +105,6 @@ rsdotorg:pd-contractual-restriction a dcterms:RightsStatement ;
      skos:prefLabel "Public Domain - Other Contractual Restrictions Present (PD-Contractual Restriction)"@en ;
      dcterms:modified "2014-12-18" ;
      skos:definition "This object is in the public domain. As part of the acquisition or digitisation of this object, the contributing institution is contractually obligated to limit the use of this object. Limitations may be due to privacy issues, cultural protections, or donor agreements. Please refer to the Data Provider for additional information."@en ;
-     # how to model "more information"?
      skos:relatedMatch premiscopy:pub ;
      dcterms:hasVersion "1.0" ;
      dc:creator "Digital Public Library of America and Europeana Rights Working Group" ;
@@ -127,7 +115,6 @@ rsdotorg:pd-other a dcterms:RightsStatement ;
      skos:prefLabel "Public Domain - Other Legal Restrictions"@en ;
      dcterms:modified "2014-12-18" ;
      skos:definition "This object is in the public domain, but in one or more jurisdictions, laws impose restrictions on the use of this object. Please refer to the Data Provider for additional information."@en ;
-     # how to model "more information"?
      skos:relatedMatch premiscopy:pub ;
      dcterms:hasVersion "1.0" ;
      dc:creator "Digital Public Library of America and Europeana Rights Working Group" ;
@@ -151,13 +138,6 @@ rsdotorg:nkr a dcterms:RightsStatement ;
      skos:prefLabel "No Known Rights"@en ;
      dcterms:modified "2014-12-18" ;
      skos:definition "The Data Provider believes that no copyright or related rights are known to exist in this digital object, but conclusive facts may be missing or ambiguous. Please refer to the Data Provider for additional information."@en ;
-     # how to model "more information"?
-     # keep / rewrite scopeNote?
-     skos:scopeNote """The No Known Rights statement can be applied to objects for which the Data Provider does not have conclusive information pertaining to the rights status of the digital object.
-
-This is intended for use where a diligent search has taken place.
-
-This statement should not be used without prior consultation with the ingestion team."""@en ;
      skos:relatedMatch premiscopy:unk ;
      dcterms:hasVersion "1.0" ;
      dc:creator "Digital Public Library of America and Europeana Rights Working Group" ;
@@ -168,13 +148,6 @@ rsdotorg:und a dcterms:RightsStatement ;
      skos:prefLabel "Rights Undetermined"@en ;
      dcterms:modified "2014-12-18" ;
      skos:definition "The copyright and related rights status of this digital object is unknown. Please refer to the Data Provider for additional information."@en ;
-     # how to model "more information"?
-     # keep / rewrite scopeNote?
-     skos:scopeNote """The No Known Rights statement can be applied to objects for which the Data Provider does not have conclusive information pertaining to the rights status of the digital object.
-
-This is intended for use where a diligent search has taken place.
-
-This statement should not be used without prior consultation with the ingestion team."""@en ;
      skos:closeMatch <http://www.europeana.eu/rights/unknown/> ;
      skos:relatedMatch premiscopy:unk ;
      dcterms:hasVersion "1.0" ;
