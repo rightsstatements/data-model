@@ -110,19 +110,6 @@ rsdotorg:pd-other a dcterms:RightsStatement ;
      dc:creator "Digital Public Library of America and Europeana Rights Working Group" ;
      dc:identifier "pd-other" .
 
-# REQUIRES DISCUSSION AND AWAITING INFORMATION FROM CREATIVE COMMONS
-#
-# rsdotorg:pd-jxd a dcterms:RightsStatement ;
-
-#     skos:prefLabel "This object has been identified as being free of known restrictions under the Data Provider's copyright law, including all related and neighboring rights. The object may not be free of known copyright restrictions in all jurisdictions."@en ;
-#     dcterms:modified "2014-12-18" ;
-#     skos:definition "This object is in the public domain, but in one or more jurisdictions, laws impose restrictions on the use of this object. Please refer to the Data Provider for additional information."@en ;
-#     # how to model "more information"?
-#     skos:relatedMatch premiscopy:pub ;
-#     dcterms:hasVersion "1.0" ;
-#     dc:creator "Digital Public Library of America and Europeana Rights Working Group" ;
-#     dc:identifier "pd-jxd" .
-
 rsdotorg:nkr a dcterms:RightsStatement ;
      skos:prefLabel "No Known Rights"@en ;
      dcterms:modified "2014-12-18" ;
