@@ -4,7 +4,9 @@
 @prefix dcmitype: <http://purl.org/dc/dcmitype/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix edm: <http://www.europeana.eu/schemas/edm/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1> .
 @prefix odrl: <http://www.w3c.org/community/odrl/two/vocab/2.1/> .
+@prefix p3p: <http://www.w3.org/2002/01/p3prdfv1#> .
 @prefix premiscopy: <http://id.loc.gov/vocabulary/preservation/copyrightStatus/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix schema: <http://schema.org/> .
@@ -14,8 +16,19 @@
 
 <> a skos:ConceptScheme ;
   dcterms:title "RightsStatements.org Standardized International Rights Statements"@en ;
-  dc:creator "International Rights Statements Working Group"@en ;
+  dcterms:creator <irswg> ;
   dc:identifier "rscs" .
+
+# Specific non-rights statement entities/concepts we need to define
+
+<educationalUse> a skos:Concept ;
+  skos:prefLabel "educational use"@en .
+  # <educationalUse> skos:closeMatch p3p:education .
+
+<irswg> a edm:Agent, foaf:Group ;
+  foaf:name "International Rights Statements Working Group"@en ;
+  skos:prefLabel "International Rights Statements Working Group"@en ;
+  foaf:homepage <http://rightsstatements.org/> .
 
 # Information about the three "collections" of statements
 
@@ -48,7 +61,7 @@
      skos:definition "Indicates that the work labeled with this rights statement is in copyright (no intention or ability to license)."@en ;
      skos:relatedMatch premiscopy:cpr ;
      dcterms:hasVersion "1.0" ;
-     dc:creator "Digital Public Library of America and Europeana Rights Working Group" ;
+     dcterms:creator <irswg> ;
      dc:identifier "ic" ;
      skos:inScheme <> .
 
@@ -58,7 +71,7 @@
      skos:closeMatch <http://www.europeana.eu/rights/orphan-work-eu/> ;
      skos:definition "Indicates that the work labeled with this rights statement has been identified as an orphan work under the terms of the EU Orphan works directive."@en ;
      skos:relatedMatch premiscopy:cpr ;
-     dc:creator "Digital Public Library of America and Europeana Rights Working Group" ;
+     dcterms:creator <irswg> ;
      dcterms:hasVersion "1.0" ;
      dc:identifier "ic-ow-eu" ;
      skos:inScheme <> .
@@ -68,7 +81,7 @@
      dcterms:modified "2015-05-11" ;
      skos:definition "Indicates that the work labeled with this rights statement has been identified as in copyright, but whose owner either cannot be identified or cannot be located."@en ;
      skos:relatedMatch premiscopy:cpr ;
-     dc:creator "Digital Public Library of America and Europeana Rights Working Group" ;
+     dcterms:creator <irswg> ;
      dcterms:hasVersion "1.0" ;
      dc:identifier "ic-couu" ;
      skos:inScheme <> .
@@ -85,7 +98,7 @@
 	   ]
      ] ;
      skos:relatedMatch premiscopy:cpr ;
-     dc:creator "Digital Public Library of America and Europeana Rights Working Group" ;
+     dcterms:creator <irswg> ;
      dcterms:hasVersion "1.0" ;
      dc:identifier "ic-edu" ;
      skos:inScheme <> .
@@ -97,7 +110,7 @@
      cc:prohibits cc:CommercialUse ;
      skos:closeMatch <http://creativecommons.org/licenses/by-nc/4.0/> ;
      skos:relatedMatch premiscopy:cpr ;
-     dc:creator "Digital Public Library of America and Europeana Rights Working Group" ;
+     dcterms:creator <irswg> ;
      dcterms:hasVersion "1.0" ;
      dc:identifier "ic-nc" ;
      skos:inScheme <> .
@@ -107,7 +120,7 @@
      dcterms:modified "2015-05-11" ;
      skos:definition "Indicates that the work labeled with this rights statement is in copyright and that the organization that has published the work is willing to grant licenses for use by third parties."@en ;
      skos:relatedMatch premiscopy:cpr ;
-     dc:creator "Digital Public Library of America and Europeana Rights Working Group" ;
+     dcterms:creator <irswg> ;
      dcterms:hasVersion "1.0" ;
      dc:identifier "ic-permission" ;
      skos:inScheme <> .
@@ -118,7 +131,7 @@
      skos:definition "Indicates that the work is in the public domain, but   the organization that has published the work is contractually required to only allow non-commercial use by third parties."@en ;
      cc:prohibits cc:CommercialUse ;
      skos:relatedMatch premiscopy:pub ;
-     dc:creator "Digital Public Library of America and Europeana Rights Working Group" ;
+     dcterms:creator <irswg> ;
      dcterms:hasVersion "1.0" ;
      dc:identifier "pd-nc" ;
      skos:inScheme <> .
@@ -129,7 +142,7 @@
      skos:definition "Indicates that the work is in the public domain, but that the organization that has published the work is contractually required to restrict certain forms of use by third parties."@en ;
      skos:relatedMatch premiscopy:pub ;
      dcterms:hasVersion "1.0" ;
-     dc:creator "Digital Public Library of America and Europeana Rights Working Group" ;
+     dcterms:creator <irswg> ;
      dc:identifier "pd-contractual-restriction" ;
      skos:inScheme <> .
 
@@ -139,7 +152,7 @@
      skos:definition "Indicates that the work is in the public domain, but that laws other than copyright impose restrictions on the use of the object by third parties."@en ;
      skos:relatedMatch premiscopy:pub ;
      dcterms:hasVersion "1.0" ;
-     dc:creator "Digital Public Library of America and Europeana Rights Working Group" ;
+     dcterms:creator <irswg> ;
      dc:identifier "pd-other-legal-restrictions" ;
      skos:inScheme <> .
 
@@ -149,7 +162,7 @@
      skos:definition "Indicates that the data provider believes that no copyright or related rights are known to exist for this work, but conclusive facts may be missing or ambiguous."@en ;
      skos:relatedMatch premiscopy:unk ;
      dcterms:hasVersion "1.0" ;
-     dc:creator "Digital Public Library of America and Europeana Rights Working Group" ;
+     dcterms:creator <irswg> ;
      dc:identifier "nkr" ;
      skos:inScheme <> .
 
@@ -160,6 +173,6 @@
      skos:closeMatch <http://www.europeana.eu/rights/unknown/> ;
      skos:relatedMatch premiscopy:unk ;
      dcterms:hasVersion "1.0" ;
-     dc:creator "Digital Public Library of America and Europeana Rights Working Group" ;
+     dcterms:creator <irswg> ;
      dc:identifier "und" ;
      skos:inScheme <> .
