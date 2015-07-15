@@ -1,123 +1,178 @@
+@base <http://rightsstatements.org/vocab/0.0/> .
 @prefix cc: <http://creativecommons.org/ns#> .
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix dcmitype: <http://purl.org/dc/dcmitype/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix edm: <http://www.europeana.eu/schemas/edm/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1> .
 @prefix odrl: <http://www.w3c.org/community/odrl/two/vocab/2.1/> .
+@prefix p3p: <http://www.w3.org/2002/01/p3prdfv1#> .
 @prefix premiscopy: <http://id.loc.gov/vocabulary/preservation/copyrightStatus/> .
-@prefix rsdotorg: <http://rightsstatements.org/vocab/path/tba/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix schema: <http://schema.org/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-rsdotorg:ic a dcterms:RightsStatement ;
-     skos:prefLabel "In Copyright"@en ;
-     dcterms:modified "2015-05-11" ;
-     skos:closeMatch <http://www.europeana.eu/rights/rr-f/> ;
-     skos:definition "Indicates that the work labeled with this rights statement is in copyright (no intention or ability to license)."@en ;
-     skos:relatedMatch premiscopy:cpr ;
-     dcterms:hasVersion "1.0" ;
-     dc:creator "Digital Public Library of America and Europeana Rights Working Group" ;
-     dc:identifier "ic" .
+# Metadata about the vocabulary itself
 
-rsdotorg:ic-ow-eu a dcterms:RightsStatement ;
-     skos:prefLabel "In Copyright - Orphan Works - EU"@en ;
-     dcterms:modified "2015-05-11" ;
-     skos:closeMatch <http://www.europeana.eu/rights/orphan-work-eu/> ;
-     skos:definition "Indicates that the work labeled with this rights statement has been identified as an orphan work under the terms of the EU Orphan works directive."@en ;
-     skos:relatedMatch premiscopy:cpr ;
-     dc:creator "Digital Public Library of America and Europeana Rights Working Group" ;
-     dcterms:hasVersion "1.0" ;
-     dc:identifier "ic-ow-eu" .
+<> a skos:ConceptScheme ;
+  dcterms:title "RightsStatements.org Standardized International Rights Statements"@en ;
+  dcterms:creator <irswg> ;
+  dc:identifier "rscs" .
 
-rsdotorg:ic-ow a dcterms:RightsStatement ;
-     skos:prefLabel "In Copyright - Copyright Owner Unlocatable or Unidentifiable"@en ;
-     dcterms:modified "2015-05-11" ;
-     skos:definition "Indicates that the work labeled with this rights statement has been identified as in copyright, but whose owner either cannot be identified or cannot be located."@en ;
-     skos:relatedMatch premiscopy:cpr ;
-     dc:creator "Digital Public Library of America and Europeana Rights Working Group" ;
-     dcterms:hasVersion "1.0" ;
-     dc:identifier "ic-couu" .
+# Specific non-rights statement entities/concepts we need to define
 
-rsdotorg:ic-edu a dcterms:RightsStatement ;
-     skos:prefLabel "Copyright - Educational Use Only"@en ;
-     dcterms:modified "2015-05-11" ;
-     skos:definition "Indicates that the work labeled with this rights statement is in copyright but that educational use is allowed without the need to obtain additional permission."@en ;
-     odrl:permission [
-	odrl:action odrl:use ;
-	odrl:constraint [
-	   odrl:operator odrl:eq ;
-           odrl:purpose <http://rightsstatements.org/purpose/education>
-	   ]
-     ] ;
-     skos:relatedMatch premiscopy:cpr ;
-     dc:creator "Digital Public Library of America and Europeana Rights Working Group" ;
-     dcterms:hasVersion "1.0" ;
-     dc:identifier "ic-edu" .
+<educationalUse> a skos:Concept ;
+  skos:prefLabel "educational use"@en .
+  # <educationalUse> skos:closeMatch p3p:education .
 
-rsdotorg:ic-nc a dcterms:RightsStatement ;
-     skos:prefLabel "In Copyright - Non-Commercial Use Only"@en ;
-     dcterms:modified "2015-05-11" ;
-     skos:definition "Indicates that the work labeled with this rights statement is in copyright but that non-commercial use is allowed without the need to obtain additional permission."@en ;
-     cc:prohibits cc:CommercialUse ;
-     skos:closeMatch <http://creativecommons.org/licenses/by-nc/4.0/> ;
-     skos:relatedMatch premiscopy:cpr ;
-     dc:creator "Digital Public Library of America and Europeana Rights Working Group" ;
-     dcterms:hasVersion "1.0" ;
-     dc:identifier "ic-nc" .
+<irswg> a edm:Agent, foaf:Group ;
+  foaf:name "International Rights Statements Working Group"@en ;
+  skos:prefLabel "International Rights Statements Working Group"@en ;
+  foaf:homepage <http://rightsstatements.org/> .
 
-rsdotorg:ic-permission a dcterms:RightsStatement ;
-     skos:prefLabel "In Copyright - Permissive Uses Available"@en ;
-     dcterms:modified "2015-05-11" ;
-     skos:definition "Indicates that the work labeled with this rights statement is in copyright and that the organization that has published the work is willing to grant licenses for use by third parties."@en ;
-     skos:relatedMatch premiscopy:cpr ;
-     dc:creator "Digital Public Library of America and Europeana Rights Working Group" ;
-     dcterms:hasVersion "1.0" ;
-     dc:identifier "ic-permission" .
+# Information about the three "collections" of statements
 
-rsdotorg:pd-nc a dcterms:RightsStatement ;
-     skos:prefLabel "Public Domain - Non-Commercial Use Only"@en ;
-     dcterms:modified "2015-05-11";
-     skos:definition "Indicates that the work is in the public domain, but   the organization that has published the work is contractually required to only allow non-commercial use by third parties."@en ;
-     cc:prohibits cc:CommercialUse ;
-     skos:relatedMatch premiscopy:pub ;
-     dc:creator "Digital Public Library of America and Europeana Rights Working Group" ;
-     dcterms:hasVersion "1.0" ;
-     dc:identifier "pd-nc" .
+<collection-ic> a skos:Collection ;
+  skos:prefLabel "in-copyright statements"@en ;
+  skos:member <ic> ;
+  skos:member <ic-ow-eu> ;
+  skos:member <ic-couu> ;
+  skos:member <ic-edu> ;
+  skos:member <ic-nc> ;
+  skos:member <ic-permission> .
 
-rsdotorg:pd-contractual-restriction a dcterms:RightsStatement ;
-     skos:prefLabel "Public Domain - Contractual Restrictions Present"@en ;
-     dcterms:modified "2015-05-11" ;
-     skos:definition "Indicates that the work is in the public domain, but that the organization that has published the work is contractually required to restrict certain forms of use by third parties."@en ;
-     skos:relatedMatch premiscopy:pub ;
-     dcterms:hasVersion "1.0" ;
-     dc:creator "Digital Public Library of America and Europeana Rights Working Group" ;
-     dc:identifier "pd-contractual-restriction" .
+<collection-pd> a skos:Collection ;
+  skos:prefLabel "public domain statements"@en ;
+  skos:member <pd-nc> ;
+  skos:member <pd-contractual-restriction> ;
+  skos:member <pd-other-legal-restrictions> .
 
-rsdotorg:pd-other a dcterms:RightsStatement ;
-     skos:prefLabel "Public Domain - Other Legal Restrictions"@en ;
-     dcterms:modified "2015-05-11" ;
-     skos:definition "Indicates that the work is in the public domain, but that laws other than copyright impose restrictions on the use of the object by third parties."@en ;
-     skos:relatedMatch premiscopy:pub ;
-     dcterms:hasVersion "1.0" ;
-     dc:creator "Digital Public Library of America and Europeana Rights Working Group" ;
-     dc:identifier "pd-other-legal-restrictions" .
+<collection-und> a skos:Collection ;
+  skos:prefLabel "undetermined statements"@en ;
+  skos:member <nkr> ;
+  skos:member <und> .
 
-rsdotorg:nkr a dcterms:RightsStatement ;
-     skos:prefLabel "No Known Rights"@en ;
-     dcterms:modified "2015-05-11" ;
-     skos:definition "Indicates that the data provider believes that no copyright or related rights are known to exist for this work, but conclusive facts may be missing or ambiguous."@en ;
-     skos:relatedMatch premiscopy:unk ;
-     dcterms:hasVersion "1.0" ;
-     dc:creator "Digital Public Library of America and Europeana Rights Working Group" ;
-     dc:identifier "nkr" .
+# Individual statements
 
-rsdotorg:und a dcterms:RightsStatement ;
-     skos:prefLabel "Rights Undetermined"@en ;
-     dcterms:modified "2015-05-11" ;
-     skos:definition "The copyright and related rights status of this work is unknown."@en ;
-     skos:closeMatch <http://www.europeana.eu/rights/unknown/> ;
-     skos:relatedMatch premiscopy:unk ;
-     dcterms:hasVersion "1.0" ;
-     dc:creator "Digital Public Library of America and Europeana Rights Working Group" ;
-     dc:identifier "und" .
+<ic> a dcterms:RightsStatement ;
+  skos:prefLabel "In Copyright"@en ;
+  dcterms:modified "2015-05-11" ;
+  skos:closeMatch <http://www.europeana.eu/rights/rr-f/> ;
+  skos:definition "Indicates that the work labeled with this rights statement is in copyright (no intention or ability to license)."@en ;
+  skos:relatedMatch premiscopy:cpr ;
+  dcterms:hasVersion "1.0" ;
+  dcterms:creator <irswg> ;
+  dc:identifier "ic" ;
+  skos:inScheme <> .
+
+<ic-ow-eu> a dcterms:RightsStatement ;
+  skos:prefLabel "In Copyright - Orphan Works - EU"@en ;
+  dcterms:modified "2015-05-11" ;
+  skos:closeMatch <http://www.europeana.eu/rights/orphan-work-eu/> ;
+  skos:definition "Indicates that the work labeled with this rights statement has been identified as an orphan work under the terms of the EU Orphan works directive."@en ;
+  skos:relatedMatch premiscopy:cpr ;
+  dcterms:creator <irswg> ;
+  dcterms:hasVersion "1.0" ;
+  dc:identifier "ic-ow-eu" ;
+  skos:inScheme <> .
+
+<ic-couu> a dcterms:RightsStatement ;
+  skos:prefLabel "In Copyright - Copyright Owner Unlocatable or Unidentifiable"@en ;
+  dcterms:modified "2015-05-11" ;
+  skos:definition "Indicates that the work labeled with this rights statement has been identified as in copyright, but whose owner either cannot be identified or cannot be located."@en ;
+  skos:relatedMatch premiscopy:cpr ;
+  dcterms:creator <irswg> ;
+  dcterms:hasVersion "1.0" ;
+  dc:identifier "ic-couu" ;
+  skos:inScheme <> .
+
+<ic-edu> a dcterms:RightsStatement ;
+  skos:prefLabel "Copyright - Educational Use Only"@en ;
+  dcterms:modified "2015-05-11" ;
+  skos:definition "Indicates that the work labeled with this rights statement is in copyright but that educational use is allowed without the need to obtain additional permission."@en ;
+  odrl:permission [
+    odrl:action odrl:use ;
+    odrl:constraint [
+      odrl:operator odrl:eq ;
+      odrl:purpose <educationalUse>
+    ]
+  ] ;
+  skos:relatedMatch premiscopy:cpr ;
+  dcterms:creator <irswg> ;
+  dcterms:hasVersion "1.0" ;
+  dc:identifier "ic-edu" ;
+  skos:inScheme <> .
+
+<ic-nc> a dcterms:RightsStatement ;
+  skos:prefLabel "In Copyright - Non-Commercial Use Only"@en ;
+  dcterms:modified "2015-05-11" ;
+  skos:definition "Indicates that the work labeled with this rights statement is in copyright but that non-commercial use is allowed without the need to obtain additional permission."@en ;
+  cc:prohibits cc:CommercialUse ;
+  skos:closeMatch <http://creativecommons.org/licenses/by-nc/4.0/> ;
+  skos:relatedMatch premiscopy:cpr ;
+  dcterms:creator <irswg> ;
+  dcterms:hasVersion "1.0" ;
+  dc:identifier "ic-nc" ;
+  skos:inScheme <> .
+
+<ic-permission> a dcterms:RightsStatement ;
+  skos:prefLabel "In Copyright - Permissive Uses Available"@en ;
+  dcterms:modified "2015-05-11" ;
+  skos:definition "Indicates that the work labeled with this rights statement is in copyright and that the organization that has published the work is willing to grant licenses for use by third parties."@en ;
+  skos:relatedMatch premiscopy:cpr ;
+  dcterms:creator <irswg> ;
+  dcterms:hasVersion "1.0" ;
+  dc:identifier "ic-permission" ;
+  skos:inScheme <> .
+
+<pd-nc> a dcterms:RightsStatement ;
+  skos:prefLabel "Public Domain - Non-Commercial Use Only"@en ;
+  dcterms:modified "2015-05-11";
+  skos:definition "Indicates that the work is in the public domain, but  the organization that has published the work is contractually required to only allow non-commercial use by third parties."@en ;
+  cc:prohibits cc:CommercialUse ;
+  skos:relatedMatch premiscopy:pub ;
+  dcterms:creator <irswg> ;
+  dcterms:hasVersion "1.0" ;
+  dc:identifier "pd-nc" ;
+  skos:inScheme <> .
+
+<pd-contractual-restriction> a dcterms:RightsStatement ;
+  skos:prefLabel "Public Domain - Contractual Restrictions Present"@en ;
+  dcterms:modified "2015-05-11" ;
+  skos:definition "Indicates that the work is in the public domain, but that the organization that has published the work is contractually required to restrict certain forms of use by third parties."@en ;
+  skos:relatedMatch premiscopy:pub ;
+  dcterms:hasVersion "1.0" ;
+  dcterms:creator <irswg> ;
+  dc:identifier "pd-contractual-restriction" ;
+  skos:inScheme <> .
+
+<pd-other-legal-restrictions> a dcterms:RightsStatement ;
+  skos:prefLabel "Public Domain - Other Legal Restrictions"@en ;
+  dcterms:modified "2015-05-11" ;
+  skos:definition "Indicates that the work is in the public domain, but that laws other than copyright impose restrictions on the use of the object by third parties."@en ;
+  skos:relatedMatch premiscopy:pub ;
+  dcterms:hasVersion "1.0" ;
+  dcterms:creator <irswg> ;
+  dc:identifier "pd-other-legal-restrictions" ;
+  skos:inScheme <> .
+
+<nkr> a dcterms:RightsStatement ;
+  skos:prefLabel "No Known Rights"@en ;
+  dcterms:modified "2015-05-11" ;
+  skos:definition "Indicates that the data provider believes that no copyright or related rights are known to exist for this work, but conclusive facts may be missing or ambiguous."@en ;
+  skos:relatedMatch premiscopy:unk ;
+  dcterms:hasVersion "1.0" ;
+  dcterms:creator <irswg> ;
+  dc:identifier "nkr" ;
+  skos:inScheme <> .
+
+<und> a dcterms:RightsStatement ;
+  skos:prefLabel "Rights Undetermined"@en ;
+  dcterms:modified "2015-05-11" ;
+  skos:definition "The copyright and related rights status of this work is unknown."@en ;
+  skos:closeMatch <http://www.europeana.eu/rights/unknown/> ;
+  skos:relatedMatch premiscopy:unk ;
+  dcterms:hasVersion "1.0" ;
+  dcterms:creator <irswg> ;
+  dc:identifier "und" ;
+  skos:inScheme <> .
