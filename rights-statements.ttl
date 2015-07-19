@@ -33,31 +33,31 @@
 # Information about the three "collections" of statements
 
 <collection-ic> a skos:Collection ;
-  skos:prefLabel "in-copyright statements"@en ;
-  skos:member <ic> ;
-  skos:member <ic-ow-eu> ;
-  skos:member <ic-couu> ;
-  skos:member <ic-edu> ;
-  skos:member <ic-nc> ;
-  skos:member <ic-permission> .
+  skos:prefLabel "rights statements for works that are in copyright"@en ;
+  skos:member <InC> ;
+  skos:member <InC-OW-EU> ;
+  skos:member <InC-RUU> ;
+  skos:member <InC-EDU> ;
+  skos:member <InC-NC> .
 
 <collection-pd> a skos:Collection ;
-  skos:prefLabel "public domain statements"@en ;
-  skos:member <pd-nc> ;
-  skos:member <pd-contractual-restrictions> ;
-  skos:member <pd-other-legal-restrictions> .
+  skos:prefLabel "rights statements for works that are not in copyright"@en ;
+  skos:member <OOC-NC> ;
+  skos:member <NoC-CR> ;
+  skos:member <NoC-OLR> .
 
-<collection-und> a skos:Collection ;
-  skos:prefLabel "undetermined statements"@en ;
-  skos:member <nkr> ;
-  skos:member <und> .
+<collection-other> a skos:Collection ;
+  skos:prefLabel "other rights statements"@en ;
+  skos:member <NKC> ;
+  skos:member <CNE> .
 
 # Individual statements
 # 2015-07-15: updated from https://docs.google.com/document/d/1tdRAFZZefiyygRwCbcUq-kK7mNdj-6UFwBSCrPRSIoY/edit
+# 2015-07-17: updated from document to use correct URI pattes
 
-<ic> a dcterms:RightsStatement ;
+<InC> a dcterms:RightsStatement ;
   skos:prefLabel "In Copyright"@en ;
-  dcterms:modified "2015-07-15" ;
+  dcterms:modified "2015-07-17" ;
   skos:closeMatch <http://www.europeana.eu/rights/rr-f/> ;
   skos:definition """This item is protected by copyright and/or related rights.
 
@@ -76,9 +76,9 @@ Notices:
   dc:identifier "InC" ;
   skos:inScheme <> .
 
-<ic-ow-eu> a dcterms:RightsStatement ;
+<InC-OW-EU> a dcterms:RightsStatement ;
   skos:prefLabel "In Copyright - EU Orphan Work"@en ;
-  dcterms:modified "2015-07-15" ;
+  dcterms:modified "2015-07-17" ;
   skos:closeMatch <http://www.europeana.eu/rights/orphan-work-eu/> ;
   skos:definition """This item has been identified as an orphan work in the country of first publication and in line Directive 2012/28/EU of the European Parliament and of the Council of 25 October 2012 on certain permitted uses of orphan works.
 
@@ -98,9 +98,9 @@ Notices:
   dc:identifier "InC-OW-EU" ;
   skos:inScheme <> .
 
-<ic-couu> a dcterms:RightsStatement ;
+<InC-RUU> a dcterms:RightsStatement ;
   skos:prefLabel "In Copyright - Copyright Owner Unlocatable or Unidentifiable"@en ;
-  dcterms:modified "2015-07-15" ;
+  dcterms:modified "2015-07-17" ;
   skos:definition """This item is protected by copyright and/or related rights. However, no rightsholder(s) have been identified, or, if one or more of them have been identified, none has been located.
 
 You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to you.
@@ -118,9 +118,9 @@ Notices:
   dc:identifier "InC-RUU" ;
   skos:inScheme <> .
 
-<ic-edu> a dcterms:RightsStatement ;
+<InC-EDU> a dcterms:RightsStatement ;
   skos:prefLabel "In Copyright - Educational Use Permitted"@en ;
-  dcterms:modified "2015-07-15" ;
+  dcterms:modified "2015-07-17" ;
   skos:definition """This item is protected by copyright and/or related rights.
 
 You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to you. In addition, for educational uses, no permission is required from the rightsholders.
@@ -147,9 +147,9 @@ Notices:
   dc:identifier "InC-EDU" ;
   skos:inScheme <> .
 
-<ic-nc> a dcterms:RightsStatement ;
+<InC-NC> a dcterms:RightsStatement ;
   skos:prefLabel "In Copyright - NonCommercial Use Permitted"@en ;
-  dcterms:modified "2015-07-15" ;
+  dcterms:modified "2015-07-17" ;
   skos:definition """This item is protected by copyright and/or related rights.
 
 You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to you. In addition, for all non-commercial uses, no permission is required from the rightsholders.
@@ -171,9 +171,9 @@ Notices:
   dc:identifier "InC-NC" ;
   skos:inScheme <> .
 
-<pd-nc> a dcterms:RightsStatement ;
+<OOC-NC> a dcterms:RightsStatement ;
   skos:prefLabel "Out Of Copyright - NonCommercial Use Only"@en ;
-  dcterms:modified "2015-07-15";
+  dcterms:modified "2015-07-17";
   skos:definition """This object has been digitized in a public-private partnership. As part of this partnership, the partners have agreed to limit commercial uses of￼this digital representation of the object by third parties [until the year￼xxxx].￼
 
 You can, without permission, copy, modify, distribute, display, or perform the digital object, for non-commercial uses. For any other permissible uses, please review the terms and conditions of the Data￼Provider.
@@ -187,10 +187,10 @@ In some jurisdictions moral rights of the author may persist beyond the term of 
   dc:identifier "OOC-NC" ;
   skos:inScheme <> .
 
-<pd-contractual-restrictions> a dcterms:RightsStatement ;
+<NoC-CR> a dcterms:RightsStatement ;
   skos:prefLabel "No Copyright - Contractual Restrictions Present"@en ;
-  dcterms:modified "2015-07-15" ;
-  # per pk comment on 2015-07-15 Dave and Diane are editing the text below
+  dcterms:modified "2015-07-17" ;
+  # per pk comment on 2015-07-17 Dave and Diane are editing the text below
   skos:definition """This item is not covered by copyright and/or related rights.
 
 As part of the acquisition or digitisation of this item, the organisation that has made the item available is contractually required to limit the use of this item. Limitations may be due to privacy issues, cultural protections, or donor agreements.
@@ -210,9 +210,9 @@ Notices:
   dc:identifier "NoC-CR" ;
   skos:inScheme <> .
 
-<pd-other-legal-restrictions> a dcterms:RightsStatement ;
+<NoC-OLR> a dcterms:RightsStatement ;
   skos:prefLabel "No Copyright - Other Legal Restrictions"@en ;
-  dcterms:modified "2015-07-15" ;
+  dcterms:modified "2015-07-17" ;
   skos:definition """This item is not covered by copyright and/or related rights.
 
 In one or more jurisdictions, laws other than copyright impose restrictions on the use of this item.
@@ -232,9 +232,9 @@ Notices:
   dc:identifier "NoC-OLR" ;
   skos:inScheme <> .
 
-<nkr> a dcterms:RightsStatement ;
+<NKC> a dcterms:RightsStatement ;
   skos:prefLabel "No Known Copyright"@en ;
-  dcterms:modified "2015-07-15" ;
+  dcterms:modified "2015-07-17" ;
   skos:definition """The organisation that has made available the item reasonably believes that no copyright or related rights are known to exist in this item, but a conclusive determination could not be made. Please refer to the organisation that has made the item available for more information.
 
 You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to you.
@@ -249,12 +249,12 @@ Notices:
   skos:relatedMatch premiscopy:unk ;
   dcterms:hasVersion "1.0" ;
   dcterms:creator <irswg> ;
-  dc:identifier "nkr" ;
+  dc:identifier "NKC" ;
   skos:inScheme <> .
 
-<und> a dcterms:RightsStatement ;
+<CNE> a dcterms:RightsStatement ;
   skos:prefLabel "Copyright Not Evaluated "@en ;
-  dcterms:modified "2015-07-15" ;
+  dcterms:modified "2015-07-17" ;
   skos:definition """The copyright and related rights status of this item has not been evaluated. Please refer to the organisation that has made the item available for more information.
 
 You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to you.
