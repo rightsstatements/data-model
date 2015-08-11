@@ -53,9 +53,11 @@
 
 # Individual statements
 # 2015-07-15: updated from https://docs.google.com/document/d/1tdRAFZZefiyygRwCbcUq-kK7mNdj-6UFwBSCrPRSIoY/edit
-# 2015-07-17: updated from document to use correct URI pattes
+# 2015-07-17: updated from document to use correct URI patterns
+# 2015-08-11: update to make individual statements skos:Concepts, and to 
+#             use skos:note to model the Notices
 
-<InC> a dcterms:RightsStatement ;
+<InC> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "In Copyright"@en ;
   dcterms:modified "2015-07-17" ;
   skos:closeMatch <http://www.europeana.eu/rights/rr-f/> ;
@@ -63,12 +65,9 @@
 
 You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to you.
 
-For other uses you need to obtain permission from the rightsholders.
-
-Notices:
-
-* Unless expressly stated otherwise, the organisation that has made this item available makes no warranties about the item. You are responsible for your own use.
-* You may find additional information about the copyright status of the item on the website of the organisation that has made the item available."""@en ;
+For other uses you need to obtain permission from the rightsholders."""@en ;
+  skos:note "Unless expressly stated otherwise, the organisation that has made this item available makes no warranties about the item. You are responsible for your own use."@en ;
+  skos:note "You may find additional information about the copyright status of the item on the website of the organisation that has made the item available."@en ;
   skos:scopeNote "This rights statement can be used for any work that is in copyright. Using this statement implies that the the organisation making this item available has determined that the item is in copyright and; is either the copyright holder, has obtained permission to make available the work from the copyright holder or, makes the work available under an exception or limitation to copyright (including fair use) that entitles it to make the work available."@en ;
   skos:relatedMatch premiscopy:cpr ;
   dcterms:hasVersion "1.0" ;
@@ -76,7 +75,7 @@ Notices:
   dc:identifier "InC" ;
   skos:inScheme <> .
 
-<InC-OW-EU> a dcterms:RightsStatement ;
+<InC-OW-EU> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "In Copyright - EU Orphan Work"@en ;
   dcterms:modified "2015-07-17" ;
   skos:closeMatch <http://www.europeana.eu/rights/orphan-work-eu/> ;
@@ -84,13 +83,10 @@ Notices:
 
 For this item no rightholder(s) have been identified or, if one or more of them have been identified, none has been located despite a diligent search for the rightholders having been carried out. The results of the diligent search are available in the EU orphan works database.
 
-You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to you.
-
-Notices:
-
-* Unless expressly stated otherwise, the organisation that has made this item available makes no warranties about the item. You are responsible for your own use.
-* If you have any information related to the copyright status of the item that can contribute to identifying or locating the rightsholder please notify the organisation that has made the item available.
-* You may find additional information about the copyright status of the item on the website of the organisation that has made the item available."""@en ;
+You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to you."""@en ;
+  skos:note "Unless expressly stated otherwise, the organisation that has made this item available makes no warranties about the item. You are responsible for your own use."@en ;
+  skos:note "If you have any information related to the copyright status of the item that can contribute to identifying or locating the rightsholder please notify the organisation that has made the item available."@en ;
+  skos:note "You may find additional information about the copyright status of the item on the website of the organisation that has made the item available."@en ;
   skos:scopeNote "This rights statement is intended for use with works that have been identified as Orphan Works in accordance with in line Directive 2012/28/EU of the European Parliament and of the Council of 25 October 2012 on certain permitted uses of orphan works. It can only be applied to works that are covered by the directive: works published in the form of books, journals, newspapers, magazines or other writings as well as cinematographic or audiovisual works and phonograms (note that this excludes photography and visual arts). It can only applied by data providers that are beneficiaries of the directive: publicly accessible libraries, educational establishments and museums, archives, film or audio heritage institutions and public-service broadcasting organisations, established in one of the EU member states. The beneficiary is also expected to have registered the work in the EU Orphan Works Database maintained by OHIM."@en ;
   skos:relatedMatch premiscopy:cpr ;
   dcterms:creator <irswg> ;
@@ -98,19 +94,15 @@ Notices:
   dc:identifier "InC-OW-EU" ;
   skos:inScheme <> .
 
-<InC-RUU> a dcterms:RightsStatement ;
+<InC-RUU> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "In Copyright - Copyright Owner Unlocatable or Unidentifiable"@en ;
   dcterms:modified "2015-07-17" ;
   skos:definition """This item is protected by copyright and/or related rights. However, no rightsholder(s) have been identified, or, if one or more of them have been identified, none has been located.
 
-You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to you.
-
-Notices:
-
-* Unless expressly stated otherwise, the organisation that has made this item available makes no warranties about the item. You are responsible for your own use.
-* If you have any information related to the copyright status of the item that can contribute to identifying or locating the rightsholder please notify the organisation that has made the item available.
-* You may find additional information about the copyright status of the item on the website of the organisation that has made the item available.
-"""@en ;
+You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to you."""@en ;
+  skos:note "Unless expressly stated otherwise, the organisation that has made this item available makes no warranties about the item. You are responsible for your own use."@en ;
+  skos:note "If you have any information related to the copyright status of the item that can contribute to identifying or locating the rightsholder please notify the organisation that has made the item available."@en ;
+  skos:note "You may find additional information about the copyright status of the item on the website of the organisation that has made the item available."@en ;
   skos:scopeNote "This rights statement is intended for use with works that have been identified as Orphan Works by the data provider after a diligent search has taken place. This rights statement should only be used if the data provider is reasonably sure that the work is in copyright. This rights statement is not intended for use by EU based data providers who have identified works as Orphan works in accordance with the EU orphan works directive (they must use IC-OW-EU instead)."@en ;
   skos:relatedMatch premiscopy:cpr ;
   dcterms:creator <irswg> ;
@@ -118,21 +110,18 @@ Notices:
   dc:identifier "InC-RUU" ;
   skos:inScheme <> .
 
-<InC-EDU> a dcterms:RightsStatement ;
+<InC-EDU> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "In Copyright - Educational Use Permitted"@en ;
   dcterms:modified "2015-07-17" ;
   skos:definition """This item is protected by copyright and/or related rights.
 
 You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to you. In addition, for educational uses, no permission is required from the rightsholders.
 
-For other uses you need to obtain permission from the rightsholders.
+For other uses you need to obtain permission from the rightsholders."""@en ;
 
-Notices:
-
-* Unless expressly stated otherwise, the organisation that has made this item available makes no warranties about the item. You are responsible for your own use.
-* You may need to obtain other permissions for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
-* You may find additional information about the copyright status of the item on the website of the organisation that has made the item available.
-"""@en ;
+  skos:note "Unless expressly stated otherwise, the organisation that has made this item available makes no warranties about the item. You are responsible for your own use."@en ;
+  skos:note "You may need to obtain other permissions for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material."@en ;
+  skos:note "You may find additional information about the copyright status of the item on the website of the organisation that has made the item available."@en ;
   skos:scopeNote "This rights statement can be used for any in copyright work. However it can only be applied to works where the organisation submitting the item is the rightsholder or where the institution submitting the item has been explicitly authorized by the rightsholder(s) to allow third parties to use the work for educational purposes without obtaining permission first."@en ;
   odrl:permission [
     odrl:action odrl:use ;
@@ -147,21 +136,17 @@ Notices:
   dc:identifier "InC-EDU" ;
   skos:inScheme <> .
 
-<InC-NC> a dcterms:RightsStatement ;
+<InC-NC> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "In Copyright - NonCommercial Use Permitted"@en ;
   dcterms:modified "2015-07-17" ;
   skos:definition """This item is protected by copyright and/or related rights.
 
 You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to you. In addition, for all non-commercial uses, no permission is required from the rightsholders.
 
-For other uses you need to obtain permission from the rightsholders.
-
-Notices:
-
-* Unless expressly stated otherwise, the organisation that has made this item available makes no warranties about the item. You are responsible for your own use.
-* You may need to obtain other permissions for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
-* You may find additional information about the copyright status of the item on the website of the organisation that has made the item available.
-"""@en ;
+For other uses you need to obtain permission from the rightsholders."""@en ;
+  skos:note "Unless expressly stated otherwise, the organisation that has made this item available makes no warranties about the item. You are responsible for your own use."@en ;
+  skos:note "You may need to obtain other permissions for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material."@en ;
+  skos:note "You may find additional information about the copyright status of the item on the website of the organisation that has made the item available."@en ;
   skos:scopeNote "This rights statement can be used for any in copyright work. However it can only be applied to works where the organisation submitting the item is the rights holder or where the institution submitting the item has been explicitly authorized by the rights holder(s) to allow third parties to use the work for non-commercial purposes without obtaining permission first."@en ;
   cc:prohibits cc:CommercialUse ;
   skos:closeMatch <http://creativecommons.org/licenses/by-nc/4.0/> ;
@@ -171,7 +156,7 @@ Notices:
   dc:identifier "InC-NC" ;
   skos:inScheme <> .
 
-<OOC-NC> a dcterms:RightsStatement ;
+<OOC-NC> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "Out Of Copyright - NonCommercial Use Only"@en ;
   dcterms:modified "2015-07-17";
   skos:definition """This object has been digitized in a public-private partnership. As part of this partnership, the partners have agreed to limit commercial uses of￼this digital representation of the object by third parties [until the year￼xxxx].￼
@@ -187,7 +172,7 @@ In some jurisdictions moral rights of the author may persist beyond the term of 
   dc:identifier "OOC-NC" ;
   skos:inScheme <> .
 
-<NoC-CR> a dcterms:RightsStatement ;
+<NoC-CR> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "No Copyright - Contractual Restrictions Present"@en ;
   dcterms:modified "2015-07-17" ;
   # per pk comment on 2015-07-17 Dave and Diane are editing the text below
@@ -195,14 +180,10 @@ In some jurisdictions moral rights of the author may persist beyond the term of 
 
 As part of the acquisition or digitisation of this item, the organisation that has made the item available is contractually required to limit the use of this item. Limitations may be due to privacy issues, cultural protections, or donor agreements.
 
-Please refer to the organisation that has made the item available for more information.
-
-Notices:
-
-* Unless expressly stated otherwise, the organisation that has made this item available makes no warranties about the item. You are responsible for your own use.
-* You may need to obtain other permissions for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
-* You may find additional information about the copyright status of the item on the website of the organisation that has made the item available.
-"""@en ;
+Please refer to the organisation that has made the item available for more information."""@en ;
+  skos:note "Unless expressly stated otherwise, the organisation that has made this item available makes no warranties about the item. You are responsible for your own use."@en ;
+  skos:note "You may need to obtain other permissions for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material."@en ;
+  skos:note "You may find additional information about the copyright status of the item on the website of the organisation that has made the item available."@en ;
   skos:scopeNote "This rights statement can only be used for items that are in the Public Domain but where the data provider has entered into contractual agreement that limits third party uses of the item. In order for this rights statement to be conclusive the data provider must provide a link to a page detailing the the contractual restrictions that apply to the use of the item."@en ;
   skos:relatedMatch premiscopy:pub ;
   dcterms:hasVersion "1.0" ;
@@ -210,21 +191,17 @@ Notices:
   dc:identifier "NoC-CR" ;
   skos:inScheme <> .
 
-<NoC-OLR> a dcterms:RightsStatement ;
+<NoC-OLR> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "No Copyright - Other Legal Restrictions"@en ;
   dcterms:modified "2015-07-17" ;
   skos:definition """This item is not covered by copyright and/or related rights.
 
 In one or more jurisdictions, laws other than copyright impose restrictions on the use of this item.
 
-Please refer to the organisation that has made the item available for more information.
-
-Notices:
-
-* Unless expressly stated otherwise, the organisation that has made this item available makes no warranties about the item. You are responsible for your own use.
-* You may need to obtain other permissions for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
-* You may find additional information about the copyright status of the item on the website of the organisation that has made the item available.
-"""@en ;
+Please refer to the organisation that has made the item available for more information."""@en ;
+  skos:note "Unless expressly stated otherwise, the organisation that has made this item available makes no warranties about the item. You are responsible for your own use."@en ;
+  skos:note "You may need to obtain other permissions for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material."@en ;
+  skos:note "You may find additional information about the copyright status of the item on the website of the organisation that has made the item available."@en ;
   skos:scopeNote "This rights statement should be used for items that are in the Public Domain but that cannot be freely reused as the consequence of other legal restrictions that prevent the data provider from allowing free re-use of the work. In order for this rights statement to be conclusive the data provider must provide a link to a page detailing the the legal restrictions that limit re-use of the item."@en ;
   skos:relatedMatch premiscopy:pub ;
   dcterms:hasVersion "1.0" ;
@@ -232,19 +209,15 @@ Notices:
   dc:identifier "NoC-OLR" ;
   skos:inScheme <> .
 
-<NKC> a dcterms:RightsStatement ;
+<NKC> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "No Known Copyright"@en ;
   dcterms:modified "2015-07-17" ;
   skos:definition """The organisation that has made available the item reasonably believes that no copyright or related rights are known to exist in this item, but a conclusive determination could not be made. Please refer to the organisation that has made the item available for more information.
 
-You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to you.
-
-Notices:
-
-* Unless expressly stated otherwise, the organisation that has made this item available makes no warranties about the item. You are responsible for your own use.
-* You may need to obtain other permissions for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
-* You may find additional information about the copyright status of the item on the website of the organisation that has made the item available.
-"""@en ;
+You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to you."""@en ;
+  skos:note "Unless expressly stated otherwise, the organisation that has made this item available makes no warranties about the item. You are responsible for your own use."@en ;
+  skos:note "You may need to obtain other permissions for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material."@en ;
+  skos:note "You may find additional information about the copyright status of the item on the website of the organisation that has made the item available."@en ;
   skos:scopeNote "This rights statement should be used for items where the copyright status has not been determined conclusively, but where the data provider has reasonable cause to believe that the work is not covered by copyright or related rights anymore. This rights statement should not be used for orphan works (which are assumed to be in copyright) or for works where the data provider has not undertaken an effort to ascertain the copyright status of the work."@en ;
   skos:relatedMatch premiscopy:unk ;
   dcterms:hasVersion "1.0" ;
@@ -252,19 +225,15 @@ Notices:
   dc:identifier "NKC" ;
   skos:inScheme <> .
 
-<CNE> a dcterms:RightsStatement ;
+<CNE> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "Copyright Not Evaluated "@en ;
   dcterms:modified "2015-07-17" ;
   skos:definition """The copyright and related rights status of this item has not been evaluated. Please refer to the organisation that has made the item available for more information.
 
-You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to you.
-
-Notices:
-
-* Unless expressly stated otherwise, the organisation that has made this item available makes no warranties about the item. You are responsible for your own use.
-* You may need to obtain other permissions for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
-* You may find additional information about the copyright status of the item on the website of the organisation that has made the item available.
-"""@en ;
+You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to you."""@en ;
+  skos:note "Unless expressly stated otherwise, the organisation that has made this item available makes no warranties about the item. You are responsible for your own use."@en ;
+  skos:note "You may need to obtain other permissions for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material."@en ;
+  skos:note "You may find additional information about the copyright status of the item on the website of the organisation that has made the item available."@en ;
   skos:scopeNote "This rights statement should be used for items where the copyright status is unknown and where the data provider not undertaken an effort to determine the copyright status of the work."@en ;
   skos:closeMatch <http://www.europeana.eu/rights/unknown/> ;
   skos:relatedMatch premiscopy:unk ;
