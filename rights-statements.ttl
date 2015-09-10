@@ -19,12 +19,6 @@
   dcterms:creator <irswg> ;
   dc:identifier "rscs" .
 
-# Specific non-rights statement entities/concepts we need to define
-
-<educationalUse> a skos:Concept ;
-  skos:prefLabel "educational use"@en .
-  # <educationalUse> skos:closeMatch p3p:education .
-
 <irswg> a edm:Agent, foaf:Group ;
   foaf:name "International Rights Statements Working Group"@en ;
   skos:prefLabel "International Rights Statements Working Group"@en ;
@@ -118,18 +112,10 @@ You are free to use this item in any way that is permitted by the copyright and 
 You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to you. In addition, for educational uses, no permission is required from the rightsholders.
 
 For other uses you need to obtain permission from the rightsholders."""@en ;
-
   skos:note "Unless expressly stated otherwise, the organisation that has made this item available makes no warranties about the item. You are responsible for your own use."@en ;
   skos:note "You may need to obtain other permissions for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material."@en ;
   skos:note "You may find additional information about the copyright status of the item on the website of the organisation that has made the item available."@en ;
   skos:scopeNote "This rights statement can be used for any in copyright work. However it can only be applied to works where the organisation submitting the item is the rightsholder or where the institution submitting the item has been explicitly authorized by the rightsholder(s) to allow third parties to use the work for educational purposes without obtaining permission first."@en ;
-  odrl:permission [
-    odrl:action odrl:use ;
-    odrl:constraint [
-      odrl:operator odrl:eq ;
-      odrl:purpose <educationalUse>
-    ]
-  ] ;
   skos:relatedMatch premiscopy:cpr ;
   dcterms:creator <irswg> ;
   dcterms:hasVersion "1.0" ;
