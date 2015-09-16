@@ -16,18 +16,27 @@
 
 <> a skos:ConceptScheme ;
   dcterms:title "RightsStatements.org Standardized International Rights Statements"@en ;
+  dcterms:title "RightsStatements.org Gestandaardiseerde Internationale Rechtenstatements"@nl ;
   dcterms:creator <irswg> ;
   dc:identifier "rscs" .
 
+# Specific non-rights statement entities/concepts we need to define
+
+<educationalUse> a skos:Concept ;
+  skos:prefLabel "educational use"@en ;
+  skos:prefLabel "educatief gebruik"@nl .
+  # <educationalUse> skos:closeMatch p3p:education .
+
 <irswg> a edm:Agent, foaf:Group ;
   foaf:name "International Rights Statements Working Group"@en ;
-  skos:prefLabel "International Rights Statements Working Group"@en ;
+  skos:prefLabel "Internationale Rechtenstatements Werkgroep"@nl ;
   foaf:homepage <http://rightsstatements.org/> .
 
 # Information about the three "collections" of statements
 
 <collection-ic> a skos:Collection ;
   skos:prefLabel "rights statements for works that are in copyright"@en ;
+  skos:prefLabel "rechtenstatements voor werken die auteursrechtelijk beperkt worden"@nl ;
   skos:member <InC> ;
   skos:member <InC-OW-EU> ;
   skos:member <InC-RUU> ;
@@ -36,12 +45,14 @@
 
 <collection-pd> a skos:Collection ;
   skos:prefLabel "rights statements for works that are not in copyright"@en ;
+  skos:prefLabel "rechtenstatements voor werken die niet beperkt worden door het auteursrecht"@nl ;
   skos:member <OOC-NC> ;
   skos:member <NoC-CR> ;
   skos:member <NoC-OLR> .
 
 <collection-other> a skos:Collection ;
   skos:prefLabel "other rights statements"@en ;
+  skos:prefLabel "andere rechtenstatements"@nl ;
   skos:member <NKC> ;
   skos:member <CNE> .
 
@@ -53,6 +64,7 @@
 
 <InC> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "In Copyright"@en ;
+  skos:prefLabel "Auteursrechtelijk Beperkt"@nl ;
   dcterms:modified "2015-07-17" ;
   skos:closeMatch <http://www.europeana.eu/rights/rr-f/> ;
   skos:definition """This item is protected by copyright and/or related rights.
@@ -60,9 +72,17 @@
 You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to you.
 
 For other uses you need to obtain permission from the rightsholders."""@en ;
+  skos:definition """Dit item is wordt door het auteursrecht of aanverwante rechten beperkt
+
+Je bent vrij om dit item te gebruiken op manieren die worden toegestaan door de auteurswet of wetten op aanverwante rechten die op jou van toepassing zijn.
+
+Voor andere gebruiken heb je toestemming van de rechthebbende nodig."""@nl ;
   skos:note "Unless expressly stated otherwise, the organisation that has made this item available makes no warranties about the item. You are responsible for your own use."@en ;
+  skos:note "Tenzij expliciet aangegeven, de organisatie die dit artikel beschikbaar heeft gesteld geeft geen garanties over het item. Je bent verantwoordelijk voor je eigen gebruik."@nl ;
   skos:note "You may find additional information about the copyright status of the item on the website of the organisation that has made the item available."@en ;
-  skos:scopeNote "This rights statement can be used for any work that is in copyright. Using this statement implies that the the organisation making this item available has determined that the item is in copyright and; is either the copyright holder, has obtained permission to make available the work from the copyright holder or, makes the work available under an exception or limitation to copyright (including fair use) that entitles it to make the work available."@en ;
+  skos:note "Je kan aanvullende informatie over de rechtenstatus van het item op de website van de organisatie vinden die het item beschikbaar heeft gesteld."@nl ;
+  skos:scopeNote "This rights statement can be used for any work that is in copyright. Using this statement implies that the organisation making this item available has determined that the item is in copyright and; is either the copyright holder, has obtained permission to make available the work from the copyright holder or, makes the work available under an exception or limitation to copyright (including fair use) that entitles it to make the work available."@en ;
+  skos:scopeNote "Dit rechtenstatement kan gebruikt worden voor elk dat door het auteursrecht beperkt wordt. Het gebruik van dit statement impliceert dat de organisatie die dit item beschikbaar heeft gesteld bepaald heeft het item door het auteursrecht beperkt wordt. Ze zijn of de rechthebbende, hebben toestemming van de rechthebbende verkregen of mogen dit item beschikbaar stellen volgens de beperking en uitzonderingen van het auteursrecht dat op hun van toepassing is."@nl ;
   skos:relatedMatch premiscopy:cpr ;
   dcterms:hasVersion "1.0" ;
   dcterms:creator <irswg> ;
@@ -71,17 +91,27 @@ For other uses you need to obtain permission from the rightsholders."""@en ;
 
 <InC-OW-EU> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "In Copyright - EU Orphan Work"@en ;
+  skos:prefLabel "Auteursrechtelijk Beperkt - EU Verweesd Werk"@nl ;
   dcterms:modified "2015-07-17" ;
   skos:closeMatch <http://www.europeana.eu/rights/orphan-work-eu/> ;
   skos:definition """This item has been identified as an orphan work in the country of first publication and in line Directive 2012/28/EU of the European Parliament and of the Council of 25 October 2012 on certain permitted uses of orphan works.
-
+  
 For this item no rightholder(s) have been identified or, if one or more of them have been identified, none has been located despite a diligent search for the rightholders having been carried out. The results of the diligent search are available in the EU orphan works database.
 
 You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to you."""@en ;
+  skos:definition """Dit item is geïdentificeerd als een verweesd werk in het land van eerste publicatie en in lijn met de Europese richtlijn 2012/28/EU van het Europees Parlement en de Europese Raad van 25 oktober 2012 inzake bepaalde toegestane gebruikswijzen van verweesde werken.
+
+Er is/zijn geen rechthebbende(n) van dit werk geïdentificeerd. Of als deze wel zijn geïdentificeerd dan zijn deze niet te localiseren ondanks een grondige zoektocht. Het resultaat van deze grondige zoektocht is te vinden in de EU verweesde werken database.
+
+Je bent vrij om dit item te gebruiken op de manier die toegestaan zijn door he auteursrecht en aanverwante rechten volgende de wetten die op jou van toepassing zijn."""@nl ;
   skos:note "Unless expressly stated otherwise, the organisation that has made this item available makes no warranties about the item. You are responsible for your own use."@en ;
+  skos:note "De organisatie die dit item beschikbaar heeft gesteld geeft geen garanties over dit item, tenzij expliciet anders aangegeven. Je bent zelf verantwoordelijk voor je eigen gebruik."@nl ;
   skos:note "If you have any information related to the copyright status of the item that can contribute to identifying or locating the rightsholder please notify the organisation that has made the item available."@en ;
+  skos:note "Neem contact op met de organisatie die dit item beschikbaar heeft gesteld als je enige informatie hebt over de auteursrechtelijk status van dit item dat kan bijdragen aan de identificering of localisering van de rechthebbende."@nl ;
   skos:note "You may find additional information about the copyright status of the item on the website of the organisation that has made the item available."@en ;
+  skos:note "Je kan aanvullende informatie over de rechtenstatus van het item op de website van de organisatie vinden die het item beschikbaar heeft gesteld."@nl ;
   skos:scopeNote "This rights statement is intended for use with works that have been identified as Orphan Works in accordance with in line Directive 2012/28/EU of the European Parliament and of the Council of 25 October 2012 on certain permitted uses of orphan works. It can only be applied to works that are covered by the directive: works published in the form of books, journals, newspapers, magazines or other writings as well as cinematographic or audiovisual works and phonograms (note that this excludes photography and visual arts). It can only applied by data providers that are beneficiaries of the directive: publicly accessible libraries, educational establishments and museums, archives, film or audio heritage institutions and public-service broadcasting organisations, established in one of the EU member states. The beneficiary is also expected to have registered the work in the EU Orphan Works Database maintained by OHIM."@en ;
+  skos:scopeNote "Dit rechtenstatement is bedoeld voor het gebruik met werken die geïdentificeerd zijn als verweesde werken zoals bepaald in de Europese richtlijn 2012/28/EU van het Europees Parlement en de Europese Raad van 25 oktober 2012 inzake bepaalde toegestane gebruikswijzen van verweesde werken. De statement kan alleen toegepast worden op werken die bepaald zijn in de richtlijn: werken gepubliceerd als een boek, tijdschrift, krant, magazine, of andere geschreven werken. Maar ook cinematografische, audiovisuele werken en fonogrammen (dit sluit visuele kunst en fotografie uit). De statement kan alleen toegepast worden door data providers die begunstigd zijn in de richtlijn: Publiek toegankelijke bibliotheken, onderwijsinstellingen, musea, audiovisuele erfgoedinstellingen en publieke omroepen die gevestigd zijn in EU lidstaten. Van de begunstigden wordt verwacht dat ze het item in de OHIM EU Orphan Works Database hebben geregistreerd."@nl ;
   skos:relatedMatch premiscopy:cpr ;
   dcterms:creator <irswg> ;
   dcterms:hasVersion "1.0" ;
@@ -90,13 +120,20 @@ You are free to use this item in any way that is permitted by the copyright and 
 
 <InC-RUU> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "In Copyright - Copyright Owner Unlocatable or Unidentifiable"@en ;
+  skos:prefLabel "Auteursrechtelijk Beperkt – Rechthebbende is niet te identificeren of te vinden"@nl ;
   dcterms:modified "2015-07-17" ;
   skos:definition """This item is protected by copyright and/or related rights. However, no rightsholder(s) have been identified, or, if one or more of them have been identified, none has been located.
 
 You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to you."""@en ;
+  skos:definition """"Het gebruik van dit item is beperkt door auteursrechten of naburige rechten. Alleen zijn er geen rechtehebbende(n) geïdentificeerd, deze kunnen niet gevonden worden.
+  
+Je bent vrij om dit item te gebruiken op de manier die toegestaan zijn door he auteursrecht en aanverwante rechten volgende de wetten die op jou van toepassing zijn."""@nl ;
   skos:note "Unless expressly stated otherwise, the organisation that has made this item available makes no warranties about the item. You are responsible for your own use."@en ;
+  skos:note "Tenzij expliciet aangegeven, de organisatie die dit artikel beschikbaar heeft gesteld geeft geen garanties over het item. Je bent verantwoordelijk voor je eigen gebruik."@nl ;
   skos:note "If you have any information related to the copyright status of the item that can contribute to identifying or locating the rightsholder please notify the organisation that has made the item available."@en ;
+  skos:note "Neem contact op met de organisatie die dit item beschikbaar heeft gesteld als je enige informatie hebt over de auteursrechtelijk status van dit item dat kan bijdragen aan de identificering of localisering van de rechthebbende."@nl ;
   skos:note "You may find additional information about the copyright status of the item on the website of the organisation that has made the item available."@en ;
+  skos:note "Je kan aanvullende informatie over de rechtenstatus van het item op de website van de organisatie vinden die het item beschikbaar heeft gesteld."@nl ;
   skos:scopeNote "This rights statement is intended for use with works that have been identified as Orphan Works by the data provider after a diligent search has taken place. This rights statement should only be used if the data provider is reasonably sure that the work is in copyright. This rights statement is not intended for use by EU based data providers who have identified works as Orphan works in accordance with the EU orphan works directive (they must use IC-OW-EU instead)."@en ;
   skos:relatedMatch premiscopy:cpr ;
   dcterms:creator <irswg> ;
@@ -106,16 +143,33 @@ You are free to use this item in any way that is permitted by the copyright and 
 
 <InC-EDU> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "In Copyright - Educational Use Permitted"@en ;
+  skos:prefLabel "Beperkt door het Auteursrecht - Gebruik voor onderwijsdoeleinden toegestaan"@nl ;
   dcterms:modified "2015-07-17" ;
   skos:definition """This item is protected by copyright and/or related rights.
 
 You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to you. In addition, for educational uses, no permission is required from the rightsholders.
 
 For other uses you need to obtain permission from the rightsholders."""@en ;
+  skos:definition """Het gebruik van dit item wordt beperkt auteursrecht of aanverwante rechten.
+
+Je bent vrij om dit item te gebruiken op de manier die toegestaan zijn door he auteursrecht en aanverwante rechten volgende de wetten die op jou van toepassing zijn. Additioneel is er voor educatief gebruik geen toestemming nodig van de rechthebbende.
+
+Voor andere gebruiken heb je toestemming van de rechthebbende nodig."""@nl ;
   skos:note "Unless expressly stated otherwise, the organisation that has made this item available makes no warranties about the item. You are responsible for your own use."@en ;
+  skos:note "Tenzij expliciet aangegeven, de organisatie die dit artikel beschikbaar heeft gesteld geeft geen garanties over het item. Je bent verantwoordelijk voor je eigen gebruik."@nl ;
   skos:note "You may need to obtain other permissions for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material."@en ;
+  skos:note "Het is mogelijk dat je meer toestemming moet verkrijgen voor je beoogde gebruik. Bijvoorbeeld, andere rechten als publiciteitsrechten, privacy recht, of morele rechten kunnen het mogelijke gebruik van dit item beperken."@nl ;
   skos:note "You may find additional information about the copyright status of the item on the website of the organisation that has made the item available."@en ;
+  skos:note "Je kan aanvullende informatie over de rechtenstatus van het item op de website van de organisatie vinden die het item beschikbaar heeft gesteld."@nl ;
   skos:scopeNote "This rights statement can be used for any in copyright work. However it can only be applied to works where the organisation submitting the item is the rightsholder or where the institution submitting the item has been explicitly authorized by the rightsholder(s) to allow third parties to use the work for educational purposes without obtaining permission first."@en ;
+  skos:scopeNote "Deze rechtenstatement kan gebruikt worden voor elke auteursrechtelijke beschermd werk. De statemetn kan alleen toegepast worden wanneer de organisatie die deze statement aan het item verbind de rechthebbende is van het werk of expliciete toestemming heeft verkregen van de rechthebbende(n) om het werk beschikbaar te stellen voor educatief gebruik voor derden zonder daar zelf toestemming voor te hoeven vragen."@nl ;
+  odrl:permission [
+    odrl:action odrl:use ;
+    odrl:constraint [
+      odrl:operator odrl:eq ;
+      odrl:purpose <educationalUse>
+    ]
+  ] ;
   skos:relatedMatch premiscopy:cpr ;
   dcterms:creator <irswg> ;
   dcterms:hasVersion "1.0" ;
@@ -124,16 +178,26 @@ For other uses you need to obtain permission from the rightsholders."""@en ;
 
 <InC-NC> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "In Copyright - NonCommercial Use Permitted"@en ;
+  skos:prefLabel "Gebruikt Beperkt door het Auteursrecht – Niet Commercieel Gebruik Toegestaan"@nl ;
   dcterms:modified "2015-07-17" ;
   skos:definition """This item is protected by copyright and/or related rights.
 
 You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to you. In addition, for all non-commercial uses, no permission is required from the rightsholders.
 
 For other uses you need to obtain permission from the rightsholders."""@en ;
+  skos:definition """Het gebruik van dit item wordt beperkt door het auteursrecht een aanverwante rechten.
+  
+Je bent vrij om dit item te gebruiken op manieren die worden toegestaan door de auteurswet of wetten op aanverwante rechten die op jou van toepassing zijn. Additioneel is er geen toestemming nodig van de rechthebbenden voor alle niet commerciele gebruiken.
+  
+Voor andere gebruiken heb je toestemming van de rechthebbende nodig."""@nl ;
   skos:note "Unless expressly stated otherwise, the organisation that has made this item available makes no warranties about the item. You are responsible for your own use."@en ;
+  skos:note "Tenzij expliciet aangegeven, de organisatie die dit artikel beschikbaar heeft gesteld geeft geen garanties over het item. Je bent verantwoordelijk voor je eigen gebruik."@nl ;
   skos:note "You may need to obtain other permissions for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material."@en ;
+  skos:note "Het is mogelijk dat je meer toestemming moet verkrijgen voor je beoogde gebruik. Bijvoorbeeld, andere rechten als publiciteitsrechten, privacy recht, of morele rechten kunnen het mogelijke gebruik van dit item beperken."@nl ;
   skos:note "You may find additional information about the copyright status of the item on the website of the organisation that has made the item available."@en ;
+  skos:note "Je kan aanvullende informatie over de rechtenstatus van het item op de website van de organisatie vinden die het item beschikbaar heeft gesteld."@nl ;
   skos:scopeNote "This rights statement can be used for any in copyright work. However it can only be applied to works where the organisation submitting the item is the rights holder or where the institution submitting the item has been explicitly authorized by the rights holder(s) to allow third parties to use the work for non-commercial purposes without obtaining permission first."@en ;
+  skos:scopeNote "Deze rechtenstatement kan gebruikt worden voor elke auteursrechtelijke beschermd werk. De statemetn kan alleen toegepast worden wanneer de organisatie die deze statement aan het item verbind de rechthebbende is van het werk of expliciete toestemming heeft verkregen van de rechthebbende(n) om het werk beschikbaar te stellen voor niet commercieel gebruik door derden zonder dat deze toestemming hiervoor hoeven te vragen."@nl ;
   cc:prohibits cc:CommercialUse ;
   skos:closeMatch <http://creativecommons.org/licenses/by-nc/4.0/> ;
   skos:relatedMatch premiscopy:cpr ;
@@ -144,13 +208,20 @@ For other uses you need to obtain permission from the rightsholders."""@en ;
 
 <OOC-NC> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "Out Of Copyright - NonCommercial Use Only"@en ;
+  skos:prefLabel "Gebruik Beperkt door het Auteursrecht – Alleen niet Commercieel Gebruik"@nl ;
   dcterms:modified "2015-07-17";
   skos:definition """This object has been digitized in a public-private partnership. As part of this partnership, the partners have agreed to limit commercial uses of￼this digital representation of the object by third parties [until the year￼xxxx].￼
 
 You can, without permission, copy, modify, distribute, display, or perform the digital object, for non-commercial uses. For any other permissible uses, please review the terms and conditions of the Data￼Provider.
 
-In some jurisdictions moral rights of the author may persist beyond the term of copyright. These rights may include the right to be identified as ￼the author and the right to object to derogatory treatments. When using this digital object please respect Europeana's usage Guidelines for public domain works."""@en ;
+In some jurisdictions moral rights of the author may persist beyond the term of copyright. These rights may include the right to be identified as the author and the right to object to derogatory treatments. When using this digital object please respect Europeana's usage Guidelines for public domain works."""@en ;
+  skos:definition """Dit item is gedigitaliseerd in een publiek-private samenwerking. Als onderdeel van deze samenwerking hebben de partners van deze samenwerking afgesproken om commercieel gebruik van het gedigitaliseerde werk te beperken voor derden.
+  
+Zonder expliciete toestemming kan je dit digitale object voor niet commerciële doeleinden kopiëren, aanpassen, verspreiden, tentoonstellen, en opvoeren. Bekijk de voorwaarden van de data provider voor alle andere gebruiken.
+  
+Morele rechten kunnen in sommige jurisdictie langer duren dan de duur van het auteursrecht. Morele rechten bevatten onder andere het recht om geïdentificeerd te worden als de auteur"""@nl ;
   skos:scopeNote "This rights statement can only be used for works that are in the Public Domain and have been digitized in a public-private partnership as part of which, the partners have agreed to limit commercial uses of ￼this digital representation of the object by third parties. It has been developed specifically to allow the inclusion of works that have been digitized as part of the partnerships between European Libraries and Google, but can in theory be applied to works that have been digitized in similar public private partnerships."@en ;
+  skos:scopeNote "";
   cc:prohibits cc:CommercialUse ;
   skos:relatedMatch premiscopy:pub ;
   dcterms:creator <irswg> ;
@@ -160,6 +231,7 @@ In some jurisdictions moral rights of the author may persist beyond the term of 
 
 <NoC-CR> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "No Copyright - Contractual Restrictions Present"@en ;
+  skos:prefLabel "Geen Auteursrechtelijke Beperkingen - Beperkt door Contractuele Beperkingen"@nl ;
   dcterms:modified "2015-07-17" ;
   # per pk comment on 2015-07-17 Dave and Diane are editing the text below
   skos:definition """This item is not covered by copyright and/or related rights.
@@ -167,10 +239,18 @@ In some jurisdictions moral rights of the author may persist beyond the term of 
 As part of the acquisition or digitisation of this item, the organisation that has made the item available is contractually required to limit the use of this item. Limitations may be due to privacy issues, cultural protections, or donor agreements.
 
 Please refer to the organisation that has made the item available for more information."""@en ;
+  skos:definition """Het gebruik van dit item is niet beperkt door het auteursrecht of naburige rechten.
+
+De organisatie die dit item beschikbaar heeft gesteld moet door contractuele beperkingen het toegestane gebruik van het werk beperken als onderdeel van de acquisitie of digitalisering van dit item. Deze beperkingen kunnen ontstaan door privacy vraagstukken, culturele bescherming of door afspraken met donateurs.
+Kijk bij de organisatie die dit item beschikbaar heeft gesteld voor meer informatie."""@nl ;
   skos:note "Unless expressly stated otherwise, the organisation that has made this item available makes no warranties about the item. You are responsible for your own use."@en ;
+  skos:note "Tenzij expliciet aangegeven, de organisatie die dit artikel beschikbaar heeft gesteld geeft geen garanties over het item. Je bent verantwoordelijk voor je eigen gebruik."@nl ;
   skos:note "You may need to obtain other permissions for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material."@en ;
+  skos:note "Het is mogelijk dat je meer toestemming moet verkrijgen voor je beoogde gebruik. Bijvoorbeeld, andere rechten als publiciteitsrechten, privacy recht, of morele rechten kunnen het mogelijke gebruik van dit item beperken."@nl ;
   skos:note "You may find additional information about the copyright status of the item on the website of the organisation that has made the item available."@en ;
+  skos:note "Je kan aanvullende informatie over de rechtenstatus van het item op de website van de organisatie vinden die het item beschikbaar heeft gesteld."@nl ;
   skos:scopeNote "This rights statement can only be used for items that are in the Public Domain but where the data provider has entered into contractual agreement that limits third party uses of the item. In order for this rights statement to be conclusive the data provider must provide a link to a page detailing the the contractual restrictions that apply to the use of the item."@en ;
+  skos:scopeNote "Deze rechtenstatement kan alleen gebruikt worden bij items die in het publiek domein zijn, maar waar de data provider een contractuele overeenkomst heeft gesloten die het gebruik door derde partijen beperkt. Om deze statement afdoende te maken moet de data provider een link toevoegen naar een webpagina die de contractuele beperking beschrijft."@nl ;
   skos:relatedMatch premiscopy:pub ;
   dcterms:hasVersion "1.0" ;
   dcterms:creator <irswg> ;
@@ -179,16 +259,26 @@ Please refer to the organisation that has made the item available for more infor
 
 <NoC-OLR> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "No Copyright - Other Legal Restrictions"@en ;
+  skos:prefLabel "Geen Auteursrechtelijke Beperking - Andere Juridische Beperkingen"@nl ;
   dcterms:modified "2015-07-17" ;
   skos:definition """This item is not covered by copyright and/or related rights.
 
 In one or more jurisdictions, laws other than copyright impose restrictions on the use of this item.
 
 Please refer to the organisation that has made the item available for more information."""@en ;
+  skos:definition """Dit item heeft geen gebruiksbeperkingen gebaseerd op het auteursrecht of naburige rechten.
+
+In één of meerdere jurisdicties kunnen er wetten bestaan buiten het auteursrecht die additionele gebruiksbeperkingen aan dit item.   
+
+Kijk bij de organisatie die dit item beschikbaar heeft gesteld voor meer informatie."""@nl ;
   skos:note "Unless expressly stated otherwise, the organisation that has made this item available makes no warranties about the item. You are responsible for your own use."@en ;
+  skos:note "Tenzij expliciet aangegeven, de organisatie die dit artikel beschikbaar heeft gesteld geeft geen garanties over het item. Je bent verantwoordelijk voor je eigen gebruik."@nl ;
   skos:note "You may need to obtain other permissions for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material."@en ;
+  skos:note "Het is mogelijk dat je meer toestemming moet verkrijgen voor je beoogde gebruik. Bijvoorbeeld, andere rechten als publiciteitsrechten, privacy recht, of morele rechten kunnen het mogelijke gebruik van dit item beperken."@nl ;
   skos:note "You may find additional information about the copyright status of the item on the website of the organisation that has made the item available."@en ;
+  skos:note "Je kan aanvullende informatie over de rechtenstatus van het item op de website van de organisatie vinden die het item beschikbaar heeft gesteld."@nl ;
   skos:scopeNote "This rights statement should be used for items that are in the Public Domain but that cannot be freely reused as the consequence of other legal restrictions that prevent the data provider from allowing free re-use of the work. In order for this rights statement to be conclusive the data provider must provide a link to a page detailing the the legal restrictions that limit re-use of the item."@en ;
+  skos:scopeNote "Deze rechtenstatement kan alleen gebruikt worden bij items die in het publiek domein zijn, maar als een consequentie van andere juridische restricties niet gedeeld kan worden voor hergebruik door de data provider. Om deze statement afdoende te maken moet de data provider een link toevoegen naar een webpagina die de contractuele beperking beschrijft."@nl ;
   skos:relatedMatch premiscopy:pub ;
   dcterms:hasVersion "1.0" ;
   dcterms:creator <irswg> ;
@@ -197,14 +287,22 @@ Please refer to the organisation that has made the item available for more infor
 
 <NKC> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "No Known Copyright"@en ;
+  skos:prefLabel "Geen Bekende Auteursrechtelijke Beperking"@nl ;
   dcterms:modified "2015-07-17" ;
   skos:definition """The organisation that has made available the item reasonably believes that no copyright or related rights are known to exist in this item, but a conclusive determination could not be made. Please refer to the organisation that has made the item available for more information.
 
 You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to you."""@en ;
+  skos:definition """De organisatie die dit item beschikbaar heeft gesteld heeft reden om te geloven dat er geen auteursrechtelijke beperkingen of beperkingen door naburige rechten bestaan voor dit item, maar een definitie determinatie kon niet worden gemaakt. Kijk bij de organisatie die dit item beschikbaar heeft gesteld voor meer informatie. 
+
+Je bent vrij om dit item te gebruiken op manieren die worden toegestaan door de auteurswet of wetten op aanverwante rechten die op jou van toepassing zijn."""@nl ;
   skos:note "Unless expressly stated otherwise, the organisation that has made this item available makes no warranties about the item. You are responsible for your own use."@en ;
+  skos:note "Tenzij expliciet aangegeven, de organisatie die dit artikel beschikbaar heeft gesteld geeft geen garanties over het item. Je bent verantwoordelijk voor je eigen gebruik."@nl ;
   skos:note "You may need to obtain other permissions for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material."@en ;
+  skos:note "Het is mogelijk dat je meer toestemming moet verkrijgen voor je beoogde gebruik. Bijvoorbeeld, andere rechten als publiciteitsrechten, privacy recht, of morele rechten kunnen het mogelijke gebruik van dit item beperken."@nl ;
   skos:note "You may find additional information about the copyright status of the item on the website of the organisation that has made the item available."@en ;
+  skos:note "Je kan aanvullende informatie over de rechtenstatus van het item op de website van de organisatie vinden die het item beschikbaar heeft gesteld."@nl ;
   skos:scopeNote "This rights statement should be used for items where the copyright status has not been determined conclusively, but where the data provider has reasonable cause to believe that the work is not covered by copyright or related rights anymore. This rights statement should not be used for orphan works (which are assumed to be in copyright) or for works where the data provider has not undertaken an effort to ascertain the copyright status of the work."@en ;
+  skos:scopeNote "Dit rechtenstatement kan alleen gebruikt worden bij items waar de auteursrechtelijke status niet definitief te bepalen is, maar waar de data provider redelijkerwijs kan stellen dat de het item niet langer door auteursrechten of naburige rechten beperkt wordt, Dit rechtenstatement moet niet gebruikt worden bij verweesde werken (waar aangenomen kan worden dat deze nog auteursrechtelijk beperkt zijn) en voor werken waar de data provider geen poging ondernomen heeft om de auteursrechtelijke status van het werk vast te stellen"@nl ;
   skos:relatedMatch premiscopy:unk ;
   dcterms:hasVersion "1.0" ;
   dcterms:creator <irswg> ;
@@ -212,15 +310,23 @@ You are free to use this item in any way that is permitted by the copyright and 
   skos:inScheme <> .
 
 <CNE> a dcterms:RightsStatement, skos:Concept ;
-  skos:prefLabel "Copyright Not Evaluated "@en ;
+  skos:prefLabel "Copyright Not Evaluated"@en ;
+  skos:prefLabel "Auteursrechtelijke Status niet beoordeeld."@nl ;
   dcterms:modified "2015-07-17" ;
   skos:definition """The copyright and related rights status of this item has not been evaluated. Please refer to the organisation that has made the item available for more information.
 
 You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to you."""@en ;
+  skos:definition """De auteursrechtelijke status en de naburige rechten status van dit item zijn niet geïdentificeerd. Kijk bij de organisatie die dit item beschikbaar heeft gesteld voor meer informatie.
+  
+Je bent vrij om dit item te gebruiken op manieren die worden toegestaan door de auteurswet of wetten op aanverwante rechten die op jou van toepassing zijn."""@nl ;
   skos:note "Unless expressly stated otherwise, the organisation that has made this item available makes no warranties about the item. You are responsible for your own use."@en ;
+  skos:note "Tenzij expliciet aangegeven, de organisatie die dit artikel beschikbaar heeft gesteld geeft geen garanties over het item. Je bent verantwoordelijk voor je eigen gebruik."@nl ;
   skos:note "You may need to obtain other permissions for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material."@en ;
+  skos:note "Het is mogelijk dat je meer toestemming moet verkrijgen voor je beoogde gebruik. Bijvoorbeeld, andere rechten als publiciteitsrechten, privacy recht, of morele rechten kunnen het mogelijke gebruik van dit item beperken."@nl ;
   skos:note "You may find additional information about the copyright status of the item on the website of the organisation that has made the item available."@en ;
+  skos:note "Je kan aanvullende informatie over de rechtenstatus van het item op de website van de organisatie vinden die het item beschikbaar heeft gesteld."@nl ;
   skos:scopeNote "This rights statement should be used for items where the copyright status is unknown and where the data provider not undertaken an effort to determine the copyright status of the work."@en ;
+  skos:scopeNote "Dit rechtenstatement kan alleen gebruikt worden bij items waar de auteursrechtelijke status onbekend is en waar de data provider geen poging ondernomen heeft om de auteursrechtelijke status van het werk te bepalen."@nl ;
   skos:closeMatch <http://www.europeana.eu/rights/unknown/> ;
   skos:relatedMatch premiscopy:unk ;
   dcterms:hasVersion "1.0" ;
