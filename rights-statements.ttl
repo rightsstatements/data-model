@@ -15,10 +15,11 @@
 
 # Metadata about the vocabulary itself
 
-<> a skos:ConceptScheme ;
+<1.0/> a skos:ConceptScheme ;
   dcterms:title "RightsStatements.org Standardized International Rights Statements"@en ;
   dcterms:creator <irswg> ;
-  dc:identifier "rscs" .
+  dc:identifier "rscs" ;
+  owl:versionInfo "1.0" .
 
 <irswg> a edm:Agent, foaf:Group ;
   foaf:name "International Rights Statements Working Group"@en ;
@@ -73,7 +74,7 @@ For other uses you need to obtain permission from the rights-holder(s)."""@en ;
   owl:versionInfo "1.0" ;
   dcterms:creator <irswg> ;
   dc:identifier "InC" ;
-  skos:inScheme <> .
+  skos:inScheme <1.0/> .
 
 <InC-OW-EU/1.0/> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "In Copyright - EU Orphan Work"@en ;
@@ -93,7 +94,7 @@ You are free to use this item in any way that is permitted by the copyright and 
   dcterms:creator <irswg> ;
   owl:versionInfo "1.0" ;
   dc:identifier "InC-OW-EU" ;
-  skos:inScheme <> .
+  skos:inScheme <1.0/> .
 
 <InC-RUU/1.0/> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "In Copyright - Copyright Owner Unlocatable or Unidentifiable"@en ;
@@ -110,7 +111,7 @@ You are free to use this item in any way that is permitted by the copyright and 
   dcterms:creator <irswg> ;
   owl:versionInfo "1.0" ;
   dc:identifier "InC-RUU" ;
-  skos:inScheme <> .
+  skos:inScheme <1.0/> .
 
 <InC-EDU/1.0/> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "In Copyright - Educational Use Permitted"@en ;
@@ -128,7 +129,7 @@ For other uses, you need to obtain permission from the rights-holder(s)."""@en ;
   dcterms:creator <irswg> ;
   owl:versionInfo "1.0" ;
   dc:identifier "InC-EDU" ;
-  skos:inScheme <> .
+  skos:inScheme <1.0/> .
 
 <InC-NC/1.0/> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "In Copyright - NonCommercial Use Permitted"@en ;
@@ -148,7 +149,7 @@ For other uses you need to obtain permission from the rightsholder(s)."""@en ;
   dcterms:creator <irswg> ;
   owl:versionInfo "1.0" ;
   dc:identifier "InC-NC" ;
-  skos:inScheme <> .
+  skos:inScheme <1.0/> .
 
 #
 # NOTE: OOC-NC will only be included in the list of rights statements if we fail to get support from the current users to switch to NoC-CR. 
@@ -168,7 +169,7 @@ For other uses you need to obtain permission from the rightsholder(s)."""@en ;
 #   dcterms:creator <irswg> ;
 #   owl:versionInfo "1.0" ;
 #   dc:identifier "OOC-NC" ;
-#   skos:inScheme <> .
+#   skos:inScheme <1.0/> .
 
 <NoC-CR> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "No Copyright - Contractual Restrictions"@en ;
@@ -186,7 +187,7 @@ Please refer to the organization that has made the item available for more infor
   owl:versionInfo "1.0" ;
   dcterms:creator <irswg> ;
   dc:identifier "NoC-CR" ;
-  skos:inScheme <> .
+  skos:inScheme <1.0/> .
 
 <NoC-OKLR/1.0/> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "No Copyright - Other Known Legal Restrictions"@en ;
@@ -204,7 +205,7 @@ Please refer to the organization that has made the item available for more infor
   owl:versionInfo "1.0" ;
   dcterms:creator <irswg> ;
   dc:identifier "NoC-OKLR" ;
-  skos:inScheme <> .
+  skos:inScheme <1.0/> .
 
 <NKC/1.0/> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "No Known Copyright"@en ;
@@ -222,7 +223,7 @@ You are free to use this item in any way that is permitted by the copyright and 
   owl:versionInfo "1.0" ;
   dcterms:creator <irswg> ;
   dc:identifier "NKC" ;
-  skos:inScheme <> .
+  skos:inScheme <1.0/> .
 
 <CNE/1.0/> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "Copyright Not Evaluated"@en ;
@@ -241,4 +242,4 @@ You are free to use this item in any way that is permitted by the copyright and 
   owl:versionInfo "1.0" ;
   dcterms:creator <irswg> ;
   dc:identifier "CNE" ;
-  skos:inScheme <> .
+  skos:inScheme <1.0/> .
