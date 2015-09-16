@@ -5,3 +5,4 @@ addons:
       - raptor2-utils
 script:
   - rapper -q -i turtle rights-statements.ttl > /dev/null
+  - rapper -q -i turtle example-versions.ttl > /dev/null
