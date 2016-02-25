@@ -37,12 +37,13 @@
   skos:member <InC-EDU/1.0/> ;
   skos:member <InC-NC/1.0/> .
 
-<collection-pd/1.0/> a skos:Collection ;
+<collection-nc/1.0/> a skos:Collection ;
   skos:prefLabel "Rights Statements for works that are not in copyright"@en ;
   owl:versionInfo "1.0" ;
-  skos:member <OOC-NC/1.0/> ;
+  skos:member <NoC-NC/1.0/> ;
   skos:member <NoC-CR/1.0/> ;
-  skos:member <NoC-OKLR/1.0/> .
+  skos:member <NoC-OKLR/1.0/> ;
+  skos:member <NoC-US/1.0/> .
 
 <collection-other/1.0/> a skos:Collection ;
   skos:prefLabel "other Rights Statements"@en ;
@@ -101,8 +102,8 @@
   skos:inScheme <1.0/> .
 
 <InC-RUU/1.0/> a dcterms:RightsStatement, skos:Concept ;
-  skos:prefLabel "In Copyright - In Copyright - Rights-holder(s) Unlocatable or Unidentifiable"@en ;
-  dcterms:modified "2015-10-16" ;
+  skos:prefLabel "In Copyright - Rights-holder(s) Unlocatable or Unidentifiable"@en ;
+  dcterms:modified "2016-02-24" ;
   skos:definition """This Item is protected by copyright and/or related rights. However, for this Item, either (a) no rights-holder(s) have been identified or (b) one or more rights-holder(s) have been identified but none have been located.
 
 You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use."""@en ;
@@ -136,8 +137,8 @@ For other uses, you need to obtain permission from the rights-holder(s)."""@en ;
   skos:inScheme <1.0/> .
 
 <InC-NC/1.0/> a dcterms:RightsStatement, skos:Concept ;
-  skos:prefLabel "In Copyright - NonCommercial Use Permitted"@en ;
-  dcterms:modified "2015-10-16" ;
+  skos:prefLabel "In Copyright - Non-Commercial Use Permitted"@en ;
+  dcterms:modified "2016-02-24" ;
   skos:definition """This Item is protected by copyright and/or related rights.
 
 You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. In addition, no permission is required from the rights-holder(s) for non-commercial uses.
@@ -155,20 +156,21 @@ For other uses you need to obtain permission from the rightsholder(s)."""@en ;
   dc:identifier "InC-NC" ;
   skos:inScheme <1.0/> .
 
- <OOC-NC/1.0/> a dcterms:RightsStatement, skos:Concept ;
-   skos:prefLabel "Out Of Copyright - Non-Commercial Use Only"@en ;
-   dcterms:modified "2015-10-16";
-   skos:definition """This object has been digitized in a public-private partnership. As part of this partnership, the partners have agreed to limit commercial uses of￼ this digital representation of the object by third parties.￼
+ <NoC-NC/1.0/> a dcterms:RightsStatement, skos:Concept ;
+   skos:prefLabel "No Copyright - Non-Commercial Use Only "@en ;
+   dcterms:modified "2016-02-24";
+   skos:definition """This object has been digitized in a public-private partnership. As part of this partnership, the partners have agreed to limit commercial uses of this digital representation of the object by third parties.
 
- You can, without permission, copy, modify, distribute, display, or perform the digital object, for non-commercial uses. For any other permissible uses, please review the terms and conditions of the Data￼ Provider.
-
- In some jurisdictions moral rights of the author may persist beyond the term of copyright. These rights may include the right to be identified as ￼the author and the right to object to derogatory treatments. When using this digital object please respect Europeana's usage Guidelines for public domain works."""@en ;
-   skos:scopeNote "This Rights Statement can only be used for Works that are in the Public Domain and have been digitized in a public-private partnership as part of which, the partners have agreed to limit commercial uses of ￼this digital representation of the Work by third parties. It has been developed specifically to allow the inclusion of Works that have been digitized as part of the partnerships between European Libraries and Google, but can in theory be applied to works that have been digitized in similar public-private partnerships."@en ;
-    cc:prohibits cc:CommercialUse ;
+You can, without permission, copy, modify, distribute, display, or perform the digital object, for non-commercial uses. For any other permissible uses, please review the terms and conditions of the organization that has made the item available."""@en ;
+   skos:note "Unless expressly stated otherwise, the organization that has made this Item available makes no warranties about the Item and cannot guarantee the accuracy of this Rights Statement. You are responsible for your own use."@en ;
+   skos:note "You may need to obtain other permissions for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you may use the material."@en ;
+   skos:note "You may find additional information about the copyright status of the Item on the website of the organization that has made the Item available."@en ;
+   skos:scopeNote "This Rights Statement can only be used for Works that are in the Public Domain and have been digitized in a public-private partnership as part of which, the partners have agreed to limit commercial uses of ￼this digital representation of the Work by third parties. It has been developed specifically to allow the inclusion of Works that have been digitized as part of the partnerships between European Libraries and Google, but can in theory be applied to Works that have been digitized in similar public-private partnerships."@en ;
+   cc:prohibits cc:CommercialUse ;
    skos:relatedMatch premiscopy:pub ;
    dcterms:creator <irswg> ;
    owl:versionInfo "1.0" ;
-   dc:identifier "OOC-NC" ;
+   dc:identifier "NoC-NC" ;
    skos:inScheme <1.0/> .
 
 <NoC-CR/1.0/> a dcterms:RightsStatement, skos:Concept ;
@@ -205,6 +207,21 @@ Please refer to the organization that has made the Item available for more infor
   owl:versionInfo "1.0" ;
   dcterms:creator <irswg> ;
   dc:identifier "NoC-OKLR" ;
+  skos:inScheme <1.0/> .
+
+<NoC-US/1.0/> a dcterms:RightsStatement, skos:Concept ;
+  skos:prefLabel "No Copyright - United States"@en ;
+  dcterms:modified "2016-02-24" ;
+  skos:definition """The organization that has made the Item available believes that the Item is in the Public Domain under the laws of the United States, but a determination was not made as to its copyright status under the copyright laws of other countries. The Item may not be in the Public Domain under the laws of other countries.
+
+Please refer to the organization that has made the Item available for more information."""@en ;
+  skos:note "Unless expressly stated otherwise, the organization that has made this Item available makes no warranties about the Item and cannot guarantee the accuracy of this Rights Statement. You are responsible for your own use."@en ;
+  skos:note "You may need to obtain other permissions for your intended use. For example, other rights such as publicity, privacy or moral rights may limit how you may use the material."@en ;
+  skos:note "You may find additional information about the copyright status of the Item on the website of the organization that has made the Item available."@en ;
+  skos:scopeNote "This Rights Statement should be used for Items for which the provider has determined are free of copyright under the laws of the United States. This Rights Statement should not be used for Orphan Works (which are assumed to be in­-copyright) or for Works where the data provider has not undertaken an effort to ascertain the copyright status of the Work."@en ;
+  owl:versionInfo "1.0" ;
+  dcterms:creator <irswg> ;
+  dc:identifier "NoC-US" ;
   skos:inScheme <1.0/> .
 
 <NKC/1.0/> a dcterms:RightsStatement, skos:Concept ;
