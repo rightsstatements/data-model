@@ -12,6 +12,7 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix schema: <http://schema.org/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 # Metadata about the vocabulary itself
 
@@ -61,7 +62,7 @@
   skos:prefLabel "In Copyright"@en ;
   skos:prefLabel "Auteursrechtelijk Beperkt"@nl ;
   dcterms:isReplacedBy <InC/1.0/> ;
-  dcterms:modified "0000-00-00" ;
+  dcterms:modified "2016-02-25"^^xsd:date ;
   skos:closeMatch <http://www.europeana.eu/rights/rr-f/> ;
   skos:definition """This item is protected by copyright and/or related rights. 
 
@@ -94,7 +95,7 @@ Voor andere gebruiken heb je toestemming van de rechthebbende nodig."""@nl ;
   skos:prefLabel "In Copyright - EU Orphan Work"@en ;
   skos:prefLabel "Auteursrechtelijk Beperkt - EU Verweesd Werk"@nl ;
   dcterms:isReplacedBy <InC-OW-EU/1.0/> ;
-  dcterms:modified "0000-00-00" ;
+  dcterms:modified "2016-02-25"^^xsd:date ;
   skos:closeMatch <http://www.europeana.eu/rights/orphan-work-eu/> ;
   skos:definition """This item has been identified as an orphan work in the country of first publication and in line with Directive 2012/28/EU of the European Parliament and of the Council of 25 October 2012 on certain permitted uses of orphan works.
 
@@ -126,7 +127,7 @@ Je bent vrij om dit item te gebruiken op de manier die toegestaan zijn door he a
   skos:prefLabel "In Copyright - Copyright Owner Unlocatable or Unidentifiable"@en ;
   skos:prefLabel "Auteursrechtelijk Beperkt – Rechthebbende is niet te identificeren of te vinden"@nl ;
   dcterms:isReplacedBy <InC-RUU/1.0/> ;
-  dcterms:modified "0000-00-00" ;
+  dcterms:modified "2016-02-25"^^xsd:date ;
   skos:definition """This item is protected by copyright and/or related rights. However, for this item, either (a) no rights-holder(s) have been identified or (b) one or more rights-holder(s) have been identified but none have been located.
 
 You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to your use."""@en ;
@@ -152,7 +153,7 @@ Je bent vrij om dit item te gebruiken op de manier die toegestaan zijn door he a
   skos:prefLabel "In Copyright - Educational Use Permitted"@en ;
   skos:prefLabel "Beperkt door het Auteursrecht - Gebruik voor onderwijsdoeleinden toegestaan"@nl ;
   dcterms:isReplacedBy <InC-EDU/1.0/> ;
-  dcterms:modified "0000-00-00" ;
+  dcterms:modified "2016-02-25"^^xsd:date ;
   skos:definition """This item is protected by copyright and/or related rights.
 
 You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to your use. In addition, no permission is required from the rights-holder(s) for educational uses.
@@ -181,7 +182,7 @@ Voor andere gebruiken heb je toestemming van de rechthebbende nodig."""@nl ;
   skos:prefLabel "In Copyright - NonCommercial Use Permitted"@en ;
   skos:prefLabel "Gebruikt Beperkt door het Auteursrecht – Niet Commercieel Gebruik Toegestaan"@nl ;
   dcterms:isReplacedBy <InC-NC/1.0/> ;
-  dcterms:modified "0000-00-00" ;
+  dcterms:modified "2016-02-25"^^xsd:date ;
   skos:definition """This item is protected by copyright and/or related rights. 
 
 You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to your use. In addition, no permission is required from the rights-holder(s) for non-commercial uses.
@@ -212,7 +213,7 @@ Voor andere gebruiken heb je toestemming van de rechthebbende nodig."""@nl ;
   skos:prefLabel "No Copyright - Contractual Restrictions"@en ;
   skos:prefLabel "Geen Auteursrechtelijke Beperkingen - Beperkt door Contractuele Beperkingen"@nl ;
   dcterms:isReplacedBy <NoC-CR/1.0/> ;
-  dcterms:modified "0000-00-00" ;
+  dcterms:modified "2016-02-25"^^xsd:date ;
   skos:definition """Use of this item is not restricted by copyright and/or related rights.
 
 As part of the acquisition or digitization of this item, the organization that has made the item available is contractually required to limit the use of this item. Limitations may include, but are not limited to, privacy issues, cultural protections, digitization agreements or donor agreements.
@@ -241,7 +242,7 @@ Kijk bij de organisatie die dit item beschikbaar heeft gesteld voor meer informa
   skos:prefLabel "No Copyright - Other Known Legal Restrictions"@en ;
   skos:prefLabel "Geen Auteursrechtelijke Beperking - Andere Juridische Beperkingen"@nl ;
   dcterms:isReplacedBy <NoC-OKLR/1.0/> ;
-  dcterms:modified "0000-00-00" ;
+  dcterms:modified "2016-02-25"^^xsd:date ;
   skos:definition """Use of this item is not restricted by copyright and/or related rights.
 
 In one or more jurisdictions, laws other than copyright are known to impose restrictions on the use of this item.
@@ -270,7 +271,7 @@ Kijk bij de organisatie die dit item beschikbaar heeft gesteld voor meer informa
   skos:prefLabel "No Known Copyright"@en ;
   skos:prefLabel "Geen Bekende Auteursrechtelijke Beperking"@nl ;
   dcterms:isReplacedBy <NKC/1.0/> ;
-  dcterms:modified "0000-00-00" ;
+  dcterms:modified "2016-02-25"^^xsd:date ;
   skos:definition """The organization that has made the item available reasonably believes that the item is not restricted by copyright or related rights, but a conclusive determination could not be made. 
 
 Please refer to the organization that has made the item available for more information. 
@@ -297,7 +298,7 @@ Je bent vrij om dit item te gebruiken op manieren die worden toegestaan door de 
   skos:prefLabel "Copyright Not Evaluated"@en ;
   skos:prefLabel "Auteursrechtelijke Status niet beoordeeld."@nl ;
   dcterms:isReplacedBy <CNE/1.0/> ;
-  dcterms:modified "0000-00-00" ;
+  dcterms:modified "2016-02-25"^^xsd:date ;
   skos:definition """The copyright and related rights status of this item has not been evaluated. 
 
 Please refer to the organization that has made the item available for more information. 
