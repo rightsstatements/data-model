@@ -12,6 +12,7 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix schema: <http://schema.org/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 # Metadata about the vocabulary itself
 
@@ -64,7 +65,7 @@
 
 <InC/1.0/> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "In Copyright"@en ;
-  dcterms:modified "2015-10-16" ;
+  dcterms:modified "2015-10-16"^^xsd:date ;
   skos:closeMatch <http://www.europeana.eu/rights/rr-f/> ;
   skos:definition """This Item is protected by copyright and/or related rights.
 
@@ -83,7 +84,7 @@
 
 <InC-OW-EU/1.0/> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "In Copyright - EU Orphan Work"@en ;
-  dcterms:modified "2015-10-15" ;
+  dcterms:modified "2015-10-15"^^xsd:date ;
   skos:closeMatch <http://www.europeana.eu/rights/orphan-work-eu/> ;
   skos:definition """This Item has been identified as an orphan work in the country of first publication and in line with Directive 2012/28/EU of the European Parliament and of the Council of 25 October 2012 on certain permitted uses of orphan works.
 
@@ -103,7 +104,7 @@
 
 <InC-RUU/1.0/> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "In Copyright - Rights-holder(s) Unlocatable or Unidentifiable"@en ;
-  dcterms:modified "2016-02-24" ;
+  dcterms:modified "2016-02-24"^^xsd:date ;
   skos:definition """This Item is protected by copyright and/or related rights. However, for this Item, either (a) no rights-holder(s) have been identified or (b) one or more rights-holder(s) have been identified but none have been located.
 
 You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use."""@en ;
@@ -120,7 +121,7 @@ You are free to use this Item in any way that is permitted by the copyright and 
 
 <InC-EDU/1.0/> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "In Copyright - Educational Use Permitted"@en ;
-  dcterms:modified "2015-10-16" ;
+  dcterms:modified "2015-10-16"^^xsd:date ;
   skos:definition """This Item is protected by copyright and/or related rights.
 
 You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. In addition, no permission is required from the rights-holder(s) for educational uses.
@@ -138,7 +139,7 @@ For other uses, you need to obtain permission from the rights-holder(s)."""@en ;
 
 <InC-NC/1.0/> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "In Copyright - Non-Commercial Use Permitted"@en ;
-  dcterms:modified "2016-02-24" ;
+  dcterms:modified "2016-02-24"^^xsd:date ;
   skos:definition """This Item is protected by copyright and/or related rights.
 
 You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. In addition, no permission is required from the rights-holder(s) for non-commercial uses.
@@ -175,7 +176,7 @@ You can, without permission, copy, modify, distribute, display, or perform the d
 
 <NoC-CR/1.0/> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "No Copyright - Contractual Restrictions"@en ;
-  dcterms:modified "2015-10-16" ;
+  dcterms:modified "2015-10-16"^^xsd:date ;
   skos:definition """Use of this Item is not restricted by copyright and/or related rights.
 
 As part of the acquisition or digitization of this Item, the organization that has made the Item available is contractually required to limit the use of this Item. Limitations may include, but are not limited to, privacy issues, cultural protections, digitization agreements or donor agreements.
@@ -193,7 +194,7 @@ Please refer to the organization that has made the Item available for more infor
 
 <NoC-OKLR/1.0/> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "No Copyright - Other Known Legal Restrictions"@en ;
-  dcterms:modified "2015-10-16" ;
+  dcterms:modified "2015-10-16"^^xsd:date ;
   skos:definition """Use of this Item is not restricted by copyright and/or related rights.
 
 In one or more jurisdictions, laws other than copyright are known to impose restrictions on the use of this Item.
@@ -211,7 +212,7 @@ Please refer to the organization that has made the Item available for more infor
 
 <NoC-US/1.0/> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "No Copyright - United States"@en ;
-  dcterms:modified "2016-02-24" ;
+  dcterms:modified "2016-02-24"^^xsd:date ;
   skos:definition """The organization that has made the Item available believes that the Item is in the Public Domain under the laws of the United States, but a determination was not made as to its copyright status under the copyright laws of other countries. The Item may not be in the Public Domain under the laws of other countries.
 
 Please refer to the organization that has made the Item available for more information."""@en ;
@@ -226,7 +227,7 @@ Please refer to the organization that has made the Item available for more infor
 
 <NKC/1.0/> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "No Known Copyright"@en ;
-  dcterms:modified "2015-10-16" ;
+  dcterms:modified "2015-10-16"^^xsd:date ;
   skos:definition """The organization that has made the Item available reasonably believes that the Item is not restricted by copyright or related rights, but a conclusive determination could not be made.
 
 Please refer to the organization that has made the Item available for more information.
@@ -244,7 +245,7 @@ You are free to use this Item in any way that is permitted by the copyright and 
 
 <CNE/1.0/> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "Copyright Not Evaluated"@en ;
-  dcterms:modified "2015-10-16" ;
+  dcterms:modified "2015-10-16"^^xsd:date ;
   skos:definition """The copyright and related rights status of this Item has not been evaluated.
 
 Please refer to the organization that has made the Item available for more information.
