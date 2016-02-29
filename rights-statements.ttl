@@ -62,6 +62,7 @@
 #             will be included in the final set. If it is re-added, the text should
 #             be revised.
 # 2015-10-16: Updated text to align with final published white paper. http://rightsstatements.org/files/151002recommendations_for_standardized_international_rights_statements.pdf
+# 2016-02-24: Updated text to align with revised white paper. http://rightsstatements.org/files/160208recommendations_for_standardized_international_rights_statements_v1.1.pdf
 
 <InC/1.0/> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "In Copyright"@en ;
