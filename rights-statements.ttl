@@ -63,6 +63,7 @@
 #             be revised.
 # 2015-10-16: Updated text to align with final published white paper. http://rightsstatements.org/files/151002recommendations_for_standardized_international_rights_statements.pdf
 # 2016-02-24: Updated text to align with revised white paper. http://rightsstatements.org/files/160208recommendations_for_standardized_international_rights_statements_v1.1.pdf
+# 2016-04-22: Fix typos (double "the"; remove U+FFFC)
 
 <InC/1.0/> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "In Copyright"@en ;
@@ -160,14 +161,14 @@ For other uses you need to obtain permission from the rightsholder(s)."""@en ;
 
  <NoC-NC/1.0/> a dcterms:RightsStatement, skos:Concept ;
    skos:prefLabel "No Copyright - Non-Commercial Use Only "@en ;
-   dcterms:modified "2016-02-24";
+   dcterms:modified "2016-04-22"^^xsd:date ;
    skos:definition """This object has been digitized in a public-private partnership. As part of this partnership, the partners have agreed to limit commercial uses of this digital representation of the object by third parties.
 
 You can, without permission, copy, modify, distribute, display, or perform the digital object, for non-commercial uses. For any other permissible uses, please review the terms and conditions of the organization that has made the item available."""@en ;
    skos:note "Unless expressly stated otherwise, the organization that has made this Item available makes no warranties about the Item and cannot guarantee the accuracy of this Rights Statement. You are responsible for your own use."@en ;
    skos:note "You may need to obtain other permissions for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you may use the material."@en ;
    skos:note "You may find additional information about the copyright status of the Item on the website of the organization that has made the Item available."@en ;
-   skos:scopeNote "This Rights Statement can only be used for Works that are in the Public Domain and have been digitized in a public-private partnership as part of which, the partners have agreed to limit commercial uses of ￼this digital representation of the Work by third parties. It has been developed specifically to allow the inclusion of Works that have been digitized as part of the partnerships between European Libraries and Google, but can in theory be applied to Works that have been digitized in similar public-private partnerships."@en ;
+   skos:scopeNote "This Rights Statement can only be used for Works that are in the Public Domain and have been digitized in a public-private partnership as part of which, the partners have agreed to limit commercial uses of this digital representation of the Work by third parties. It has been developed specifically to allow the inclusion of Works that have been digitized as part of the partnerships between European Libraries and Google, but can in theory be applied to Works that have been digitized in similar public-private partnerships."@en ;
    cc:prohibits cc:CommercialUse ;
    skos:relatedMatch premiscopy:pub ;
    dcterms:creator <irswg> ;
@@ -177,7 +178,7 @@ You can, without permission, copy, modify, distribute, display, or perform the d
 
 <NoC-CR/1.0/> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "No Copyright - Contractual Restrictions"@en ;
-  dcterms:modified "2015-10-16"^^xsd:date ;
+  dcterms:modified "2016-04-22"^^xsd:date ;
   skos:definition """Use of this Item is not restricted by copyright and/or related rights.
 
 As part of the acquisition or digitization of this Item, the organization that has made the Item available is contractually required to limit the use of this Item. Limitations may include, but are not limited to, privacy issues, cultural protections, digitization agreements or donor agreements.
@@ -195,7 +196,7 @@ Please refer to the organization that has made the Item available for more infor
 
 <NoC-OKLR/1.0/> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "No Copyright - Other Known Legal Restrictions"@en ;
-  dcterms:modified "2015-10-16"^^xsd:date ;
+  dcterms:modified "2016-04-22"^^xsd:date ;
   skos:definition """Use of this Item is not restricted by copyright and/or related rights.
 
 In one or more jurisdictions, laws other than copyright are known to impose restrictions on the use of this Item.
