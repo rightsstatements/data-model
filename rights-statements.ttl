@@ -50,7 +50,8 @@
   skos:prefLabel "other Rights Statements"@en ;
   owl:versionInfo "1.0" ;
   skos:member <NKC/1.0/> ;
-  skos:member <CNE/1.0/> .
+  skos:member <CNE/1.0/> ;
+  skos:member <UND/1.0/> .
 
 # Individual statements
 # 2015-07-15: updated from https://docs.google.com/document/d/1tdRAFZZefiyygRwCbcUq-kK7mNdj-6UFwBSCrPRSIoY/edit
@@ -65,6 +66,7 @@
 # 2016-02-24: Updated text to align with revised white paper. http://rightsstatements.org/files/160208recommendations_for_standardized_international_rights_statements_v1.1.pdf
 # 2016-04-22: Fix typos (double "the"; remove U+FFFC)
 # 2016-05-09: Fix additional typos
+# 2016-06-01: Add UND statement
 
 <InC/1.0/> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "In Copyright"@en ;
@@ -263,4 +265,21 @@ You are free to use this Item in any way that is permitted by the copyright and 
   owl:versionInfo "1.0" ;
   dcterms:creator <irswg> ;
   dc:identifier "CNE" ;
+  skos:inScheme <1.0/> .
+
+<UND/1.0/> a dcterms:RightsStatement, skos:Concept ;
+  skos:prefLabel "Copyright Undetermined"@en ;
+  dcterms:modified "2016-06-01"^^xsd:date ;
+  skos:definition """The copyright and related rights status of this Item has been reviewed by the organization that has made the Item available, but the organization was unable to make a conclusive determination as to the copyright status of the Item. 
+
+Please refer to the organization that has made the Item available for more information. 
+
+You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use."""@en ;
+  skos:note "Unless expressly stated otherwise, the organization that has made this Item available makes no warranties about the Item and cannot guarantee the accuracy of this Rights Statement. You are responsible for your own use."@en ;
+  skos:note "You may need to obtain other permissions for your intended use. For example, other rights such as publicity, privacy or moral rights may limit how you may use the material."@en ;
+  skos:note "You may find additional information about the copyright status of the Item on the website of the organization that has made the Item available."@en ;
+  skos:scopeNote "This Rights Statement should be used for Items for which the copyright status is unknown and for which the organization that has made the Item available has undertaken an effort to determine the copyright status of the Work. Typically, this Rights Statement is used when the organization is missing key facts essential to making an accurate copyright status determination."@en ;
+  owl:versionInfo "1.0" ;
+  dcterms:creator <irswg> ;
+  dc:identifier "UND" ;
   skos:inScheme <1.0/> .
