@@ -18,19 +18,23 @@
 
 <1.0/> a skos:ConceptScheme ;
   dcterms:title "RightsStatements.org Standardized International Rights Statements"@en ;
+  dcterms:title "RightsStatements.org Declaración Estandarizada Internacional de Derechos"@es ;
   dcterms:creator <irswg> ;
   dc:identifier "rscs" ;
   owl:versionInfo "1.0" .
 
 <irswg> a edm:Agent, foaf:Group ;
   foaf:name "International Rights Statements Working Group"@en ;
+  foaf:name "Grupo de trabajo sobre la Declaración Internacional de Derechos"@es ;
   skos:prefLabel "International Rights Statements Working Group"@en ;
+  skos:prefLabel "Grupo de trabajo sobre la Declaración Internacional de Derechos"@es ;
   foaf:homepage <http://rightsstatements.org/> .
 
 # Information about the three "collections" of statements
 
 <collection-ic/1.0/> a skos:Collection ;
   skos:prefLabel "Rights Statements for works that are in copyright"@en ;
+  skos:prefLabel "Declaración de derechos para obras que están protegidas por derecho de autor"@es ;
   owl:versionInfo "1.0" ;
   skos:member <InC/1.0/> ;
   skos:member <InC-OW-EU/1.0/> ;
@@ -40,6 +44,7 @@
 
 <collection-nc/1.0/> a skos:Collection ;
   skos:prefLabel "Rights Statements for works that are not in copyright"@en ;
+  skos:prefLabel "Declaración de derechos para obras que no están protegidas por derecho de autor"@es ;
   owl:versionInfo "1.0" ;
   skos:member <NoC-NC/1.0/> ;
   skos:member <NoC-CR/1.0/> ;
@@ -48,6 +53,7 @@
 
 <collection-other/1.0/> a skos:Collection ;
   skos:prefLabel "other Rights Statements"@en ;
+  skos:prefLabel "otras declaraciones de derechos"@es ;
   owl:versionInfo "1.0" ;
   skos:member <NKC/1.0/> ;
   skos:member <CNE/1.0/> ;
@@ -70,6 +76,7 @@
 
 <InC/1.0/> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "In Copyright"@en ;
+  skos:prefLabel "Bajo derecho de autor"@es ;
   dcterms:modified "2016-05-09"^^xsd:date ;
   skos:closeMatch <http://www.europeana.eu/rights/rr-f/> ;
   skos:definition """This Item is protected by copyright and/or related rights.
@@ -77,10 +84,19 @@
   You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use.
 
   For other uses you need to obtain permission from the rights-holder(s)."""@en ;
+  skos:definition """Este material se encuentra protegido por derecho de autor y/o otros derechos conexos. 
+
+  Usted es libre de utilizar este material de cualquier forma que esté permitida por la legislación sobre derecho de autor y derechos conexos que se aplique para su uso.
+
+  Para otros usos, usted necesita obtener permiso del titular o titulares de derechos."""@es ;
   skos:note "Unless expressly stated otherwise, the organization that has made this Item available makes no warranties about the Item and cannot guarantee the accuracy of this Rights Statement. You are responsible for your own use."@en ;
+  skos:note "A menos que se exprese lo contrario, la organización que ha puesto este material a disposición no otorga garantías sobre el material y no puede garantizar la exactitud de esta declaración de derechos. Usted es responsable por su propio uso."@es ;
   skos:note "You may need to obtain other permissions for your intended use. For example, other rights such as publicity, privacy or moral rights may limit how you may use the material."@en ;
+  skos:note "Usted quizás necesite obtener permiso para el uso que pretende hacer del material. Por ejemplo, otros derechos tales como el derecho a la publicidad, el derecho a la privacidad o los derechos morales pueden limitar la forma en que usted puede utilizar este material."@es ;
   skos:note "You may find additional information about the copyright status of the Item on the website of the organization that has made the Item available."@en ;
+  skos:note "Usted puede encontrar información adicional sobre el estado de la protección del derecho de autor sobre el material en el sitio web de la organización que puso a disposición el material."@es ;
   skos:scopeNote "This Rights Statement can be used for an Item that is in copyright. Using this statement implies that the organization making this Item available has determined that the Item is in copyright and either is the rights-holder, has obtained permission from the rights-holder(s) to make the Work available, or makes the Work available under an exception or limitation to copyright (including Fair Use) that entitles it to make the Work available."@en ;
+  skos:scopeNote "Esta declaración de derechos puede ser utilizada para un material que está bajo la protección del derecho de autor. El uso de esta declaración implica que la organización que ha puesto este material a disposición ha determinado que el material está protegido por derecho de autor y que o es la titular de derechos, o ha obtenido permiso del titular o titulares de derechos, o pone esta obra a disposición bajo una excepción o limitación al derecho de autor (incluyendo el uso justo) que la autoriza a poner a disposición esta obra."@es ; 
   skos:relatedMatch premiscopy:cpr ;
   owl:versionInfo "1.0" ;
   dcterms:creator <irswg> ;
@@ -89,6 +105,7 @@
 
 <InC-OW-EU/1.0/> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "In Copyright - EU Orphan Work"@en ;
+  skos:prefLabel "Bajo derecho de autor - Obra huérfana UE"@es ;
   dcterms:modified "2015-10-15"^^xsd:date ;
   skos:closeMatch <http://www.europeana.eu/rights/orphan-work-eu/> ;
   skos:definition """This Item has been identified as an orphan work in the country of first publication and in line with Directive 2012/28/EU of the European Parliament and of the Council of 25 October 2012 on certain permitted uses of orphan works.
@@ -96,11 +113,21 @@
   For this Item, either (a) no rights-holder(s) have been identified or (b) one or more rights-holder(s) have been identified but none have been located even though a diligent search for the rights-holder(s) has been conducted. The results of the diligent search are available in the EU Orphan Works Database.
 
   You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use."""@en ;
+  skos:definition """Este material ha sido identificado como una obra huérfana en el país de la primera publicación y en consonancia con la Directiva 2012/28/EU del Parlamento Europeo y del Comité del 25 de octubre de 2012 sobre ciertos usos permitidos de las obras huérfanas.
+
+  Para este material, bien o (a) no se han identificado titular o titulares de derechos o (b) uno o más de los titulares de derechos han sido identificados pero ninguno ha podido ser localizado a pesar de que se ha realizado una búsqueda diligente para intentar localizar al titular o a los titulares de derechos. Los resultados de la búsqueda diligente están disponibles en la Base de Datos de Obras Huérfanas de la UE.
+
+  Usted es libre de utilizar este material de cualquier forma que esté permitida bajo la legislación de derecho de autor y derechos conexos que se aplique al uso que pretende hacer."""@es ;
   skos:note "Unless expressly stated otherwise, the organization that has made this Item available makes no warranties about the Item and cannot guarantee the accuracy of this Rights Statement. You are responsible for your own use."@en ;
+  skos:note "A menos que se exprese lo contrario, la organización que ha puesto este material a disposición no otorga garantías sobre el material y no puede garantizar la exactitud de esta declaración de derechos. Usted es responsable por su propio uso."@es ;
   skos:note "You may need to obtain other permissions for your intended use. For example, other rights such as publicity, privacy or moral rights may limit how you may use the material."@en ;
+  skos:note "Usted quizás necesite obtener permiso para el uso que pretende hacer del material. Por ejemplo, otros derechos tales como el derecho a la publicidad, el derecho a la privacidad o los derechos morales pueden limitar la forma en que usted puede utilizar este material."@es ;
   skos:note "You may find additional information about the copyright status of the Item on the website of the organization that has made the Item available."@en ;
+  skos:note "Usted puede encontrar información adicional sobre el estado de la protección del derecho de autor sobre el material en el sitio web de la organización que puso a disposición el material."@es ;
   skos:note "If you have any information that can contribute to identifying or locating the rights-holder(s), please notify the organization that has made the Item available."@en ;
+  skos:note "Si usted tiene cualquier información que pueda contribuir a identificar o localizar al titular o a los titulares de derechos, por favor, notifique a la organización que ha puesto este material a disposición."@es ;
   skos:scopeNote "This Rights Statement is intended for use with Works that have been identified as Orphan Works in accordance with Directive 2012/28/EU of the European Parliament and of the Council of 25 October 2012 on certain permitted uses of Orphan Works. It can only be applied to Works that are covered by the Directive: Works published in the form of books, journals, newspapers, magazines or other writings as well as cinematographic or audiovisual works and phonograms (note: this excludes photography and visual arts). It can only be applied by data providers that are beneficiaries of the Directive: publicly accessible libraries, educational establishments and museums, archives, film or audio heritage institutions and public-service broadcasting organizations, established in one of the EU member states. The beneficiary is also expected to have registered the work in the EU Orphan Works Database maintained by OHIM."@en ;
+  skos:scopeNote "Esta declaración de derechos está prevista para ser utilizada con obras que han sido identificadas como obras huérfanas de acuerdo a la Directiva 2012/28/EU del Parlamento Europeo y del Comité del 25 de octubre de 2012 sobre ciertos usos permitidos de las obras huérfanas. Solo puede aplicarse a obras que están cubiertas por la Directiva: obras publicadas en la forma de libros, publicaciones periódicas, diarios, periódicos, revistas u otros tipos de escritos, así como obras cinematográficos o audiovisuales y fonogramas (nota: esto excluye a la fotografía y a las artes visuales). Solo puede ser aplicada por proveedores de datos que sean beneficiarios de la Directiva: bibliotecas públicas, establecimientos educativos y museos, archivos, instituciones de patrimonio fílmico o de audio y organizaciones de servicios públicos de radiodifusión, establecidos en uno de los estados miembros de la Unión Europea. Se espera del beneficiario que haya registrado la obra en la Base de Datos de Obras Huérfanas de la Unión Europea mantenida por la OHIM."@es ;
   skos:relatedMatch premiscopy:cpr ;
   dcterms:creator <irswg> ;
   owl:versionInfo "1.0" ;
@@ -109,10 +136,11 @@
 
 <InC-RUU/1.0/> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "In Copyright - Rights-holder(s) Unlocatable or Unidentifiable"@en ;
+  skos:prefLable "Bajo derecho de autor - Titular o titulares de derechos imposibles de localizar o de identificar"@es ;
   dcterms:modified "2016-02-24"^^xsd:date ;
   skos:definition """This Item is protected by copyright and/or related rights. However, for this Item, either (a) no rights-holder(s) have been identified or (b) one or more rights-holder(s) have been identified but none have been located.
 
-You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use."""@en ;
+  You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use."""@en ;
   skos:note "Unless expressly stated otherwise, the organization that has made this Item available makes no warranties about the Item and cannot guarantee the accuracy of this Rights Statement. You are responsible for your own use."@en ;
   skos:note "You may need to obtain other permissions for your intended use. For example, other rights such as publicity, privacy or moral rights may limit how you may use the material."@en ;
   skos:note "You may find additional information about the copyright status of the Item on the website of the organization that has made the Item available."@en ;
