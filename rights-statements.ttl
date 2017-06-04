@@ -115,9 +115,9 @@
   You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use."""@en ;
   skos:definition """Este material ha sido identificado como una obra huérfana en el país de la primera publicación y en consonancia con la Directiva 2012/28/EU del Parlamento Europeo y del Comité del 25 de octubre de 2012 sobre ciertos usos permitidos de las obras huérfanas.
 
-  Para este material, bien o (a) no se han identificado titular o titulares de derechos o (b) uno o más de los titulares de derechos han sido identificados pero ninguno ha podido ser localizado a pesar de que se ha realizado una búsqueda diligente para intentar localizar al titular o a los titulares de derechos. Los resultados de la búsqueda diligente están disponibles en la Base de Datos de Obras Huérfanas de la UE.
+  Para este material, bien o (a) no se han identificado titular o titulares de derechos o (b) uno o más titulares de derechos han sido identificados pero ninguno ha podido ser localizado a pesar de que se ha realizado una búsqueda diligente para intentar localizar al titular o a los titulares de derechos. Los resultados de la búsqueda diligente están disponibles en la Base de Datos de Obras Huérfanas de la UE.
 
-  Usted es libre de utilizar este material de cualquier forma que esté permitida bajo la legislación de derecho de autor y derechos conexos que se aplique al uso que pretende hacer."""@es ;
+  Usted es libre de utilizar este material de cualquier forma que esté permitida por la legislación de derecho de autor y derechos conexos que se aplique al uso que pretende hacer."""@es ;
   skos:note "Unless expressly stated otherwise, the organization that has made this Item available makes no warranties about the Item and cannot guarantee the accuracy of this Rights Statement. You are responsible for your own use."@en ;
   skos:note "A menos que se exprese lo contrario, la organización que ha puesto este material a disposición no otorga garantías sobre el material y no puede garantizar la exactitud de esta declaración de derechos. Usted es responsable por su propio uso."@es ;
   skos:note "You may need to obtain other permissions for your intended use. For example, other rights such as publicity, privacy or moral rights may limit how you may use the material."@en ;
@@ -136,16 +136,25 @@
 
 <InC-RUU/1.0/> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "In Copyright - Rights-holder(s) Unlocatable or Unidentifiable"@en ;
-  skos:prefLable "Bajo derecho de autor - Titular o titulares de derechos imposibles de localizar o de identificar"@es ;
+  skos:prefLabel "Bajo derecho de autor - Titular o titulares de derechos imposibles de localizar o de identificar"@es ;
   dcterms:modified "2016-02-24"^^xsd:date ;
   skos:definition """This Item is protected by copyright and/or related rights. However, for this Item, either (a) no rights-holder(s) have been identified or (b) one or more rights-holder(s) have been identified but none have been located.
 
   You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use."""@en ;
+  skos:definition """Este material está protegido por derecho de autor y/o derechos conexos. Sin embargo, para este material, bien o (a) no se han identificado el titular o los titulares de derechos o (b) uno o más titulares de derechos han sido identificados, pero ninguno ha podido ser localizado.
+
+  Usted es libre de utilizar este material de cualquier forma que esté permitida por la legislación de derecho de autor y derechos conexos que se aplique al uso que pretende hacer."""@es ;
+
   skos:note "Unless expressly stated otherwise, the organization that has made this Item available makes no warranties about the Item and cannot guarantee the accuracy of this Rights Statement. You are responsible for your own use."@en ;
+  skos:note "A menos que se exprese lo contrario, la organización que ha puesto este material a disposición no otorga garantías sobre el material y no puede garantizar la exactitud de esta declaración de derechos. Usted es responsable por su propio uso."@es ;
   skos:note "You may need to obtain other permissions for your intended use. For example, other rights such as publicity, privacy or moral rights may limit how you may use the material."@en ;
+  skos:note "Usted quizás necesite obtener permiso para el uso que pretende hacer del material. Por ejemplo, otros derechos tales como el derecho a la publicidad, el derecho a la privacidad o los derechos morales pueden limitar la forma en que usted puede utilizar este material."@es ;
   skos:note "You may find additional information about the copyright status of the Item on the website of the organization that has made the Item available."@en ;
+  skos:note "Usted puede encontrar información adicional sobre el estado de la protección del derecho de autor sobre el material en el sitio web de la organización que puso a disposición el material."@es ;
   skos:note "If you have any information that can contribute to identifying or locating the rights-holder(s) please notify the organization that has made the Item available."@en ;
+  skos:note "Si usted tiene cualquier información que pueda contribuir a identificar o localizar al titular o a los titulares de derechos, por favor, notifique a la organización que ha puesto este material a disposición."@es ;
   skos:scopeNote "This Rights Statement is intended for use with an Item that has been identified as in copyright but for which no rights-holder(s) has been identified or located after some reasonable investigation. This Rights Statement should only be used if the data provider is reasonably sure that the work is in copyright. This Rights Statement is not intended for use by EU-based data providers who have identified works as Orphan Works in accordance with the EU Orphan Works Directive (they must use InC-OW-EU instead)."@en ;
+  skos:scopeNote "Esta declaración de derechos está prevista para ser utilizada con un material que ha sido identificado como material bajo la protección de derecho de autor pero cuyo titular o titulares de derechos no han sido identificados o localizados luego de una investigación razonable. Esta declaración de derechos solo debe ser utilizada si el proveedor de datos está razonablemente seguro de que la obra está bajo derecho de autor. La declaración de derechos no está prevista para ser utilizada por proveedores de datos basados en la Unión Europea que han identificado las obras como obras huérfanas en acuerdo con la Directiva deObras Huérfanas de la UE (en cambio, deben utilizar la InC-OW-EU)."@es ;
   skos:relatedMatch premiscopy:cpr ;
   dcterms:creator <irswg> ;
   owl:versionInfo "1.0" ;
@@ -154,16 +163,26 @@
 
 <InC-EDU/1.0/> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "In Copyright - Educational Use Permitted"@en ;
+  skos:prefLabel "Bajo derecho de autor - Usos educativos permitidos"@es ;
   dcterms:modified "2015-10-16"^^xsd:date ;
   skos:definition """This Item is protected by copyright and/or related rights.
 
 You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. In addition, no permission is required from the rights-holder(s) for educational uses.
 
 For other uses, you need to obtain permission from the rights-holder(s)."""@en ;
+  skos:definition """Este material está protegido por derecho de autor y/o derechos conexos. 
+
+Usted es libre de utilizar este material de cualquier forma que esté permitida por la legislación de derecho de autor y derechos conexos que se aplique al uso que pretende hacer. Adicionalmente, no se requiere permiso del titular o titulares de derechos para usos educativos.
+
+Para otros usos, usted necesita obtener permiso del titular o titulares de derechos."""@es ;
   skos:note "Unless expressly stated otherwise, the organization that has made this Item available makes no warranties about the Item and cannot guarantee the accuracy of this Rights Statement. You are responsible for your own use."@en ;
+  skos:note "A menos que se exprese lo contrario, la organización que ha puesto este material a disposición no otorga garantías sobre el material y no puede garantizar la exactitud de esta declaración de derechos. Usted es responsable por su propio uso."@es ;
   skos:note "You may need to obtain other permissions for your intended use. For example, other rights such as publicity, privacy or moral rights may limit how you may use the material."@en ;
+  skos:note "Usted quizás necesite obtener permiso para el uso que pretende hacer del material. Por ejemplo, otros derechos tales como el derecho a la publicidad, el derecho a la privacidad o los derechos morales pueden limitar la forma en que usted puede utilizar este material."@es ;  
   skos:note "You may find additional information about the copyright status of the Item on the website of the organization that has made the Item available."@en ;
+  skos:note "Usted puede encontrar información adicional sobre el estado de la protección del derecho de autor sobre el material en el sitio web de la organización que puso a disposición el material."@es ;
   skos:scopeNote "This Rights Statement can be used only for copyrighted Items for which the organization making the Item available is the rights-holder or has been explicitly authorized by the rights-holder(s) to allow third parties to use the Work for educational purposes without first obtaining permission."@en ;
+  skos:scopeNote "Esta declaración de derechos solo puede ser utilizada para materiales bajo derecho de autor para los cuales la organización que está poniendo a disposición el material es bien la titular de derechos o ha sido explícitamente autorizada por el titular o los titulares de derechos para permitir a terceros utilizar la obra con propósitos educativos sin necesidad de obtener permiso primero."@es ;
   skos:relatedMatch premiscopy:cpr ;
   dcterms:creator <irswg> ;
   owl:versionInfo "1.0" ;
@@ -172,16 +191,26 @@ For other uses, you need to obtain permission from the rights-holder(s)."""@en ;
 
 <InC-NC/1.0/> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "In Copyright - Non-Commercial Use Permitted"@en ;
+  skos:prefLabel "Bajo derecho de autor - Usos No comerciales permitidos"@es ;
   dcterms:modified "2016-05-09"^^xsd:date ;
   skos:definition """This Item is protected by copyright and/or related rights.
 
 You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. In addition, no permission is required from the rights-holder(s) for non-commercial uses.
 
 For other uses you need to obtain permission from the rights-holder(s)."""@en ;
+  skos:definition """Este material está protegido por derecho de autor y/o derechos conexos.
+
+Usted es libre de utilizar este material de cualquier forma que esté permitida permitida por la legislación de derecho de autor y derechos conexos que se aplique al uso que pretende hacer. Adicionalmente, no se requiere permiso del titular o titulares de derechos para usos no comerciales.
+
+Para otros usos, usted necesita obtener permiso del titular o titulares de derechos."""@es ;
   skos:note "Unless expressly stated otherwise, the organization that has made this Item available makes no warranties about the Item and cannot guarantee the accuracy of this Rights Statement. You are responsible for your own use."@en ;
+  skos:note "A menos que se exprese lo contrario, la organización que ha puesto este material a disposición no otorga garantías sobre el material y no puede garantizar la exactitud de esta declaración de derechos. Usted es responsable por su propio uso."@es ;
   skos:note "You may need to obtain other permissions for your intended use. For example, other rights such as publicity, privacy or moral rights may limit how you may use the material."@en ;
+  skos:note "Usted quizás necesite obtener permiso para el uso que pretende hacer del material. Por ejemplo, otros derechos tales como el derecho a la publicidad, el derecho a la privacidad o los derechos morales pueden limitar la forma en que usted puede utilizar este material."@es ;  
   skos:note "You may find additional information about the copyright status of the Item on the website of the organization that has made the Item available."@en ;
+  skos:note "Usted puede encontrar información adicional sobre el estado de la protección del derecho de autor sobre el material en el sitio web de la organización que puso a disposición el material."@es ;
   skos:scopeNote "This Rights Statement can be used only for copyrighted Items for which the organization making  the Item available is the rights-holder or has been explicitly authorized by the rights-holder(s) to allow third parties to use the Work for non-commercial purposes without obtaining permission first."@en ;
+  skos:scopeNote "Esta declaración de derechos solo puede ser utilizada para materiales bajo derecho de autor para los cuales la organización que pone a disposición el material es o bien la titular de los derechos o ha sido explícitamente autorizada por el titular o los titulares de derechos para permitir a terceras partes utilizar la obra con propósitos no comerciales sin necesidad de obtener permiso primero."@es ;
   cc:prohibits cc:CommercialUse ;
   skos:closeMatch <http://creativecommons.org/licenses/by-nc/4.0/> ;
   skos:relatedMatch premiscopy:cpr ;
@@ -192,14 +221,22 @@ For other uses you need to obtain permission from the rights-holder(s)."""@en ;
 
  <NoC-NC/1.0/> a dcterms:RightsStatement, skos:Concept ;
    skos:prefLabel "No Copyright - Non-Commercial Use Only "@en ;
+   skos:prefLabel "Sin derecho de autor - Usos no comerciales solamente"@es ;
    dcterms:modified "2016-04-22"^^xsd:date ;
    skos:definition """This object has been digitized in a public-private partnership. As part of this partnership, the partners have agreed to limit commercial uses of this digital representation of the object by third parties.
 
 You can, without permission, copy, modify, distribute, display, or perform the digital object, for non-commercial uses. For any other permissible uses, please review the terms and conditions of the organization that has made the item available."""@en ;
+  skos:definition """Este objeto ha sido digitalizado en una asociación pública-privada. Como parte de esta asociación, los asociados han acordado limitar los usos comerciales por terceras partes de esta representación digital del objeto.
+
+Usted puede, sin permiso, copiar, modificar, distribuir, exhibir o representar el objeto digital, para usos no comerciales. Por cualquier otro uso permitido, por favor, revise los términos y condiciones de la organización que ha puesto este material a disposición."""@es ;
    skos:note "Unless expressly stated otherwise, the organization that has made this Item available makes no warranties about the Item and cannot guarantee the accuracy of this Rights Statement. You are responsible for your own use."@en ;
+   skos:note "A menos que se exprese lo contrario, la organización que ha puesto este material a disposición no otorga garantías sobre el material y no puede garantizar la exactitud de esta declaración de derechos. Usted es responsable por su propio uso."@es ;
    skos:note "You may need to obtain other permissions for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you may use the material."@en ;
+   skos:note "Usted quizás necesite obtener permiso para el uso que pretende hacer del material. Por ejemplo, otros derechos tales como el derecho a la publicidad, el derecho a la privacidad o los derechos morales pueden limitar la forma en que usted puede utilizar este material."@es ;  
    skos:note "You may find additional information about the copyright status of the Item on the website of the organization that has made the Item available."@en ;
+   skos:note "Usted puede encontrar información adicional sobre el estado de la protección del derecho de autor sobre el material en el sitio web de la organización que puso a disposición el material."@es ;
    skos:scopeNote "This Rights Statement can only be used for Works that are in the Public Domain and have been digitized in a public-private partnership as part of which, the partners have agreed to limit commercial uses of this digital representation of the Work by third parties. It has been developed specifically to allow the inclusion of Works that have been digitized as part of the partnerships between European Libraries and Google, but can in theory be applied to Works that have been digitized in similar public-private partnerships."@en ;
+   skos:scopeNote "Esta declaración de derechos solo puede ser utilizada para obras que están en el dominio público y han sido digitalizadas en una asociación pública-privada como parte de la cual, los asociados han acordado limitar los usos comerciales por terceras partes de esta representación digital de la obra. Ha sido desarrollada específicamente para permitir la inclusión de obras que han sido digitalizadas como parte de las asociaciones entre bibliotecas europeas y Google, pero en teoría puede ser aplicada a obras que han sido digitalizadas por asociaciones público-privadas similares."@es ;
    cc:prohibits cc:CommercialUse ;
    skos:relatedMatch premiscopy:pub ;
    dcterms:creator <irswg> ;
@@ -209,16 +246,26 @@ You can, without permission, copy, modify, distribute, display, or perform the d
 
 <NoC-CR/1.0/> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "No Copyright - Contractual Restrictions"@en ;
+  skos:prefLabel "Sin derecho de autor - Restricciones contractuales"@es ;
   dcterms:modified "2016-04-22"^^xsd:date ;
   skos:definition """Use of this Item is not restricted by copyright and/or related rights.
 
 As part of the acquisition or digitization of this Item, the organization that has made the Item available is contractually required to limit the use of this Item. Limitations may include, but are not limited to, privacy issues, cultural protections, digitization agreements or donor agreements.
 
 Please refer to the organization that has made the Item available for more information."""@en ;
+  skos:definition """El uso de este material no está restringido por el derecho de autor y/o derechos conexos.
+
+Como parte de la adquisición o la digitalización de este material, la organización que ha puesto a disposición este material está contractualmente obligada a limitar el uso de este material. Las limitaciones pueden incluir, pero no están limitadas a, cuestiones de privacidad, protecciones culturales, acuerdos de digitalización o acuerdos de donación.
+
+Por favor, refiérase a la organización que ha puesto a disposición este material para más información."""@es ;
   skos:note "Unless expressly stated otherwise, the organization that has made this Item available makes no warranties about the Item and cannot guarantee the accuracy of this Rights Statement. You are responsible for your own use."@en ;
+  skos:note "A menos que se exprese lo contrario, la organización que ha puesto este material a disposición no otorga garantías sobre el material y no puede garantizar la exactitud de esta declaración de derechos. Usted es responsable por su propio uso."@es ;
   skos:note "You may need to obtain other permissions for your intended use. For example, other rights such as publicity, privacy or moral rights may limit how you may use the material."@en ;
+  skos:note "Usted quizás necesite obtener permiso para el uso que pretende hacer del material. Por ejemplo, otros derechos tales como el derecho a la publicidad, el derecho a la privacidad o los derechos morales pueden limitar la forma en que usted puede utilizar este material."@es ;  
   skos:note "You may find additional information about the copyright status of the Item on the website of the organization that has made the Item available."@en ;
+  skos:note "Usted puede encontrar información adicional sobre el estado de la protección del derecho de autor sobre el material en el sitio web de la organización que puso a disposición el material."@es ;
   skos:scopeNote "This Rights Statement can only be used for Items that are in the Public Domain but for which the data provider has entered into contractual agreement that requires it to take steps to restrict third party uses of the Item. In order for this Rights Statement to be conclusive, the data provider must provide a link to a page detailing the contractual restrictions that apply to the use of the Item."@en ;
+  skos:scopeNote "Esta declaración de derechos solo puede ser utilizada para materiales que están en el dominio público pero para los cuales el proveedor de datos ha ingresado en acuerdos contractuales que le exigen tomar medidas para restringir los usos del material por terceras partes. Para que esta declaración de derechos sea concluyente, el proveedor de datos debe proveer un vínculo a una página que detalle las restricciones contractuales que aplican para el uso del material."@es ;
   skos:relatedMatch premiscopy:pub ;
   owl:versionInfo "1.0" ;
   dcterms:creator <irswg> ;
@@ -227,16 +274,26 @@ Please refer to the organization that has made the Item available for more infor
 
 <NoC-OKLR/1.0/> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "No Copyright - Other Known Legal Restrictions"@en ;
+  skos:prefLabel "Sin derecho de autor - Otras restricciones legales conocidas"@es ;
   dcterms:modified "2016-04-22"^^xsd:date ;
   skos:definition """Use of this Item is not restricted by copyright and/or related rights.
 
 In one or more jurisdictions, laws other than copyright are known to impose restrictions on the use of this Item.
 
 Please refer to the organization that has made the Item available for more information."""@en ;
+  skos:definition """El uso de este material no está restringido por el derecho de autor y/o derechos conexos. 
+
+En una o más jurisdicciones, otras leyes distintas del derecho de autor imponen restricciones al uso de este material.
+
+Por favor, refiérase a la organización que ha puesto a disposición este material para más información."""@es ;
   skos:note "Unless expressly stated otherwise, the organization that has made this Item available makes no warranties about the Item and cannot guarantee the accuracy of this Rights Statement. You are responsible for your own use."@en ;
+  skos:note "A menos que se exprese lo contrario, la organización que ha puesto este material a disposición no otorga garantías sobre el material y no puede garantizar la exactitud de esta declaración de derechos. Usted es responsable por su propio uso."@es ;
   skos:note "You may need to obtain other permissions for your intended use. For example, other rights such as publicity, privacy or moral rights may limit how you may use the material."@en ;
+  skos:note "Usted quizás necesite obtener permiso para el uso que pretende hacer del material. Por ejemplo, otros derechos tales como el derecho a la publicidad, el derecho a la privacidad o los derechos morales pueden limitar la forma en que usted puede utilizar este material."@es ;  
   skos:note "You may find additional information about the copyright status of the Item on the website of the organization that has made the Item available."@en ;
+  skos:note "Usted puede encontrar información adicional sobre el estado de la protección del derecho de autor sobre el material en el sitio web de la organización que puso a disposición el material."@es ;
   skos:scopeNote "This Rights Statement should be used for Items that are in the public domain but that cannot be freely re-used as the consequence of known legal restrictions that prevent the data provider from allowing free re-use of the Work, such as cultural heritage or traditional cultural expression protections. In order for this Rights Statement to be conclusive, the data provider must provide a link to a page detailing the legal restrictions that limit re-use of the Item."@en ;
+  skos:scopeNote "Esta declaración de derechos debe ser usada para materiales que están en el dominio público pero que no pueden ser libremente re-utilizados como consecuencia de restricciones legales conocidas que le impiden al proveedor de datos permitir el libre re-uso de la obra, tales como protecciones sobre el patromionio cultural o sobre expresiones culturales tradicionales. Para que esta declaración de derechos sea concluyente, el proveedor de datos debe proveer un vínculo a una página que detalle las restricciones legales que limitan el re-uso del material."@es ;
   skos:relatedMatch premiscopy:pub ;
   owl:versionInfo "1.0" ;
   dcterms:creator <irswg> ;
@@ -245,10 +302,14 @@ Please refer to the organization that has made the Item available for more infor
 
 <NoC-US/1.0/> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "No Copyright - United States"@en ;
+  skos:prefLabel "Sin derecho de autor - Estados Unidos"@es ;
   dcterms:modified "2016-05-09"^^xsd:date ;
   skos:definition """The organization that has made the Item available believes that the Item is in the Public Domain under the laws of the United States, but a determination was not made as to its copyright status under the copyright laws of other countries. The Item may not be in the Public Domain under the laws of other countries.
 
 Please refer to the organization that has made the Item available for more information."""@en ;
+  skos:definition """La organización que ha puesto a disposición este material cree que el material está en el dominio público bajo las leyes de los Estados Unidos, pero no se ha hecho una determinación del estado de derecho de autor bajo las leyes de derecho de autor de otros países. Este material puede no estar en el dominio público según las leyes de otros países.
+
+Por favor, refiérase a la organización que ha puesto a disposición este material para más información."""@es ;
   skos:note "Unless expressly stated otherwise, the organization that has made this Item available makes no warranties about the Item and cannot guarantee the accuracy of this Rights Statement. You are responsible for your own use."@en ;
   skos:note "You may need to obtain other permissions for your intended use. For example, other rights such as publicity, privacy or moral rights may limit how you may use the material."@en ;
   skos:note "You may find additional information about the copyright status of the Item on the website of the organization that has made the Item available."@en ;
