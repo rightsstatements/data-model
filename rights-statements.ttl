@@ -23,8 +23,8 @@
   owl:versionInfo "1.0" .
 
 <irswg> a edm:Agent, foaf:Group ;
-  foaf:name "International Rights Statements Working Group"@en ;
-  skos:prefLabel "International Rights Statements Working Group"@en ;
+  foaf:name "RightsStatements.org Consortium"@en ;
+  skos:prefLabel "RightsStatements.org Consortium"@en ;
   foaf:homepage <http://rightsstatements.org/> .
 
 # Information about the three "collections" of statements
@@ -68,6 +68,8 @@
 # 2016-05-09: Fix additional typos
 # 2016-06-01: Add UND statement
 # 2017-11-09: Editorial changes agreed on 2017-09-07 Steering Committee meeting
+# 2018-05-25: Editorial changes agreed on 2018-05-04 by Statements WG:
+#             http://rightsstatements.org/files/180524minor_changes_to_v1.0.pdf;
 
 <InC/1.0/> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "In Copyright"@en ;
@@ -182,10 +184,10 @@ You can, without permission, copy, modify, distribute, display, or perform the I
 
 <NoC-CR/1.0/> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "No Copyright - Contractual Restrictions"@en ;
-  dcterms:modified "2016-04-22"^^xsd:date ;
+  dcterms:modified "2018-05-25"^^xsd:date ;
   skos:definition """Use of this Item is not restricted by copyright and/or related rights.
 
-As part of the acquisition or digitization of this Item, the organization that has made the Item available is contractually required to limit the use of this Item. Limitations may include, but are not limited to, privacy issues, cultural protections, digitization agreements or donor agreements.
+As part of the acquisition or digitization of this Work, the organization that has made the Item available is contractually required to limit the use of this Item. Limitations may include, but are not limited to, privacy issues, cultural protections, digitization agreements or donor agreements.
 
 Please refer to the organization that has made the Item available for more information."""@en ;
   skos:note "Unless expressly stated otherwise, the organization that has made this Item available makes no warranties about the Item and cannot guarantee the accuracy of this Rights Statement. You are responsible for your own use."@en ;
@@ -200,7 +202,7 @@ Please refer to the organization that has made the Item available for more infor
 
 <NoC-OKLR/1.0/> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "No Copyright - Other Known Legal Restrictions"@en ;
-  dcterms:modified "2016-04-22"^^xsd:date ;
+  dcterms:modified "2018-05-25"^^xsd:date ;
   skos:definition """Use of this Item is not restricted by copyright and/or related rights.
 
 In one or more jurisdictions, laws other than copyright are known to impose restrictions on the use of this Item.
@@ -209,7 +211,7 @@ Please refer to the organization that has made the Item available for more infor
   skos:note "Unless expressly stated otherwise, the organization that has made this Item available makes no warranties about the Item and cannot guarantee the accuracy of this Rights Statement. You are responsible for your own use."@en ;
   skos:note "You may need to obtain other permissions for your intended use. For example, other rights such as publicity, privacy or moral rights may limit how you may use the material."@en ;
   skos:note "You may find additional information about the copyright status of the Item on the website of the organization that has made the Item available."@en ;
-  skos:scopeNote "This Rights Statement should be used for Items that are in the Public Domain but that cannot be freely re-used as the consequence of known legal restrictions that prevent the organization that intends to make the Item available from allowing free re-use of the Work, such as cultural heritage or traditional cultural expression protections. In order for this Rights Statement to be conclusive, the organization that intends to make the Item available should provide a link to a page detailing the legal restrictions that limit re-use of the Item."@en ;
+  skos:scopeNote "This Rights Statement should be used for Items that are in the Public Domain but that cannot be freely re-used as the consequence of known legal restrictions that prevent the organization that intends to make the Item available from allowing free re-use of the Item, such as cultural heritage or traditional cultural expression protections. In order for this Rights Statement to be conclusive, the organization that intends to make the Item available should provide a link to a page detailing the legal restrictions that limit re-use of the Item."@en ;
   skos:relatedMatch premiscopy:pub ;
   owl:versionInfo "1.0" ;
   dcterms:creator <irswg> ;
@@ -242,7 +244,7 @@ You are free to use this Item in any way that is permitted by the copyright and 
   skos:note "Unless expressly stated otherwise, the organization that has made this Item available makes no warranties about the Item and cannot guarantee the accuracy of this Rights Statement. You are responsible for your own use."@en ;
   skos:note "You may need to obtain other permissions for your intended use. For example, other rights such as publicity, privacy or moral rights may limit how you may use the material."@en ;
   skos:note "You may find additional information about the copyright status of the Item on the website of the organization that has made the Item available."@en ;
-  skos:scopeNote "This Rights Statement should be used for Items for which the copyright status has not been determined conclusively, but for which the organization that intends to make the Item available has reasonable cause to believe that the underlying Work is not covered by copyright or related rights anymore. This Rights Statement should not be used for Orphan Works (which are assumed to be in-copyright) or for Works where the organization that intends to make the Item available has not undertaken an effort to ascertain the copyright status of the underlying Work."@en ;
+  skos:scopeNote "This Rights Statement should be used for Items for which the copyright status has not been determined conclusively, but for which the organization that intends to make the Item available has reasonable cause to believe that the underlying Work is not covered by copyright or related rights anymore. This Rights Statement should not be used for Orphan Works (which are assumed to be in-copyright) or for Items where the organization that intends to make the Item available has not undertaken an effort to ascertain the copyright status of the underlying Work."@en ;
   skos:relatedMatch premiscopy:unk ;
   owl:versionInfo "1.0" ;
   dcterms:creator <irswg> ;
@@ -270,16 +272,16 @@ You are free to use this Item in any way that is permitted by the copyright and 
 
 <UND/1.0/> a dcterms:RightsStatement, skos:Concept ;
   skos:prefLabel "Copyright Undetermined"@en ;
-  dcterms:modified "2016-06-01"^^xsd:date ;
-  skos:definition """The copyright and related rights status of this Item has been reviewed by the organization that has made the Item available, but the organization was unable to make a conclusive determination as to the copyright status of the Item. 
+  dcterms:modified "2018-05-25"^^xsd:date ;
+  skos:definition """The copyright and related rights status of this Item has been reviewed by the organization that has made the Item available, but the organization was unable to make a conclusive determination as to the copyright status of the Item.
 
-Please refer to the organization that has made the Item available for more information. 
+Please refer to the organization that has made the Item available for more information.
 
 You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use."""@en ;
   skos:note "Unless expressly stated otherwise, the organization that has made this Item available makes no warranties about the Item and cannot guarantee the accuracy of this Rights Statement. You are responsible for your own use."@en ;
   skos:note "You may need to obtain other permissions for your intended use. For example, other rights such as publicity, privacy or moral rights may limit how you may use the material."@en ;
   skos:note "You may find additional information about the copyright status of the Item on the website of the organization that has made the Item available."@en ;
-  skos:scopeNote "This Rights Statement should be used for Items for which the copyright status is unknown and for which the organization that has made the Item available has undertaken an effort to determine the copyright status of the underlying Work. Typically, this Rights Statement is used when the organization is missing key facts essential to making an accurate copyright status determination."@en ;
+  skos:scopeNote "This Rights Statement should be used for Items for which the copyright status is unknown and for which the organization that has made the Item available has undertaken an (unsuccessful) effort to determine the copyright status of the underlying Work. Typically, this Rights Statement is used when the organization is missing key facts essential to making an accurate copyright status determination."@en ;
   owl:versionInfo "1.0" ;
   dcterms:creator <irswg> ;
   dc:identifier "UND" ;
