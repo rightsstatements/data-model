@@ -123,7 +123,7 @@
 
   Für das Objekt konnten entweder (a) ein oder mehrere Rechteinhaber nicht identifiziert oder (b) auch mit Hilfe einer sorgfältigen Suche nicht aufgefunden werden. Die Ergebnisse der sorgfältigen Suche sind in der EU-Datenbank zu verwaisten Werken beim Amt der Europäischen Union für Geistiges Eigentum (EUIPO) verfügbar.
 
-  Sie sind berechtigt, das Objekt in jeder Form zu nutzen, die das Urheberrechtsgesetz oder/und einschlägige verwandte Schutzrechte gestatten. """@de ;
+  Sie sind berechtigt, das Objekt in jeder Form zu nutzen, die das Urheberrechtsgesetz oder/und einschlägige verwandte Schutzrechte gestatten."""@de ;
   skos:note "Unless expressly stated otherwise, the organization that has made this Item available makes no warranties about the Item and cannot guarantee the accuracy of this Rights Statement. You are responsible for your own use."@en ;
   skos:note "Soweit nicht ausdrücklich an anderer Stelle ausgewiesen, macht die Institution, die das Objekt zugänglich macht, keine Zusicherungen in Bezug auf dieses und übernimmt keine Garantie für die Richtigkeit des gewählten Rechtehinweises. Sie sind für die eigene Nutzung selbst verantwortlich."@de ;
   skos:note "You may need to obtain other permissions for your intended use. For example, other rights such as publicity, privacy or moral rights may limit how you may use the material."@en ;
@@ -183,7 +183,7 @@ For other uses, you need to obtain permission from the rights-holder(s)."""@en ;
 
 Sie sind berechtigt, das Objekt in jeder Form zu nutzen, die das Urheberrechtsgesetz und/oder einschlägige verwandte Schutzrechte gestatten. Darüber hinaus ist auch die Nutzung zu Bildungszwecken ohne weitere Erlaubnis der/des Rechteinhaber/s gestattet.
 
-Für weitere Nutzungsarten benötigen Sie die Zustimmung der/des Rechteinhaber/s. """@de ;
+Für weitere Nutzungsarten benötigen Sie die Zustimmung der/des Rechteinhaber/s."""@de ;
   skos:note "Unless expressly stated otherwise, the organization that has made this Item available makes no warranties about the Item and cannot guarantee the accuracy of this Rights Statement. You are responsible for your own use."@en ;
   skos:note "Soweit nicht ausdrücklich an anderer Stelle ausgewiesen, macht die Institution, die das Objekt zugänglich macht, keine Zusicherungen in Bezug auf dieses und übernimmt keine Garantie für die Richtigkeit des gewählten Rechtehinweises. Sie sind für die eigene Nutzung selbst verantwortlich."@de ;
   skos:note "You may need to obtain other permissions for your intended use. For example, other rights such as publicity, privacy or moral rights may limit how you may use the material."@en ;
@@ -213,7 +213,7 @@ For other uses you need to obtain permission from the rights-holder(s)."""@en ;
 
 Sie sind berechtigt, das Objekt in jeder Form zu nutzen, die das Urheberrechtsgesetz und/oder einschlägige verwandte Schutzrechte gestatten. Darüber hinaus ist auch die nicht kommerzielle Nutzung ohne weitere Erlaubnis der Rechteinhaber gestattet.
 
-Für weitere Nutzungsarten benötigen Sie die Zustimmung der/des Rechteinhaber/s. """@de ;
+Für weitere Nutzungsarten benötigen Sie die Zustimmung der/des Rechteinhaber/s."""@de ;
   skos:note "Unless expressly stated otherwise, the organization that has made this Item available makes no warranties about the Item and cannot guarantee the accuracy of this Rights Statement. You are responsible for your own use."@en ;
   skos:note "Soweit nicht ausdrücklich an anderer Stelle ausgewiesen, macht die Institution, die das Objekt zugänglich macht, keine Zusicherungen in Bezug auf dieses und übernimmt keine Garantie für die Richtigkeit des gewählten Rechtehinweises. Sie sind für die eigene Nutzung selbst verantwortlich."@de ;
   skos:note "You may need to obtain other permissions for your intended use. For example, other rights such as publicity, privacy or moral rights may limit how you may use the material."@en ;
