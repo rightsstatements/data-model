@@ -173,7 +173,7 @@ Sie sind berechtigt, das Objekt in jeder Form zu nutzen, die das Urheberrechtsge
   skos:prefLabel "Urheberrechtsschutz – Nutzung zu Bildungszwecken erlaubt"@de ;
   dcterms:description "This Rights Statement indicates that the Item labeled with this Rights Statement is in copyright but that educational use is allowed without the need to obtain additional permission."@en ;
   dcterms:description "Dieser Rechtehinweis besagt, dass Urheberrechtsschutz besteht, aber die Nutzung des Objekts zu Bildungszwecken ohne zusätzliche Rechteeinholung gestattet ist."@de ;
-  dcterms:modified "2015-10-16"^^xsd:date ;
+  dcterms:modified "2018-05-25"^^xsd:date ;
   skos:definition """This Item is protected by copyright and/or related rights.
 
 You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. In addition, no permission is required from the rights-holder(s) for educational uses.
