@@ -253,6 +253,7 @@ Sie sind berechtigt, das Objekt in jeder Form zu nutzen, die das Urheberrechtsge
   # alignments
   skos:relatedMatch premiscopy:cpr ;
 
+  # descriptive text
   skos:prefLabel "In Copyright - Educational Use Permitted"@en ;
   skos:prefLabel "Urheberrechtsschutz – Nutzung zu Bildungszwecken erlaubt"@de ;
   skos:prefLabel "Kehtiv autoriõigus – lubatud hariduslik kasutus"@et ;
