@@ -23,7 +23,7 @@ or contact one of the technical co-chairs:
 Contents
 --- 
 
-* The current rights statements are located in [`rights-statements.ttl`](rights-statements.ttl).
+* The current rights statements are located in [`rights-statements.ttl`](rights-statements.ttl). Note that the RDF assertions within this file are organized to make translations easier. Committers should ensure they do not jeopardize this organization!
 * An example file, which contains rights statements with a different version and containing sample, unofficial translations, can be found in [`example-versions.ttl`](example-versions.ttl).
 
 License
