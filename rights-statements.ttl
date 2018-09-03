@@ -580,7 +580,7 @@ You are free to use this Item in any way that is permitted by the copyright and 
 Bitte kontaktieren Sie für weitergehende Informationen die Institution, die das Objekt zugänglich gemacht hat.
 
 Sie sind berechtigt, das Objekt in jeder Form zu nutzen, die das Urheberrechtsgesetz und/oder einschlägige verwandte Schutzrechte gestatten."""@de ;
-  skos:definition """Objekti kättesaadavaks teinud organisatsioon usub mõistlikkuse piires, et objektile ei kehti autoriõigus ega sellega seotud õigused, kuid lõplikku kinnitust ei ole sellele seda pole õnnestunud lõplikult tuvastada.
+  skos:definition """Objekti kättesaadavaks teinud organisatsioon usub mõistlikkuse piires, et objekti kasutamist ei piira autoriõigus ega sellega seotud õigused, kuid lõplikku kinnitust sellele ei ole.
 
 Palun küsige täiendavat infot objekti kättesaadavaks teinud organisatsioonilt.
 
