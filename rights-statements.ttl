@@ -38,6 +38,7 @@
   skos:prefLabel "Beskrivningar för verk som skyddas genom upphovsrätt"@sv-FI ;
 
   owl:versionInfo "1.0" ;
+  skos:inScheme <1.0/> ;
   skos:member <InC/1.0/> ;
   skos:member <InC-OW-EU/1.0/> ;
   skos:member <InC-RUU/1.0/> ;
@@ -53,6 +54,7 @@
   skos:prefLabel "Beskrivningar för verk som inte skyddas genom upphovsrätt"@sv-FI;
 
   owl:versionInfo "1.0" ;
+  skos:inScheme <1.0/> ;
   skos:member <NoC-NC/1.0/> ;
   skos:member <NoC-CR/1.0/> ;
   skos:member <NoC-OKLR/1.0/> ;
@@ -67,6 +69,7 @@
   skos:prefLabel "Beskrivningar för verk där upphovsrättslig status är oklar"@sv-FI ;
 
   owl:versionInfo "1.0" ;
+  skos:inScheme <1.0/> ;
   skos:member <NKC/1.0/> ;
   skos:member <CNE/1.0/> ;
   skos:member <UND/1.0/> .
