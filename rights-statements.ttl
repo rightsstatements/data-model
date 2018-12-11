@@ -99,6 +99,7 @@
 <InC/1.0/> a dcterms:RightsStatement, skos:Concept ;
   # term-level metadata
   dc:identifier "InC" ;
+  skos:notation "InC" ;
   owl:versionInfo "1.0" ;
   dcterms:creator <irswg> ;
   dcterms:modified "2018-10-27"^^xsd:date ;
@@ -186,6 +187,7 @@
 <InC-OW-EU/1.0/> a dcterms:RightsStatement, skos:Concept ;
   # term-level metadata
   dc:identifier "InC-OW-EU" ;
+  skos:notation "InC-OW-EU" ;
   owl:versionInfo "1.0" ;
   dcterms:creator <irswg> ;
   dcterms:modified "2018-10-27"^^xsd:date ;
@@ -280,6 +282,7 @@
 <InC-RUU/1.0/> a dcterms:RightsStatement, skos:Concept ;
   # term-level metadata
   dc:identifier "InC-RUU" ;
+  skos:notation "InC-RUU" ;
   owl:versionInfo "1.0" ;
   dcterms:creator <irswg> ;
   dcterms:modified "2018-10-27"^^xsd:date ;
@@ -361,6 +364,7 @@
 <InC-EDU/1.0/> a dcterms:RightsStatement, skos:Concept ;
   # term-level metadata
   dc:identifier "InC-EDU" ;
+  skos:notation "InC-EDU" ;
   owl:versionInfo "1.0" ;
   dcterms:creator <irswg> ;
   dcterms:modified "2018-10-27"^^xsd:date ;
@@ -447,6 +451,7 @@
 <InC-NC/1.0/> a dcterms:RightsStatement, skos:Concept ;
   # term-level metadata
   dc:identifier "InC-NC" ;
+  skos:notation "InC-NC" ;
   owl:versionInfo "1.0" ;
   dcterms:creator <irswg> ;
   dcterms:modified "2018-10-27"^^xsd:date ;
@@ -535,6 +540,7 @@
 <NoC-NC/1.0/> a dcterms:RightsStatement, skos:Concept ;
   # term-level metadata
   dc:identifier "NoC-NC" ;
+  skos:notation "NoC-NC" ;
   owl:versionInfo "1.0" ;
   dcterms:creator <irswg> ;
   dcterms:modified "2018-10-27"^^xsd:date ;
@@ -610,6 +616,7 @@
 <NoC-CR/1.0/> a dcterms:RightsStatement, skos:Concept ;
   # term-level metadata
   dc:identifier "NoC-CR" ;
+  skos:notation "NoC-CR" ;
   owl:versionInfo "1.0" ;
   dcterms:creator <irswg> ;
   dcterms:modified "2018-10-27"^^xsd:date ;
@@ -696,6 +703,7 @@
 <NoC-OKLR/1.0/> a dcterms:RightsStatement, skos:Concept ;
   # term-level metadata
   dc:identifier "NoC-OKLR" ;
+  skos:notation "NoC-OKLR" ;
   owl:versionInfo "1.0" ;
   dcterms:creator <irswg> ;
   dcterms:modified "2018-10-27"^^xsd:date ;
@@ -782,6 +790,7 @@
 <NoC-US/1.0/> a dcterms:RightsStatement, skos:Concept ;
   # term-level metadata
   dc:identifier "NoC-US" ;
+  skos:notation "NoC-US" ;
   owl:versionInfo "1.0" ;
   dcterms:creator <irswg> ;
   dcterms:modified "2018-10-27"^^xsd:date ;
@@ -855,6 +864,7 @@
 <NKC/1.0/> a dcterms:RightsStatement, skos:Concept ;
   # term-level metadata
   dc:identifier "NKC" ;
+  skos:notation "NKC" ;
   owl:versionInfo "1.0" ;
   dcterms:creator <irswg> ;
   dcterms:modified "2018-10-27"^^xsd:date ;
@@ -941,6 +951,7 @@
 <CNE/1.0/> a dcterms:RightsStatement, skos:Concept ;
   # term-level metadata
   dc:identifier "CNE" ;
+  skos:notation "CNE" ;
   owl:versionInfo "1.0" ;
   dcterms:creator <irswg> ;
   dcterms:modified "2018-10-27"^^xsd:date ;
@@ -1028,6 +1039,7 @@
 <UND/1.0/> a dcterms:RightsStatement, skos:Concept ;
   # term-level metadata
   dc:identifier "UND" ;
+  skos:notation "CNE" ;
   owl:versionInfo "1.0" ;
   dcterms:creator <irswg> ;
   dcterms:modified "2018-10-27"^^xsd:date ;
