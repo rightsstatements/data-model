@@ -4,7 +4,7 @@ rightsstatements.org data model
 [![Build Status](https://travis-ci.org/rightsstatements/data-model.svg)](https://travis-ci.org/rightsstatements/data-model)
 
 This repository contains the implementation of interoperable rights
-statements developed for [RightsStatements.org](http://rightsstatements.org/). 
+statements developed for [RightsStatements.org](http://rightsstatements.org/).
 More information about the motivation and implementation of these statements
 can be found in the following white papers:
 
@@ -21,10 +21,19 @@ or contact one of the technical co-chairs:
 * Antoine Isaac <aisaac@few.vu.nl>
 
 Contents
---- 
+---
 
 * The current rights statements are located in [`rights-statements.ttl`](rights-statements.ttl). Note that the RDF assertions within this file are organized to make translations easier. Committers should ensure they do not jeopardize this organization!
 * An example file, which contains rights statements with a different version and containing sample, unofficial translations, can be found in [`example-versions.ttl`](example-versions.ttl).
+
+Implementing translations
+---
+
+* To implement translations, copy and paste entries from the completed Google Doc for the destination language.
+* Confirm that there are no non-breaking spaces (`\u00A0`), no "smart quotes", and no em- or en-dashes.
+* Note that new languages should be added/inserted for property values based on the order indicated in the Turtle. English should always appear first, and additional languages should appear in lexical order of their language tag.
+
+See also notes on implementing translations for the rights app and the website for more information.
 
 License
 ---
