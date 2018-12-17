@@ -33,7 +33,7 @@ Implementing translations
 * Confirm that there are no non-breaking spaces (`\u00A0`), no "smart quotes", and no em- or en-dashes.
 * Note that new languages should be added/inserted for property values based on the order indicated in the Turtle. English should always appear first, and additional languages should appear in lexical order of their language tag.
 
-See also notes on implementing translations for the rights app and the website for more information.
+See also notes on implementing translations for the [rights app](https://github.com/rightsstatements/rights-app/blob/master/README.md) and the [website](https://github.com/rightsstatements/rightsstatements.github.io/blob/master/README.md) for more information.
 
 License
 ---
