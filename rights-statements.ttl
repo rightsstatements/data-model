@@ -523,7 +523,7 @@
   dcterms:description "Esta Declaración de Derechos indica que el material etiquetado con esta Declaración de Derechos está protegido por derecho de autor pero el uso no comercial está autorizado sin necesidad de obtener permiso adicional."@es ;
   dcterms:description "Selle autoriõigusliku seisundi deklaratsiooniga märgistatud objektile kehtib autoriõigus, kuid seda on lubatud kasutada mitteärilisel eesmärgil ilma selleks täiendavalt luba taotlemata."@et ;
   dcterms:description "Tällä käyttöoikeuskuvauksella ilmaistaan, että käyttöoikeuskuvauksella varustettu Kohde kuuluu tekijänoikeuden piiriin, mutta sitä saa käyttää ei-kaupallisissa tarkoituksissa ilman erillistä lupaa."@fi ;
-  dcterms:description "Objęty pełną ochroną prawnoautorską - Dozwolone wykorzystanie niekomercyjne"@pl ;
+  dcterms:description "To oświadczenie prawne wskazuje, że oznaczony nim obiekt jest objęty ochroną autorskich praw majątkowych i praw osobistych, ale dozwolone jest wykorzystanie obiektu w celach niekomercyjnych bez uzyskiwania dodatkowych pozwoleń."@pl ;
   dcterms:description "Denna nyttjanderättsbeskrivning innebär att objektet som är märkt med denna nyttjanderättsbeskrivning skyddas av upphovsrätt, men att icke-kommersiell användning är tillåten utan att behöva skaffa ytterligare tillstånd."@sv-FI ;
 
   skos:definition """This Item is protected by copyright and/or related rights.
@@ -1160,7 +1160,7 @@
 <UND/1.0/> a dcterms:RightsStatement, skos:Concept ;
   # term-level metadata
   dc:identifier "UND" ;
-  skos:notation "CNE" ;
+  skos:notation "UND" ;
   owl:versionInfo "1.0" ;
   dcterms:creator <irswg> ;
   dcterms:modified "2019-04-18"^^xsd:date ;
