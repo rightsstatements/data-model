@@ -1160,7 +1160,7 @@
 <UND/1.0/> a dcterms:RightsStatement, skos:Concept ;
   # term-level metadata
   dc:identifier "UND" ;
-  skos:notation "CNE" ;
+  skos:notation "UND" ;
   owl:versionInfo "1.0" ;
   dcterms:creator <irswg> ;
   dcterms:modified "2019-04-18"^^xsd:date ;
