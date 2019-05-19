@@ -37,7 +37,7 @@
   skos:prefLabel "Kuvaukset tekijänoikeuden suojaamille teoksille"@fi ;
   skos:prefLabel "Oświadczenia dla utworów, które są objęte pełną ochroną prawnoautorską"@pl ;
   skos:prefLabel "Beskrivningar för verk som skyddas genom upphovsrätt"@sv-FI ;
-  skos:prefLabel "Déclarations destinées aux œuvres protégées par le droit d’auteur"@fr ;
+  skos:prefLabel "Déclarations destinées aux œuvres protégées par le droit d'auteur"@fr ;
 
   owl:versionInfo "1.0" ;
   skos:inScheme <1.0/> ;
@@ -55,7 +55,7 @@
   skos:prefLabel "Kuvaukset teoksille, joita tekijänoikeus ei suojaa"@fi ;
   skos:prefLabel "Oświadczenia dla utworów, które nie są objęte ochroną autorskich praw majątkowych"@pl ;
   skos:prefLabel "Beskrivningar för verk som inte skyddas genom upphovsrätt"@sv-FI ;
-  skos:prefLabel "Déclarations destinées aux œuvres non protégées par le droit d’auteur"@fr ;
+  skos:prefLabel "Déclarations destinées aux œuvres non protégées par le droit d'auteur"@fr ;
 
   owl:versionInfo "1.0" ;
   skos:inScheme <1.0/> ;
@@ -72,7 +72,7 @@
   skos:prefLabel "Kuvaukset teoksille, joiden tekijänoikeudellinen status on epäselvä"@fi ;
   skos:prefLabel "Oświadczenia dla utworów z niejasnym statusem prawnoautorskim"@pl ;
   skos:prefLabel "Beskrivningar för verk där upphovsrättslig status är oklar"@sv-FI ;
-  skos:prefLabel "Déclarations destinées aux œuvres dont le statut en matière de droit d’auteur n’est pas clair."@fr ;
+  skos:prefLabel "Déclarations destinées aux œuvres dont le statut en matière de droit d'auteur n'est pas clair."@fr ;
 
   owl:versionInfo "1.0" ;
   skos:inScheme <1.0/> ;
@@ -123,7 +123,7 @@
   skos:prefLabel "Tekijänoikeuden piirissä"@fi ;
   skos:prefLabel "Objęty pełną ochroną prawnoautorską"@pl ;
   skos:prefLabel "Underkastad upphovsrätt"@sv-FI ;
-  skos:prefLabel "Protégé par le droit d’auteur"@fr ;
+  skos:prefLabel "Protégé par le droit d'auteur"@fr ;
 
   dcterms:description "This Rights Statement indicates that the Item labeled with this Rights Statement is in copyright."@en ;
   dcterms:description "Dieser Rechtehinweis besagt, dass das damit gekennzeichnete Objekt urheberrechtlich geschützt ist."@de ;
@@ -132,7 +132,7 @@
   dcterms:description "Tällä käyttöoikeuskuvauksella ilmaistaan, että käyttöoikeuskuvauksella varustettu Kohde kuuluu tekijänoikeuden piiriin."@fi ;
   dcterms:description "To oświadczenie prawne wskazuje, że oznaczony nim obiekt jest objęty ochroną autorskich praw majątkowych i praw osobistych."@pl ;
   dcterms:description "Denna nyttjanderättsbeskrivning innebär att objektet som är märkt med denna nyttjanderättsbeskrivning skyddas av upphovsrätt."@sv-FI ;
-  dcterms:description "Cette Déclaration des Droits indique que l’Objet auquel elle se rapporte est protégé par le droit d’auteur."@fr ;
+  dcterms:description "Cette Déclaration des Droits indique que l'Objet auquel elle se rapporte est protégé par le droit d'auteur."@fr ;
 
   skos:definition """This Item is protected by copyright and/or related rights.
 
@@ -169,11 +169,11 @@
   Du kan använda Objektet på alla sätt som är tillåtna enligt lagstiftningen om upphovsrätt och närstående rättigheter som är tillämplig på din användning.
 
   För annan användning måste du skaffa tillstånd av rättsinnehavaren(rna)."""@sv-FI ;
-  skos:definition """Cet Objet est protégé par le droit d’auteur et/ou les droits voisins.
+  skos:definition """Cet Objet est protégé par le droit d'auteur et/ou les droits voisins.
 
-  Vous avez le droit d’utiliser l’Objet de toutes les manières autorisées par la législation sur le droit d’auteur et les droits voisins applicable à votre utilisation.
+  Vous avez le droit d'utiliser l'Objet de toutes les manières autorisées par la législation sur le droit d'auteur et les droits voisins applicable à votre utilisation.
 
-  Les autres utilisations requièrent l’autorisation du/des titulaire(s) des droits."""@fr ;
+  Les autres utilisations requièrent l'autorisation du/des titulaire(s) des droits."""@fr ;
 
   skos:note "Unless expressly stated otherwise, the organization that has made this Item available makes no warranties about the Item and cannot guarantee the accuracy of this Rights Statement. You are responsible for your own use."@en ;
   skos:note "Soweit nicht ausdrücklich an anderer Stelle ausgewiesen, gibt die Institution, die das Objekt zugänglich gemacht hat, keine Zusicherungen in Bezug auf dieses und übernimmt keine Garantie für die Richtigkeit des gewählten Rechtehinweises. Sie sind für die eigene Nutzung selbst verantwortlich."@de ;
@@ -182,7 +182,7 @@
   skos:note "Ellei erikseen ole muuta nimenomaisesti ilmoitettu, tämän Kohteen saataville saattanut organisaatio ei anna mitään Kohdetta koskevaa takuuta eikä voi taata tämän käyttöoikeuskuvauksen virheettömyyttä. Olet vastuussa omasta käytöstäsi."@fi ;
   skos:note "Jeżeli wyraźnie nie zaznaczono inaczej, organizacja która udostępniła dany obiekt nie daje w związku z nim żadnych gwarancji i nie może zagwarantować poprawności oświadczenia prawnego. Sam odpowiadasz za własne działania."@pl ;
   skos:note "Om inte annat uttryckligen sägs, ger organisationen som har gjort Objektet tillgängligt inga garantier rörande Objektet och den kan inte garantera att denna Nyttjanderättsbeskrivning är riktig. Du ansvarar själv för din egen användning."@sv-FI ;
-  skos:note "Sauf mention expresse contraire, l’organisme qui a rendu cet Objet accessible ne donne aucune garantie concernant cet Objet, ni ne garantit l’exactitude de la présente Déclaration des Droits. Vous êtes responsable de votre propre utilisation."@fr ;
+  skos:note "Sauf mention expresse contraire, l'organisme qui a rendu cet Objet accessible ne donne aucune garantie concernant cet Objet, ni ne garantit l'exactitude de la présente Déclaration des Droits. Vous êtes responsable de votre propre utilisation."@fr ;
 
   skos:note "You may need to obtain other permissions for your intended use. For example, other rights such as publicity, privacy or moral rights may limit how you may use the material."@en ;
   skos:note "Möglicherweise benötigen Sie zusätzliche Erlaubnisse für die beabsichtigte Nutzung. Zum Beispiel weil andere Rechte, wie Veröffentlichungsrechte, Persönlichkeits- oder Urheberpersönlichkeitsrechte den erlaubten Nutzungsumfang einschränken."@de ;
@@ -191,7 +191,7 @@
   skos:note "Saatat tarvita muita lupia aikomaasi käyttöä varten. Esimerkiksi moraaliset oikeudet, yksityisyyden suojaa koskevat oikeudet taikka henkilön oikeudet määrätä kuvansa tai henkilönsä tunnistettavan osan kaupallisesta käytöstä voivat rajoittaa aineiston käyttöä."@fi ;
   skos:note "Może być konieczne uzyskanie innych zgód w celu wykorzystania obiektu. Na przykład prawa związane z ochroną wizerunku i danych osobowych, prywatnością lub prawa osobiste mogą ograniczać możliwości wykorzystania obiektu."@pl ;
   skos:note "Du kanske måste skaffa andra tillstånd för den användning som du avser. Till exempel moraliska rättigheter, rättigheter gällande skyddet för privatliv eller personens rättigheter att bestämma gällande kommersiell användning av en identifierbar del av sin bild eller sin person kan begränsa dina möjligheter att använda materialet."@sv-FI ;
-  skos:note "Il est possible que l’utilisation que vous envisagez requière des autorisations supplémentaires. Il se peut par exemple que d’autres droits, comme les droits de la personnalité ou de la publicité, les droits liés à la protection de la vie privée ou les droits moraux, limitent vos possibilités d’utilisation."@fr ;
+  skos:note "Il est possible que l'utilisation que vous envisagez requière des autorisations supplémentaires. Il se peut par exemple que d'autres droits, comme les droits de la personnalité ou de la publicité, les droits liés à la protection de la vie privée ou les droits moraux, limitent vos possibilités d'utilisation."@fr ;
 
   skos:note "You may find additional information about the copyright status of the Item on the website of the organization that has made the Item available."@en ;
   skos:note "Möglicherweise finden Sie zusätzliche Informationen zum Urheberrechtsschutz des Objekts auf der Website der Institution, die das Objekt verfügbar gemacht hat."@de ;
@@ -200,7 +200,7 @@
   skos:note "Lisätietoja Kohteen tekijänoikeudellisesta statuksesta voi olla saatavissa Kohteen saataville saattaneen organisaation verkkosivuilta."@fi ;
   skos:note "Dodatkowe informacje o statusie prawnoautorskim obiektu mogą być dostępne na stronie internetowej organizacji, która ten obiekt udostępniła."@pl ;
   skos:note "Du kan hitta ytterligare information om Objektets upphovsrättsliga status på den organisations hemsida som har gjort Objektet tillgängligt."@sv-FI ;
-  skos:note "Il est possible que vous trouviez des informations supplémentaires concernant la protection de l’Objet par le droit d’auteur sur le site Web de l’organisme qui a rendu l’Objet accessible."@fr ;
+  skos:note "Il est possible que vous trouviez des informations supplémentaires concernant la protection de l'Objet par le droit d'auteur sur le site Web de l'organisme qui a rendu l'Objet accessible."@fr ;
 
   skos:scopeNote "This Rights Statement can be used for an Item that is in copyright. Using this statement implies that the organization making this Item available has determined that the Item is in copyright and either is the rights-holder, has obtained permission from the rights-holder(s) to make their Work(s) available, or makes the Item available under an exception or limitation to copyright (including Fair Use) that entitles it to make the Item available."@en ;
   skos:scopeNote "Dieser Rechtehinweis kann für Objekte verwendet werden, die urheberrechtlich geschützt sind. Die Benutzung des Rechtehinweises setzt voraus, dass die Institution, die das Objekt zugänglich macht, festgestellt hat, dass dieses urheberrechtlich geschützt ist, und sie entweder selbst Rechteinhaber ist, die Erlaubnis der/des Rechteinhaber(s) erhalten hat deren/dessen Werk(e) zugänglich zu machen, oder aber das Objekt berechtigterweise auf der Grundlage einer urheberrechtlichen Ausnahme- oder Schrankenbestimmung (einschließlich Fair Use) zugänglich macht."@de ;
@@ -209,7 +209,7 @@
   skos:scopeNote "Tätä käyttöoikeuskuvausta voidaan käyttää Kohteeseen, joka on tekijänoikeuden suojaama. Kuvausta käyttämällä ilmaistaan, että Kohteen saataville saattava organisaatio on todennut kohteen olevan tekijänoikeuden piirissä ja että kyseinen organisaatio saattaa kohteen saataville joko kohteeseen liittyvän teoksen (tai teosten) oikeudenhaltijana, oikeudenhaltijan tai -haltijoiden luvalla taikka perustuen sellaiseen tekijänoikeutta koskevaan poikkeukseen tai rajoitukseen (mukaan lukien “Fair use“), joka antaa sille tähän oikeuden."@fi ;
   skos:scopeNote "To oświadczenie prawne może być wykorzystywane dla obiektu, który jest objęty ochroną prawnoautorską. Wykorzystanie tego oświadczenia oznacza, że organizacja, która udostępnia dany obiekt określiła, że jest on objęty pełną ochroną prawnoautorską oraz organizacja ta jest uprawnionym z tytułu majątkowych praw autorskich lub też uzyskała zgodę na udostępnienie od uprawnionego z tytułu praw, lub też udostępnia ten obiekt na podstawie wyjątków lub ograniczeń ochrony prawnoautorskiej (w tym amerykańskiego Fair Use), które pozwalają na takie udostępnianie obiektu."@pl ;
   skos:scopeNote "Denna nyttjanderättsbeskrivning kan användas för ett objekt som skyddas av upphovsrätt. Denna beskrivning förutsätter att organisationen som gör objektet tillgängligt har bedömt att objektet skyddas av upphovsrätt och antingen är rättsinnehavare, har fått tillstånd från rättsinnehavaren/rättsinnehavarna att göra sin/sina verk tillgängligt, eller gör objektet tillgängligt genom ett undantag eller en inskränkning i upphovsrätten (inklusive ”Fair use”) som medför rätten att göra objektet tillgängligt."@sv-FI ;
-  skos:scopeNote "La présente Déclaration des Droits peut être utilisée pour un Objet protégé par le droit d’auteur. L’utilisation de la présente Déclaration implique que l’organisme qui rend l’Objet accessible ait constaté que celui-ci est protégé par le droit d’auteur et que, soit il est le titulaire des droits sur l’Objet, soit il a obtenu du/des titulaire(s) des droits l’autorisation de rendre accessible(s) son/ses/leur(s) œuvre(s) ou alors il rend l’Objet accessible en vertu d’une exception ou d’une limitation au droit d’auteur (y compris le “Fair use”) qui l’autorise à rendre l’Objet accessible."@fr ;
+  skos:scopeNote "La présente Déclaration des Droits peut être utilisée pour un Objet protégé par le droit d'auteur. L'utilisation de la présente Déclaration implique que l'organisme qui rend l'Objet accessible ait constaté que celui-ci est protégé par le droit d'auteur et que, soit il est le titulaire des droits sur l'Objet, soit il a obtenu du/des titulaire(s) des droits l'autorisation de rendre accessible(s) son/ses/leur(s) œuvre(s) ou alors il rend l'Objet accessible en vertu d'une exception ou d'une limitation au droit d'auteur (y compris le “Fair use”) qui l'autorise à rendre l'Objet accessible."@fr ;
 
   skos:inScheme <1.0/> .
 
@@ -233,16 +233,16 @@
   skos:prefLabel "Tekijänoikeuden piirissä - EU-orpoteos"@fi ;
   skos:prefLabel "Objęty pełną ochroną prawnoautorską - Utwór osierocony UE"@pl ;
   skos:prefLabel "Underkastad upphovsrätt - EU-anonymt verk"@sv-FI ;
-  skos:prefLabel "Protégé par le droit d’auteur − Œuvre Orpheline de l’UE"@fr ;
+  skos:prefLabel "Protégé par le droit d'auteur − Œuvre Orpheline de l'UE"@fr ;
 
-  dcterms:description "This Rights Statement indicates that the Item labeled with this Rights Statement has been identified as an ‘Orphan Work’ under the terms of the EU Orphan Works Directive."@en ;
+  dcterms:description "This Rights Statement indicates that the Item labeled with this Rights Statement has been identified as an ‘Orphan Work' under the terms of the EU Orphan Works Directive."@en ;
   dcterms:description "Dieser Rechtehinweis besagt, dass das damit gekennzeichnete Objekt als „Verwaistes Werk“ im Sinne der Bestimmungen der europäischen Richtlinie zu verwaisten Werken identifiziert wurde."@de ;
-  dcterms:description "Esta Declaración de Derechos indica que el material etiquetado con esta Declaración de Derechos ha sido identificado como ‘obra huérfana’ según los términos de la Directiva de Obras Huérfanas de la Unión Europea."@es ;
+  dcterms:description "Esta Declaración de Derechos indica que el material etiquetado con esta Declaración de Derechos ha sido identificado como ‘obra huérfana' según los términos de la Directiva de Obras Huérfanas de la Unión Europea."@es ;
   dcterms:description "Selle deklaratsiooniga märgistatud objekt on EL orbteoste direktiivi alusel tuvastatud kui „orbteos“."@et ;
   dcterms:description "Tällä käyttöoikeuskuvauksella ilmaistaan, että käyttöoikeuskuvauksella varustettu Kohde on katsottu ns. orpoteokseksi EU:n orpoteosdirektiivin mukaisesti."@fi ;
   dcterms:description "To oświadczenie prawne wskazuje, że oznaczony nim obiekt został zidentyfikowany jako “utwór osierocony” w rozumieniu Dyrektywy UE dotyczącej utworów osieroconych."@pl ;
   dcterms:description "Denna nyttjanderättsbeskrivning innebär att objektet som är märkt med denna nyttjanderättsbeskrivning har identifierats som ett ”anonymt verk” (föräldralöst verk) i enlighet med direktiv 2012/28/EU."@sv-FI ;
-  dcterms:description "Cette présente Déclaration des Droits indique que l’Objet auquel elle se rapporte a été identifié comme « Œuvre Orpheline» au sens de la Directive Européenne sur les Œuvres Orphelines."@fr ;
+  dcterms:description "Cette présente Déclaration des Droits indique que l'Objet auquel elle se rapporte a été identifié comme « Œuvre Orpheline» au sens de la Directive Européenne sur les Œuvres Orphelines."@fr ;
 
   skos:definition """This Item has been identified as an orphan work in the country of first publication and in line with Directive 2012/28/EU of the European Parliament and of the Council of 25 October 2012 on certain permitted uses of orphan works.
 
@@ -261,7 +261,7 @@
   Usted es libre de utilizar este material de cualquier forma que esté permitida por la legislación de derecho de autor y derechos conexos que se aplique al uso que pretende hacer."""@es ;
   skos:definition """Euroopa Parlamendi ja Nõukogu 25. oktoobri 2012 direktiivi 2012/28/EL “Orbteoste teatavate lubatud kasutusviiside kohta” alusel loetakse objekti selle esmaavaldamisriigis orbteoseks.
 
-  See tähendab, et (a) autoriõiguse valdajat (valdajaid) ei ole tuvastatud või (b) õiguste valdaja(d) on küll tuvastatud, kuid neid ei ole leitud vaatamata sellele, et on tehtud õiguste valdajate hoolikas otsing. Tehtud hoolika otsingu tulemused on leitavad EL orbteoste andmebaasist.
+  See tähendab, et (a) autoriõiguse valdajat (valdajaid) ei ole tuvastatud või (b) õiguste valdaja(d) on küll tuvastatud, kuid neid ei ole leitud vaatamata sellele, et on tehtud õiguste valdajate hoolikas otsing. Tehtud hoolika otsingu tulemused on leitavad EL orbteoste andmebaasist.
 
   Objekti võib vabalt kasutada kõigil viisidel, mis on lubatud kavandatavale kasutusviisile kohalduvates autoriõigust ja sellega seotud õigusi puudutavates seadustes."""@et ;
   skos:definition """Tämä Kohde on orpoteosten tietyistä sallituista käyttötarkoituksista 25. päivänä lokakuuta 2012 annetun Euroopan parlamentin ja neuvoston direktiivin 2012/28/EU mukaisesti katsottu orpoteokseksi siinä valtiossa, jossa teos on julkaistu ensimmäisen kerran.
@@ -281,9 +281,9 @@
   Du kan använda Objektet på alla sätt som är tillåtna enligt lagstiftningen om upphovsrätt och närstående rättigheter som är tillämplig på din användning."""@sv-FI ;
   skos:definition """Cet Objet a été identifié comme Œuvre Orpheline dans le pays de première publication, conformément à la Directive 2012/28/UE du Parlement Européen et du Conseil du 25 octobre 2012 sur certaines utilisations autorisées des Œuvres Orphelines.
 
-  Pour cet Objet, soit (a) aucun titulaire des droits n’a été identifié, soit (b) un ou plusieurs titulaires des droits ont été identifiés, mais aucun n’a pu être localisé, malgré une recherche diligente du/des titulaire(s) des droits. Les résultats de la recherche diligente sont disponibles dans la Base de données des Œuvres Orphelines de l’UE.
+  Pour cet Objet, soit (a) aucun titulaire des droits n'a été identifié, soit (b) un ou plusieurs titulaires des droits ont été identifiés, mais aucun n'a pu être localisé, malgré une recherche diligente du/des titulaire(s) des droits. Les résultats de la recherche diligente sont disponibles dans la Base de données des Œuvres Orphelines de l'UE.
 
-  Vous avez le droit d’utiliser l’Objet de toutes les manières autorisées par la législation sur le droit d’auteur et les droits voisins applicable à votre utilisation."""@fr ;
+  Vous avez le droit d'utiliser l'Objet de toutes les manières autorisées par la législation sur le droit d'auteur et les droits voisins applicable à votre utilisation."""@fr ;
 
   skos:note "Unless expressly stated otherwise, the organization that has made this Item available makes no warranties about the Item and cannot guarantee the accuracy of this Rights Statement. You are responsible for your own use."@en ;
   skos:note "Soweit nicht ausdrücklich an anderer Stelle ausgewiesen, macht die Institution, die das Objekt zugänglich macht, keine Zusicherungen in Bezug auf dieses und übernimmt keine Garantie für die Richtigkeit des gewählten Rechtehinweises. Sie sind für die eigene Nutzung selbst verantwortlich."@de ;
@@ -292,7 +292,7 @@
   skos:note "Ellei erikseen ole muuta nimenomaisesti ilmoitettu, tämän Kohteen saataville saattanut organisaatio ei anna mitään Kohdetta koskevaa takuuta eikä voi taata tämän käyttöoikeuskuvauksen virheettömyyttä. Olet vastuussa omasta käytöstäsi."@fi ;
   skos:note "Jeżeli wyraźnie nie zaznaczono inaczej, organizacja która udostępniła dany obiekt nie daje w związku z nim żadnych gwarancji i nie może zagwarantować poprawności oświadczenia prawnego. Sam odpowiadasz za własne działania."@pl ;
   skos:note "Om inte annat uttryckligen sägs, ger organisationen som har gjort Objektet tillgängligt inga garantier rörande Objektet och den kan inte garantera att denna Nyttjanderättsbeskrivning är riktig. Du ansvarar själv för din egen användning."@sv-FI ;
-  skos:note "Sauf mention expresse contraire, l’organisme qui a rendu cet Objet accessible ne donne aucune garantie concernant ce dernier ni ne garantit l’exactitude de la présente Déclaration des Droits. Vous êtes responsable de votre propre utilisation."@fr ;
+  skos:note "Sauf mention expresse contraire, l'organisme qui a rendu cet Objet accessible ne donne aucune garantie concernant ce dernier ni ne garantit l'exactitude de la présente Déclaration des Droits. Vous êtes responsable de votre propre utilisation."@fr ;
 
   skos:note "You may need to obtain other permissions for your intended use. For example, other rights such as publicity, privacy or moral rights may limit how you may use the material."@en ;
   skos:note "Möglicherweise benötigen Sie zusätzliche Erlaubnisse für die beabsichtigte Nutzung. Zum Beispiel weil andere Rechte, wie Veröffentlichungsrechte, Persönlichkeits- oder Urheberpersönlichkeitsrechte den erlaubten Nutzungsumfang einschränken."@de ;
@@ -301,7 +301,7 @@
   skos:note "Saatat tarvita muita lupia aikomaasi käyttöä varten. Esimerkiksi moraaliset oikeudet, yksityisyyden suojaa koskevat oikeudet taikka henkilön oikeudet määrätä kuvansa tai henkilönsä tunnistettavan osan kaupallisesta käytöstä voivat rajoittaa aineiston käyttöä."@fi ;
   skos:note "Może być konieczne uzyskanie innych zgód w celu wykorzystania obiektu. Na przykład prawa związane z ochroną wizerunku i danych osobowych, prywatnością lub prawa osobiste mogą ograniczać możliwości wykorzystania obiektu."@pl ;
   skos:note "Du kanske måste skaffa andra tillstånd för den användning som du avser. Till exempel moraliska rättigheter, rättigheter gällande skyddet för privatliv eller personens rättigheter att bestämma gällande kommersiell användning av en identifierbar del av sin bild eller sin person kan begränsa dina möjligheter att använda materialet."@sv-FI ;
-  skos:note "Il est possible que l’utilisation que vous envisagez requière des autorisations supplémentaires. Il se peut par exemple que d’autres droits, comme les droits de la personnalité ou de la publicité, les droits liés à la protection de la vie privée ou les droits moraux, limitent vos possibilités d’utilisation."@fr ;
+  skos:note "Il est possible que l'utilisation que vous envisagez requière des autorisations supplémentaires. Il se peut par exemple que d'autres droits, comme les droits de la personnalité ou de la publicité, les droits liés à la protection de la vie privée ou les droits moraux, limitent vos possibilités d'utilisation."@fr ;
 
   skos:note "You may find additional information about the copyright status of the Item on the website of the organization that has made the Item available."@en ;
   skos:note "Möglicherweise finden Sie zusätzliche Informationen zum Urheberrechtsschutz des Objekts auf der Website der Institution, die das Objekt verfügbar gemacht hat."@de ;
@@ -310,7 +310,7 @@
   skos:note "Lisätietoja Kohteen tekijänoikeudellisesta statuksesta voi olla saatavissa Kohteen saataville saattaneen organisaation verkkosivuilta."@fi ;
   skos:note "Dodatkowe informacje o statusie prawnoautorskim obiektu mogą być dostępne na stronie internetowej organizacji, która ten obiekt udostępniła."@pl ;
   skos:note "Du kan hitta ytterligare information om Objektets upphovsrättsliga status på den organisations hemsida som har gjort Objektet tillgängligt."@sv-FI ;
-  skos:note "Il est possible que vous trouviez des informations supplémentaires concernant la protection de l’Objet par le droit d’auteur sur le site Web de l’organisme qui a rendu l’Objet accessible."@fr ;
+  skos:note "Il est possible que vous trouviez des informations supplémentaires concernant la protection de l'Objet par le droit d'auteur sur le site Web de l'organisme qui a rendu l'Objet accessible."@fr ;
 
   skos:note "If you have any information that can contribute to identifying or locating the rights-holder(s), please notify the organization that has made the Item available."@en ;
   skos:note "Wenn Sie Hinweise haben, die dazu beitragen können, den/die Rechteinhaber zu identifizieren oder auffindbar zu machen, informieren Sie bitte die Institution, die das Objekt verfügbar gemacht hat."@de ;
@@ -319,7 +319,7 @@
   skos:note "Jos sinulla on tietoja, jotka voivat auttaa oikeudenhaltijoiden tunnistamisessa tai paikantamisessa, otathan yhteyttä Kohteen saataville saattaneeseen organisaatioon."@fi ;
   skos:note "Jeżeli posiadasz jakiekolwiek informacje, które mogą przyczynić się do poznania lub odnalezienia uprawnionego z tytułu praw autorskich, prosimy o poinformowanie o tym fakcie organizacji, która udostępniła dany obiekt."@pl ;
   skos:note "Om du har några upplysningar som kan bidra till att identifiera eller lokalisera rättsinnehavaren(rna), var vänlig och meddela den organisation som har gjort Objektet tillgängligt."@sv-FI ;
-  skos:note "Si vous disposez d’informations susceptibles de contribuer à l’identification ou à la localisation du/des titulaire(s) des droits, veuillez en informer l’organisme qui a rendu l’Objet accessible."@fr ;
+  skos:note "Si vous disposez d'informations susceptibles de contribuer à l'identification ou à la localisation du/des titulaire(s) des droits, veuillez en informer l'organisme qui a rendu l'Objet accessible."@fr ;
 
   skos:scopeNote "This Rights Statement is intended for use with Items for which the underlying Work has been identified as an Orphan Work in accordance with Directive 2012/28/EU of the European Parliament and of the Council of 25 October 2012 on certain permitted uses of Orphan Works. It can only be applied to Items derived from Works that are covered by the Directive: Works published in the form of books, journals, newspapers, magazines or other writings as well as cinematographic or audiovisual works and phonograms (note: this excludes photography and visual arts). It can only be applied by organizations that are beneficiaries of the Directive: publicly accessible libraries, educational establishments and museums, archives, film or audio heritage institutions and public-service broadcasting organizations, established in one of the EU member states. The beneficiary is also expected to have registered the work in the EU Orphan Works Database maintained by EUIPO."@en ;
   skos:scopeNote "Dieser Rechtehinweis ist für die Verwendung bei Objekten bestimmt, bei denen das zugrunde liegende Werk in Übereinstimmung mit der Richtlinie 2012/28/EU des Europäischen Parlaments und Rates vom 25. Oktober 2012 über bestimmte zulässige Formen der Nutzung verwaister Werke als verwaistes Werk identifiziert wurde. Die Benutzung des Rechtehinweises setzt voraus, dass das dem Objekt zugrunde liegende Werk als solches von der Richtlinie erfasst wird: veröffentlichte Werke in Form von Büchern, Zeitschriften, Zeitungen, Magazinen oder anderen Schriftwerken sowie Filmwerke und andere audiovisuelle Werke und Tonaufzeichnungen (Achtung: Fotografie und Werke der bildenden Kunst sind ausgeschlossen!). Außerdem muss die Institution, die das Objekt verfügbar macht, durch die Richtlinie begünstigt sein: öffentlich zugängliche Bibliotheken, Bildungseinrichtungen und Museen, Archive, Film- und Ton-Kulturerbe-Einrichtungen und öffentlich-rechtliche Rundfunkanstalten aus einem Mitgliedstaat der EU. Die begünstigte Institution muss das entsprechende Werk außerdem in der EU-Datenbank für Verwaiste Werke beim EUIPO eingetragen haben."@de ;
@@ -328,7 +328,7 @@
   skos:scopeNote "Tämä käyttöoikeuskuvaus on tarkoitettu Kohteille, joihin liittyvä teos on katsottu orpoteokseksi orpoteosten tietyistä sallituista käyttötarkoituksista 25. päivänä lokakuuta 2012 annetun Euroopan parlamentin ja neuvoston direktiivin 2012/28/EU mukaisesti. Kuvausta voidaan käyttää vain Kohteisiin, jotka perustuvat direktiivin soveltamisalaan kuuluviin teoksiin. Tällaisia teoksia ovat kirjojen, aikakausjulkaisujen, sanomalehtien tai muiden kirjoitusten muodossa julkaistut teokset sekä elokuvateokset tai audiovisuaaliset teokset ja äänitteet (huom. ulkopuolelle jäävät valokuva- ja kuvataide). Kuvausta voivat käyttää vain ne tahot, joille direktiivi luo oikeuksia: Euroopan unionin jäsenvaltioon sijoittautuneet yleisölle avoimet kirjastot, oppilaitokset ja museot sekä arkistot, elokuva- ja äänitearkistot ja julkisen palvelun yleisradio-organisaatiot. Tällaisen tahon odotetaan myös rekisteröineen teoksen Euroopan unionin teollisoikeuksien viraston (EUIPO) ylläpitämään EU:n orpoteostietokantaan."@fi ;
   skos:scopeNote "To oświadczenie prawne jest przeznaczone do wykorzystania w przypadku obiektów, dla których utwór pierwotny został zidentyfikowany jako utwór osierocony zgodnie z Dyrektywą Parlamentu Europejskiego i Rady 2012/28/UE z dnia 25 października 2012 r. w sprawie niektórych dozwolonych sposobów korzystania z utworów osieroconych. Oświadczenie to może być zastosowane wyłącznie dla obiektów, które są cyfrowymi kopiami utworów objętych przepisami dyrektywy: utworów opublikowanych w książkach, czasopismach, dziennikach, magazynach lub innych publikacjach drukowanych, a także utworów filmowych lub audiowizualnych, fonogramów i wideogramów (uwaga: wyłączone są fotografie i utwory wizualne, takie jak np. obrazy czy rzeźby). Zastosowanie ograniczone jest wyłącznie do organizacji, które są beneficjentami dyrektywy: publicznie dostępnych bibliotek, placówek oświatowych lub muzeów, archiwów, instytucji odpowiedzialnych za dziedzictwo filmowe lub dźwiękowe oraz nadawców publicznych z siedzibą w państwach członkowskich UE. Beneficjenci są również zobowiązani do zarejestrowania utworu w bazie danych utworów osieroconych UE utrzymywanej przez EUIPO (Urząd Unii Europejskiej ds. Własności Intelektualnej)."@pl ;
   skos:scopeNote "Denna nyttjanderättsbeskrivning är avsedd att användas med objekt vars underliggande verk har identifierats som ett anonymt verk (föräldralöst verk) i enlighet med Europaparlamentets och rådets direktiv 2012/28/EU av den 25 oktober 2012 om viss tillåten användning av anonyma verk. Nyttjanderättsbeskrivningen kan endast tillämpas på objekt baserade på verk som omfattas av direktivet: verk som publicerats i form av böcker, tidskrifter, tidningar, magasin eller andra skrifter samt filmverk eller audiovisuella verk och fonogram (Obs! Detta omfattar inte fotografi och bildkonst). Den kan endast tillämpas av organisationer som omfattas av direktivet: bibliotek, utbildningsanstalter och museer som är tillgängliga för allmänheten, samt arkiv, institutioner för film- eller ljudarvet och radio- och televisionsföretag i allmänhetens tjänst, som är etablerade i något av EU-länderna. Mottagaren förväntas också ha registrerat verket i EU:s databas för anonyma verk som förvaltas av EUIPO."@sv-FI ;
-  skos:scopeNote "La présente Déclaration des Droits est destinée à être utilisée pour les Objets dont l’œuvre sous-jacente a été identifiée comme Œuvre Orpheline, conformément à la Directive 2012/28/UE du Parlement Européen et du Conseil du 25 octobre 2012 sur certaines utilisations autorisées des Oeuvres Orphelines. Elle ne peut être utilisée que pour des Objets dérivés d’Oeuvres couvertes par la Directive : il peut s’agir d’Oeuvres publiées sous forme de livres, de revues, de journaux, de magazines ou d’autres écrits, d’œuvres cinématographiques ou audiovisuelles et de phonogrammes (attention : la photographie et les arts visuels sont exclus). Cette Déclaration peut uniquement être utilisée par des organismes bénéficiaires de la Directive : les bibliothèques, les établissements d'enseignement et les musées accessibles au public, les archives, les institutions dépositaires du patrimoine cinématographique ou sonore et les organismes de radiodiffusion de service public, établis dans l’un des États membres de l’UE. En outre, le bénéficiaire doit avoir enregistré l’Oeuvre dans la Base de données des Œuvres Orphelines de l’UE gérée par l’EUIPO."@fr ;
+  skos:scopeNote "La présente Déclaration des Droits est destinée à être utilisée pour les Objets dont l'œuvre sous-jacente a été identifiée comme Œuvre Orpheline, conformément à la Directive 2012/28/UE du Parlement Européen et du Conseil du 25 octobre 2012 sur certaines utilisations autorisées des Oeuvres Orphelines. Elle ne peut être utilisée que pour des Objets dérivés d'Oeuvres couvertes par la Directive : il peut s'agir d'Oeuvres publiées sous forme de livres, de revues, de journaux, de magazines ou d'autres écrits, d'œuvres cinématographiques ou audiovisuelles et de phonogrammes (attention : la photographie et les arts visuels sont exclus). Cette Déclaration peut uniquement être utilisée par des organismes bénéficiaires de la Directive : les bibliothèques, les établissements d'enseignement et les musées accessibles au public, les archives, les institutions dépositaires du patrimoine cinématographique ou sonore et les organismes de radiodiffusion de service public, établis dans l'un des États membres de l'UE. En outre, le bénéficiaire doit avoir enregistré l'Oeuvre dans la Base de données des Œuvres Orphelines de l'UE gérée par l'EUIPO."@fr ;
 
   skos:inScheme <1.0/> .
 
@@ -351,7 +351,7 @@
   skos:prefLabel "Tekijänoikeuden piirissä - oikeudenhaltija(t) paikantamatta tai tunnistamatta"@fi ;
   skos:prefLabel "Objęty pełną ochroną prawnoautorską - Uprawniony z tytułu praw autorskich nieodnaleziony lub nieznany"@pl ;
   skos:prefLabel "Underkastad upphovsrätt - rättsinnehavare ej lokaliserats eller identifierats"@sv-FI ;
-  skos:prefLabel "Protégé par le droit d’auteur − Titulaire(s) des droits impossible(s) à localiser ou à identifier"@fr ;
+  skos:prefLabel "Protégé par le droit d'auteur − Titulaire(s) des droits impossible(s) à localiser ou à identifier"@fr ;
 
   dcterms:description "This Rights Statement indicates that the Item labeled with this Rights Statement has been identified as in copyright, but its rights-holder(s) either cannot be identified or cannot be located."@en ;
   dcterms:description "Dieser Rechtehinweis besagt, dass das damit gekennzeichnete Objekt urheberrechtlich geschützt ist, aber der/die Rechteinhaber entweder nicht identifiziert oder aufgefunden werden konnte(n)."@de ;
@@ -360,7 +360,7 @@
   dcterms:description "Tällä käyttöoikeuskuvauksella ilmaistaan, että käyttöoikeuskuvauksella varustetun Kohteen on todettu kuuluvan tekijänoikeuden piiriin, mutta sen oikeudenhaltijaa tai -haltijoita ei ole voitu tunnistaa tai paikantaa."@fi ;
   dcterms:description "To oświadczenie prawne wskazuje, że oznaczony nim obiekt został zidentyfikowany jako objęty pełną ochroną prawnoautorską, ale uprawniony z tytułu praw autorskich nie może zostać zidentyfikowany lub odnaleziony."@pl ;
   dcterms:description "Denna nyttjanderättsbeskrivning innebär att objektet som är märkt med denna nyttjanderättsbeskrivning har identifierats som skyddat genom upphovsrätt, men där inga rättsinnehavare har kunnat identifieras eller lokaliseras."@sv-FI ;
-  dcterms:description "Cette Déclaration des Droits indique que l’Objet auquel elle se rapporte a été identifié comme étant protégé par le droit d’auteur, mais que le(s) titulaire(s) des droits y afférents soit ne peut/peuvent pas être identifié(s), soit ne peut/peuvent pas être localisé(s)."@fr ;
+  dcterms:description "Cette Déclaration des Droits indique que l'Objet auquel elle se rapporte a été identifié comme étant protégé par le droit d'auteur, mais que le(s) titulaire(s) des droits y afférents soit ne peut/peuvent pas être identifié(s), soit ne peut/peuvent pas être localisé(s)."@fr ;
 
   skos:definition """This Item is protected by copyright and/or related rights. However, for this Item, either (a) no rights-holder(s) have been identified or (b) one or more rights-holder(s) have been identified but none have been located.
 
@@ -383,9 +383,9 @@
   skos:definition """Detta Objekt skyddas genom upphovsrätt och/eller närstående rättigheter. Ifråga om detta Objekt har dock antingen (a) inga rättsinnehavare identifierats, eller (b) en eller flera rättsinnehavare har identifierats, men ingen har lokaliserats.
 
   Du kan använda Objektet på alla sätt som är tillåtna enligt lagstiftningen om upphovsrätt och närstående rättigheter som är tillämplig på din användning."""@sv-FI ;
-  skos:definition """Cet Objet est protégé par le droit d’auteur et/ou les droits voisins. Toutefois, pour cet Objet, soit (a) aucun titulaire des droits n’a été identifié, soit (b) un ou plusieurs titulaires des droits a/ont été identifié(s), mais aucun n’a pu être localisé.
+  skos:definition """Cet Objet est protégé par le droit d'auteur et/ou les droits voisins. Toutefois, pour cet Objet, soit (a) aucun titulaire des droits n'a été identifié, soit (b) un ou plusieurs titulaires des droits a/ont été identifié(s), mais aucun n'a pu être localisé.
 
-  Vous avez le droit d’utiliser l’Objet de toutes les manières autorisées par la législation sur le droit d’auteur et les droits voisins applicable à votre utilisation."""@fr ;
+  Vous avez le droit d'utiliser l'Objet de toutes les manières autorisées par la législation sur le droit d'auteur et les droits voisins applicable à votre utilisation."""@fr ;
 
   skos:note "Unless expressly stated otherwise, the organization that has made this Item available makes no warranties about the Item and cannot guarantee the accuracy of this Rights Statement. You are responsible for your own use."@en ;
   skos:note "Soweit nicht ausdrücklich an anderer Stelle ausgewiesen, macht die Institution, die das Objekt zugänglich macht, keine Zusicherungen in Bezug auf dieses und übernimmt keine Garantie für die Richtigkeit des gewählten Rechtehinweises. Sie sind für die eigene Nutzung selbst verantwortlich."@de ;
@@ -394,7 +394,7 @@
   skos:note "Ellei erikseen ole muuta nimenomaisesti ilmoitettu, tämän Kohteen saataville saattanut organisaatio ei anna mitään Kohdetta koskevaa takuuta eikä voi taata tämän käyttöoikeuskuvauksen virheettömyyttä. Olet vastuussa omasta käytöstäsi."@fi ;
   skos:note "Jeżeli wyraźnie nie zaznaczono inaczej, organizacja która udostępniła dany obiekt nie daje w związku z nim żadnych gwarancji i nie może zagwarantować poprawności oświadczenia prawnego. Sam odpowiadasz za własne działania."@pl ;
   skos:note "Om inte annat uttryckligen sägs, ger organisationen som har gjort Objektet tillgängligt inga garantier rörande Objektet och den kan inte garantera att denna Nyttjanderättsbeskrivning är riktig. Du ansvarar själv för din egen användning."@sv-FI ;
-  skos:note "Sauf mention expresse contraire, l’organisme qui a rendu cet Objet accessible ne donne aucune garantie concernant ce dernier ni ne garantit l’exactitude de la présente Déclaration des Droits. Vous êtes responsable de votre propre utilisation."@fr ;
+  skos:note "Sauf mention expresse contraire, l'organisme qui a rendu cet Objet accessible ne donne aucune garantie concernant ce dernier ni ne garantit l'exactitude de la présente Déclaration des Droits. Vous êtes responsable de votre propre utilisation."@fr ;
 
   skos:note "You may need to obtain other permissions for your intended use. For example, other rights such as publicity, privacy or moral rights may limit how you may use the material."@en ;
   skos:note "Möglicherweise benötigen Sie zusätzliche Erlaubnisse für die beabsichtigte Nutzung. Zum Beispiel weil andere Rechte wie Veröffentlichungs-, Persönlichkeits- oder Urheberpersönlichkeitsrechte den erlaubten Nutzungsumfang einschränken."@de ;
@@ -403,7 +403,7 @@
   skos:note "Saatat tarvita muita lupia aikomaasi käyttöä varten. Esimerkiksi moraaliset oikeudet, yksityisyyden suojaa koskevat oikeudet taikka henkilön oikeudet määrätä kuvansa tai henkilönsä tunnistettavan osan kaupallisesta käytöstä voivat rajoittaa aineiston käyttöä."@fi ;
   skos:note "Może być również konieczne uzyskanie innych zgód w celu wykorzystania obiektu. Na przykład prawa związane z ochroną wizerunku i danych osobowych, prywatnością lub prawa osobiste mogą ograniczać możliwości wykorzystania obiektu."@pl ;
   skos:note "Du kanske måste skaffa andra tillstånd för den användning som du avser. Till exempel moraliska rättigheter, rättigheter gällande skyddet för privatliv eller personens rättigheter att bestämma gällande kommersiell användning av en identifierbar del av sin bild eller sin person kan begränsa dina möjligheter att använda materialet."@sv-FI ;
-  skos:note "Il est possible que l’utilisation que vous envisagez requière des autorisations supplémentaires. Il se peut par exemple que d’autres droits, comme les droits de la personnalité ou de la publicité, les droits liés à la protection de la vie privée ou les droits moraux, limitent vos possibilités d’utilisation."@fr ;
+  skos:note "Il est possible que l'utilisation que vous envisagez requière des autorisations supplémentaires. Il se peut par exemple que d'autres droits, comme les droits de la personnalité ou de la publicité, les droits liés à la protection de la vie privée ou les droits moraux, limitent vos possibilités d'utilisation."@fr ;
 
   skos:note "You may find additional information about the copyright status of the Item on the website of the organization that has made the Item available."@en ;
   skos:note "Möglicherweise finden Sie zusätzliche Informationen zum Urheberrechtssschutz des Objekts auf der Website der Institution, die das Objekt verfügbar gemacht hat."@de ;
@@ -412,7 +412,7 @@
   skos:note "Lisätietoja Kohteen tekijänoikeudellisesta statuksesta voi olla saatavissa Kohteen saataville saattaneen organisaation verkkosivuilta."@fi ;
   skos:note "Dodatkowe informacje o statusie prawnoautorskim obiektu mogą być dostępne na stronie internetowej organizacji, która ten obiekt udostępniła."@pl ;
   skos:note "Du kan hitta ytterligare information om Objektets upphovsrättsliga status på den organisations hemsida som har gjort Objektet tillgängligt."@sv-FI ;
-  skos:note "Il est possible que vous trouviez, sur le site Web de l’organisme ayant rendu l’Objet accessible, des informations supplémentaires concernant la protection de l’Objet par le droit d’auteur."@fr ;
+  skos:note "Il est possible que vous trouviez, sur le site Web de l'organisme ayant rendu l'Objet accessible, des informations supplémentaires concernant la protection de l'Objet par le droit d'auteur."@fr ;
 
   skos:note "If you have any information that can contribute to identifying or locating the rights-holder(s) please notify the organization that has made the Item available."@en ;
   skos:note "Wenn Sie Hinweise haben, die dazu beitragen können, den/die Rechteinhaber zu identifizieren oder aufzufinden, informieren Sie bitte die Institution, die das Objekt verfügbar gemacht hat."@de ;
@@ -421,7 +421,7 @@
   skos:note "Jos sinulla on tietoja, jotka voivat auttaa oikeudenhaltijoiden tunnistamisessa tai paikantamisessa, otathan yhteyttä Kohteen saataville saattaneeseen organisaatioon."@fi ;
   skos:note "Jeżeli posiadasz jakiekolwiek informacje, które mogą przyczynić się do zidentyfikowania  lub odnalezienia uprawnionego  z tytułu praw autorskich, prosimy o poinformowanie o tym fakcie organizacji, która udostępniła dany obiekt."@pl ;
   skos:note "Om du har några upplysningar som kan bidra till att identifiera eller lokalisera rättsinnehavaren(rna), var vänlig och meddela den organisation som har gjort Objektet tillgängligt."@sv-FI ;
-  skos:note "Si vous disposez d’informations susceptibles de contribuer à l’identification ou à la localisation du/des titulaire(s) des droits, veuillez en informer l’organisme qui a rendu l’Objet accessible."@fr ;
+  skos:note "Si vous disposez d'informations susceptibles de contribuer à l'identification ou à la localisation du/des titulaire(s) des droits, veuillez en informer l'organisme qui a rendu l'Objet accessible."@fr ;
 
   skos:scopeNote "This Rights Statement is intended for use with an Item that has been identified as in copyright but for which no rights-holder(s) has been identified or located after some reasonable investigation. This Rights Statement should only be used if the organization that intends to make the Item available is reasonably sure that the underlying Work is in copyright. This Rights Statement is not intended for use by EU-based organizations who have identified works as Orphan Works in accordance with the EU Orphan Works Directive (they must use InC-OW-EU instead)."@en ;
   skos:scopeNote "Dieser Rechtehinweis ist für die Verwendung bei Objekten bestimmt, die urheberrechtlich geschützt sind, aber für die selbst nach einer sorgfältigen Suche kein(e) Rechteinhaber identifiziert, oder aufgefunden werden konnte(n). Dieser Rechtehinweis sollte nur benutzt werden, wenn die Institution, die beabsichtigt, das Objekt zugänglich zu machen, ziemlich sicher davon ausgeht, dass das zugrundeliegende Werk urheberrechtlich geschützt ist. Der Rechtehinweis ist nicht für die Anwendung durch Institutionen aus Europa gedacht, die Werke in Übereinstimmung mit den Vorgaben der europäischen Richtlinie zu verwaisten Werken als verwaist identifiziert haben (diese müssen stattdessen den Rechtehinweis InC-OW-EU verwenden)."@de ;
@@ -430,7 +430,7 @@
   skos:scopeNote "Tämä käyttöoikeuskuvaus on tarkoitettu Kohteelle, jonka on katsottu olevan tekijänoikeuden suojaama mutta jonka kohdalla oikeudenhaltijaa tai -haltijoita ei ole kohtuullisten selvitysten jälkeen tunnistettu tai paikannettu. Tätä käyttöoikeuskuvausta tulisi käyttää vain, jos organisaatio, joka aikoo saattaa kohteen saataville, on kohtuullisen varma siitä, että kohteeseen liittyvä teos kuuluu tekijänoikeuden piiriin. Käyttöoikeuskuvausta ei ole tarkoitettu sellaisten Euroopan unioniin sijoittautuneiden organisaatioiden käyttöön, jotka ovat katsoneet teoksen orpoteokseksi EU:n orpoteosdirektiivin mukaisesti (tällaisissa tapauksissa tulisi käyttää käyttöoikeuskuvausta InC-OW-EU)."@fi ;
   skos:scopeNote "To oświadczenie prawne jest przeznaczone do wykorzystania w przypadku obiektów zidentyfikowanych jako objęte pełną ochroną prawnoautorską, ale dla których co najmniej jeden uprawniony z tytułu praw autorskich nie został zidentyfikowany lub odnaleziony, pomimo podjęcia ku temu wystarczających działań. To oświadczenie prawne powinno być używane wyłącznie, jeżeli organizacja która zamierza udostępnić obiekt jest wystarczająco pewna, że utwór pierwotny jest objęty pełną ochroną prawnoautorską. To oświadczenie prawne nie jest przeznaczona do wykorzystywania przez organizacje zlokalizowane w UE, które zidentyfikowały utwory jako utwory osierocone na zasadach Dyrektywy UE dotyczącej utworów osieroconych (w tej sytuacji należy stosować deklarację InC-OW-EU)."@pl ;
   skos:scopeNote "Denna nyttjanderättsbeskrivning är avsedd för objekt som har identifierats som skyddade av upphovsrätt men där inga rättsinnehavare identifierats eller lokaliserats efter rimlig efterforskning. Denna nyttjanderättsbeskrivning bör endast användas om organisationen som avser att göra objektet tillgängligt är tämligen säker på att underliggande verket skyddas av upphovsrätt. Denna nyttjanderättsbeskrivning är inte avsedd för EU-baserade organisationer som har identifierat verket som ett anonymt verk (föräldralöst verk) i enlighet med direktiv 2012/28/EU (de måste istället använda InC-OW-EU)."@sv-FI ;
-  skos:scopeNote "La présente Déclaration des Droits est destinée à être utilisée pour un Objet identifié comme étant protégé par le droit d’auteur, mais pour lequel aucun titulaire des droits n’a pu être identifié ou localisé au terme de recherches raisonnables. La présente Déclaration des Droits ne doit être utilisée que si l’organisme envisageant de rendre l’Objet accessible a la certitude raisonnable que l’Oeuvre sous-jacente est protégée par le droit d’auteur. Cette Déclaration des Droits n’est pas destinée à être utilisée par les organismes basés dans l’UE qui ont identifié des Oeuvres comme étant des Oeuvres Orphelines conformément à la Directive Européenne sur les Oeuvres Orphelines (elles doivent plutôt utiliser la Déclaration InC-OW-EU)."@fr ;
+  skos:scopeNote "La présente Déclaration des Droits est destinée à être utilisée pour un Objet identifié comme étant protégé par le droit d'auteur, mais pour lequel aucun titulaire des droits n'a pu être identifié ou localisé au terme de recherches raisonnables. La présente Déclaration des Droits ne doit être utilisée que si l'organisme envisageant de rendre l'Objet accessible a la certitude raisonnable que l'Oeuvre sous-jacente est protégée par le droit d'auteur. Cette Déclaration des Droits n'est pas destinée à être utilisée par les organismes basés dans l'UE qui ont identifié des Oeuvres comme étant des Oeuvres Orphelines conformément à la Directive Européenne sur les Oeuvres Orphelines (elles doivent plutôt utiliser la Déclaration InC-OW-EU)."@fr ;
 
   skos:inScheme <1.0/> .
 
@@ -453,7 +453,7 @@
   skos:prefLabel "Tekijänoikeuden piirissä - käyttö opetustoiminnassa sallittu"@fi ;
   skos:prefLabel "Objęty pełną ochroną prawnoautorską - Dozwolone wykorzystanie edukacyjne"@pl ;
   skos:prefLabel "Underkastad upphovsrätt – användning inom undervisning tillåten"@sv-FI ;
-  skos:prefLabel "Protégé par le droit d’auteur − Utilisation à des fins pédagogiques autorisée"@fr ;
+  skos:prefLabel "Protégé par le droit d'auteur − Utilisation à des fins pédagogiques autorisée"@fr ;
 
   dcterms:description "This Rights Statement indicates that the Item labeled with this Rights Statement is in copyright but that educational use is allowed without the need to obtain additional permission."@en ;
   dcterms:description "Dieser Rechtehinweis besagt, dass Urheberrechtsschutz besteht, aber die Nutzung des Objekts zu Bildungszwecken ohne zusätzliche Rechteeinholung gestattet ist."@de ;
@@ -462,7 +462,7 @@
   dcterms:description "Tällä käyttöoikeuskuvauksella ilmaistaan, että käyttöoikeuskuvauksella varustettu Kohde kuuluu tekijänoikeuden piiriin, mutta sitä saa käyttää opetustoiminnassa ilman erillistä lupaa."@fi ;
   dcterms:description "To oświadczenie prawne wskazuje, że oznaczony nim obiekt jest objęty ochroną autorskich praw majątkowych i praw osobistych, ale dozwolone jest wykorzystanie obiektu w celach edukacyjnych bez uzyskiwania dodatkowych pozwoleń."@pl ;
   dcterms:description "Denna nyttjanderättsbeskrivning innebär att objektet som är märkt med denna nyttjanderättsbeskrivning skyddas av upphovsrätt, men att användning inom undervisning är tillåten utan att behöva skaffa ytterligare tillstånd."@sv-FI ;
-  dcterms:description "La présente Déclaration des Droits indique que l’Objet auquel elle se rapporte est protégé par le droit d’auteur, mais que son utilisation à des fins pédagogiques est permise sans requérir d’autorisation supplémentaire."@fr ;
+  dcterms:description "La présente Déclaration des Droits indique que l'Objet auquel elle se rapporte est protégé par le droit d'auteur, mais que son utilisation à des fins pédagogiques est permise sans requérir d'autorisation supplémentaire."@fr ;
 
   skos:definition """This Item is protected by copyright and/or related rights.
 
@@ -499,11 +499,11 @@
   Du kan använda Objektet på alla sätt som är tillåtna enligt lagstiftningen om upphovsrätt och närstående rättigheter som är tillämplig på din användning. Dessutom krävs inget tillstånd av rättsinnehavaren(rna) för användning inom undervisning.
 
   För annan användning måste du skaffa tillstånd av rättsinnehavaren(rna)."""@sv-FI ;
-  skos:definition """Cet Objet est protégé par le droit d’auteur et/ou les droits voisins.
+  skos:definition """Cet Objet est protégé par le droit d'auteur et/ou les droits voisins.
 
-  Vous avez le droit d’utiliser l’Objet de toutes les manières autorisées par la législation sur le droit d’auteur et les droits voisins applicable à votre utilisation. En outre, l’utilisation à des fins pédagogiques est autorisée sans l’autorisation du/des titulaire(s) des droits.
+  Vous avez le droit d'utiliser l'Objet de toutes les manières autorisées par la législation sur le droit d'auteur et les droits voisins applicable à votre utilisation. En outre, l'utilisation à des fins pédagogiques est autorisée sans l'autorisation du/des titulaire(s) des droits.
 
-  Les autres utilisations requièrent l’autorisation du/des titulaire(s) des droits."""@fr ;
+  Les autres utilisations requièrent l'autorisation du/des titulaire(s) des droits."""@fr ;
 
   skos:note "Unless expressly stated otherwise, the organization that has made this Item available makes no warranties about the Item and cannot guarantee the accuracy of this Rights Statement. You are responsible for your own use."@en ;
   skos:note "Soweit nicht ausdrücklich an anderer Stelle ausgewiesen, macht die Institution, die das Objekt zugänglich macht, keine Zusicherungen in Bezug auf dieses und übernimmt keine Garantie für die Richtigkeit des gewählten Rechtehinweises. Sie sind für die eigene Nutzung selbst verantwortlich."@de ;
@@ -512,7 +512,7 @@
   skos:note "Ellei erikseen ole muuta nimenomaisesti ilmoitettu, tämän Kohteen saataville saattanut organisaatio ei anna mitään Kohdetta koskevaa takuuta eikä voi taata tämän käyttöoikeuskuvauksen virheettömyyttä. Olet vastuussa omasta käytöstäsi."@fi ;
   skos:note "Jeżeli wyraźnie nie zaznaczono inaczej, organizacja która udostępniła dany obiekt nie daje w związku z nim żadnych gwarancji i nie może zagwarantować poprawności oświadczenia prawnego. Sam odpowiadasz za własne działania."@pl ;
   skos:note "Om inte annat uttryckligen sägs, ger organisationen som har gjort Objektet tillgängligt inga garantier rörande Objektet och den kan inte garantera att denna Nyttjanderättsbeskrivning är riktig. Du ansvarar själv för din egen användning."@sv-FI ;
-  skos:note "Sauf mention expresse contraire, l’organisme qui a rendu cet Objet accessible ne donne aucune garantie concernant ce dernier ni ne garantit l’exactitude de la présente Déclaration des Droits. Vous êtes responsable de votre propre utilisation."@fr ;
+  skos:note "Sauf mention expresse contraire, l'organisme qui a rendu cet Objet accessible ne donne aucune garantie concernant ce dernier ni ne garantit l'exactitude de la présente Déclaration des Droits. Vous êtes responsable de votre propre utilisation."@fr ;
 
   skos:note "You may need to obtain other permissions for your intended use. For example, other rights such as publicity, privacy or moral rights may limit how you may use the material."@en ;
   skos:note "Möglicherweise benötigen Sie zusätzliche Erlaubnisse für die beabsichtigte Nutzung. Zum Beispiel weil andere Rechte wie Veröffentlichungs-, Persönlichkeits- oder Urheberpersönlichkeitsrechte den erlaubten Nutzungsumfang einschränken."@de ;
@@ -521,7 +521,7 @@
   skos:note "Saatat tarvita muita lupia aikomaasi käyttöä varten. Esimerkiksi moraaliset oikeudet, yksityisyyden suojaa koskevat oikeudet taikka henkilön oikeudet määrätä kuvansa tai henkilönsä tunnistettavan osan kaupallisesta käytöstä voivat rajoittaa aineiston käyttöä."@fi ;
   skos:note "Może być również konieczne uzyskanie innych zgód w celu wykorzystania obiektu. Na przykład prawa związane z ochroną wizerunku i danych osobowych, prywatnością lub prawa osobiste mogą ograniczać możliwości wykorzystania obiektu."@pl ;
   skos:note "Du kanske måste skaffa andra tillstånd för den användning som du avser. Till exempel moraliska rättigheter, rättigheter gällande skyddet för privatliv eller personens rättigheter att bestämma gällande kommersiell användning av en identifierbar del av sin bild eller sin person kan begränsa dina möjligheter att använda materialet."@sv-FI ;
-  skos:note "Il est possible que l’utilisation que vous envisagez requière des autorisations supplémentaires. Il se peut par exemple que d’autres droits, comme les droits de la personnalité ou de la publicité, les droits liés à la protection de la vie privée ou les droits moraux, limitent vos possibilités d’utilisation."@fr ;
+  skos:note "Il est possible que l'utilisation que vous envisagez requière des autorisations supplémentaires. Il se peut par exemple que d'autres droits, comme les droits de la personnalité ou de la publicité, les droits liés à la protection de la vie privée ou les droits moraux, limitent vos possibilités d'utilisation."@fr ;
 
   skos:note "You may find additional information about the copyright status of the Item on the website of the organization that has made the Item available."@en ;
   skos:note "Möglicherweise finden Sie zusätzliche Informationen zum Urheberrechtsschutz des Objekts auf der Website der Institution, die das Objekt verfügbar gemacht hat."@de ;
@@ -530,7 +530,7 @@
   skos:note "Lisätietoja Kohteen tekijänoikeudellisesta statuksesta voi olla saatavissa Kohteen saataville saattaneen organisaation verkkosivuilta."@fi ;
   skos:note "Dodatkowe informacje o statusie prawnoautorskim obiektu mogą być dostępne na stronie internetowej organizacji, która ten obiekt udostępniła."@pl ;
   skos:note "Du kan hitta ytterligare information om Objektets upphovsrättsliga status på den organisations hemsida som har gjort Objektet tillgängligt."@sv-FI ;
-  skos:note "Il est possible que vous trouviez, sur le site Web de l’organisme ayant rendu l’Objet accessible, des informations supplémentaires concernant la protection de l’Objet par le droit d’auteur."@fr ;
+  skos:note "Il est possible que vous trouviez, sur le site Web de l'organisme ayant rendu l'Objet accessible, des informations supplémentaires concernant la protection de l'Objet par le droit d'auteur."@fr ;
 
   skos:scopeNote "This Rights Statement can be used only for copyrighted Items for which the organization making the Item available is the rights-holder or has been explicitly authorized by the rights-holder(s) to allow third parties to use their Work(s) for educational purposes without first obtaining permission."@en ;
   skos:scopeNote "Dieser Rechtehinweis kann nur für urheberrechtlich geschützte Objekte verwendet werden, bei denen die Institution, die diese verfügbar macht, selbst Rechteinhaber ist oder ausdrücklich von dem/den Rechteinhaber(n) ermächtigt wurde, Dritten die Nutzung dessen/derer Werk(e) zu Bildungszwecken ohne vorherige Rechteeinholung zu erlauben."@de ;
@@ -539,7 +539,7 @@
   skos:scopeNote "Tätä käyttöoikeuskuvausta voidaan käyttää ainoastaan tekijänoikeuden suojaamiin Kohteisiin silloin, kun kohteen saataville saattava organisaatio on oikeudenhaltija, tai kun oikeudenhaltija tai -haltijat ovat nimenomaisesti valtuuttaneet sen sallimaan kolmansien osapuolten käyttää teostaan tai teoksiaan opetustoiminnassa ilman erillistä lupaa."@fi ;
   skos:scopeNote "To oświadczenie prawne może być wykorzystywane wyłącznie dla obiektu, który jest objęty ochroną prawnoautorską, a organizacja, która udostępnia dany obiekt jest uprawnionym z tytułu majątkowych praw autorskich lub też uzyskała od uprawnionego do tych praw upoważnienie do zezwolenia osobom trzecim na wykorzystanie utworu (utworów) w celach edukacyjnych bez uprzedniego uzyskiwania pozwolenia."@pl ;
   skos:scopeNote "Denna nyttjanderättsbeskrivning kan endast användas för upphovsrättsskyddade objekt då den organisation som gör objektet tillgängligt är rättsinnehavaren eller uttryckligen har fått tillstånd från rättsinnehavaren att låta tredje parter använda sin verk/sina verk i utbildningsändamål utan att först skaffa tillstånd."@sv-FI ;
-  skos:scopeNote "La présente Déclaration des Droits peut uniquement être utilisée pour les Objets protégés par le droit d’auteur. De plus, l’organisme qui les rend accessibles doit être titulaire des droits ou avoir été explicitement autorisé par le(s) titulaire(s) des droits à permettre à des tiers d’utiliser son/ses/leur(s) œuvre(s) à des fins pédagogiques sans autorisation préalable."@fr ;
+  skos:scopeNote "La présente Déclaration des Droits peut uniquement être utilisée pour les Objets protégés par le droit d'auteur. De plus, l'organisme qui les rend accessibles doit être titulaire des droits ou avoir été explicitement autorisé par le(s) titulaire(s) des droits à permettre à des tiers d'utiliser son/ses/leur(s) œuvre(s) à des fins pédagogiques sans autorisation préalable."@fr ;
 
   skos:inScheme <1.0/> .
 
@@ -564,7 +564,7 @@
   skos:prefLabel "Tekijänoikeuden piirissä - ei-kaupallinen käyttö sallittu"@fi ;
   skos:prefLabel "Objęty pełną ochroną prawnoautorską - Dozwolone wykorzystanie niekomercyjne"@pl ;
   skos:prefLabel "Underkastad upphovsrätt – icke-kommersiell användning tillåten"@sv-FI ;
-  skos:prefLabel "Protégé par le droit d’auteur − Utilisation non commerciale autorisée"@fr ;
+  skos:prefLabel "Protégé par le droit d'auteur − Utilisation non commerciale autorisée"@fr ;
 
   dcterms:description "This Rights Statement indicates that the Item labeled with this Rights Statement is in copyright but that non-commercial use is allowed without the need to obtain additional permission."@en ;
   dcterms:description "Dieser Rechtehinweis besagt, dass Urheberrechtsschutz besteht, aber die nicht kommerzielle Nutzung des Objekts ohne zusätzliche Rechteeinholung gestattet ist."@de ;
@@ -573,7 +573,7 @@
   dcterms:description "Tällä käyttöoikeuskuvauksella ilmaistaan, että käyttöoikeuskuvauksella varustettu Kohde kuuluu tekijänoikeuden piiriin, mutta sitä saa käyttää ei-kaupallisissa tarkoituksissa ilman erillistä lupaa."@fi ;
   dcterms:description "To oświadczenie prawne wskazuje, że oznaczony nim obiekt jest objęty ochroną autorskich praw majątkowych i praw osobistych, ale dozwolone jest wykorzystanie obiektu w celach niekomercyjnych bez uzyskiwania dodatkowych pozwoleń."@pl ;
   dcterms:description "Denna nyttjanderättsbeskrivning innebär att objektet som är märkt med denna nyttjanderättsbeskrivning skyddas av upphovsrätt, men att icke-kommersiell användning är tillåten utan att behöva skaffa ytterligare tillstånd."@sv-FI ;
-  dcterms:description "Cette Déclaration des Droits indique que l’Objet auquel elle se rapporte est protégé par le droit d’auteur, mais que son utilisation à des fins non commerciales est permise sans requérir d’autorisation supplémentaire"@fr ;
+  dcterms:description "Cette Déclaration des Droits indique que l'Objet auquel elle se rapporte est protégé par le droit d'auteur, mais que son utilisation à des fins non commerciales est permise sans requérir d'autorisation supplémentaire"@fr ;
 
   skos:definition """This Item is protected by copyright and/or related rights.
 
@@ -610,11 +610,11 @@
   Du kan använda Objektet på alla sätt som är tillåtna enligt lagstiftningen om upphovsrätt och närstående rättigheter som är tillämplig på din användning. Dessutom krävs inget tillstånd av rättsinnehavaren(rna) för icke-kommersiell användning.
 
   För annan användning måste du skaffa tillstånd av rättsinnehavaren(rna)."""@sv-FI ;
-  skos:definition """Cet Objet est protégé par le droit d’auteur et/ou les droits voisins.
+  skos:definition """Cet Objet est protégé par le droit d'auteur et/ou les droits voisins.
 
-  Vous avez le droit d’utiliser l’Objet de toutes les manières autorisées par la législation sur le droit d’auteur et les droits voisins applicable à votre utilisation. De plus, l’utilisation à des fins non commerciales est accordée de plein droit.
+  Vous avez le droit d'utiliser l'Objet de toutes les manières autorisées par la législation sur le droit d'auteur et les droits voisins applicable à votre utilisation. De plus, l'utilisation à des fins non commerciales est accordée de plein droit.
 
-  Les autres utilisations requièrent l’autorisation du/des titulaire(s) des droits."""@fr ;
+  Les autres utilisations requièrent l'autorisation du/des titulaire(s) des droits."""@fr ;
 
   skos:note "Unless expressly stated otherwise, the organization that has made this Item available makes no warranties about the Item and cannot guarantee the accuracy of this Rights Statement. You are responsible for your own use."@en ;
   skos:note "Soweit nicht ausdrücklich an anderer Stelle ausgewiesen, macht die Institution, die das Objekt zugänglich macht, keine Zusicherungen in Bezug auf dieses und übernimmt keine Garantie für die Richtigkeit des gewählten Rechtehinweises. Sie sind für die eigene Nutzung selbst verantwortlich."@de ;
@@ -623,7 +623,7 @@
   skos:note "Ellei erikseen ole muuta nimenomaisesti ilmoitettu, tämän Kohteen saataville saattanut organisaatio ei anna mitään Kohdetta koskevaa takuuta eikä voi taata tämän käyttöoikeuskuvauksen virheettömyyttä. Olet vastuussa omasta käytöstäsi."@fi ;
   skos:note "Jeżeli wyraźnie nie zaznaczono inaczej, organizacja która udostępniła dany obiekt nie daje w związku z nim żadnych gwarancji i nie może zagwarantować poprawności oświadczenia prawnego. Sam odpowiadasz za własne działania."@pl ;
   skos:note "Om inte annat uttryckligen sägs, ger organisationen som har gjort Objektet tillgängligt inga garantier rörande Objektet och den kan inte garantera att denna Nyttjanderättsbeskrivning är riktig. Du ansvarar själv för din egen användning."@sv-FI ;
-  skos:note "Sauf mention expresse contraire, l’organisme qui a rendu cet Objet accessible ne donne aucune garantie concernant ce dernier ni ne garantit l’exactitude de la présente Déclaration des Droits. Vous êtes responsable de votre propre utilisation."@fr ;
+  skos:note "Sauf mention expresse contraire, l'organisme qui a rendu cet Objet accessible ne donne aucune garantie concernant ce dernier ni ne garantit l'exactitude de la présente Déclaration des Droits. Vous êtes responsable de votre propre utilisation."@fr ;
 
   skos:note "You may need to obtain other permissions for your intended use. For example, other rights such as publicity, privacy or moral rights may limit how you may use the material."@en ;
   skos:note "Möglicherweise benötigen Sie zusätzliche Erlaubnisse für die beabsichtigte Nutzung. Zum Beispiel weil andere Rechte, wie Veröffentlichungs-, Persönlichkeits- oder Urheberpersönlichkeitsrechte den erlaubten Nutzungsumfang einschränken."@de ;
@@ -632,7 +632,7 @@
   skos:note "Saatat tarvita muita lupia aikomaasi käyttöä varten. Esimerkiksi moraaliset oikeudet, yksityisyyden suojaa koskevat oikeudet taikka henkilön oikeudet määrätä kuvansa tai henkilönsä tunnistettavan osan kaupallisesta käytöstä voivat rajoittaa aineiston käyttöä."@fi ;
   skos:note "Może być również konieczne uzyskanie innych zgód w celu wykorzystania obiektu. Na przykład prawa związane z ochroną wizerunku i danych osobowych, prywatnością lub prawa osobiste mogą ograniczać możliwości wykorzystania obiektu."@pl ;
   skos:note "Du kanske måste skaffa andra tillstånd för den användning som du avser. Till exempel moraliska rättigheter, rättigheter gällande skyddet för privatliv eller personens rättigheter att bestämma gällande kommersiell användning av en identifierbar del av sin bild eller sin person kan begränsa dina möjligheter att använda materialet."@sv-FI ;
-  skos:note "Il est possible que l’utilisation que vous envisagez requière des autorisations supplémentaires. Il se peut, par exemple, que d’autres droits, comme les droits de la personnalité ou de la publicité, les droits liés à la protection de la vie privée ou les droits moraux, limitent vos possibilités d’utilisation."@fr ;
+  skos:note "Il est possible que l'utilisation que vous envisagez requière des autorisations supplémentaires. Il se peut, par exemple, que d'autres droits, comme les droits de la personnalité ou de la publicité, les droits liés à la protection de la vie privée ou les droits moraux, limitent vos possibilités d'utilisation."@fr ;
 
   skos:note "You may find additional information about the copyright status of the Item on the website of the organization that has made the Item available."@en ;
   skos:note "Möglicherweise finden Sie zusätzliche Informationen zum Urheberrechtsschutz des Objekts auf der Website der Institution, die das Objekt verfügbar gemacht hat."@de ;
@@ -641,7 +641,7 @@
   skos:note "Lisätietoja Kohteen tekijänoikeudellisesta statuksesta voi olla saatavissa Kohteen saataville saattaneen organisaation verkkosivuilta."@fi ;
   skos:note "Dodatkowe informacje o statusie prawnoautorskim obiektu mogą być dostępne na stronie internetowej organizacji, która ten obiekt udostępniła."@pl ;
   skos:note "Du kan hitta ytterligare information om Objektets upphovsrättsliga status på den organisations hemsida som har gjort Objektet tillgängligt."@sv-FI ;
-  skos:note "Il est possible que vous trouviez, sur le site Web de l’organisme ayant rendu l’Objet accessible, des informations supplémentaires concernant la protection de l’objet par le droit d’auteur."@fr ;
+  skos:note "Il est possible que vous trouviez, sur le site Web de l'organisme ayant rendu l'Objet accessible, des informations supplémentaires concernant la protection de l'objet par le droit d'auteur."@fr ;
 
   skos:scopeNote "This Rights Statement can be used only for copyrighted Items for which the organization making the Item available is the rights-holder or has been explicitly authorized by the rights-holder(s) to allow third parties to use their Work(s) for non-commercial purposes without obtaining permission first."@en ;
   skos:scopeNote "Dieser Rechtehinweis kann nur für urheberrechtlich geschützte Objekte verwendet werden, bei denen die Institution, die diese verfügbar macht, selbst Rechteinhaber ist oder ausdrücklich von dem/den Rechteinhaber(n) ermächtigt wurde, Dritten die Nutzung dessen/derer Werk(e) zu nicht kommerziellen Zwecken ohne vorherige Rechteeinholung zu erlauben."@de ;
@@ -650,7 +650,7 @@
   skos:scopeNote "Tätä käyttöoikeuskuvausta voidaan käyttää ainoastaan tekijänoikeuden suojaamiin Kohteisiin silloin, kun Kohteen saataville saattava organisaatio on oikeudenhaltija, tai kun oikeudenhaltija tai -haltijat ovat nimenomaisesti valtuuttaneet sen sallimaan kolmansien osapuolten käyttää teostaan tai teoksiaan ei-kaupallisissa tarkoituksissa ilman erillistä lupaa."@fi ;
   skos:scopeNote "To oświadczenie prawne może być wykorzystywane wyłącznie dla obiektu, który jest objęty ochroną prawnoautorską, a organizacja, która udostępnia dany obiekt jest uprawnionym z tytułu majątkowych praw autorskich lub też uzyskała od uprawnionego do tych praw upoważnienie do zezwolenia osobom trzecim na wykorzystanie utworu (utworów) w celach niekomercyjnych bez uprzedniego uzyskiwania pozwolenia."@pl ;
   skos:scopeNote "Denna nyttjanderättsbeskrivning kan endast användas för upphovsrättsskyddade objekt då den organisation som gör objektet tillgängligt är rättsinnehavaren eller uttryckligen har fått tillstånd från rättsinnehavaren att låta tredje parter använda sin verk/sina verk i icke-kommersiella ändamål utan att först skaffa tillstånd."@sv-FI ;
-  skos:scopeNote "La présente Déclaration des Droits peut uniquement être utilisée pour les Objets protégés par le droit d’auteur. De plus, l’organisme qui les rend accessibles doit être titulaire des droits ou avoir été explicitement autorisé par le(s) titulaire(s) des droits à permettre à des tiers d’utiliser son/ses/leur(s) œuvre(s) à des fins pédagogiques sans autorisation préalable."@fr ;
+  skos:scopeNote "La présente Déclaration des Droits peut uniquement être utilisée pour les Objets protégés par le droit d'auteur. De plus, l'organisme qui les rend accessibles doit être titulaire des droits ou avoir été explicitement autorisé par le(s) titulaire(s) des droits à permettre à des tiers d'utiliser son/ses/leur(s) œuvre(s) à des fins pédagogiques sans autorisation préalable."@fr ;
 
   skos:inScheme <1.0/> .
 
@@ -674,7 +674,7 @@
   skos:prefLabel "Ei tekijänoikeutta - vain ei-kaupalliseen käyttöön"@fi;
   skos:prefLabel "Nie objęty ochroną autorskich praw majątkowych - Dozwolone wyłącznie wykorzystanie niekomercyjne"@pl ;
   skos:prefLabel "Ingen upphovsrätt - endast för icke-kommersiell användning"@sv-FI ;
-  skos:prefLabel "Absence de protection par le droit d’auteur − Utilisation à des fins uniquement non commerciales"@fr ;
+  skos:prefLabel "Absence de protection par le droit d'auteur − Utilisation à des fins uniquement non commerciales"@fr ;
 
   dcterms:description "This Rights Statement indicates that the underlying Work is in the Public Domain, but the organization that has published the Item is contractually required to allow only non-commercial use by third parties."@en ;
   dcterms:description "Dieser Rechtehinweis besagt, dass das zugrundeliegende Werk gemeinfrei ist, aber die Institution, die das Objekt zugänglich macht, vertraglich gebunden ist und lediglich nicht kommerzielle Nutzungen durch Dritte erlauben darf."@de ;
@@ -683,7 +683,7 @@
   dcterms:description "Tällä käyttöoikeuskuvauksella ilmaistaan, että Kohteeseen liittyvä teos ei ole tekijänoikeuden suojaama, mutta Kohteen julkaissut organisaatio voi sopimussyistä sallia kolmansille osapuolille ainoastaan Kohteen ei-kaupallisen käytön."@fi ;
   dcterms:description "To oświadczenie prawne wskazuje, że utwór pierwotny znajduje się w tzw. domenie publicznej, ale organizacja, które udostępniła ten obiekt jest umownie zobowiązana do wymagania, aby osoby trzecie wykorzystywały obiekt wyłącznie w celach niekomercyjnych."@pl ;
   dcterms:description "Denna nyttjanderättsbeskrivning innebär att det underliggande verket inte är skyddat av upphovsrätt, men organisationen som har publicerat objektet är avtalsmässigt bunden att tillåta enbart icke-kommersiell användning av tredje part."@sv-FI ;
-  dcterms:description "La présente Déclaration des Droits indique que l’Oeuvre sous-jacente est dans le Domaine Public, mais que l’organisme qui a publié l’Objet est contractuellement tenu d’autoriser uniquement l’utilisation par des tiers à des fins non commerciales."@fr ;
+  dcterms:description "La présente Déclaration des Droits indique que l'Oeuvre sous-jacente est dans le Domaine Public, mais que l'organisme qui a publié l'Objet est contractuellement tenu d'autoriser uniquement l'utilisation par des tiers à des fins non commerciales."@fr ;
 
   skos:definition """This Work has been digitized in a public-private partnership. As part of this partnership, the partners have agreed to limit commercial uses of this digital representation of the Work by third parties.
 
@@ -706,9 +706,9 @@
   skos:definition """Detta Verk har digitaliserats i ett offentligt-privat partnerskap. Som en del av detta partnerskap har parterna kommit överens om att begränsa kommersiell användning av den digitala representationen av objektet av tredje part.
 
   Du kan utan tillstånd framställa exemplar av, ändra, sprida, visa eller framföra Objektet för icke-kommersiella ändamål. Såvitt gäller all annan tillåten användning bör du granska den organisations villkor som har gjort Objektet tillgängligt."""@sv-FI ;
-  skos:definition """Cette Oeuvre a été numérisée en partenariat public-privé. Dans le cadre de ce partenariat, les parties contractantes ont convenu de limiter les utilisations commerciales de cette représentation numérique de l’Oeuvre par des tiers.
+  skos:definition """Cette Oeuvre a été numérisée en partenariat public-privé. Dans le cadre de ce partenariat, les parties contractantes ont convenu de limiter les utilisations commerciales de cette représentation numérique de l'Oeuvre par des tiers.
 
-  Vous pouvez, sans autorisation, copier, modifier, distribuer, exposer ou représenter l’Objet à des fins non commerciales. Pour toutes autres utilisations permises, veuillez examiner les conditions générales de l’organisme qui a rendu l’Objet accessible."""@fr ;
+  Vous pouvez, sans autorisation, copier, modifier, distribuer, exposer ou représenter l'Objet à des fins non commerciales. Pour toutes autres utilisations permises, veuillez examiner les conditions générales de l'organisme qui a rendu l'Objet accessible."""@fr ;
 
   skos:note "Unless expressly stated otherwise, the organization that has made this Item available makes no warranties about the Item and cannot guarantee the accuracy of this Rights Statement. You are responsible for your own use."@en ;
   skos:note "Soweit nicht ausdrücklich an anderer Stelle ausgewiesen, macht die Institution, die das Objekt zugänglich macht, keine Zusicherungen in Bezug auf dieses und übernimmt keine Garantie für die Richtigkeit des gewählten Rechtehinweises. Sie sind für die eigene Nutzung selbst verantwortlich."@de ;
@@ -717,7 +717,7 @@
   skos:note "Ellei erikseen ole muuta nimenomaisesti ilmoitettu, tämän Kohteen saataville saattanut organisaatio ei anna mitään Kohdetta koskevaa takuuta eikä voi taata tämän käyttöoikeuskuvauksen virheettömyyttä. Olet vastuussa omasta käytöstäsi."@fi ;
   skos:note "Jeżeli wyraźnie nie zaznaczono inaczej, organizacja która udostępniła dany obiekt nie daje w związku z nim żadnych gwarancji i nie może zagwarantować poprawności oświadczenia prawnego. Sam odpowiadasz za własne działania."@pl ;
   skos:note "Om inte annat uttryckligen sägs, ger organisationen som har gjort Objektet tillgängligt inga garantier rörande Objektet och den kan inte garantera att denna Nyttjanderättsbeskrivning är riktig. Du ansvarar själv för din egen användning."@sv-FI ;
-  skos:note "Sauf mention expresse contraire, l’organisme qui a rendu cet Objet accessible ne donne aucune garantie concernant ce dernier ni ne garantit l’exactitude de la présente Déclaration des Droits. Vous êtes responsable de votre propre utilisation."@fr ;
+  skos:note "Sauf mention expresse contraire, l'organisme qui a rendu cet Objet accessible ne donne aucune garantie concernant ce dernier ni ne garantit l'exactitude de la présente Déclaration des Droits. Vous êtes responsable de votre propre utilisation."@fr ;
 
   skos:note "You may need to obtain other permissions for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you may use the material."@en ;
   skos:note "Möglicherweise benötigen Sie zusätzliche Erlaubnisse für die beabsichtigte Nutzung. Zum Beispiel weil andere Rechte wie Veröffentlichungs-, Persönlichkeits- oder Urheberpersönlichkeitsrechte den erlaubten Nutzungsumfang einschränken."@de ;
@@ -726,7 +726,7 @@
   skos:note "Saatat tarvita muita lupia aikomaasi käyttöä varten. Esimerkiksi moraaliset oikeudet, yksityisyyden suojaa koskevat oikeudet taikka henkilön oikeudet määrätä kuvansa tai henkilönsä tunnistettavan osan kaupallisesta käytöstä voivat rajoittaa aineiston käyttöä."@fi ;
   skos:note "Może być również konieczne uzyskanie innych zgód w celu wykorzystania obiektu. Na przykład prawa związane z ochroną wizerunku i danych osobowych, prywatnością lub prawa osobiste mogą ograniczać możliwości wykorzystania obiektu."@pl ;
   skos:note "Du kanske måste skaffa andra tillstånd för den användning som du avser. Till exempel moraliska rättigheter, rättigheter gällande skyddet för privatliv eller personens rättigheter att bestämma gällande kommersiell användning av en identifierbar del av sin bild eller sin person kan begränsa dina möjligheter att använda materialet."@sv-FI ;
-  skos:note "Il est possible que l’utilisation que vous envisagez requière des autorisations supplémentaires. Il se peut, par exemple, que d’autres droits, comme les droits de la personnalité ou de la publicité, les droits liés à la protection de la vie privée ou les droits moraux, limitent vos possibilités d’utilisation."@fr ;
+  skos:note "Il est possible que l'utilisation que vous envisagez requière des autorisations supplémentaires. Il se peut, par exemple, que d'autres droits, comme les droits de la personnalité ou de la publicité, les droits liés à la protection de la vie privée ou les droits moraux, limitent vos possibilités d'utilisation."@fr ;
 
   skos:note "You may find additional information about the copyright status of the Item on the website of the organization that has made the Item available."@en ;
   skos:note "Möglicherweise finden Sie zusätzliche Informationen zum Urheberrechtsschutz des Objekts auf der Website der Institution, die das Objekt verfügbar gemacht hat."@de ;
@@ -735,7 +735,7 @@
   skos:note "Lisätietoja Kohteen tekijänoikeudellisesta statuksesta voi olla saatavissa Kohteen saataville saattaneen organisaation verkkosivuilta."@fi ;
   skos:note "Dodatkowe informacje o statusie prawnoautorskim obiektu mogą być dostępne na stronie internetowej organizacji, która ten obiekt udostępniła."@pl ;
   skos:note "Du kan hitta ytterligare information om Objektets upphovsrättsliga status på den organisations hemsida som har gjort Objektet tillgängligt."@sv-FI ;
-  skos:note "Il est possible que vous trouviez, sur le site Web de l’organisme ayant rendu l’Objet accessible, des informations supplémentaires concernant la protection de l’Objet par le droit d’auteur."@fr ;
+  skos:note "Il est possible que vous trouviez, sur le site Web de l'organisme ayant rendu l'Objet accessible, des informations supplémentaires concernant la protection de l'Objet par le droit d'auteur."@fr ;
 
   skos:scopeNote "This Rights Statement can only be used for Works that are in the Public Domain and have been digitized in a public-private partnership as part of which, the partners have agreed to limit commercial uses of this digital representation of the Work by third parties. It has been developed specifically to allow the inclusion of Works that have been digitized as part of the partnerships between European Libraries and Google, but can in theory be applied to Items that have been digitized in similar public-private partnerships."@en ;
   skos:scopeNote "Dieser Rechtehinweis kann nur für gemeinfreie Werke verwendet werden, die in einer öffentlich-privaten Partnerschaft (PPP) digitalisiert wurden, innerhalb derer die Vertragspartner vereinbart haben, die kommerzielle Nutzung des Digitalisats durch Dritte nur mit Einschränkungen zu erlauben. Der Rechtehinweis wurde speziell für die Einbeziehung von Werken aus Digitalisierungsprojekten in Partnerschaft zwischen europäischen Bibliotheken und Google entwickelt, kann aber ebenso auf Objekte angewandt werden, die in gleichgelagerten Fällen in öffentlichen-privaten Partnerschaften entstanden sind."@de ;
@@ -744,7 +744,7 @@
   skos:scopeNote "Tätä käyttöoikeuskuvausta voidaan käyttää ainoastaan sellaisiin teoksiin, jotka eivät ole tekijänoikeuden piirissä ja jotka on digitoitu julkisen ja yksityisen sektorin kumppanuushankkeessa, jonka osana kumppanit ovat sopineet rajoittavansa teoksen digitaalisen esitysmuodon kaupallista käyttöä kolmansien osapuolten toimesta. Kuvaus on kehitetty erityisesti Euroopan kirjastojen ja Googlen kumppanuushankkeissa digitoituja teoksia varten, mutta teoriassa sitä voidaan soveltaa myös muissa vastaavissa julkisen ja yksityisen sektorin kumppanuushankkeissa digitoituihin kohteisiin."@fi ;
   skos:scopeNote "To oświadczenie prawne może być wykorzystywane wyłącznie dla utworów, które znajdują się w Domenie Publicznej i zostały zdigitalizowane w ramach partnerstwa publiczno-prywatnego, w którym partnerzy zgodzili się na ograniczenie osobom trzecim możliwości komercyjnego wykorzystania cyfrowych kopii utworu. To oświadczenie zostało opracowane w szczególności, aby objąć utwory, które zostały zdigitalizowane w ramach partnerstwa pomiędzy bibliotekami europejskimi a Google, ale teoretycznie może być zastosowane dla obiektów, które zostały zdigitalizowane w ramach podobnego partnerstwa publiczno-prywatnego."@pl ;
   skos:scopeNote "Denna nyttjanderättsbeskrivning kan endast användas för verk som inte är skyddade av upphovsrätt och har digitaliserats i ett offentligt-privat partnerskap. Som en del av detta partnerskap har parterna kommit överens om att begränsa kommersiell användning av den digitala representationen av verket av tredje part. Nyttjanderättsbeskrivningen har utvecklats speciellt för att omfatta verk som har digitaliserats som en del av partnerskapen mellan europeiska bibliotek och Google, men kan teoretiskt sett tillämpas på verk som har digitaliserats i liknande offentligt-privata partnerskap."@sv-FI ;
-  skos:scopeNote "L’utilisation de cette Déclaration des Droits est limitée aux œuvres qui sont dans le Domaine Public et qui ont été numérisées au sein d’un partenariat public-privé dans le cadre duquel les parties contractantes ont convenu de limiter les utilisations commerciales de cette représentation numérique de l’Oeuvre par des tiers. Spécialement élaborée afin de pouvoir inclure les œuvres numérisées dans le cadre des partenariats existant entre des bibliothèques européennes et Google, elle peut théoriquement être utilisée pour des Objets qui ont été numérisés dans le cadre de partenariats public-privé similaires."@fr ;
+  skos:scopeNote "L'utilisation de cette Déclaration des Droits est limitée aux œuvres qui sont dans le Domaine Public et qui ont été numérisées au sein d'un partenariat public-privé dans le cadre duquel les parties contractantes ont convenu de limiter les utilisations commerciales de cette représentation numérique de l'Oeuvre par des tiers. Spécialement élaborée afin de pouvoir inclure les œuvres numérisées dans le cadre des partenariats existant entre des bibliothèques européennes et Google, elle peut théoriquement être utilisée pour des Objets qui ont été numérisés dans le cadre de partenariats public-privé similaires."@fr ;
 
   skos:inScheme <1.0/> .
 
@@ -767,7 +767,7 @@
   skos:prefLabel "Ei tekijänoikeutta - sopimuksellisia rajoituksia"@fi ;
   skos:prefLabel "Nie objęty ochroną autorskich praw majątkowych - Ograniczenia wynikające z umów"@pl ;
   skos:prefLabel "Ingen upphovsrätt – avtalsmässiga begränsningar"@sv-FI ;
-  skos:prefLabel "Absence de protection par le droit d’auteur − Restrictions contractuelles"@fr ;
+  skos:prefLabel "Absence de protection par le droit d'auteur − Restrictions contractuelles"@fr ;
 
   dcterms:description "This Rights Statement indicates that the underlying Work is in the Public Domain, but the organization that has published the Item is contractually required to restrict certain forms of use by third parties."@en ;
   dcterms:description "Dieser Rechtehinweis besagt, dass das zugrunde liegende Werk gemeinfrei ist, aber die Institution, die das Objekt zugänglich macht, vertraglich verpflichtet ist, bestimmte Nutzungen durch Dritte nur eingeschränkt zu erlauben."@de ;
@@ -776,7 +776,7 @@
   dcterms:description "Tällä käyttöoikeuskuvauksella ilmaistaan, että Kohteeseen liittyvä teos ei ole tekijänoikeuden suojaama, mutta Kohteen julkaisseen organisaation on sopimussyistä asetettava kolmansille osapuolille rajoituksia koskien kohteen tiettyjä käyttömuotoja."@fi ;
   dcterms:description "To oświadczenie prawne wskazuje, że utwór pierwotny znajduje się w tzw. domenie publicznej, ale organizacja, które udostępniła ten obiekt jest umownie zobowiązana do ograniczenia pewnych sposobów wykorzystania obiektu przez osoby trzecie."@pl ;
   dcterms:description "Denna nyttjanderättsbeskrivning innebär att det underliggande verket inte är skyddat av upphovsrätt, men organisationen som har publicerat objektet är avtalsmässigt bunden att begränsa vissa typer av användning av tredje part."@sv-FI ;
-  dcterms:description "La présente Déclaration des Droits indique que l’Oeuvre sous-jacente est dans le Domaine Public, mais que l’organisme qui a publié l’Objet est contractuellement tenu d’imposer des restrictions à certains types d’utilisations faites par des tiers."@fr ;
+  dcterms:description "La présente Déclaration des Droits indique que l'Oeuvre sous-jacente est dans le Domaine Public, mais que l'organisme qui a publié l'Objet est contractuellement tenu d'imposer des restrictions à certains types d'utilisations faites par des tiers."@fr ;
 
   skos:definition """Use of this Item is not restricted by copyright and/or related rights.
 
@@ -813,11 +813,11 @@
   Som en del av förvärvet eller digitaliseringen av detta Objekt har den organisation som har gjort Objektet tillgängligt en avtalsmässig förpliktelse att begränsa användningen av detta Objekt. Begränsningarna kan omfatta, men inte uteslutande, skyddet för privatlivet, skydd av kultur, eller digitaliserings- eller donationsavtal.
 
   För ytterligare upplysningar, ta kontakt med den organisation som har gjort Objektet tillgängligt."""@sv-FI ;
-  skos:definition """L’utilisation de cet Objet n’est pas limitée par le droit d’auteur et/ou les droits voisins.
+  skos:definition """L'utilisation de cet Objet n'est pas limitée par le droit d'auteur et/ou les droits voisins.
 
-  Dans le cadre de l’acquisition ou de la numérisation de cette Oeuvre, l’organisme qui a rendu l’Objet accessible a été contractuellement obligé de limiter l’utilisation de cet Objet. Les restrictions peuvent être liées entre autres à la protection de la vie privée, à la protection des biens culturels, à des accords de numérisation ou à des accords conclus avec des donateurs.
+  Dans le cadre de l'acquisition ou de la numérisation de cette Oeuvre, l'organisme qui a rendu l'Objet accessible a été contractuellement obligé de limiter l'utilisation de cet Objet. Les restrictions peuvent être liées entre autres à la protection de la vie privée, à la protection des biens culturels, à des accords de numérisation ou à des accords conclus avec des donateurs.
 
-  Pour de plus amples informations, veuillez contacter l’organisme qui a rendu l’Objet accessible."""@fr ;
+  Pour de plus amples informations, veuillez contacter l'organisme qui a rendu l'Objet accessible."""@fr ;
 
   skos:note "Unless expressly stated otherwise, the organization that has made this Item available makes no warranties about the Item and cannot guarantee the accuracy of this Rights Statement. You are responsible for your own use."@en ;
   skos:note "Soweit nicht ausdrücklich an anderer Stelle ausgewiesen, macht die Institution, die das Objekt zugänglich macht, keine Zusicherungen in Bezug auf dieses und übernimmt keine Garantie für die Richtigkeit des gewählten Rechtehinweises. Sie sind für die eigene Nutzung selbst verantwortlich."@de ;
@@ -826,7 +826,7 @@
   skos:note "Ellei erikseen ole muuta nimenomaisesti ilmoitettu, tämän Kohteen saataville saattanut organisaatio ei anna mitään Kohdetta koskevaa takuuta eikä voi taata tämän käyttöoikeuskuvauksen virheettömyyttä. Olet vastuussa omasta käytöstäsi."@fi ;
   skos:note "Jeżeli wyraźnie nie zaznaczono inaczej, organizacja która udostępniła dany obiekt nie daje w związku z nim żadnych gwarancji i nie może zagwarantować poprawności oświadczenia prawnego. Sam odpowiadasz za własne działania."@pl ;
   skos:note "Om inte annat uttryckligen sägs, ger organisationen som har gjort Objektet tillgängligt inga garantier rörande Objektet och den kan inte garantera att denna Nyttjanderättsbeskrivning är riktig. Du ansvarar själv för din egen användning."@sv-FI ;
-  skos:note "Sauf mention expresse contraire, l’organisme qui a rendu cet Objet accessible ne donne aucune garantie concernant ce dernier ni ne garantit l’exactitude de la présente Déclaration des Droits. Vous êtes responsable de votre propre utilisation."@fr ;
+  skos:note "Sauf mention expresse contraire, l'organisme qui a rendu cet Objet accessible ne donne aucune garantie concernant ce dernier ni ne garantit l'exactitude de la présente Déclaration des Droits. Vous êtes responsable de votre propre utilisation."@fr ;
 
   skos:note "You may need to obtain other permissions for your intended use. For example, other rights such as publicity, privacy or moral rights may limit how you may use the material."@en ;
   skos:note "Möglicherweise benötigen Sie zusätzliche Erlaubnisse für die beabsichtigte Nutzung. Zum Beispiel weil andere Rechte wie Veröffentlichungs-, Persönlichkeits- oder Urheberpersönlichkeitsrechte den erlaubten Nutzungsumfang einschränken."@de ;
@@ -835,7 +835,7 @@
   skos:note "Saatat tarvita muita lupia aikomaasi käyttöä varten. Esimerkiksi moraaliset oikeudet, yksityisyyden suojaa koskevat oikeudet taikka henkilön oikeudet määrätä kuvansa tai henkilönsä tunnistettavan osan kaupallisesta käytöstä voivat rajoittaa aineiston käyttöä."@fi ;
   skos:note "Może być również konieczne uzyskanie innych zgód w celu wykorzystania obiektu. Na przykład prawa związane z ochroną wizerunku i danych osobowych, prywatnością lub prawa osobiste mogą ograniczać możliwości wykorzystania obiektu."@pl ;
   skos:note "Du kanske måste skaffa andra tillstånd för den användning som du avser. Till exempel moraliska rättigheter, rättigheter gällande skyddet för privatliv eller personens rättigheter att bestämma gällande kommersiell användning av en identifierbar del av sin bild eller sin person kan begränsa dina möjligheter att använda materialet."@sv-FI ;
-  skos:note "Il est possible que l’utilisation que vous envisagez requière des autorisations supplémentaires. Il se peut, par exemple, que d’autres droits, comme les droits de la personnalité ou de la publicité, les droits liés à la protection de la vie privée ou les droits moraux, limitent vos possibilités d’utilisation."@fr ;
+  skos:note "Il est possible que l'utilisation que vous envisagez requière des autorisations supplémentaires. Il se peut, par exemple, que d'autres droits, comme les droits de la personnalité ou de la publicité, les droits liés à la protection de la vie privée ou les droits moraux, limitent vos possibilités d'utilisation."@fr ;
 
   skos:note "You may find additional information about the copyright status of the Item on the website of the organization that has made the Item available."@en ;
   skos:note "Möglicherweise finden Sie zusätzliche Informationen zum Urheberrechtsschutz des Objekts auf der Website der Institution, die das Objekt verfügbar gemacht hat."@de ;
@@ -844,7 +844,7 @@
   skos:note "Lisätietoja Kohteen tekijänoikeudellisesta statuksesta voi olla saatavissa Kohteen saataville saattaneen organisaation verkkosivuilta."@fi ;
   skos:note "Dodatkowe informacje o statusie prawnoautorskim obiektu mogą być dostępne na stronie internetowej organizacji, która ten obiekt udostępniła."@pl ;
   skos:note "Du kan hitta ytterligare information om Objektets upphovsrättsliga status på den organisations hemsida som har gjort Objektet tillgängligt."@sv-FI ;
-  skos:note "Il est possible que vous trouviez, sur le site Web de l’organisme ayant rendu l’Objet accessible, des informations supplémentaires concernant la protection de l’Objet par le droit d’auteur."@fr ;
+  skos:note "Il est possible que vous trouviez, sur le site Web de l'organisme ayant rendu l'Objet accessible, des informations supplémentaires concernant la protection de l'Objet par le droit d'auteur."@fr ;
 
   skos:scopeNote "This Rights Statement can only be used for Items that are in the Public Domain but for which the organization that intends to make the Item available has entered into contractual agreement that requires it to take steps to restrict third party uses of the Item. In order for this Rights Statement to be conclusive, the organization that intends to make the Item available should provide a link to a page detailing the contractual restrictions that apply to the use of the Item."@en ;
   skos:scopeNote "Dieser Rechtehinweis kann nur für Objekte verwendet werden, die gemeinfrei sind und bei denen die Institution, die beabsichtigt, das Objekt zugänglich zu machen, vertragliche Vereinbarungen eingegangen ist, die bestimmte Einschränkungen der Nutzung durch Dritte verlangen. Damit der Rechtehinweis eindeutig ist, sollte die Institution, die beabsichtigt das Objekt zugänglich zu machen, einen Link mitteilen, der zu einer Seite mit Detailinformationen zu den vertraglichen Einschränkungen der Nutzung des Objekts führt."@de ;
@@ -853,7 +853,7 @@
   skos:scopeNote "Tätä käyttöoikeuskuvausta voidaan käyttää ainoastaan sellaisiin Kohteisiin, jotka eivät ole tekijänoikeuden suojaamia mutta joiden osalta organisaatio, joka aikoo saattaa kohteen saataville, on tehnyt sopimuksen, joka velvoittaa sitä rajoittamaan Kohteen käyttöä kolmansien osapuolten toimesta. Organisaation, joka aikoo saattaa Kohteen saataville, tulisi täydentää tätä kuvausta linkillä verkkosivulle, josta Kohteen käyttöä koskevat sopimukselliset rajoitukset ilmenevät."@fi ;
   skos:scopeNote "To oświadczenie prawne może być wykorzystywane wyłącznie dla obiektów, które są w tzw. domenie publicznej, ale w przypadku których organizacja zamierzająca udostępnić obiekty związała się umowami nakładającymi na nią obowiązek podjęcia działań ograniczających wykorzystanie obiektu przez osoby trzecie. Aby to oświadczenie prawne było skuteczne, organizacja zamierzająca udostępnić obiekt powinna dostarczyć odnośnik do strony zawierającej szczegółowy opis prawnych ograniczeń wykorzystania obiektu."@pl ;
   skos:scopeNote "Denna nyttjanderättsbeskrivning kan endast användas för objekt som inte är skyddade av upphovsrätt men för vilka organisationen som avser att göra objektet tillgängligt har avtalsmässig förpliktelse att begränsa användningen av objektet av tredje part. Nyttjanderättsbeskrivningen förutsätter att organisationen som avser att göra objektet tillgängligt  tillhandahåller en länk till en sida där objektets avtalsmässiga begränsningar beskrivs."@sv-FI ;
-  skos:scopeNote "L’utilisation de cette Déclaration des Droits est limitée aux objets qui sont dans le Domaine Public, mais pour lesquels l’organisme qui entend rendre l’Objet accessible a conclu une convention qui l’oblige à imposer des restrictions quant à l’utilisation de l’Objet par des tiers. Pour que la présente Déclaration des Droits soit probante, l’organisme qui entend rendre l’Objet accessible doit fournir un lien vers une page spécifiant les restrictions contractuelles applicables à l’utilisation de l’Objet."@fr ;
+  skos:scopeNote "L'utilisation de cette Déclaration des Droits est limitée aux objets qui sont dans le Domaine Public, mais pour lesquels l'organisme qui entend rendre l'Objet accessible a conclu une convention qui l'oblige à imposer des restrictions quant à l'utilisation de l'Objet par des tiers. Pour que la présente Déclaration des Droits soit probante, l'organisme qui entend rendre l'Objet accessible doit fournir un lien vers une page spécifiant les restrictions contractuelles applicables à l'utilisation de l'Objet."@fr ;
 
   skos:inScheme <1.0/> .
 
@@ -876,7 +876,7 @@
   skos:prefLabel "Ei tekijänoikeutta - muita tunnettuja oikeudellisia rajoituksia"@fi ;
   skos:prefLabel "Nie objęty ochroną autorskich praw majątkowych - Inne znane ograniczenia prawne"@pl ;
   skos:prefLabel "Ingen upphovsrätt – andra kända rättsliga begränsningar"@sv-FI ;
-  skos:prefLabel "Absence de protection par le droit d’auteur − Autres restrictions juridiques connues"@fr ;
+  skos:prefLabel "Absence de protection par le droit d'auteur − Autres restrictions juridiques connues"@fr ;
 
   dcterms:description "This Rights Statement indicates that the underlying Work is in the Public Domain, but that there are known restrictions imposed by laws other than copyright and/or related rights on the use of the Item by third parties."@en ;
   dcterms:description "Dieser Rechtehinweis besagt, dass das zugrunde liegende Werk gemeinfrei ist, aber Einschränkungen der Nutzung des Objekts durch Dritte bekannt sind, die sich aus anderen Rechten als dem Urheberrecht und/oder verwandten Schutzrechten ergeben."@de ;
@@ -885,7 +885,7 @@
   dcterms:description "Tällä käyttöoikeuskuvauksella ilmaistaan, että Kohteeseen liittyvä teos ei ole tekijänoikeuden suojaama, mutta muun kuin tekijänoikeutta ja/tai lähioikeuksia koskevan lainsäädännön tiedetään rajoittavan kolmansien osapuolten oikeutta käyttää kohdetta."@fi ;
   dcterms:description "To oświadczenie prawne wskazuje, że utwór pierwotny znajduje się w tzw. domenie publicznej, ale znane są ograniczenia prawne inne niż wynikające z prawa autorskiego lub praw pokrewnych, dotyczące wykorzystania obiektu przez osoby trzecie."@pl ;
   dcterms:description "Denna nyttjanderättsbeskrivning innebär att det underliggande verket inte är  skyddat av upphovsrätt, men att det finns kända begränsningar som görs gällande av andra lagar än upphovsrätt och/eller närstående rättigheter på användningen av objektet av tredje part."@sv-FI ;
-  dcterms:description "La présente Déclaration des Droits indique que l’œuvre sous-jacente est dans le Domaine Public, mais qu’il existe, en matière d’utilisation de l’Objet par des tiers, des restrictions connues découlant de dispositions légales autres que le droit d’auteur et/ou les droits voisins."@fr ;
+  dcterms:description "La présente Déclaration des Droits indique que l'œuvre sous-jacente est dans le Domaine Public, mais qu'il existe, en matière d'utilisation de l'Objet par des tiers, des restrictions connues découlant de dispositions légales autres que le droit d'auteur et/ou les droits voisins."@fr ;
 
   skos:definition """Use of this Item is not restricted by copyright and/or related rights.
 
@@ -922,11 +922,11 @@
   Inom ett eller flera jurisdiktionsområden kan annan lag än upphovsrättslagstiftningen veterligen medföra begränsningar för användningen av detta Objekt.
 
   För ytterligare upplysningar, ta kontakt med den organisation som har gjort Objektet tillgängligt."""@sv-FI ;
-  skos:definition """L’utilisation de cet Objet n’est pas limitée par le droit d’auteur et/ou les droits voisins.
+  skos:definition """L'utilisation de cet Objet n'est pas limitée par le droit d'auteur et/ou les droits voisins.
 
-  Dans un ou plusieurs systèmes juridiques, des dispositions légales autres que le droit d’auteur ou les droits voisins imposent des restrictions à l’utilisation de cet Objet.
+  Dans un ou plusieurs systèmes juridiques, des dispositions légales autres que le droit d'auteur ou les droits voisins imposent des restrictions à l'utilisation de cet Objet.
 
-  Pour de plus amples informations, veuillez contacter l’organisme qui a rendu l’Objet accessible."""@fr ;
+  Pour de plus amples informations, veuillez contacter l'organisme qui a rendu l'Objet accessible."""@fr ;
 
   skos:note "Unless expressly stated otherwise, the organization that has made this Item available makes no warranties about the Item and cannot guarantee the accuracy of this Rights Statement. You are responsible for your own use."@en ;
   skos:note "Soweit nicht ausdrücklich an anderer Stelle ausgewiesen, macht die Institution, die das Objekt zugänglich macht, keine Zusicherungen in Bezug auf dieses und übernimmt keine Garantie für die Richtigkeit des gewählten Rechtehinweises. Sie sind für die eigene Nutzung selbst verantwortlich."@de ;
@@ -935,7 +935,7 @@
   skos:note "Ellei erikseen ole muuta nimenomaisesti ilmoitettu, tämän Kohteen saataville saattanut organisaatio ei anna mitään Kohdetta koskevaa takuuta eikä voi taata tämän Käyttöoikeuskuvauksen virheettömyyttä. Olet vastuussa omasta käytöstäsi."@fi ;
   skos:note "Jeżeli wyraźnie nie zaznaczono inaczej, organizacja która udostępniła dany obiekt nie daje w związku z nim żadnych gwarancji i nie może zagwarantować poprawności oświadczenia prawnego. Sam odpowiadasz za własne działania."@pl ;
   skos:note "Om inte annat uttryckligen sägs, ger organisationen som har gjort Objektet tillgängligt inga garantier rörande Objektet och den kan inte garantera att denna Nyttjanderättsbeskrivning är riktig. Du ansvarar själv för din egen användning."@sv-FI ;
-  skos:note "Sauf mention expresse contraire, l’organisme qui a rendu cet Objet accessible ne donne aucune garantie concernant ce dernier ni ne garantit l’exactitude de la présente Déclaration des Droits. Vous êtes responsable de votre propre utilisation."@fr ;
+  skos:note "Sauf mention expresse contraire, l'organisme qui a rendu cet Objet accessible ne donne aucune garantie concernant ce dernier ni ne garantit l'exactitude de la présente Déclaration des Droits. Vous êtes responsable de votre propre utilisation."@fr ;
 
   skos:note "You may need to obtain other permissions for your intended use. For example, other rights such as publicity, privacy or moral rights may limit how you may use the material."@en ;
   skos:note "Möglicherweise benötigen Sie zusätzliche Erlaubnisse für die beabsichtigte Nutzung. Zum Beispiel weil andere Rechte wie Veröffentlichungs-, Persönlichkeits- oder Urheberpersönlichkeitsrechte den erlaubten Nutzungsumfang einschränken."@de ;
@@ -944,7 +944,7 @@
   skos:note "Saatat tarvita muita lupia aikomaasi käyttöä varten. Esimerkiksi moraaliset oikeudet, yksityisyyden suojaa koskevat oikeudet taikka henkilön oikeudet määrätä kuvansa tai henkilönsä tunnistettavan osan kaupallisesta käytöstä voivat rajoittaa aineiston käyttöä."@fi ;
   skos:note "Może być również konieczne uzyskanie innych zgód w celu wykorzystania obiektu. Na przykład prawa związane z ochroną wizerunku i danych osobowych, prywatnością lub prawa osobiste mogą ograniczać możliwości wykorzystania obiektu."@pl ;
   skos:note "Du kanske måste skaffa andra tillstånd för den användning som du avser. Till exempel moraliska rättigheter, rättigheter gällande skyddet för privatliv eller personens rättigheter att bestämma gällande kommersiell användning av en identifierbar del av sin bild eller sin person kan begränsa dina möjligheter att använda materialet."@sv-FI ;
-  skos:note "Il est possible que l’utilisation que vous envisagez requière des autorisations supplémentaires. Il se peut, par exemple, que d’autres droits, comme les droits de la personnalité ou de la publicité, les droits liés à la protection de la vie privée ou les droits moraux, limitent vos possibilités d’utilisation."@fr ;
+  skos:note "Il est possible que l'utilisation que vous envisagez requière des autorisations supplémentaires. Il se peut, par exemple, que d'autres droits, comme les droits de la personnalité ou de la publicité, les droits liés à la protection de la vie privée ou les droits moraux, limitent vos possibilités d'utilisation."@fr ;
 
   skos:note "You may find additional information about the copyright status of the Item on the website of the organization that has made the Item available."@en ;
   skos:note "Möglicherweise finden Sie zusätzliche Informationen zum Urheberrechtsschutz des Objekts auf der Website der Institution, die das Objekt verfügbar gemacht hat."@de ;
@@ -953,7 +953,7 @@
   skos:note "Lisätietoja Kohteen tekijänoikeudellisesta statuksesta voi olla saatavissa Kohteen saataville saattaneen organisaation verkkosivuilta."@fi ;
   skos:note "Dodatkowe informacje o statusie prawnoautorskim obiektu mogą być dostępne na stronie internetowej organizacji, która ten obiekt udostępniła."@pl ;
   skos:note "Du kan hitta ytterligare information om Objektets upphovsrättsliga status på den organisations hemsida som har gjort Objektet tillgängligt."@sv-FI ;
-  skos:note "Il est possible que vous trouviez, sur le site Web de l’organisme ayant rendu l’Objet accessible, des informations supplémentaires concernant la protection de l’Objet par le droit d’auteur."@fr ;
+  skos:note "Il est possible que vous trouviez, sur le site Web de l'organisme ayant rendu l'Objet accessible, des informations supplémentaires concernant la protection de l'Objet par le droit d'auteur."@fr ;
 
   skos:scopeNote "This Rights Statement should be used for Items that are in the Public Domain but that cannot be freely re-used as the consequence of known legal restrictions that prevent the organization that intends to make the Item available from allowing free re-use of the Item, such as cultural heritage or traditional cultural expression protections. In order for this Rights Statement to be conclusive, the organization that intends to make the Item available should provide a link to a page detailing the legal restrictions that limit re-use of the Item."@en ;
   skos:scopeNote "Dieser Rechtehinweis sollte für Objekte verwendet werden, die gemeinfrei sind, aber im Hinblick auf eine freie Nachnutzung rechtlichen Beschränkungen unterliegen, die sich etwa aus dem  Kulturgutschutz oder dem Schutz von traditionellen kulturellen Ausdrucksformen ergeben, sodass die Institution, die beabsichtigt, ein solches Objekt zugänglich zu machen, eine freie Nachnutzung nicht erlauben kann. Damit der Rechtehinweis eindeutig ist, sollte die Institution, die beabsichtigt, das betreffende Objekt zugänglich zu machen, einen Link mitteilen, der zu einer Seite mit Detailinformationen zu den vertraglichen Beschränkungen der Nutzung des Objekts führt."@de ;
@@ -962,7 +962,7 @@
   skos:scopeNote "Tätä käyttöoikeuskuvausta tulisi käyttää tekijänoikeudesta vapaisiin Kohteisiin, joiden vapaa uudelleenkäyttö ei ole mahdollista, koska on olemassa tunnettuja oikeudellisia rajoituksia, kuten kulttuuriperintöä tai perinteistä kulttuurillista ilmaisua suojaavia rajoituksia, joiden takia organisaatio, joka aikoo saattaa kohteen saataville, ei voi sallia teoksen vapaata uudelleenkäyttöä. Organisaation, joka aikoo saattaa Kohteen saataville, tulisi täydentää tätä kuvausta linkillä verkkosivulle, josta kyseiset oikeudelliset rajoitukset ilmenevät."@fi ;
   skos:scopeNote "To oświadczenie prawne powinno być wykorzystywane dla obiektów, które są w tzw. domenie publicznej, ale które nie mogą być wykorzystywane w dowolny sposób, ze względu na znane ograniczenia prawne, które uniemożliwiają organizacji zamierzającej udostępnić obiekt na zezwolenie dowolnego wykorzystania tego obiektu, takie jak ochrona dziedzictwa czy tradycyjnych form wyrazu kulturowego. Aby to oświadczenie prawne było skuteczne, organizacja zamierzająca udostępnić obiekt powinna dostarczyć odnośnik do strony zawierającej szczegółowy opis prawnych ograniczeń wykorzystania obiektu."@pl ;
   skos:scopeNote "Denna nyttjanderättsbeskrivning bör användas för objekt som inte är skyddade av upphovsrätt, men som inte kan användas fritt på grund av kända rättsliga begränsningar som hindrar organisationen som avser att göra objektet tillgängligt från att tillåta fri återanvändning av verket, såsom skydd för kulturarv eller traditionella kulturyttringar. Nyttjanderättsbeskrivningen förutsätter att organisationen som avser att göra objektet tillgängligt tillhandahåller en länk till en sida där objektets rättsliga begränsningar beskrivs."@sv-FI ;
-  skos:scopeNote "Cette Déclaration des Droits devrait être utilisée pour les Objets qui sont dans le Domaine Public, mais dont la libre réutilisation est soumise à des restrictions juridiques connues, liées par exemple à la protection du patrimoine culturel ou des expressions culturelles traditionnelles. Ainsi, l’organisme qui entend rendre l’Objet accessible ne pourra pas autoriser sa libre réutilisation. Pour que la présente Déclaration des Droits soit probante, l’organisme qui entend rendre l’Objet accessible doit fournir un lien vers une page spécifiant les restrictions juridiques limitant la réutilisation de l’Objet."@fr ;
+  skos:scopeNote "Cette Déclaration des Droits devrait être utilisée pour les Objets qui sont dans le Domaine Public, mais dont la libre réutilisation est soumise à des restrictions juridiques connues, liées par exemple à la protection du patrimoine culturel ou des expressions culturelles traditionnelles. Ainsi, l'organisme qui entend rendre l'Objet accessible ne pourra pas autoriser sa libre réutilisation. Pour que la présente Déclaration des Droits soit probante, l'organisme qui entend rendre l'Objet accessible doit fournir un lien vers une page spécifiant les restrictions juridiques limitant la réutilisation de l'Objet."@fr ;
 
   skos:inScheme <1.0/> .
 
@@ -984,7 +984,7 @@
   skos:prefLabel "Ei tekijänoikeutta - Yhdysvallat"@fi ;
   skos:prefLabel "Nie objęty ochroną autorskich praw majątkowych - Stany Zjednoczone"@pl ;
   skos:prefLabel "Ingen upphovsrätt - Förenta staterna"@sv-FI ;
-  skos:prefLabel "Absence de protection par le droit d’auteur − États-Unis"@fr ;
+  skos:prefLabel "Absence de protection par le droit d'auteur − États-Unis"@fr ;
 
   dcterms:description "This Rights Statement indicates that the Item is in the Public Domain under the laws of the United States, but that a determination was not made as to its copyright status under the copyright laws of other countries."@en ;
   dcterms:description "Dieser Rechtehinweis besagt, dass das damit gekennzeichnete Objekt nach dem Recht der Vereinigten Staaten gemeinfrei ist, aber eine Einordnung des Urheberrechtsschutz in anderen Rechtsordnungen nicht vorgenommen wurde."@de ;
@@ -993,7 +993,7 @@
   dcterms:description "Tällä käyttöoikeuskuvauksella ilmaistaan, että Kohde on vailla tekijänoikeuden suojaa  Yhdysvaltain lainsäädännön nojalla (”Public domain”), mutta sen tekijänoikeudellista statusta muiden valtioiden tekijänoikeuslainsäädännön nojalla ei ole selvitetty."@fi ;
   dcterms:description "To oświadczenie prawne wskazuje, że obiekt znajduje się w tzw. domenie publicznej według systemu prawnego Stanów Zjednoczonych, ale nie określono jaki jest jego status prawnoautorski w systemach prawa autorskiego innych krajów."@pl ;
   dcterms:description "Denna nyttjanderättsbeskrivning innebär att objektet inte är skyddat av upphovsrätt enligt Förenta staternas lagstiftning (”public domain”), men att dess upphovsrättsliga status inte gick att fastställa enligt upphovsrättslagarna i andra länder."@sv-FI ;
-  dcterms:description "La présente Déclaration des Droits indique que, bien que l’Objet soit dans le Domaine Public en vertu de la législation des États-Unis, son statut en matière de droit d’auteur n’a pas été déterminé sous les législations d’autres pays."@fr ;
+  dcterms:description "La présente Déclaration des Droits indique que, bien que l'Objet soit dans le Domaine Public en vertu de la législation des États-Unis, son statut en matière de droit d'auteur n'a pas été déterminé sous les législations d'autres pays."@fr ;
 
   skos:definition """The organization that has made the Item available believes that the Item is in the Public Domain under the laws of the United States, but a determination was not made as to its copyright status under the copyright laws of other countries. The Item may not be in the Public Domain under the laws of other countries.
 
@@ -1016,9 +1016,9 @@
   skos:definition """Den organisation som har gjort Objektet tillgängligt anser att Objektet är inte skyddat av upphovsrätt enligt Förenta staternas lagstiftning (”public domain”). Inga slutsatser gjordes dock gällande Objektets upphovsrättsliga status enligt andra länders upphovsrättslagstiftning. Möjligen kan Objektet vara skyddat av upphovsrätt enligt andra länders lagstiftning.
 
   För ytterligare upplysningar, ta kontakt med den organisation som har gjort Objektet tillgängligt."""@sv-FI ;
-  skos:definition """L’organisme qui a rendu l’Objet accessible est d’avis que, selon la législation des États-Unis, l’Objet est dans le Domaine Public ; toutefois, il n’y a pas de décision sur le fait de savoir s’il est protégé par le droit d’auteur dans d’autres pays. Il est possible que, selon la législation d’autres pays, l’Objet ne soit pas dans le Domaine Public.
+  skos:definition """L'organisme qui a rendu l'Objet accessible est d'avis que, selon la législation des États-Unis, l'Objet est dans le Domaine Public ; toutefois, il n'y a pas de décision sur le fait de savoir s'il est protégé par le droit d'auteur dans d'autres pays. Il est possible que, selon la législation d'autres pays, l'Objet ne soit pas dans le Domaine Public.
 
-  Pour de plus amples informations, veuillez contacter l’organisme qui a rendu l’Objet accessible."""@fr ;
+  Pour de plus amples informations, veuillez contacter l'organisme qui a rendu l'Objet accessible."""@fr ;
 
   skos:note "Unless expressly stated otherwise, the organization that has made this Item available makes no warranties about the Item and cannot guarantee the accuracy of this Rights Statement. You are responsible for your own use."@en ;
   skos:note "Soweit nicht ausdrücklich an anderer Stelle ausgewiesen, macht die Institution, die das Objekt zugänglich macht, keine Zusicherungen in Bezug auf dieses und übernimmt keine Garantie für die Richtigkeit des gewählten Rechtehinweises. Sie sind für die eigene Nutzung selbst verantwortlich."@de ;
@@ -1027,7 +1027,7 @@
   skos:note "Ellei erikseen ole muuta nimenomaisesti ilmoitettu, tämän Kohteen saataville saattanut organisaatio ei anna mitään Kohdetta koskevaa takuuta eikä voi taata tämän Käyttöoikeuskuvauksen virheettömyyttä. Olet vastuussa omasta käytöstäsi."@fi ;
   skos:note "Jeżeli wyraźnie nie zaznaczono inaczej, organizacja która udostępniła dany obiekt nie daje w związku z nim żadnych gwarancji i nie może zagwarantować poprawności oświadczenia prawnego. Sam odpowiadasz za własne działania."@pl ;
   skos:note "Om inte annat uttryckligen sägs, ger organisationen som har gjort Objektet tillgängligt inga garantier rörande Objektet och den kan inte garantera att denna Nyttjanderättsbeskrivning är riktig. Du ansvarar själv för din egen användning."@sv-FI ;
-  skos:note "Sauf mention expresse contraire, l’organisme qui a rendu cet Objet accessible ne donne aucune garantie concernant ce dernier ni ne garantit l’exactitude de la présente Déclaration des Droits. Vous êtes vous-même responsable de votre propre utilisation."@fr ;
+  skos:note "Sauf mention expresse contraire, l'organisme qui a rendu cet Objet accessible ne donne aucune garantie concernant ce dernier ni ne garantit l'exactitude de la présente Déclaration des Droits. Vous êtes vous-même responsable de votre propre utilisation."@fr ;
 
   skos:note "You may need to obtain other permissions for your intended use. For example, other rights such as publicity, privacy or moral rights may limit how you may use the material."@en ;
   skos:note "Möglicherweise benötigen Sie zusätzliche Erlaubnisse für die beabsichtigte Nutzung. Zum Beispiel weil andere Rechte wie Veröffentlichungs-, Persönlichkeits- oder Urheberpersönlichkeitsrechte die Reichweite des erlaubten Nutzungsumfangs einschränken."@de ;
@@ -1036,7 +1036,7 @@
   skos:note "Saatat tarvita muita lupia aikomaasi käyttöä varten. Esimerkiksi moraaliset oikeudet, yksityisyyden suojaa koskevat oikeudet taikka henkilön oikeudet määrätä kuvansa tai henkilönsä tunnistettavan osan kaupallisesta käytöstä voivat rajoittaa aineiston käyttöä."@fi ;
   skos:note "Może być również konieczne uzyskanie innych zgód w celu wykorzystania obiektu. Na przykład prawa związane z ochroną wizerunku i danych osobowych, prywatnością lub prawa osobiste mogą ograniczać możliwości wykorzystania obiektu."@pl ;
   skos:note "Du kanske måste skaffa andra tillstånd för den användning som du avser. Till exempel moraliska rättigheter, rättigheter gällande skyddet för privatliv eller personens rättigheter att bestämma gällande kommersiell användning av en identifierbar del av sin bild eller sin person kan begränsa dina möjligheter att använda materialet."@sv-FI ;
-  skos:note "Il est possible que l’utilisation que vous envisagez requière des autorisations supplémentaires. Il se peut par exemple que d’autres droits, comme les droits de la personnalité ou de la publicité, les droits liés à la protection de la vie privée ou les droits moraux, limitent vos possibilités d’utilisation."@fr ;
+  skos:note "Il est possible que l'utilisation que vous envisagez requière des autorisations supplémentaires. Il se peut par exemple que d'autres droits, comme les droits de la personnalité ou de la publicité, les droits liés à la protection de la vie privée ou les droits moraux, limitent vos possibilités d'utilisation."@fr ;
 
   skos:note "You may find additional information about the copyright status of the Item on the website of the organization that has made the Item available."@en ;
   skos:note "Möglicherweise finden Sie zusätzliche Informationen zum Urheberrechtsschutz des Objekts auf der Website der Institution, die das Objekt verfügbar gemacht hat."@de ;
@@ -1045,7 +1045,7 @@
   skos:note "Lisätietoja Kohteen tekijänoikeudellisesta statuksesta voi olla saatavissa Kohteen saataville saattaneen organisaation verkkosivuilta."@fi ;
   skos:note "Dodatkowe informacje o statusie prawnoautorskim obiektu mogą być dostępne na stronie internetowej organizacji, która ten obiekt udostępniła."@pl ;
   skos:note "Du kan hitta ytterligare information om Objektets upphovsrättsliga status på den organisations hemsida som har gjort Objektet tillgängligt."@sv-FI ;
-  skos:note "Il est possible que vous trouviez, sur le site Web de l’organisme ayant rendu l’Objet accessible, des informations supplémentaires concernant la protection de l’Objet par le droit d’auteur."@fr ;
+  skos:note "Il est possible que vous trouviez, sur le site Web de l'organisme ayant rendu l'Objet accessible, des informations supplémentaires concernant la protection de l'Objet par le droit d'auteur."@fr ;
 
   skos:scopeNote "This Rights Statement should be used for Items for which the organization that intends to make the Item available has determined are free of copyright under the laws of the United States. This Rights Statement should not be used for Orphan Works (which are assumed to be in-copyright) or for Items where the organization that intends to make the Item available has not undertaken an effort to ascertain the copyright status of the underlying Work."@en ;
   skos:scopeNote "Dieser Rechtehinweis sollte für Objekte verwendet werden, bei denen die Institution, die beabsichtigt, das Objekt zugänglich zu machen, davon ausgeht, dass dieses nach dem Recht der Vereinigten Staaten urheberrechtsfrei ist. Dieser Rechtehinweis sollte nicht für Verwaiste Werke verwendet werden (bei denen davon auszugehen ist, dass sie urheberrechtlich geschützt sind) oder für Objekte, bei denen die Institution, die beabsichtigt, das Objekt zugänglich zu machen, keine Anstrengungen unternommen hat, um den Rechtsstatus des zugrunde liegenden Werks festzustellen."@de ;
@@ -1054,7 +1054,7 @@
   skos:scopeNote "Tätä käyttöoikeuskuvausta tulisi käyttää Kohteille, jotka organisaatio, joka aikoo saattaa Kohteen saataville, on todennut olevan ilman tekijänoikeuden suojaa Yhdysvaltain lainsäädännön nojalla. Käyttöoikeuskuvausta ei tulisi käyttää orpoteoksiin (joiden oletetaan olevan tekijänoikeuden suojaamia) tai Kohteisiin, joiden osalta organisaatio, joka aikoo saattaa Kohteen saataville, ei ole yrittänyt varmistaa Kohteeseen liittyvän teoksen tekijänoikeudellista statusta."@fi ;
   skos:scopeNote "To oświadczenie prawne powinno być wykorzystywane dla obiektów, które poprzez organizację zamierzającą te obiekty udostępnić, zostały określone jako nieobjęte ochroną majątkowych praw autorskich w systemie prawnym Stanów Zjednoczonych. To oświadczenie prawne nie powinno być wykorzystywane dla utworów osieroconych (które z założenia są objęte pełną ochroną prawnoautorską), ani też dla obiektów, w przypadku których organizacja planująca je udostępnić, nie podjęła działań mających na celu stwierdzenie statusu prawnoautorskiego utworu pierwotnego."@pl ;
   skos:scopeNote "Denna nyttjanderättsbeskrivning bör användas när organisationen som avser att göra objektet tillgängligt har fastställt att ett objekt inte är skyddat av upphovsrätt enligt Förenta staternas lagstiftning. Denna nyttjanderättsbeskrivning bör inte användas för anonyma verk (vilka antas skyddas av upphovsrätt) eller för objekt där organisationen som avser att göra objektet tillgängligt inte har försökt fastställa underliggande verkets upphovsrättsliga status."@sv-FI ;
-  skos:scopeNote "Cette Déclaration des Droits devrait être utilisée pour les Objets pour lesquels l’organisme qui entend rendre l’Objet accessible a conclu qu’ils étaient libres de droits selon la législation des États-Unis. La présente Déclaration des Droits ne devrait pas être utilisée pour les Œuvres Orphelines (qui sont présumées être protégées par le droit d’auteur) ou pour les objets pour lesquels l’organisme qui entend rendre accessible l’Objet n’a pas pris de mesures pour déterminer le statut de l’œuvre sous-jacente au vu du droit d’auteur."@fr ;
+  skos:scopeNote "Cette Déclaration des Droits devrait être utilisée pour les Objets pour lesquels l'organisme qui entend rendre l'Objet accessible a conclu qu'ils étaient libres de droits selon la législation des États-Unis. La présente Déclaration des Droits ne devrait pas être utilisée pour les Œuvres Orphelines (qui sont présumées être protégées par le droit d'auteur) ou pour les objets pour lesquels l'organisme qui entend rendre accessible l'Objet n'a pas pris de mesures pour déterminer le statut de l'œuvre sous-jacente au vu du droit d'auteur."@fr ;
 
   skos:inScheme <1.0/> .
 
@@ -1077,7 +1077,7 @@
   skos:prefLabel "Ei tunnettua tekijänoikeutta"@fi ;
   skos:prefLabel "Niepotwierdzony brak ochrony prawnoautorskiej"@pl ;
   skos:prefLabel "Ingen känd upphovsrätt"@sv-FI ;
-  skos:prefLabel "Absence de protection connue par le droit d’auteur"@fr ;
+  skos:prefLabel "Absence de protection connue par le droit d'auteur"@fr ;
 
   dcterms:description "This Rights Statement indicates that the organization that has published the Item believes that no copyright or related rights are known to exist for the Item, but that a conclusive determination could not be made."@en ;
   dcterms:description "Dieser Rechtehinweis besagt, dass die Institution, die das Objekt zugänglich macht, davon ausgeht, dass kein Urheberrechtsschutz oder verwandte Schutzrechte bestehen, dies aber nicht abschließend festgestellt hat."@de ;
@@ -1086,7 +1086,7 @@
   dcterms:description "Tällä käyttöoikeuskuvauksella ilmaistaan Kohteen julkaisseen organisaation uskovan, ettei Kohde ole tekijänoikeuden tai lähioikeuksien suojaama, mutta varmuudella tätä ei ole kyetty toteamaan."@fi ;
   dcterms:description "To oświadczenie prawne wskazuje, że organizacja, która udostępniła obiekt zakłada, że nie są znane żadne podstawy objęcia obiektu ochroną wynikającą z majątkowych praw autorskich lub praw pokrewnych, ale nie udało się doprowadzić do jednoznacznego potwierdzenia tego założenia."@pl ;
   dcterms:description "Denna nyttjanderättsbeskrivning innebär att organisationen som har publicerat objektet anser att ingen upphovsrätt eller närstående rättighet är kända för objektet, men att det inte gick att bestämmas med säkerhet."@sv-FI ;
-  dcterms:description "La présente Déclaration des Droits indique que l’organisme qui a publié l’Objet est d’avis que l’Objet n’est pas protégé par le droit d’auteur ou les droits voisins, mais que l’absence d’une telle protection n’a pas été constatée de manière définitive."@fr ;
+  dcterms:description "La présente Déclaration des Droits indique que l'organisme qui a publié l'Objet est d'avis que l'Objet n'est pas protégé par le droit d'auteur ou les droits voisins, mais que l'absence d'une telle protection n'a pas été constatée de manière définitive."@fr ;
 
   skos:definition """The organization that has made the Item available reasonably believes that the Item is not restricted by copyright or related rights, but a conclusive determination could not be made.
 
@@ -1123,11 +1123,11 @@
   För ytterligare upplysningar, ta kontakt med den organisation som har gjort Objektet tillgängligt.
 
   Du kan använda Objektet på alla sätt som är tillåtna enligt lagstiftningen om upphovsrätt och närstående rättigheter som är tillämplig på din användning."""@sv-FI ;
-  skos:definition """L’organisme qui a rendu l’Objet accessible a des motifs raisonnables de croire que l’Objet n’est pas soumis à des restrictions liées au droit d’auteur ou à des droits voisins, sans pour autant l’avoir constaté de manière définitive.
+  skos:definition """L'organisme qui a rendu l'Objet accessible a des motifs raisonnables de croire que l'Objet n'est pas soumis à des restrictions liées au droit d'auteur ou à des droits voisins, sans pour autant l'avoir constaté de manière définitive.
 
-  Pour de plus amples informations, veuillez contacter l’organisme qui a rendu l’Objet accessible.
+  Pour de plus amples informations, veuillez contacter l'organisme qui a rendu l'Objet accessible.
 
-  Vous avez le droit d’utiliser l’Objet de n’importe quelle manière autorisée par la législation sur le droit d’auteur et les droits voisins applicable à votre utilisation."""@fr ;
+  Vous avez le droit d'utiliser l'Objet de n'importe quelle manière autorisée par la législation sur le droit d'auteur et les droits voisins applicable à votre utilisation."""@fr ;
 
   skos:note "Unless expressly stated otherwise, the organization that has made this Item available makes no warranties about the Item and cannot guarantee the accuracy of this Rights Statement. You are responsible for your own use."@en ;
   skos:note "Soweit nicht ausdrücklich an anderer Stelle ausgewiesen, macht die Institution, die das Objekt zugänglich macht, keine Zusicherungen in Bezug auf dieses und übernimmt keine Garantie für die Richtigkeit des gewählten Rechtehinweises. Sie sind für die eigene Nutzung selbst verantwortlich."@de ;
@@ -1136,7 +1136,7 @@
   skos:note "Ellei erikseen ole muuta nimenomaisesti ilmoitettu, tämän Kohteen saataville saattanut organisaatio ei anna mitään Kohdetta koskevaa takuuta eikä voi taata tämän Käyttöoikeuskuvauksen virheettömyyttä. Olet vastuussa omasta käytöstäsi."@fi ;
   skos:note "Jeżeli wyraźnie nie zaznaczono inaczej, organizacja która udostępniła dany obiekt nie daje w związku z nim żadnych gwarancji i nie może zagwarantować poprawności oświadczenia prawnego. Sam odpowiadasz za własne działania."@pl ;
   skos:note "Om inte annat uttryckligen sägs, ger organisationen som har gjort Objektet tillgängligt inga garantier rörande Objektet och den kan inte garantera att denna Nyttjanderättsbeskrivning är riktig. Du ansvarar själv för din egen användning."@sv-FI ;
-  skos:note "Sauf mention expresse contraire, l’organisme qui a rendu cet Objet accessible ne donne aucune garantie concernant ce dernier ni ne garantit l’exactitude de la présente Déclaration des Droits. Vous êtes responsable de votre propre utilisation."@fr ;
+  skos:note "Sauf mention expresse contraire, l'organisme qui a rendu cet Objet accessible ne donne aucune garantie concernant ce dernier ni ne garantit l'exactitude de la présente Déclaration des Droits. Vous êtes responsable de votre propre utilisation."@fr ;
 
   skos:note "You may need to obtain other permissions for your intended use. For example, other rights such as publicity, privacy or moral rights may limit how you may use the material."@en ;
   skos:note "Möglicherweise benötigen Sie zusätzliche Erlaubnisse für die beabsichtigte Nutzung. Zum Beispiel weil andere Rechte wie Veröffentlichungs-, Persönlichkeits- oder Urheberpersönlichkeitsrechte den erlaubten Nutzungsumfang einschränken."@de ;
@@ -1145,7 +1145,7 @@
   skos:note "Saatat tarvita muita lupia aikomaasi käyttöä varten. Esimerkiksi moraaliset oikeudet, yksityisyyden suojaa koskevat oikeudet taikka henkilön oikeudet määrätä kuvansa tai henkilönsä tunnistettavan osan kaupallisesta käytöstä voivat rajoittaa aineiston käyttöä."@fi ;
   skos:note "Może być również konieczne uzyskanie innych zgód w celu wykorzystania obiektu. Na przykład prawa związane z ochroną wizerunku i danych osobowych, prywatnością lub prawa osobiste mogą ograniczać możliwości wykorzystania obiektu."@pl ;
   skos:note "Du kanske måste skaffa andra tillstånd för den användning som du avser. Till exempel moraliska rättigheter, rättigheter gällande skyddet för privatliv eller personens rättigheter att bestämma gällande kommersiell användning av en identifierbar del av sin bild eller sin person kan begränsa dina möjligheter att använda materialet."@sv-FI ;
-  skos:note "Il est possible que l’utilisation que vous envisagez requière des autorisations supplémentaires. Il se peut, par exemple, que d’autres droits, comme les droits de la personnalité ou de la publicité, les droits liés à la protection de la vie privée ou les droits moraux, limitent vos possibilités d’utilisation."@fr ;
+  skos:note "Il est possible que l'utilisation que vous envisagez requière des autorisations supplémentaires. Il se peut, par exemple, que d'autres droits, comme les droits de la personnalité ou de la publicité, les droits liés à la protection de la vie privée ou les droits moraux, limitent vos possibilités d'utilisation."@fr ;
 
   skos:note "You may find additional information about the copyright status of the Item on the website of the organization that has made the Item available."@en ;
   skos:note "Möglicherweise finden Sie zusätzliche Informationen zum Urheberrechtsschutz des Objekts auf der Website der Institution, die das Objekt verfügbar gemacht hat."@de ;
@@ -1154,7 +1154,7 @@
   skos:note "Lisätietoja Kohteen tekijänoikeudellisesta statuksesta voi olla saatavissa Kohteen saataville saattaneen organisaation verkkosivuilta."@fi ;
   skos:note "Dodatkowe informacje o statusie prawnym obiektu mogą być dostępne na stronie internetowej organizacji, która ten obiekt udostępniła."@pl ;
   skos:note "Du kan hitta ytterligare information om Objektets upphovsrättsliga status på den organisations hemsida som har gjort Objektet tillgängligt."@sv-FI ;
-  skos:note "Il est possible que vous trouviez, sur le site Web de l’organisme ayant rendu l’Objet accessible, des informations supplémentaires concernant la protection de l’Objet par le droit d’auteur."@fr ;
+  skos:note "Il est possible que vous trouviez, sur le site Web de l'organisme ayant rendu l'Objet accessible, des informations supplémentaires concernant la protection de l'Objet par le droit d'auteur."@fr ;
 
   skos:scopeNote "This Rights Statement should be used for Items for which the copyright status has not been determined conclusively, but for which the organization that intends to make the Item available has reasonable cause to believe that the underlying Work is not covered by copyright or related rights anymore. This Rights Statement should not be used for Orphan Works (which are assumed to be in-copyright) or for Items where the organization that intends to make the Item available has not undertaken an effort to ascertain the copyright status of the underlying Work."@en ;
   skos:scopeNote "Dieser Rechtehinweis sollte für Objekte verwendet werden, bei denen der Urheberrechtsschutz nicht abschließend festgestellt wurde, obschon die Institution, die beabsichtigt das Objekt zugänglich zu machen, mit Grund davon ausgeht, dass das zugrundeliegende Werk nicht mehr urheberrechtlich, oder durch verwandte Schutzrechte geschützt ist. Dieser Rechtehinweis sollte nicht für Verwaiste Werke verwendet werden (bei denen davon auszugehen ist, dass diese urheberrechtlich geschützt sind) oder für Objekte, bei denen die Institution, die beabsichtigt, das Objekt zugänglich zu machen, keine Anstrengungen unternommen hat, um den Rechtsstatus des zugrunde liegenden Werks festzustellen."@de ;
@@ -1163,7 +1163,7 @@
   skos:scopeNote "Tätä käyttöoikeuskuvausta tulisi käyttää Kohteille, joiden tekijänoikeudellista statusta ei ole varmuudella todettu, mutta organisaatiolla, joka aikoo saattaa Kohteen saataville, on perusteltu syy uskoa, että Kohteeseen liittyvä teos ei enää kuulu tekijänoikeuden tai lähioikeuksien piiriin. Käyttöoikeuskuvausta ei tulisi käyttää orpoteoksiin (joiden oletetaan olevan tekijänoikeuden suojaamia) tai teoksiin, joiden osalta organisaatio ei ole yrittänyt varmistaa teoksen tekijänoikeudellista statusta."@fi ;
   skos:scopeNote "To oświadczenie prawne powinno być wykorzystywane dla obiektów, których status ochrony prawnoautorskiej nie został określony w sposób jednoznaczny, ale w przypadku których organizacja zamierzająca je udostępnić, ma uzasadnione podstawy by założyć, że utwór pierwotny nie jest już objęty ochroną majątkowych praw autorskich lub praw pokrewnych. To oświadczenie prawne nie powinno być wykorzystywane dla utworów osieroconych (które z założenia są objęte pełną ochroną prawnoautorską), ani też dla obiektów, w przypadku których organizacja planująca je udostępnić, nie podjęła działań mających na celu określenie statusu prawnoautorskiego utworu pierwotnego."@pl ;
   skos:scopeNote "Denna nyttjanderättsbeskrivning bör användas för objekt vars upphovsrättsliga status inte har bestämts med säkerhet, men organisationen som avser att göra objektet tillgängligt har rimlig anledning att tro att upphovsrätt eller närstående rättigheter inte begränsar användningen av underliggande verket. Denna nyttjanderättsbeskrivning bör inte användas för anonyma verk (vilka antas skyddas av upphovsrätt) eller för verk där organisationen som avser att göra objektet tillgängligt inte har försökt fastställa underliggande verkets upphovsrättsliga status."@sv-FI ;
-  skos:scopeNote "Cette Déclaration des Droits doit être utilisée pour les Objets dont le statut en matière de droit d’auteur n’a pas été déterminé de manière définitive, mais pour lesquels l’organisme qui entend rendre l’Objet accessible a des motifs raisonnables de croire que l’Oeuvre sous-jacente n’est plus couverte par le droit d’auteur ou des droits voisins. La présente Déclaration des Droits ne doit pas être utilisée pour les Œuvres Orphelines (qui sont présumées être protégées par le droit d’auteur) ou pour les Objets pour lesquels l’organisme qui entend rendre accessible l’Objet n’a pas pris de mesures pour déterminer le statut de l’œuvre sous-jacente en ce qui concerne le droit d’auteur."@fr ;
+  skos:scopeNote "Cette Déclaration des Droits doit être utilisée pour les Objets dont le statut en matière de droit d'auteur n'a pas été déterminé de manière définitive, mais pour lesquels l'organisme qui entend rendre l'Objet accessible a des motifs raisonnables de croire que l'Oeuvre sous-jacente n'est plus couverte par le droit d'auteur ou des droits voisins. La présente Déclaration des Droits ne doit pas être utilisée pour les Œuvres Orphelines (qui sont présumées être protégées par le droit d'auteur) ou pour les Objets pour lesquels l'organisme qui entend rendre accessible l'Objet n'a pas pris de mesures pour déterminer le statut de l'œuvre sous-jacente en ce qui concerne le droit d'auteur."@fr ;
 
   skos:inScheme <1.0/> .
 
@@ -1196,7 +1196,7 @@
   dcterms:description "Tällä käyttöoikeuskuvauksella ilmaistaan, että Kohteen julkaissut organisaatio ei ole arvioinut kohteen tekijänoikeudellista ja lähioikeusstatusta."@fi ;
   dcterms:description "To oświadczenie prawne oznacza, że organizacja która udostępniła obiekt nie zbadała statusu obiektu w kontekście prawa autorskiego i praw pokrewnych."@pl ;
   dcterms:description "Denna nyttjanderättsbeskrivning innebär att organisationen som har publicerat objektet inte har granskat objektets status för upphovsrätt och närstående rättigheter."@sv-FI ;
-  dcterms:description "La présente Déclaration des Droits indique que l’organisme qui a publié l’Objet n’a pas évalué le statut de l’Objet en ce qui concerne le droit d’auteur et les droits voisins."@fr ;
+  dcterms:description "La présente Déclaration des Droits indique que l'organisme qui a publié l'Objet n'a pas évalué le statut de l'Objet en ce qui concerne le droit d'auteur et les droits voisins."@fr ;
 
   skos:definition """The copyright and related rights status of this Item has not been evaluated.
 
@@ -1233,11 +1233,11 @@
   För ytterligare upplysningar, ta kontakt med den organisation som har gjort Objektet tillgängligt.
 
   Du kan använda Objektet på alla sätt som är tillåtna enligt lagstiftningen om upphovsrätt och närstående rättigheter som är tillämplig på din användning."""@sv-FI ;
-  skos:definition """Le statut de cet Objet en ce qui concerne le droit d’auteur et les droits voisins n’a pas été évalué.
+  skos:definition """Le statut de cet Objet en ce qui concerne le droit d'auteur et les droits voisins n'a pas été évalué.
 
-  Pour de plus amples informations, veuillez contacter l’organisme qui a rendu l’Objet accessible.
+  Pour de plus amples informations, veuillez contacter l'organisme qui a rendu l'Objet accessible.
 
-  Vous avez le droit d’utiliser l’Objet de toutes les manières autorisées par la législation sur le droit d’auteur et les droits voisins applicable à votre utilisation."""@fr ;
+  Vous avez le droit d'utiliser l'Objet de toutes les manières autorisées par la législation sur le droit d'auteur et les droits voisins applicable à votre utilisation."""@fr ;
 
   skos:note "Unless expressly stated otherwise, the organization that has made this Item available makes no warranties about the Item and cannot guarantee the accuracy of this Rights Statement. You are responsible for your own use."@en ;
   skos:note "Soweit nicht ausdrücklich an anderer Stelle ausgewiesen, macht die Institution, die das Objekt zugänglich macht, keine Zusicherungen in Bezug auf dieses und übernimmt keine Garantie für die Richtigkeit des gewählten Rechtehinweises. Sie sind für die eigene Nutzung selbst verantwortlich."@de ;
@@ -1246,7 +1246,7 @@
   skos:note "Ellei erikseen ole muuta nimenomaisesti ilmoitettu, tämän Kohteen saataville saattanut organisaatio ei anna mitään Kohdetta koskevaa takuuta eikä voi taata tämän Käyttöoikeuskuvauksen virheettömyyttä. Olet vastuussa omasta käytöstäsi."@fi ;
   skos:note "Jeżeli wyraźnie nie zaznaczono inaczej, organizacja która udostępniła dany obiekt nie daje w związku z nim żadnych gwarancji i nie może zagwarantować poprawności oświadczenia prawnego. Sam odpowiadasz za własne działania."@pl ;
   skos:note "Om inte annat uttryckligen sägs, ger organisationen som har gjort Objektet tillgängligt inga garantier rörande Objektet och den kan inte garantera att denna Nyttjanderättsbeskrivning är riktig. Du ansvarar själv för din egen användning."@sv-FI ;
-  skos:note "Sauf mention expresse contraire, l’organisme qui a rendu cet Objet accessible ne donne aucune garantie concernant ce dernier ni ne garantit l’exactitude de la présente Déclaration des Droits. Vous êtes responsable de votre propre utilisation."@fr ;
+  skos:note "Sauf mention expresse contraire, l'organisme qui a rendu cet Objet accessible ne donne aucune garantie concernant ce dernier ni ne garantit l'exactitude de la présente Déclaration des Droits. Vous êtes responsable de votre propre utilisation."@fr ;
 
   skos:note "You may need to obtain other permissions for your intended use. For example, other rights such as publicity, privacy or moral rights may limit how you may use the material."@en ;
   skos:note "Möglicherweise benötigen Sie zusätzliche Erlaubnisse für die beabsichtigte Nutzung. Zum Beispiel weil andere Rechte wie Veröffentlichungs-, Persönlichkeits- oder Urheberpersönlichkeitsrechte den erlaubten Nutzungsumfang einschränken."@de ;
@@ -1255,7 +1255,7 @@
   skos:note "Saatat tarvita muita lupia aikomaasi käyttöä varten. Esimerkiksi moraaliset oikeudet, yksityisyyden suojaa koskevat oikeudet taikka henkilön oikeudet määrätä kuvansa tai henkilönsä tunnistettavan osan kaupallisesta käytöstä voivat rajoittaa aineiston käyttöä."@fi ;
   skos:note "Może być również konieczne uzyskanie innych zgód w celu wykorzystania obiektu. Na przykład prawa związane z ochroną wizerunku i danych osobowych, prywatnością lub prawa osobiste mogą ograniczać możliwości wykorzystania obiektu."@pl ;
   skos:note "Du kanske måste skaffa andra tillstånd för den användning som du avser. Till exempel moraliska rättigheter, rättigheter gällande skyddet för privatliv eller personens rättigheter att bestämma gällande kommersiell användning av en identifierbar del av sin bild eller sin person kan begränsa dina möjligheter att använda materialet."@sv-FI ;
-  skos:note "Il est possible que l’utilisation que vous envisagez requière des autorisations supplémentaires. Il se peut par exemple que d’autres droits, comme les droits de la personnalité ou de la publicité, les droits liés à la protection de la vie privée ou les droits moraux, limitent vos possibilités d’utilisation."@fr ;
+  skos:note "Il est possible que l'utilisation que vous envisagez requière des autorisations supplémentaires. Il se peut par exemple que d'autres droits, comme les droits de la personnalité ou de la publicité, les droits liés à la protection de la vie privée ou les droits moraux, limitent vos possibilités d'utilisation."@fr ;
 
   skos:note "You may find additional information about the copyright status of the Item on the website of the organization that has made the Item available."@en ;
   skos:note "Möglicherweise finden Sie zusätzliche Informationen zum Urheberrechtsschutz des Objekts auf der Website der Institution, die das Objekt verfügbar gemacht hat."@de ;
@@ -1264,7 +1264,7 @@
   skos:note "Lisätietoja Kohteen tekijänoikeudellisesta statuksesta voi olla saatavissa Kohteen saataville saattaneen organisaation verkkosivuilta."@fi ;
   skos:note "Dodatkowe informacje o statusie prawnoautorskim obiektu mogą być dostępne na stronie internetowej organizacji, która ten obiekt udostępniła."@pl ;
   skos:note "Du kan hitta ytterligare information om Objektets upphovsrättsliga status på den organisations hemsida som har gjort Objektet tillgängligt."@sv-FI ;
-  skos:note "Il est possible que vous trouviez, sur le site Web de l’organisme ayant rendu l’Objet accessible, des informations supplémentaires concernant la protection de l’Objet par le droit d’auteur."@fr ;
+  skos:note "Il est possible que vous trouviez, sur le site Web de l'organisme ayant rendu l'Objet accessible, des informations supplémentaires concernant la protection de l'Objet par le droit d'auteur."@fr ;
 
   skos:scopeNote "This Rights Statement should be used for Items for which the copyright status is unknown and for which the organization that intends to make the Item available has not undertaken an effort to determine the copyright status of the underlying Work."@en ;
   skos:scopeNote "Dieser Rechtehinweis sollte für Objekte genutzt werden, bei denen der Urheberrechtsschutz unbekannt ist und bei denen die Institution, die beabsichtigt, das Objekt zugänglich zu machen,  keine Anstrengungen unternommen hat, den Urheberrechtsschutz des zugrunde liegenden Werkes festzustellen."@de ;
@@ -1273,7 +1273,7 @@
   skos:scopeNote "Tätä käyttöoikeuskuvausta tulisi käyttää Kohteille, joiden tekijänoikeudellinen status on tuntematon, eikä organisaatio, joka aikoo saattaa Kohteen saataville, ole yrittänyt määrittää sitä."@fi ;
   skos:scopeNote "To oświadczenie prawne powinno być wykorzystywane dla obiektów, których status w kontekście prawa autorskiego i praw pokrewnych jest nieznany, a organizacja, która zamierza taki obiekt udostępnić nie podjęła działań mających na celu ustalenie takiego statusu dla utworu pierwotnego."@pl ;
   skos:scopeNote "Denna nyttjanderättsbeskrivning bör användas för objekt vars upphovsrättsliga status är okänd och när organisationen som avser att göra objektet tillgängligt inte har försökt fastställa underliggande verkets upphovsrättsliga status."@sv-FI ;
-  skos:scopeNote "Cette Déclaration des Droits devrait être utilisée pour les Objets dont le statut en matière de droit d’auteur est inconnu et pour lesquels l’organisme qui entend rendre l’Objet accessible n’a pas pris de mesures pour déterminer le statut de l’œuvre sous-jacente au vu du droit d’auteur."@fr ;
+  skos:scopeNote "Cette Déclaration des Droits devrait être utilisée pour les Objets dont le statut en matière de droit d'auteur est inconnu et pour lesquels l'organisme qui entend rendre l'Objet accessible n'a pas pris de mesures pour déterminer le statut de l'œuvre sous-jacente au vu du droit d'auteur."@fr ;
 
   skos:inScheme <1.0/> .
 
@@ -1304,7 +1304,7 @@
   dcterms:description "Tällä käyttöoikeuskuvauksella ilmaistaan, että Kohteen saataville saattanut organisaatio on yrittänyt selvittää Kohteen tekijänoikeudellisen ja lähioikeusstatuksen, muttei ole siihen kyennyt."@fi ;
   dcterms:description "To oświadczenie prawne wskazuje, że organizacja która udostępniła obiekt zbadała jego status w kontekście prawa autorskiego i praw pokrewnych, ale nie była w stanie jednoznacznie tego statusu określić."@pl ;
   dcterms:description "Denna nyttjanderättsbeskrivning innebär att organisationen som har gjort objektet tillgängligt har granskat objektets status för upphovsrätt och närstående rättigheter, men inte kunnat fastställa objektets upphovsrättsliga status."@sv-FI ;
-  dcterms:description "La présente Déclaration des Droits indique que l’organisme qui a rendu l’Objet accessible, bien qu’il en ait fait l'examen, n'a pas été en mesure de déterminer le statut de l’Objet en ce qui concerne le droit d’auteur et les droits voisins."@fr ;
+  dcterms:description "La présente Déclaration des Droits indique que l'organisme qui a rendu l'Objet accessible, bien qu'il en ait fait l'examen, n'a pas été en mesure de déterminer le statut de l'Objet en ce qui concerne le droit d'auteur et les droits voisins."@fr ;
 
   skos:definition """The copyright and related rights status of this Item has been reviewed by the organization that has made the Item available, but the organization was unable to make a conclusive determination as to the copyright status of the Item.
 
@@ -1341,11 +1341,11 @@
   För ytterligare upplysningar, ta kontakt med den organisation som har gjort Objektet tillgängligt.
 
   Du kan använda Objektet på alla sätt som är tillåtna enligt lagstiftningen om upphovsrätt och närstående rättigheter som är tillämplig på din användning."""@sv-FI ;
-  skos:definition """L’organisme qui a rendu l’Objet accessible a examiné le statut de l’Objet en ce qui concerne le droit d’auteur et les droits voisins. Toutefois, l’organisme n’était pas en mesure de déterminer de manière définitive le statut de l’Objet au vu du droit d’auteur.
+  skos:definition """L'organisme qui a rendu l'Objet accessible a examiné le statut de l'Objet en ce qui concerne le droit d'auteur et les droits voisins. Toutefois, l'organisme n'était pas en mesure de déterminer de manière définitive le statut de l'Objet au vu du droit d'auteur.
 
-  Pour de plus amples informations, veuillez contacter l’organisme qui a rendu l’Objet accessible.
+  Pour de plus amples informations, veuillez contacter l'organisme qui a rendu l'Objet accessible.
 
-  Vous avez le droit d’utiliser l’Objet de toutes les manières autorisées par la législation sur le droit d’auteur et les droits voisins applicable à votre utilisation."""@fr ;
+  Vous avez le droit d'utiliser l'Objet de toutes les manières autorisées par la législation sur le droit d'auteur et les droits voisins applicable à votre utilisation."""@fr ;
 
   skos:note "Unless expressly stated otherwise, the organization that has made this Item available makes no warranties about the Item and cannot guarantee the accuracy of this Rights Statement. You are responsible for your own use."@en ;
   skos:note "Soweit nicht ausdrücklich an anderer Stelle ausgewiesen, macht die Institution, die das Objekt zugänglich macht, keine Zusicherungen in Bezug auf dieses und übernimmt keine Garantie für die Richtigkeit des gewählten Rechtehinweises. Sie sind für die eigene Nutzung selbst verantwortlich."@de ;
@@ -1354,7 +1354,7 @@
   skos:note "Ellei erikseen ole muuta nimenomaisesti ilmoitettu, tämän Kohteen saataville saattanut organisaatio ei anna mitään Kohdetta koskevaa takuuta eikä voi taata tämän Käyttöoikeuskuvauksen virheettömyyttä. Olet vastuussa omasta käytöstäsi."@fi ;
   skos:note "Jeżeli wyraźnie nie zaznaczono inaczej, organizacja która udostępniła dany obiekt nie daje w związku z nim żadnych gwarancji i nie może zagwarantować poprawności oświadczenia prawnego. Sam odpowiadasz za własne działania."@pl ;
   skos:note "Om inte annat uttryckligen sägs, ger organisationen som har gjort Objektet tillgängligt inga garantier rörande Objektet och den kan inte garantera att denna Nyttjanderättsbeskrivning är riktig. Du ansvarar själv för din egen användning."@sv-FI ;
-  skos:note "Sauf mention expresse contraire, l’organisme qui a rendu cet Objet accessible ne donne aucune garantie concernant ce dernier ni ne garantit l’exactitude de la présente Déclaration des Droits. Vous êtes responsable de votre propre utilisation."@fr ;
+  skos:note "Sauf mention expresse contraire, l'organisme qui a rendu cet Objet accessible ne donne aucune garantie concernant ce dernier ni ne garantit l'exactitude de la présente Déclaration des Droits. Vous êtes responsable de votre propre utilisation."@fr ;
 
   skos:note "You may need to obtain other permissions for your intended use. For example, other rights such as publicity, privacy or moral rights may limit how you may use the material."@en ;
   skos:note "Möglicherweise benötigen Sie zusätzliche Erlaubnisse für die beabsichtigte Nutzung. Zum Beispiel weil andere Rechte wie Veröffentlichungs-, Persönlichkeits- oder Urheberpersönlichkeitsrechte den erlaubten Nutzungsumfang einschränken."@de ;
@@ -1363,7 +1363,7 @@
   skos:note "Saatat tarvita muita lupia aikomaasi käyttöä varten. Esimerkiksi moraaliset oikeudet, yksityisyyden suojaa koskevat oikeudet taikka henkilön oikeudet määrätä kuvansa tai henkilönsä tunnistettavan osan kaupallisesta käytöstä voivat rajoittaa aineiston käyttöä."@fi ;
   skos:note "Może być również konieczne uzyskanie innych zgód w celu wykorzystania obiektu. Na przykład prawa związane z ochroną wizerunku i danych osobowych, prywatnością lub prawa osobiste mogą ograniczać możliwości wykorzystania obiektu."@pl ;
   skos:note "Du kanske måste skaffa andra tillstånd för den användning som du avser. Till exempel moraliska rättigheter, rättigheter gällande skyddet för privatliv eller personens rättigheter att bestämma gällande kommersiell användning av en identifierbar del av sin bild eller sin person kan begränsa dina möjligheter att använda materialet."@sv-FI ;
-  skos:note "Il est possible que l’utilisation que vous envisagez requière des autorisations supplémentaires. Il se peut, par exemple, que d’autres droits, comme les droits de la personnalité ou de la publicité, les droits liés à la protection de la vie privée ou les droits moraux, limitent vos possibilités d’utilisation."@fr ;
+  skos:note "Il est possible que l'utilisation que vous envisagez requière des autorisations supplémentaires. Il se peut, par exemple, que d'autres droits, comme les droits de la personnalité ou de la publicité, les droits liés à la protection de la vie privée ou les droits moraux, limitent vos possibilités d'utilisation."@fr ;
 
   skos:note "You may find additional information about the copyright status of the Item on the website of the organization that has made the Item available."@en ;
   skos:note "Möglicherweise finden Sie zusätzliche Informationen zum Urheberrechtsschutz des Objekts auf der Website der Institution, die das Objekt verfügbar gemacht hat."@de ;
@@ -1372,7 +1372,7 @@
   skos:note "Lisätietoja Kohteen tekijänoikeudellisesta statuksesta voi olla saatavissa Kohteen saataville saattaneen organisaation verkkosivuilta."@fi ;
   skos:note "Dodatkowe informacje o statusie prawnoautorskim obiektu mogą być dostępne na stronie internetowej organizacji, która ten obiekt udostępniła."@pl ;
   skos:note "Du kan hitta ytterligare information om Objektets upphovsrättsliga status på den organisations hemsida som har gjort Objektet tillgängligt."@sv-FI ;
-  skos:note "Il est possible que vous trouviez, sur le site Web de l’organisme ayant rendu l’Objet accessible, des informations supplémentaires concernant la protection de l’Objet par le droit d’auteur."@fr ;
+  skos:note "Il est possible que vous trouviez, sur le site Web de l'organisme ayant rendu l'Objet accessible, des informations supplémentaires concernant la protection de l'Objet par le droit d'auteur."@fr ;
 
   skos:scopeNote "This Rights Statement should be used for Items for which the copyright status is unknown and for which the organization that has made the Item available has undertaken an (unsuccessful) effort to determine the copyright status of the underlying Work. Typically, this Rights Statement is used when the organization is missing key facts essential to making an accurate copyright status determination."@en ;
   skos:scopeNote "Dieser Rechtehinweis sollte für Objekte genutzt werden, bei denen der Urheberrechtsschutz unbekannt ist und bei denen die Institution, die sie verfügbar macht, (erfolglose) Anstrengungen unternommen hat, den Urheberrechtsschutz des zugrunde liegenden Werks festzustellen. Typischerweise wird dieser Rechtehinweis benutzt, wenn der Institution Schlüsselinformationen fehlen, die für eine exakte Feststellung des Urheberrechtsschutz unerlässlich sind."@de ;
@@ -1381,6 +1381,6 @@
   skos:scopeNote "Tätä käyttöoikeuskuvausta tulisi käyttää Kohteille, joiden tekijänoikeudellinen status on jäänyt tuntemattomaksi, vaikka Kohteen saataville saattanut organisaatio on sitä yrittänyt määrittää. Käyttöoikeuskuvausta käytetään tyypillisesti tapauksissa, joissa organisaatiolta puuttuu tekijänoikeusstatuksen täsmällisen määrittämisen edellyttämiä olennaisia tietoja."@fi ;
   skos:scopeNote "To oświadczenie prawne powinno być wykorzystywane dla obiektów, których status ochrony prawnoautorskiej jest nieznany, a organizacja która udostępniła obiekt, podjęła (nieudane) działania mające na celu określenie statusu prawnoautorskiego utworu pierwotnego. To oświadczenie prawne jest najczęściej stosowane, gdy organizacji brakuje podstawowych faktów niezbędnych do precyzyjnego określenia statusu prawnoautorskiego."@pl ;
   skos:scopeNote "Denna nyttjanderättsbeskrivning bör användas för objekt vars upphovsrättsliga status är okänd och när organisationen som har gjort objektet tillgängligt har försökt fastställa underliggande verkets upphovsrättsliga status. Denna nyttjanderättsbeskrivning används vanligtvis när organisationen saknar viktiga fakta som krävs för att definiera upphovsrättslig status."@sv-FI ;
-  skos:scopeNote "Cette Déclaration des Droits doit être utilisée pour les Objets dont le statut en matière de droit d’auteur est inconnu et pour lesquels l’organisme qui a rendu l’Objet accessible a pris des mesures (infructueuses) pour déterminer le statut de l’Oeuvre sous-jacente au vu du droit d’auteur. En règle générale, cette Déclaration des Droits est utilisée lorsque l’organisme n’a pas connaissance de tous les éléments-clés nécessaires pour déterminer avec précision le statut de l’Objet en matière de droit d’auteur."@fr ;
+  skos:scopeNote "Cette Déclaration des Droits doit être utilisée pour les Objets dont le statut en matière de droit d'auteur est inconnu et pour lesquels l'organisme qui a rendu l'Objet accessible a pris des mesures (infructueuses) pour déterminer le statut de l'Oeuvre sous-jacente au vu du droit d'auteur. En règle générale, cette Déclaration des Droits est utilisée lorsque l'organisme n'a pas connaissance de tous les éléments-clés nécessaires pour déterminer avec précision le statut de l'Objet en matière de droit d'auteur."@fr ;
 
   skos:inScheme <1.0/> .
