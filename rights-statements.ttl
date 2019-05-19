@@ -233,7 +233,7 @@
   skos:prefLabel "Tekijänoikeuden piirissä - EU-orpoteos"@fi ;
   skos:prefLabel "Objęty pełną ochroną prawnoautorską - Utwór osierocony UE"@pl ;
   skos:prefLabel "Underkastad upphovsrätt - EU-anonymt verk"@sv-FI ;
-  skos:prefLabel "Protégé par le droit d'auteur − Œuvre Orpheline de l'UE"@fr ;
+  skos:prefLabel "Protégé par le droit d'auteur - Œuvre Orpheline de l'UE"@fr ;
 
   dcterms:description "This Rights Statement indicates that the Item labeled with this Rights Statement has been identified as an ‘Orphan Work' under the terms of the EU Orphan Works Directive."@en ;
   dcterms:description "Dieser Rechtehinweis besagt, dass das damit gekennzeichnete Objekt als „Verwaistes Werk“ im Sinne der Bestimmungen der europäischen Richtlinie zu verwaisten Werken identifiziert wurde."@de ;
@@ -351,7 +351,7 @@
   skos:prefLabel "Tekijänoikeuden piirissä - oikeudenhaltija(t) paikantamatta tai tunnistamatta"@fi ;
   skos:prefLabel "Objęty pełną ochroną prawnoautorską - Uprawniony z tytułu praw autorskich nieodnaleziony lub nieznany"@pl ;
   skos:prefLabel "Underkastad upphovsrätt - rättsinnehavare ej lokaliserats eller identifierats"@sv-FI ;
-  skos:prefLabel "Protégé par le droit d'auteur − Titulaire(s) des droits impossible(s) à localiser ou à identifier"@fr ;
+  skos:prefLabel "Protégé par le droit d'auteur - Titulaire(s) des droits impossible(s) à localiser ou à identifier"@fr ;
 
   dcterms:description "This Rights Statement indicates that the Item labeled with this Rights Statement has been identified as in copyright, but its rights-holder(s) either cannot be identified or cannot be located."@en ;
   dcterms:description "Dieser Rechtehinweis besagt, dass das damit gekennzeichnete Objekt urheberrechtlich geschützt ist, aber der/die Rechteinhaber entweder nicht identifiziert oder aufgefunden werden konnte(n)."@de ;
@@ -453,7 +453,7 @@
   skos:prefLabel "Tekijänoikeuden piirissä - käyttö opetustoiminnassa sallittu"@fi ;
   skos:prefLabel "Objęty pełną ochroną prawnoautorską - Dozwolone wykorzystanie edukacyjne"@pl ;
   skos:prefLabel "Underkastad upphovsrätt – användning inom undervisning tillåten"@sv-FI ;
-  skos:prefLabel "Protégé par le droit d'auteur − Utilisation à des fins pédagogiques autorisée"@fr ;
+  skos:prefLabel "Protégé par le droit d'auteur - Utilisation à des fins pédagogiques autorisée"@fr ;
 
   dcterms:description "This Rights Statement indicates that the Item labeled with this Rights Statement is in copyright but that educational use is allowed without the need to obtain additional permission."@en ;
   dcterms:description "Dieser Rechtehinweis besagt, dass Urheberrechtsschutz besteht, aber die Nutzung des Objekts zu Bildungszwecken ohne zusätzliche Rechteeinholung gestattet ist."@de ;
@@ -564,7 +564,7 @@
   skos:prefLabel "Tekijänoikeuden piirissä - ei-kaupallinen käyttö sallittu"@fi ;
   skos:prefLabel "Objęty pełną ochroną prawnoautorską - Dozwolone wykorzystanie niekomercyjne"@pl ;
   skos:prefLabel "Underkastad upphovsrätt – icke-kommersiell användning tillåten"@sv-FI ;
-  skos:prefLabel "Protégé par le droit d'auteur − Utilisation non commerciale autorisée"@fr ;
+  skos:prefLabel "Protégé par le droit d'auteur - Utilisation non commerciale autorisée"@fr ;
 
   dcterms:description "This Rights Statement indicates that the Item labeled with this Rights Statement is in copyright but that non-commercial use is allowed without the need to obtain additional permission."@en ;
   dcterms:description "Dieser Rechtehinweis besagt, dass Urheberrechtsschutz besteht, aber die nicht kommerzielle Nutzung des Objekts ohne zusätzliche Rechteeinholung gestattet ist."@de ;
@@ -674,7 +674,7 @@
   skos:prefLabel "Ei tekijänoikeutta - vain ei-kaupalliseen käyttöön"@fi;
   skos:prefLabel "Nie objęty ochroną autorskich praw majątkowych - Dozwolone wyłącznie wykorzystanie niekomercyjne"@pl ;
   skos:prefLabel "Ingen upphovsrätt - endast för icke-kommersiell användning"@sv-FI ;
-  skos:prefLabel "Absence de protection par le droit d'auteur − Utilisation à des fins uniquement non commerciales"@fr ;
+  skos:prefLabel "Absence de protection par le droit d'auteur - Utilisation à des fins uniquement non commerciales"@fr ;
 
   dcterms:description "This Rights Statement indicates that the underlying Work is in the Public Domain, but the organization that has published the Item is contractually required to allow only non-commercial use by third parties."@en ;
   dcterms:description "Dieser Rechtehinweis besagt, dass das zugrundeliegende Werk gemeinfrei ist, aber die Institution, die das Objekt zugänglich macht, vertraglich gebunden ist und lediglich nicht kommerzielle Nutzungen durch Dritte erlauben darf."@de ;
@@ -767,7 +767,7 @@
   skos:prefLabel "Ei tekijänoikeutta - sopimuksellisia rajoituksia"@fi ;
   skos:prefLabel "Nie objęty ochroną autorskich praw majątkowych - Ograniczenia wynikające z umów"@pl ;
   skos:prefLabel "Ingen upphovsrätt – avtalsmässiga begränsningar"@sv-FI ;
-  skos:prefLabel "Absence de protection par le droit d'auteur − Restrictions contractuelles"@fr ;
+  skos:prefLabel "Absence de protection par le droit d'auteur - Restrictions contractuelles"@fr ;
 
   dcterms:description "This Rights Statement indicates that the underlying Work is in the Public Domain, but the organization that has published the Item is contractually required to restrict certain forms of use by third parties."@en ;
   dcterms:description "Dieser Rechtehinweis besagt, dass das zugrunde liegende Werk gemeinfrei ist, aber die Institution, die das Objekt zugänglich macht, vertraglich verpflichtet ist, bestimmte Nutzungen durch Dritte nur eingeschränkt zu erlauben."@de ;
@@ -876,7 +876,7 @@
   skos:prefLabel "Ei tekijänoikeutta - muita tunnettuja oikeudellisia rajoituksia"@fi ;
   skos:prefLabel "Nie objęty ochroną autorskich praw majątkowych - Inne znane ograniczenia prawne"@pl ;
   skos:prefLabel "Ingen upphovsrätt – andra kända rättsliga begränsningar"@sv-FI ;
-  skos:prefLabel "Absence de protection par le droit d'auteur − Autres restrictions juridiques connues"@fr ;
+  skos:prefLabel "Absence de protection par le droit d'auteur - Autres restrictions juridiques connues"@fr ;
 
   dcterms:description "This Rights Statement indicates that the underlying Work is in the Public Domain, but that there are known restrictions imposed by laws other than copyright and/or related rights on the use of the Item by third parties."@en ;
   dcterms:description "Dieser Rechtehinweis besagt, dass das zugrunde liegende Werk gemeinfrei ist, aber Einschränkungen der Nutzung des Objekts durch Dritte bekannt sind, die sich aus anderen Rechten als dem Urheberrecht und/oder verwandten Schutzrechten ergeben."@de ;
@@ -984,7 +984,7 @@
   skos:prefLabel "Ei tekijänoikeutta - Yhdysvallat"@fi ;
   skos:prefLabel "Nie objęty ochroną autorskich praw majątkowych - Stany Zjednoczone"@pl ;
   skos:prefLabel "Ingen upphovsrätt - Förenta staterna"@sv-FI ;
-  skos:prefLabel "Absence de protection par le droit d'auteur − États-Unis"@fr ;
+  skos:prefLabel "Absence de protection par le droit d'auteur - États-Unis"@fr ;
 
   dcterms:description "This Rights Statement indicates that the Item is in the Public Domain under the laws of the United States, but that a determination was not made as to its copyright status under the copyright laws of other countries."@en ;
   dcterms:description "Dieser Rechtehinweis besagt, dass das damit gekennzeichnete Objekt nach dem Recht der Vereinigten Staaten gemeinfrei ist, aber eine Einordnung des Urheberrechtsschutz in anderen Rechtsordnungen nicht vorgenommen wurde."@de ;
