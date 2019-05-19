@@ -238,9 +238,9 @@
   skos:prefLabel "Objęty pełną ochroną prawnoautorską - Utwór osierocony UE"@pl ;
   skos:prefLabel "Underkastad upphovsrätt - EU-anonymt verk"@sv-FI ;
 
-  dcterms:description "This Rights Statement indicates that the Item labeled with this Rights Statement has been identified as an ‘Orphan Work' under the terms of the EU Orphan Works Directive."@en ;
+  dcterms:description "This Rights Statement indicates that the Item labeled with this Rights Statement has been identified as an ‘Orphan Work’ under the terms of the EU Orphan Works Directive."@en ;
   dcterms:description "Dieser Rechtehinweis besagt, dass das damit gekennzeichnete Objekt als „Verwaistes Werk“ im Sinne der Bestimmungen der europäischen Richtlinie zu verwaisten Werken identifiziert wurde."@de ;
-  dcterms:description "Esta Declaración de Derechos indica que el material etiquetado con esta Declaración de Derechos ha sido identificado como ‘obra huérfana' según los términos de la Directiva de Obras Huérfanas de la Unión Europea."@es ;
+  dcterms:description "Esta Declaración de Derechos indica que el material etiquetado con esta Declaración de Derechos ha sido identificado como ‘obra huérfana’ según los términos de la Directiva de Obras Huérfanas de la Unión Europea."@es ;
   dcterms:description "Selle deklaratsiooniga märgistatud objekt on EL orbteoste direktiivi alusel tuvastatud kui „orbteos“."@et ;
   dcterms:description "Tällä käyttöoikeuskuvauksella ilmaistaan, että käyttöoikeuskuvauksella varustettu Kohde on katsottu ns. orpoteokseksi EU:n orpoteosdirektiivin mukaisesti."@fi ;
   dcterms:description "Cette présente Déclaration des Droits indique que l'Objet auquel elle se rapporte a été identifié comme « Œuvre Orpheline» au sens de la Directive Européenne sur les Œuvres Orphelines."@fr ;
