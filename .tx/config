@@ -1,0 +1,7 @@
+[main]
+host = https://www.transifex.com
+
+[rightsstatementsorg.rights-statements_enjson]
+file_filter = rights-statements_<lang>.json
+source_lang = en
+type = KEYVALUEJSON
