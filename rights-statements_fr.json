@@ -1,0 +1,167 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "fr",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@graph": [
+    {
+      "@id": "http://rightsstatements.org/vocab/CNE/1.0/",
+      "description": "La présente Déclaration des Droits indique que l'organisme qui a publié l'Objet n'a pas évalué le statut de l'Objet en ce qui concerne le droit d'auteur et les droits voisins.",
+      "definition": "Le statut de cet Objet en ce qui concerne le droit d'auteur et les droits voisins n'a pas été évalué.\n\n  Pour de plus amples informations, veuillez contacter l'organisme qui a rendu l'Objet accessible.\n\n  Vous avez le droit d'utiliser l'Objet de toutes les manières autorisées par la législation sur le droit d'auteur et les droits voisins applicable à votre utilisation.",
+      "note": [
+        "Sauf mention expresse contraire, l'organisme qui a rendu cet Objet accessible ne donne aucune garantie concernant ce dernier ni ne garantit l'exactitude de la présente Déclaration des Droits. Vous êtes responsable de votre propre utilisation.",
+        "Il est possible que l'utilisation que vous envisagez requière des autorisations supplémentaires. Il se peut par exemple que d'autres droits, comme les droits de la personnalité ou de la publicité, les droits liés à la protection de la vie privée ou les droits moraux, limitent vos possibilités d'utilisation.",
+        "Il est possible que vous trouviez, sur le site Web de l'organisme ayant rendu l'Objet accessible, des informations supplémentaires concernant la protection de l'Objet par le droit d'auteur."
+      ],
+      "prefLabel": "Droit d'auteur non évalué",
+      "scopeNote": "Cette Déclaration des Droits devrait être utilisée pour les Objets dont le statut en matière de droit d'auteur est inconnu et pour lesquels l'organisme qui entend rendre l'Objet accessible n'a pas pris de mesures pour déterminer le statut de l'œuvre sous-jacente au vu du droit d'auteur."
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/InC-EDU/1.0/",
+      "description": "La présente Déclaration des Droits indique que l'Objet auquel elle se rapporte est protégé par le droit d'auteur, mais que son utilisation à des fins pédagogiques est permise sans requérir d'autorisation supplémentaire.",
+      "definition": "Cet Objet est protégé par le droit d'auteur et/ou les droits voisins.\n\n  Vous avez le droit d'utiliser l'Objet de toutes les manières autorisées par la législation sur le droit d'auteur et les droits voisins applicable à votre utilisation. En outre, l'utilisation à des fins pédagogiques est autorisée sans l'autorisation du/des titulaire(s) des droits.\n\n  Les autres utilisations requièrent l'autorisation du/des titulaire(s) des droits.",
+      "note": [
+        "Sauf mention expresse contraire, l'organisme qui a rendu cet Objet accessible ne donne aucune garantie concernant ce dernier ni ne garantit l'exactitude de la présente Déclaration des Droits. Vous êtes responsable de votre propre utilisation.",
+        "Il est possible que l'utilisation que vous envisagez requière des autorisations supplémentaires. Il se peut par exemple que d'autres droits, comme les droits de la personnalité ou de la publicité, les droits liés à la protection de la vie privée ou les droits moraux, limitent vos possibilités d'utilisation.",
+        "Il est possible que vous trouviez, sur le site Web de l'organisme ayant rendu l'Objet accessible, des informations supplémentaires concernant la protection de l'Objet par le droit d'auteur."
+      ],
+      "prefLabel": "Protégé par le droit d'auteur - Utilisation à des fins pédagogiques autorisée",
+      "scopeNote": "La présente Déclaration des Droits peut uniquement être utilisée pour les Objets protégés par le droit d'auteur. De plus, l'organisme qui les rend accessibles doit être titulaire des droits ou avoir été explicitement autorisé par le(s) titulaire(s) des droits à permettre à des tiers d'utiliser son/ses/leur(s) œuvre(s) à des fins pédagogiques sans autorisation préalable."
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/",
+      "description": "Cette Déclaration des Droits indique que l'Objet auquel elle se rapporte est protégé par le droit d'auteur, mais que son utilisation à des fins non commerciales est permise sans requérir d'autorisation supplémentaire",
+      "definition": "Cet Objet est protégé par le droit d'auteur et/ou les droits voisins.\n\n  Vous avez le droit d'utiliser l'Objet de toutes les manières autorisées par la législation sur le droit d'auteur et les droits voisins applicable à votre utilisation. De plus, l'utilisation à des fins non commerciales est accordée de plein droit.\n\n  Les autres utilisations requièrent l'autorisation du/des titulaire(s) des droits.",
+      "note": [
+        "Sauf mention expresse contraire, l'organisme qui a rendu cet Objet accessible ne donne aucune garantie concernant ce dernier ni ne garantit l'exactitude de la présente Déclaration des Droits. Vous êtes responsable de votre propre utilisation.",
+        "Il est possible que l'utilisation que vous envisagez requière des autorisations supplémentaires. Il se peut, par exemple, que d'autres droits, comme les droits de la personnalité ou de la publicité, les droits liés à la protection de la vie privée ou les droits moraux, limitent vos possibilités d'utilisation.",
+        "Il est possible que vous trouviez, sur le site Web de l'organisme ayant rendu l'Objet accessible, des informations supplémentaires concernant la protection de l'objet par le droit d'auteur."
+      ],
+      "prefLabel": "Protégé par le droit d'auteur - Utilisation non commerciale autorisée",
+      "scopeNote": "La présente Déclaration des Droits peut uniquement être utilisée pour les Objets protégés par le droit d'auteur. De plus, l'organisme qui les rend accessibles doit être titulaire des droits ou avoir été explicitement autorisé par le(s) titulaire(s) des droits à permettre à des tiers d'utiliser son/ses/leur(s) œuvre(s) à des fins pédagogiques sans autorisation préalable."
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/InC-OW-EU/1.0/",
+      "description": "Cette présente Déclaration des Droits indique que l'Objet auquel elle se rapporte a été identifié comme « Œuvre Orpheline» au sens de la Directive Européenne sur les Œuvres Orphelines.",
+      "definition": "Cet Objet a été identifié comme Œuvre Orpheline dans le pays de première publication, conformément à la Directive 2012/28/UE du Parlement Européen et du Conseil du 25 octobre 2012 sur certaines utilisations autorisées des Œuvres Orphelines.\n\n  Pour cet Objet, soit (a) aucun titulaire des droits n'a été identifié, soit (b) un ou plusieurs titulaires des droits ont été identifiés, mais aucun n'a pu être localisé, malgré une recherche diligente du/des titulaire(s) des droits. Les résultats de la recherche diligente sont disponibles dans la Base de données des Œuvres Orphelines de l'UE.\n\n  Vous avez le droit d'utiliser l'Objet de toutes les manières autorisées par la législation sur le droit d'auteur et les droits voisins applicable à votre utilisation.",
+      "note": [
+        "Sauf mention expresse contraire, l'organisme qui a rendu cet Objet accessible ne donne aucune garantie concernant ce dernier ni ne garantit l'exactitude de la présente Déclaration des Droits. Vous êtes responsable de votre propre utilisation.",
+        "Il est possible que l'utilisation que vous envisagez requière des autorisations supplémentaires. Il se peut par exemple que d'autres droits, comme les droits de la personnalité ou de la publicité, les droits liés à la protection de la vie privée ou les droits moraux, limitent vos possibilités d'utilisation.",
+        "Il est possible que vous trouviez des informations supplémentaires concernant la protection de l'Objet par le droit d'auteur sur le site Web de l'organisme qui a rendu l'Objet accessible.",
+        "Si vous disposez d'informations susceptibles de contribuer à l'identification ou à la localisation du/des titulaire(s) des droits, veuillez en informer l'organisme qui a rendu l'Objet accessible."
+      ],
+      "prefLabel": "Protégé par le droit d'auteur - Œuvre Orpheline de l'UE",
+      "scopeNote": "La présente Déclaration des Droits est destinée à être utilisée pour les Objets dont l'œuvre sous-jacente a été identifiée comme Œuvre Orpheline, conformément à la Directive 2012/28/UE du Parlement Européen et du Conseil du 25 octobre 2012 sur certaines utilisations autorisées des Oeuvres Orphelines. Elle ne peut être utilisée que pour des Objets dérivés d'Oeuvres couvertes par la Directive : il peut s'agir d'Oeuvres publiées sous forme de livres, de revues, de journaux, de magazines ou d'autres écrits, d'œuvres cinématographiques ou audiovisuelles et de phonogrammes (attention : la photographie et les arts visuels sont exclus). Cette Déclaration peut uniquement être utilisée par des organismes bénéficiaires de la Directive : les bibliothèques, les établissements d'enseignement et les musées accessibles au public, les archives, les institutions dépositaires du patrimoine cinématographique ou sonore et les organismes de radiodiffusion de service public, établis dans l'un des États membres de l'UE. En outre, le bénéficiaire doit avoir enregistré l'Oeuvre dans la Base de données des Œuvres Orphelines de l'UE gérée par l'EUIPO."
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/InC-RUU/1.0/",
+      "description": "Cette Déclaration des Droits indique que l'Objet auquel elle se rapporte a été identifié comme étant protégé par le droit d'auteur, mais que le(s) titulaire(s) des droits y afférents soit ne peut/peuvent pas être identifié(s), soit ne peut/peuvent pas être localisé(s).",
+      "definition": "Cet Objet est protégé par le droit d'auteur et/ou les droits voisins. Toutefois, pour cet Objet, soit (a) aucun titulaire des droits n'a été identifié, soit (b) un ou plusieurs titulaires des droits a/ont été identifié(s), mais aucun n'a pu être localisé.\n\n  Vous avez le droit d'utiliser l'Objet de toutes les manières autorisées par la législation sur le droit d'auteur et les droits voisins applicable à votre utilisation.",
+      "note": [
+        "Sauf mention expresse contraire, l'organisme qui a rendu cet Objet accessible ne donne aucune garantie concernant ce dernier ni ne garantit l'exactitude de la présente Déclaration des Droits. Vous êtes responsable de votre propre utilisation.",
+        "Il est possible que l'utilisation que vous envisagez requière des autorisations supplémentaires. Il se peut par exemple que d'autres droits, comme les droits de la personnalité ou de la publicité, les droits liés à la protection de la vie privée ou les droits moraux, limitent vos possibilités d'utilisation.",
+        "Il est possible que vous trouviez, sur le site Web de l'organisme ayant rendu l'Objet accessible, des informations supplémentaires concernant la protection de l'Objet par le droit d'auteur.",
+        "Si vous disposez d'informations susceptibles de contribuer à l'identification ou à la localisation du/des titulaire(s) des droits, veuillez en informer l'organisme qui a rendu l'Objet accessible."
+      ],
+      "prefLabel": "Protégé par le droit d'auteur - Titulaire(s) des droits impossible(s) à localiser ou à identifier",
+      "scopeNote": "La présente Déclaration des Droits est destinée à être utilisée pour un Objet identifié comme étant protégé par le droit d'auteur, mais pour lequel aucun titulaire des droits n'a pu être identifié ou localisé au terme de recherches raisonnables. La présente Déclaration des Droits ne doit être utilisée que si l'organisme envisageant de rendre l'Objet accessible a la certitude raisonnable que l'Oeuvre sous-jacente est protégée par le droit d'auteur. Cette Déclaration des Droits n'est pas destinée à être utilisée par les organismes basés dans l'UE qui ont identifié des Oeuvres comme étant des Oeuvres Orphelines conformément à la Directive Européenne sur les Oeuvres Orphelines (elles doivent plutôt utiliser la Déclaration InC-OW-EU)."
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/InC/1.0/",
+      "description": "Cette Déclaration des Droits indique que l'Objet auquel elle se rapporte est protégé par le droit d'auteur.",
+      "definition": "Cet Objet est protégé par le droit d'auteur et/ou les droits voisins.\n\n  Vous avez le droit d'utiliser l'Objet de toutes les manières autorisées par la législation sur le droit d'auteur et les droits voisins applicable à votre utilisation.\n\n  Les autres utilisations requièrent l'autorisation du/des titulaire(s) des droits.",
+      "note": [
+        "Sauf mention expresse contraire, l'organisme qui a rendu cet Objet accessible ne donne aucune garantie concernant cet Objet, ni ne garantit l'exactitude de la présente Déclaration des Droits. Vous êtes responsable de votre propre utilisation.",
+        "Il est possible que l'utilisation que vous envisagez requière des autorisations supplémentaires. Il se peut par exemple que d'autres droits, comme les droits de la personnalité ou de la publicité, les droits liés à la protection de la vie privée ou les droits moraux, limitent vos possibilités d'utilisation.",
+        "Il est possible que vous trouviez des informations supplémentaires concernant la protection de l'Objet par le droit d'auteur sur le site Web de l'organisme qui a rendu l'Objet accessible."
+      ],
+      "prefLabel": "Protégé par le droit d'auteur",
+      "scopeNote": "La présente Déclaration des Droits peut être utilisée pour un Objet protégé par le droit d'auteur. L'utilisation de la présente Déclaration implique que l'organisme qui rend l'Objet accessible ait constaté que celui-ci est protégé par le droit d'auteur et que, soit il est le titulaire des droits sur l'Objet, soit il a obtenu du/des titulaire(s) des droits l'autorisation de rendre accessible(s) son/ses/leur(s) œuvre(s) ou alors il rend l'Objet accessible en vertu d'une exception ou d'une limitation au droit d'auteur (y compris le “Fair use”) qui l'autorise à rendre l'Objet accessible."
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/NKC/1.0/",
+      "description": "La présente Déclaration des Droits indique que l'organisme qui a publié l'Objet est d'avis que l'Objet n'est pas protégé par le droit d'auteur ou les droits voisins, mais que l'absence d'une telle protection n'a pas été constatée de manière définitive.",
+      "definition": "L'organisme qui a rendu l'Objet accessible a des motifs raisonnables de croire que l'Objet n'est pas soumis à des restrictions liées au droit d'auteur ou à des droits voisins, sans pour autant l'avoir constaté de manière définitive.\n\n  Pour de plus amples informations, veuillez contacter l'organisme qui a rendu l'Objet accessible.\n\n  Vous avez le droit d'utiliser l'Objet de n'importe quelle manière autorisée par la législation sur le droit d'auteur et les droits voisins applicable à votre utilisation.",
+      "note": [
+        "Sauf mention expresse contraire, l'organisme qui a rendu cet Objet accessible ne donne aucune garantie concernant ce dernier ni ne garantit l'exactitude de la présente Déclaration des Droits. Vous êtes responsable de votre propre utilisation.",
+        "Il est possible que l'utilisation que vous envisagez requière des autorisations supplémentaires. Il se peut, par exemple, que d'autres droits, comme les droits de la personnalité ou de la publicité, les droits liés à la protection de la vie privée ou les droits moraux, limitent vos possibilités d'utilisation.",
+        "Il est possible que vous trouviez, sur le site Web de l'organisme ayant rendu l'Objet accessible, des informations supplémentaires concernant la protection de l'Objet par le droit d'auteur."
+      ],
+      "prefLabel": "Absence de protection connue par le droit d'auteur",
+      "scopeNote": "Cette Déclaration des Droits doit être utilisée pour les Objets dont le statut en matière de droit d'auteur n'a pas été déterminé de manière définitive, mais pour lesquels l'organisme qui entend rendre l'Objet accessible a des motifs raisonnables de croire que l'Oeuvre sous-jacente n'est plus couverte par le droit d'auteur ou des droits voisins. La présente Déclaration des Droits ne doit pas être utilisée pour les Œuvres Orphelines (qui sont présumées être protégées par le droit d'auteur) ou pour les Objets pour lesquels l'organisme qui entend rendre accessible l'Objet n'a pas pris de mesures pour déterminer le statut de l'œuvre sous-jacente en ce qui concerne le droit d'auteur."
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/NoC-CR/1.0/",
+      "description": "La présente Déclaration des Droits indique que l'Oeuvre sous-jacente est dans le Domaine Public, mais que l'organisme qui a publié l'Objet est contractuellement tenu d'imposer des restrictions à certains types d'utilisations faites par des tiers.",
+      "definition": "L'utilisation de cet Objet n'est pas limitée par le droit d'auteur et/ou les droits voisins.\n\n  Dans le cadre de l'acquisition ou de la numérisation de cette Oeuvre, l'organisme qui a rendu l'Objet accessible a été contractuellement obligé de limiter l'utilisation de cet Objet. Les restrictions peuvent être liées entre autres à la protection de la vie privée, à la protection des biens culturels, à des accords de numérisation ou à des accords conclus avec des donateurs.\n\n  Pour de plus amples informations, veuillez contacter l'organisme qui a rendu l'Objet accessible.",
+      "note": [
+        "Sauf mention expresse contraire, l'organisme qui a rendu cet Objet accessible ne donne aucune garantie concernant ce dernier ni ne garantit l'exactitude de la présente Déclaration des Droits. Vous êtes responsable de votre propre utilisation.",
+        "Il est possible que l'utilisation que vous envisagez requière des autorisations supplémentaires. Il se peut, par exemple, que d'autres droits, comme les droits de la personnalité ou de la publicité, les droits liés à la protection de la vie privée ou les droits moraux, limitent vos possibilités d'utilisation.",
+        "Il est possible que vous trouviez, sur le site Web de l'organisme ayant rendu l'Objet accessible, des informations supplémentaires concernant la protection de l'Objet par le droit d'auteur."
+      ],
+      "prefLabel": "Absence de protection par le droit d'auteur - Restrictions contractuelles",
+      "scopeNote": "L'utilisation de cette Déclaration des Droits est limitée aux objets qui sont dans le Domaine Public, mais pour lesquels l'organisme qui entend rendre l'Objet accessible a conclu une convention qui l'oblige à imposer des restrictions quant à l'utilisation de l'Objet par des tiers. Pour que la présente Déclaration des Droits soit probante, l'organisme qui entend rendre l'Objet accessible doit fournir un lien vers une page spécifiant les restrictions contractuelles applicables à l'utilisation de l'Objet."
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/",
+      "description": "La présente Déclaration des Droits indique que l'Oeuvre sous-jacente est dans le Domaine Public, mais que l'organisme qui a publié l'Objet est contractuellement tenu d'autoriser uniquement l'utilisation par des tiers à des fins non commerciales.",
+      "definition": "Cette Oeuvre a été numérisée en partenariat public-privé. Dans le cadre de ce partenariat, les parties contractantes ont convenu de limiter les utilisations commerciales de cette représentation numérique de l'Oeuvre par des tiers.\n\n  Vous pouvez, sans autorisation, copier, modifier, distribuer, exposer ou représenter l'Objet à des fins non commerciales. Pour toutes autres utilisations permises, veuillez examiner les conditions générales de l'organisme qui a rendu l'Objet accessible.",
+      "note": [
+        "Sauf mention expresse contraire, l'organisme qui a rendu cet Objet accessible ne donne aucune garantie concernant ce dernier ni ne garantit l'exactitude de la présente Déclaration des Droits. Vous êtes responsable de votre propre utilisation.",
+        "Il est possible que l'utilisation que vous envisagez requière des autorisations supplémentaires. Il se peut, par exemple, que d'autres droits, comme les droits de la personnalité ou de la publicité, les droits liés à la protection de la vie privée ou les droits moraux, limitent vos possibilités d'utilisation.",
+        "Il est possible que vous trouviez, sur le site Web de l'organisme ayant rendu l'Objet accessible, des informations supplémentaires concernant la protection de l'Objet par le droit d'auteur."
+      ],
+      "prefLabel": "Absence de protection par le droit d'auteur - Utilisation à des fins uniquement non commerciales",
+      "scopeNote": "L'utilisation de cette Déclaration des Droits est limitée aux œuvres qui sont dans le Domaine Public et qui ont été numérisées au sein d'un partenariat public-privé dans le cadre duquel les parties contractantes ont convenu de limiter les utilisations commerciales de cette représentation numérique de l'Oeuvre par des tiers. Spécialement élaborée afin de pouvoir inclure les œuvres numérisées dans le cadre des partenariats existant entre des bibliothèques européennes et Google, elle peut théoriquement être utilisée pour des Objets qui ont été numérisés dans le cadre de partenariats public-privé similaires."
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/NoC-OKLR/1.0/",
+      "description": "La présente Déclaration des Droits indique que l'œuvre sous-jacente est dans le Domaine Public, mais qu'il existe, en matière d'utilisation de l'Objet par des tiers, des restrictions connues découlant de dispositions légales autres que le droit d'auteur et/ou les droits voisins.",
+      "definition": "L'utilisation de cet Objet n'est pas limitée par le droit d'auteur et/ou les droits voisins.\n\n  Dans un ou plusieurs systèmes juridiques, des dispositions légales autres que le droit d'auteur ou les droits voisins imposent des restrictions à l'utilisation de cet Objet.\n\n  Pour de plus amples informations, veuillez contacter l'organisme qui a rendu l'Objet accessible.",
+      "note": [
+        "Sauf mention expresse contraire, l'organisme qui a rendu cet Objet accessible ne donne aucune garantie concernant ce dernier ni ne garantit l'exactitude de la présente Déclaration des Droits. Vous êtes responsable de votre propre utilisation.",
+        "Il est possible que l'utilisation que vous envisagez requière des autorisations supplémentaires. Il se peut, par exemple, que d'autres droits, comme les droits de la personnalité ou de la publicité, les droits liés à la protection de la vie privée ou les droits moraux, limitent vos possibilités d'utilisation.",
+        "Il est possible que vous trouviez, sur le site Web de l'organisme ayant rendu l'Objet accessible, des informations supplémentaires concernant la protection de l'Objet par le droit d'auteur."
+      ],
+      "prefLabel": "Absence de protection par le droit d'auteur - Autres restrictions juridiques connues",
+      "scopeNote": "Cette Déclaration des Droits devrait être utilisée pour les Objets qui sont dans le Domaine Public, mais dont la libre réutilisation est soumise à des restrictions juridiques connues, liées par exemple à la protection du patrimoine culturel ou des expressions culturelles traditionnelles. Ainsi, l'organisme qui entend rendre l'Objet accessible ne pourra pas autoriser sa libre réutilisation. Pour que la présente Déclaration des Droits soit probante, l'organisme qui entend rendre l'Objet accessible doit fournir un lien vers une page spécifiant les restrictions juridiques limitant la réutilisation de l'Objet."
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+      "description": "La présente Déclaration des Droits indique que, bien que l'Objet soit dans le Domaine Public en vertu de la législation des États-Unis, son statut en matière de droit d'auteur n'a pas été déterminé sous les législations d'autres pays.",
+      "definition": "L'organisme qui a rendu l'Objet accessible est d'avis que, selon la législation des États-Unis, l'Objet est dans le Domaine Public ; toutefois, il n'y a pas de décision sur le fait de savoir s'il est protégé par le droit d'auteur dans d'autres pays. Il est possible que, selon la législation d'autres pays, l'Objet ne soit pas dans le Domaine Public.\n\n  Pour de plus amples informations, veuillez contacter l'organisme qui a rendu l'Objet accessible.",
+      "note": [
+        "Sauf mention expresse contraire, l'organisme qui a rendu cet Objet accessible ne donne aucune garantie concernant ce dernier ni ne garantit l'exactitude de la présente Déclaration des Droits. Vous êtes vous-même responsable de votre propre utilisation.",
+        "Il est possible que l'utilisation que vous envisagez requière des autorisations supplémentaires. Il se peut par exemple que d'autres droits, comme les droits de la personnalité ou de la publicité, les droits liés à la protection de la vie privée ou les droits moraux, limitent vos possibilités d'utilisation.",
+        "Il est possible que vous trouviez, sur le site Web de l'organisme ayant rendu l'Objet accessible, des informations supplémentaires concernant la protection de l'Objet par le droit d'auteur."
+      ],
+      "prefLabel": "Absence de protection par le droit d'auteur - États-Unis",
+      "scopeNote": "Cette Déclaration des Droits devrait être utilisée pour les Objets pour lesquels l'organisme qui entend rendre l'Objet accessible a conclu qu'ils étaient libres de droits selon la législation des États-Unis. La présente Déclaration des Droits ne devrait pas être utilisée pour les Œuvres Orphelines (qui sont présumées être protégées par le droit d'auteur) ou pour les objets pour lesquels l'organisme qui entend rendre accessible l'Objet n'a pas pris de mesures pour déterminer le statut de l'œuvre sous-jacente au vu du droit d'auteur."
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/UND/1.0/",
+      "description": "La présente Déclaration des Droits indique que l'organisme qui a rendu l'Objet accessible, bien qu'il en ait fait l'examen, n'a pas été en mesure de déterminer le statut de l'Objet en ce qui concerne le droit d'auteur et les droits voisins.",
+      "definition": "L'organisme qui a rendu l'Objet accessible a examiné le statut de l'Objet en ce qui concerne le droit d'auteur et les droits voisins. Toutefois, l'organisme n'était pas en mesure de déterminer de manière définitive le statut de l'Objet au vu du droit d'auteur.\n\n  Pour de plus amples informations, veuillez contacter l'organisme qui a rendu l'Objet accessible.\n\n  Vous avez le droit d'utiliser l'Objet de toutes les manières autorisées par la législation sur le droit d'auteur et les droits voisins applicable à votre utilisation.",
+      "note": [
+        "Sauf mention expresse contraire, l'organisme qui a rendu cet Objet accessible ne donne aucune garantie concernant ce dernier ni ne garantit l'exactitude de la présente Déclaration des Droits. Vous êtes responsable de votre propre utilisation.",
+        "Il est possible que l'utilisation que vous envisagez requière des autorisations supplémentaires. Il se peut, par exemple, que d'autres droits, comme les droits de la personnalité ou de la publicité, les droits liés à la protection de la vie privée ou les droits moraux, limitent vos possibilités d'utilisation.",
+        "Il est possible que vous trouviez, sur le site Web de l'organisme ayant rendu l'Objet accessible, des informations supplémentaires concernant la protection de l'Objet par le droit d'auteur."
+      ],
+      "prefLabel": "Droit d'auteur indéterminé",
+      "scopeNote": "Cette Déclaration des Droits doit être utilisée pour les Objets dont le statut en matière de droit d'auteur est inconnu et pour lesquels l'organisme qui a rendu l'Objet accessible a pris des mesures (infructueuses) pour déterminer le statut de l'Oeuvre sous-jacente au vu du droit d'auteur. En règle générale, cette Déclaration des Droits est utilisée lorsque l'organisme n'a pas connaissance de tous les éléments-clés nécessaires pour déterminer avec précision le statut de l'Objet en matière de droit d'auteur."
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/collection-ic/1.0/",
+      "prefLabel": "Déclarations destinées aux œuvres protégées par le droit d'auteur"
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/collection-nc/1.0/",
+      "prefLabel": "Déclarations destinées aux œuvres non protégées par le droit d'auteur"
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/collection-other/1.0/",
+      "prefLabel": "Déclarations destinées aux œuvres dont le statut en matière de droit d'auteur n'est pas clair."
+    }
+  ]
+}

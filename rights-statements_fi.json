@@ -1,0 +1,167 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "fi",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@graph": [
+    {
+      "@id": "http://rightsstatements.org/vocab/CNE/1.0/",
+      "description": "Tällä käyttöoikeuskuvauksella ilmaistaan, että Kohteen julkaissut organisaatio ei ole arvioinut kohteen tekijänoikeudellista ja lähioikeusstatusta.",
+      "definition": "Tämän Kohteen tekijänoikeudellista ja lähioikeusstatusta ei ole arvioitu.\n\n  Lisätietoja voit saada ottamalla yhteyttä Kohteen saataville saattaneeseen organisaatioon.\n\n  Voit käyttää Kohdetta käyttöösi sovellettavan tekijänoikeutta ja lähioikeuksia koskevan lainsäädännön sallimilla tavoilla.",
+      "note": [
+        "Ellei erikseen ole muuta nimenomaisesti ilmoitettu, tämän Kohteen saataville saattanut organisaatio ei anna mitään Kohdetta koskevaa takuuta eikä voi taata tämän Käyttöoikeuskuvauksen virheettömyyttä. Olet vastuussa omasta käytöstäsi.",
+        "Saatat tarvita muita lupia aikomaasi käyttöä varten. Esimerkiksi moraaliset oikeudet, yksityisyyden suojaa koskevat oikeudet taikka henkilön oikeudet määrätä kuvansa tai henkilönsä tunnistettavan osan kaupallisesta käytöstä voivat rajoittaa aineiston käyttöä.",
+        "Lisätietoja Kohteen tekijänoikeudellisesta statuksesta voi olla saatavissa Kohteen saataville saattaneen organisaation verkkosivuilta."
+      ],
+      "prefLabel": "Tekijänoikeusstatusta ei arvioitu",
+      "scopeNote": "Tätä käyttöoikeuskuvausta tulisi käyttää Kohteille, joiden tekijänoikeudellinen status on tuntematon, eikä organisaatio, joka aikoo saattaa Kohteen saataville, ole yrittänyt määrittää sitä."
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/InC-EDU/1.0/",
+      "description": "Tällä käyttöoikeuskuvauksella ilmaistaan, että käyttöoikeuskuvauksella varustettu Kohde kuuluu tekijänoikeuden piiriin, mutta sitä saa käyttää opetustoiminnassa ilman erillistä lupaa.",
+      "definition": "Tämä Kohde on tekijänoikeuden ja/tai lähioikeuksien suojaama.\n\n  Voit käyttää Kohdetta käyttöösi sovellettavan tekijänoikeutta ja lähioikeuksia koskevan lainsäädännön sallimilla tavoilla. Käyttöön opetustoiminnassa ei kuitenkaan tarvita oikeudenhaltijoiden lupaa.\n\n  Muunlaista käyttöä varten tarvitset oikeudenhaltijoiden luvan.",
+      "note": [
+        "Ellei erikseen ole muuta nimenomaisesti ilmoitettu, tämän Kohteen saataville saattanut organisaatio ei anna mitään Kohdetta koskevaa takuuta eikä voi taata tämän käyttöoikeuskuvauksen virheettömyyttä. Olet vastuussa omasta käytöstäsi.",
+        "Saatat tarvita muita lupia aikomaasi käyttöä varten. Esimerkiksi moraaliset oikeudet, yksityisyyden suojaa koskevat oikeudet taikka henkilön oikeudet määrätä kuvansa tai henkilönsä tunnistettavan osan kaupallisesta käytöstä voivat rajoittaa aineiston käyttöä.",
+        "Lisätietoja Kohteen tekijänoikeudellisesta statuksesta voi olla saatavissa Kohteen saataville saattaneen organisaation verkkosivuilta."
+      ],
+      "prefLabel": "Tekijänoikeuden piirissä - käyttö opetustoiminnassa sallittu",
+      "scopeNote": "Tätä käyttöoikeuskuvausta voidaan käyttää ainoastaan tekijänoikeuden suojaamiin Kohteisiin silloin, kun kohteen saataville saattava organisaatio on oikeudenhaltija, tai kun oikeudenhaltija tai -haltijat ovat nimenomaisesti valtuuttaneet sen sallimaan kolmansien osapuolten käyttää teostaan tai teoksiaan opetustoiminnassa ilman erillistä lupaa."
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/",
+      "description": "Tällä käyttöoikeuskuvauksella ilmaistaan, että käyttöoikeuskuvauksella varustettu Kohde kuuluu tekijänoikeuden piiriin, mutta sitä saa käyttää ei-kaupallisissa tarkoituksissa ilman erillistä lupaa.",
+      "definition": "Tämä Kohde on tekijänoikeuden ja/tai lähioikeuksien suojaama.\n\n  Voit käyttää Kohdetta käyttöösi sovellettavan tekijänoikeutta ja lähioikeuksia koskevan lainsäädännön sallimilla tavoilla. Ei-kaupalliseen käyttöön ei kuitenkaan tarvita oikeudenhaltijoiden lupaa.\n\n  Muunlaista käyttöä varten tarvitset oikeudenhaltijoiden luvan.",
+      "note": [
+        "Ellei erikseen ole muuta nimenomaisesti ilmoitettu, tämän Kohteen saataville saattanut organisaatio ei anna mitään Kohdetta koskevaa takuuta eikä voi taata tämän käyttöoikeuskuvauksen virheettömyyttä. Olet vastuussa omasta käytöstäsi.",
+        "Saatat tarvita muita lupia aikomaasi käyttöä varten. Esimerkiksi moraaliset oikeudet, yksityisyyden suojaa koskevat oikeudet taikka henkilön oikeudet määrätä kuvansa tai henkilönsä tunnistettavan osan kaupallisesta käytöstä voivat rajoittaa aineiston käyttöä.",
+        "Lisätietoja Kohteen tekijänoikeudellisesta statuksesta voi olla saatavissa Kohteen saataville saattaneen organisaation verkkosivuilta."
+      ],
+      "prefLabel": "Tekijänoikeuden piirissä - ei-kaupallinen käyttö sallittu",
+      "scopeNote": "Tätä käyttöoikeuskuvausta voidaan käyttää ainoastaan tekijänoikeuden suojaamiin Kohteisiin silloin, kun Kohteen saataville saattava organisaatio on oikeudenhaltija, tai kun oikeudenhaltija tai -haltijat ovat nimenomaisesti valtuuttaneet sen sallimaan kolmansien osapuolten käyttää teostaan tai teoksiaan ei-kaupallisissa tarkoituksissa ilman erillistä lupaa."
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/InC-OW-EU/1.0/",
+      "description": "Tällä käyttöoikeuskuvauksella ilmaistaan, että käyttöoikeuskuvauksella varustettu Kohde on katsottu ns. orpoteokseksi EU:n orpoteosdirektiivin mukaisesti.",
+      "definition": "Tämä Kohde on orpoteosten tietyistä sallituista käyttötarkoituksista 25. päivänä lokakuuta 2012 annetun Euroopan parlamentin ja neuvoston direktiivin 2012/28/EU mukaisesti katsottu orpoteokseksi siinä valtiossa, jossa teos on julkaistu ensimmäisen kerran.\n\n  Tämän Kohteen osalta joko (a) ainuttakaan oikeudenhaltijaa ei ole tunnistettu tai (b) yksi tai useampi oikeudenhaltija on tunnistettu, mutta yhtään niistä ei ole paikannettu, vaikka oikeudenhaltijoita koskeva huolellinen oikeuksien selvitys on tehty. Huolellisen oikeuksien selvityksen tulokset ovat saatavilla EU:n orpoteostietokannassa.\n\n  Voit käyttää Kohdetta käyttöösi sovellettavan tekijänoikeutta ja lähioikeuksia koskevan lainsäädännön sallimilla tavoilla.",
+      "note": [
+        "Ellei erikseen ole muuta nimenomaisesti ilmoitettu, tämän Kohteen saataville saattanut organisaatio ei anna mitään Kohdetta koskevaa takuuta eikä voi taata tämän käyttöoikeuskuvauksen virheettömyyttä. Olet vastuussa omasta käytöstäsi.",
+        "Saatat tarvita muita lupia aikomaasi käyttöä varten. Esimerkiksi moraaliset oikeudet, yksityisyyden suojaa koskevat oikeudet taikka henkilön oikeudet määrätä kuvansa tai henkilönsä tunnistettavan osan kaupallisesta käytöstä voivat rajoittaa aineiston käyttöä.",
+        "Lisätietoja Kohteen tekijänoikeudellisesta statuksesta voi olla saatavissa Kohteen saataville saattaneen organisaation verkkosivuilta.",
+        "Jos sinulla on tietoja, jotka voivat auttaa oikeudenhaltijoiden tunnistamisessa tai paikantamisessa, otathan yhteyttä Kohteen saataville saattaneeseen organisaatioon."
+      ],
+      "prefLabel": "Tekijänoikeuden piirissä - EU-orpoteos",
+      "scopeNote": "Tämä käyttöoikeuskuvaus on tarkoitettu Kohteille, joihin liittyvä teos on katsottu orpoteokseksi orpoteosten tietyistä sallituista käyttötarkoituksista 25. päivänä lokakuuta 2012 annetun Euroopan parlamentin ja neuvoston direktiivin 2012/28/EU mukaisesti. Kuvausta voidaan käyttää vain Kohteisiin, jotka perustuvat direktiivin soveltamisalaan kuuluviin teoksiin. Tällaisia teoksia ovat kirjojen, aikakausjulkaisujen, sanomalehtien tai muiden kirjoitusten muodossa julkaistut teokset sekä elokuvateokset tai audiovisuaaliset teokset ja äänitteet (huom. ulkopuolelle jäävät valokuva- ja kuvataide). Kuvausta voivat käyttää vain ne tahot, joille direktiivi luo oikeuksia: Euroopan unionin jäsenvaltioon sijoittautuneet yleisölle avoimet kirjastot, oppilaitokset ja museot sekä arkistot, elokuva- ja äänitearkistot ja julkisen palvelun yleisradio-organisaatiot. Tällaisen tahon odotetaan myös rekisteröineen teoksen Euroopan unionin teollisoikeuksien viraston (EUIPO) ylläpitämään EU:n orpoteostietokantaan."
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/InC-RUU/1.0/",
+      "description": "Tällä käyttöoikeuskuvauksella ilmaistaan, että käyttöoikeuskuvauksella varustetun Kohteen on todettu kuuluvan tekijänoikeuden piiriin, mutta sen oikeudenhaltijaa tai -haltijoita ei ole voitu tunnistaa tai paikantaa.",
+      "definition": "Tämä Kohde on tekijänoikeuden ja/tai lähioikeuksien suojaama. Kuitenkin tämän Kohteen osalta joko (a) ainuttakaan oikeudenhaltijaa ei ole tunnistettu tai (b) yksi tai useampi oikeudenhaltija on tunnistettu, mutta yhtään niistä ei ole paikannettu.\n\n  Voit käyttää Kohdetta käyttöösi sovellettavan tekijänoikeutta ja lähioikeuksia koskevan lainsäädännön sallimilla tavoilla.",
+      "note": [
+        "Ellei erikseen ole muuta nimenomaisesti ilmoitettu, tämän Kohteen saataville saattanut organisaatio ei anna mitään Kohdetta koskevaa takuuta eikä voi taata tämän käyttöoikeuskuvauksen virheettömyyttä. Olet vastuussa omasta käytöstäsi.",
+        "Saatat tarvita muita lupia aikomaasi käyttöä varten. Esimerkiksi moraaliset oikeudet, yksityisyyden suojaa koskevat oikeudet taikka henkilön oikeudet määrätä kuvansa tai henkilönsä tunnistettavan osan kaupallisesta käytöstä voivat rajoittaa aineiston käyttöä.",
+        "Lisätietoja Kohteen tekijänoikeudellisesta statuksesta voi olla saatavissa Kohteen saataville saattaneen organisaation verkkosivuilta.",
+        "Jos sinulla on tietoja, jotka voivat auttaa oikeudenhaltijoiden tunnistamisessa tai paikantamisessa, otathan yhteyttä Kohteen saataville saattaneeseen organisaatioon."
+      ],
+      "prefLabel": "Tekijänoikeuden piirissä - oikeudenhaltija(t) paikantamatta tai tunnistamatta",
+      "scopeNote": "Tämä käyttöoikeuskuvaus on tarkoitettu Kohteelle, jonka on katsottu olevan tekijänoikeuden suojaama mutta jonka kohdalla oikeudenhaltijaa tai -haltijoita ei ole kohtuullisten selvitysten jälkeen tunnistettu tai paikannettu. Tätä käyttöoikeuskuvausta tulisi käyttää vain, jos organisaatio, joka aikoo saattaa kohteen saataville, on kohtuullisen varma siitä, että kohteeseen liittyvä teos kuuluu tekijänoikeuden piiriin. Käyttöoikeuskuvausta ei ole tarkoitettu sellaisten Euroopan unioniin sijoittautuneiden organisaatioiden käyttöön, jotka ovat katsoneet teoksen orpoteokseksi EU:n orpoteosdirektiivin mukaisesti (tällaisissa tapauksissa tulisi käyttää käyttöoikeuskuvausta InC-OW-EU)."
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/InC/1.0/",
+      "description": "Tällä käyttöoikeuskuvauksella ilmaistaan, että käyttöoikeuskuvauksella varustettu Kohde kuuluu tekijänoikeuden piiriin.",
+      "definition": "Tämä Kohde on tekijänoikeuden ja/tai lähioikeuksien suojaama.\n\n  Voit käyttää Kohdetta käyttöösi sovellettavan tekijänoikeutta ja lähioikeuksia koskevan lainsäädännön sallimilla tavoilla.\n\n  Muunlaista käyttöä varten tarvitset oikeudenhaltijoiden luvan.",
+      "note": [
+        "Ellei erikseen ole muuta nimenomaisesti ilmoitettu, tämän Kohteen saataville saattanut organisaatio ei anna mitään Kohdetta koskevaa takuuta eikä voi taata tämän käyttöoikeuskuvauksen virheettömyyttä. Olet vastuussa omasta käytöstäsi.",
+        "Saatat tarvita muita lupia aikomaasi käyttöä varten. Esimerkiksi moraaliset oikeudet, yksityisyyden suojaa koskevat oikeudet taikka henkilön oikeudet määrätä kuvansa tai henkilönsä tunnistettavan osan kaupallisesta käytöstä voivat rajoittaa aineiston käyttöä.",
+        "Lisätietoja Kohteen tekijänoikeudellisesta statuksesta voi olla saatavissa Kohteen saataville saattaneen organisaation verkkosivuilta."
+      ],
+      "prefLabel": "Tekijänoikeuden piirissä",
+      "scopeNote": "Tätä käyttöoikeuskuvausta voidaan käyttää Kohteeseen, joka on tekijänoikeuden suojaama. Kuvausta käyttämällä ilmaistaan, että Kohteen saataville saattava organisaatio on todennut kohteen olevan tekijänoikeuden piirissä ja että kyseinen organisaatio saattaa kohteen saataville joko kohteeseen liittyvän teoksen (tai teosten) oikeudenhaltijana, oikeudenhaltijan tai -haltijoiden luvalla taikka perustuen sellaiseen tekijänoikeutta koskevaan poikkeukseen tai rajoitukseen (mukaan lukien “Fair use“), joka antaa sille tähän oikeuden."
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/NKC/1.0/",
+      "description": "Tällä käyttöoikeuskuvauksella ilmaistaan Kohteen julkaisseen organisaation uskovan, ettei Kohde ole tekijänoikeuden tai lähioikeuksien suojaama, mutta varmuudella tätä ei ole kyetty toteamaan.",
+      "definition": "Kohteen saataville saattaneella organisaatiolla on perusteltu syy uskoa, että tekijänoikeus tai lähioikeudet eivät rajoita tämän Kohteen käyttöä, mutta varmuudella tätä ei ole kyetty toteamaan.\n\n  Lisätietoja voit saada ottamalla yhteyttä Kohteen saataville saattaneeseen organisaatioon.\n\n  Voit käyttää Kohdetta käyttöösi sovellettavan tekijänoikeutta ja lähioikeuksia koskevan lainsäädännön sallimilla tavoilla.",
+      "note": [
+        "Ellei erikseen ole muuta nimenomaisesti ilmoitettu, tämän Kohteen saataville saattanut organisaatio ei anna mitään Kohdetta koskevaa takuuta eikä voi taata tämän Käyttöoikeuskuvauksen virheettömyyttä. Olet vastuussa omasta käytöstäsi.",
+        "Saatat tarvita muita lupia aikomaasi käyttöä varten. Esimerkiksi moraaliset oikeudet, yksityisyyden suojaa koskevat oikeudet taikka henkilön oikeudet määrätä kuvansa tai henkilönsä tunnistettavan osan kaupallisesta käytöstä voivat rajoittaa aineiston käyttöä.",
+        "Lisätietoja Kohteen tekijänoikeudellisesta statuksesta voi olla saatavissa Kohteen saataville saattaneen organisaation verkkosivuilta."
+      ],
+      "prefLabel": "Ei tunnettua tekijänoikeutta",
+      "scopeNote": "Tätä käyttöoikeuskuvausta tulisi käyttää Kohteille, joiden tekijänoikeudellista statusta ei ole varmuudella todettu, mutta organisaatiolla, joka aikoo saattaa Kohteen saataville, on perusteltu syy uskoa, että Kohteeseen liittyvä teos ei enää kuulu tekijänoikeuden tai lähioikeuksien piiriin. Käyttöoikeuskuvausta ei tulisi käyttää orpoteoksiin (joiden oletetaan olevan tekijänoikeuden suojaamia) tai teoksiin, joiden osalta organisaatio ei ole yrittänyt varmistaa teoksen tekijänoikeudellista statusta."
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/NoC-CR/1.0/",
+      "description": "Tällä käyttöoikeuskuvauksella ilmaistaan, että Kohteeseen liittyvä teos ei ole tekijänoikeuden suojaama, mutta Kohteen julkaisseen organisaation on sopimussyistä asetettava kolmansille osapuolille rajoituksia koskien kohteen tiettyjä käyttömuotoja.",
+      "definition": "Tekijänoikeus ja/tai lähioikeudet eivät rajoita tämän Kohteen käyttöä.\n\n  Osana Kohteen hankintaa tai digitointia Kohteen saataville saattanut organisaatio on sopimuksen perusteella velvoitettu rajoittamaan Kohteen käyttöä. Rajoitukset voivat liittyä muun muassa yksityisyyden suojaan, kulttuurin suojeluun taikka digitointi- tai lahjoitussopimuksiin.\n\n  Lisätietoja voit saada ottamalla yhteyttä Kohteen saataville saattaneeseen organisaatioon.",
+      "note": [
+        "Ellei erikseen ole muuta nimenomaisesti ilmoitettu, tämän Kohteen saataville saattanut organisaatio ei anna mitään Kohdetta koskevaa takuuta eikä voi taata tämän käyttöoikeuskuvauksen virheettömyyttä. Olet vastuussa omasta käytöstäsi.",
+        "Saatat tarvita muita lupia aikomaasi käyttöä varten. Esimerkiksi moraaliset oikeudet, yksityisyyden suojaa koskevat oikeudet taikka henkilön oikeudet määrätä kuvansa tai henkilönsä tunnistettavan osan kaupallisesta käytöstä voivat rajoittaa aineiston käyttöä.",
+        "Lisätietoja Kohteen tekijänoikeudellisesta statuksesta voi olla saatavissa Kohteen saataville saattaneen organisaation verkkosivuilta."
+      ],
+      "prefLabel": "Ei tekijänoikeutta - sopimuksellisia rajoituksia",
+      "scopeNote": "Tätä käyttöoikeuskuvausta voidaan käyttää ainoastaan sellaisiin Kohteisiin, jotka eivät ole tekijänoikeuden suojaamia mutta joiden osalta organisaatio, joka aikoo saattaa kohteen saataville, on tehnyt sopimuksen, joka velvoittaa sitä rajoittamaan Kohteen käyttöä kolmansien osapuolten toimesta. Organisaation, joka aikoo saattaa Kohteen saataville, tulisi täydentää tätä kuvausta linkillä verkkosivulle, josta Kohteen käyttöä koskevat sopimukselliset rajoitukset ilmenevät."
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/",
+      "description": "Tällä käyttöoikeuskuvauksella ilmaistaan, että Kohteeseen liittyvä teos ei ole tekijänoikeuden suojaama, mutta Kohteen julkaissut organisaatio voi sopimussyistä sallia kolmansille osapuolille ainoastaan Kohteen ei-kaupallisen käytön.",
+      "definition": "Tämä teos on digitoitu julkisen ja yksityisen sektorin kumppanuushankkeen yhteydessä. Osana kumppanuushanketta kumppanit ovat sopineet, että Kohteen digitaalisen esitysmuodon kaupallista käyttöä kolmansien osapuolten toimesta rajoitetaan.\n\n  Ilman lupaa voit kopioida, muokata, levittää, näyttää tai esittää Kohdetta vain ei-kaupallisessa käytössä. Muiden sallittujen käyttötapojen osalta voit tutustua Kohteen saataville saattaneen organisaation ehtoihin.",
+      "note": [
+        "Ellei erikseen ole muuta nimenomaisesti ilmoitettu, tämän Kohteen saataville saattanut organisaatio ei anna mitään Kohdetta koskevaa takuuta eikä voi taata tämän käyttöoikeuskuvauksen virheettömyyttä. Olet vastuussa omasta käytöstäsi.",
+        "Saatat tarvita muita lupia aikomaasi käyttöä varten. Esimerkiksi moraaliset oikeudet, yksityisyyden suojaa koskevat oikeudet taikka henkilön oikeudet määrätä kuvansa tai henkilönsä tunnistettavan osan kaupallisesta käytöstä voivat rajoittaa aineiston käyttöä.",
+        "Lisätietoja Kohteen tekijänoikeudellisesta statuksesta voi olla saatavissa Kohteen saataville saattaneen organisaation verkkosivuilta."
+      ],
+      "prefLabel": "Ei tekijänoikeutta - vain ei-kaupalliseen käyttöön",
+      "scopeNote": "Tätä käyttöoikeuskuvausta voidaan käyttää ainoastaan sellaisiin teoksiin, jotka eivät ole tekijänoikeuden piirissä ja jotka on digitoitu julkisen ja yksityisen sektorin kumppanuushankkeessa, jonka osana kumppanit ovat sopineet rajoittavansa teoksen digitaalisen esitysmuodon kaupallista käyttöä kolmansien osapuolten toimesta. Kuvaus on kehitetty erityisesti Euroopan kirjastojen ja Googlen kumppanuushankkeissa digitoituja teoksia varten, mutta teoriassa sitä voidaan soveltaa myös muissa vastaavissa julkisen ja yksityisen sektorin kumppanuushankkeissa digitoituihin kohteisiin."
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/NoC-OKLR/1.0/",
+      "description": "Tällä käyttöoikeuskuvauksella ilmaistaan, että Kohteeseen liittyvä teos ei ole tekijänoikeuden suojaama, mutta muun kuin tekijänoikeutta ja/tai lähioikeuksia koskevan lainsäädännön tiedetään rajoittavan kolmansien osapuolten oikeutta käyttää kohdetta.",
+      "definition": "Tekijänoikeus ja/tai lähioikeudet eivät rajoita tämän Kohteen käyttöä.\n\n  Kuitenkin yhdellä tai useammalla lainkäyttöalueella muun kuin tekijänoikeutta koskevan lainsäädännön tiedetään rajoittavan Kohteen käyttöä.\n\n  Lisätietoja voit saada ottamalla yhteyttä Kohteen saataville saattaneeseen organisaatioon.",
+      "note": [
+        "Ellei erikseen ole muuta nimenomaisesti ilmoitettu, tämän Kohteen saataville saattanut organisaatio ei anna mitään Kohdetta koskevaa takuuta eikä voi taata tämän Käyttöoikeuskuvauksen virheettömyyttä. Olet vastuussa omasta käytöstäsi.",
+        "Saatat tarvita muita lupia aikomaasi käyttöä varten. Esimerkiksi moraaliset oikeudet, yksityisyyden suojaa koskevat oikeudet taikka henkilön oikeudet määrätä kuvansa tai henkilönsä tunnistettavan osan kaupallisesta käytöstä voivat rajoittaa aineiston käyttöä.",
+        "Lisätietoja Kohteen tekijänoikeudellisesta statuksesta voi olla saatavissa Kohteen saataville saattaneen organisaation verkkosivuilta."
+      ],
+      "prefLabel": "Ei tekijänoikeutta - muita tunnettuja oikeudellisia rajoituksia",
+      "scopeNote": "Tätä käyttöoikeuskuvausta tulisi käyttää tekijänoikeudesta vapaisiin Kohteisiin, joiden vapaa uudelleenkäyttö ei ole mahdollista, koska on olemassa tunnettuja oikeudellisia rajoituksia, kuten kulttuuriperintöä tai perinteistä kulttuurillista ilmaisua suojaavia rajoituksia, joiden takia organisaatio, joka aikoo saattaa kohteen saataville, ei voi sallia teoksen vapaata uudelleenkäyttöä. Organisaation, joka aikoo saattaa Kohteen saataville, tulisi täydentää tätä kuvausta linkillä verkkosivulle, josta kyseiset oikeudelliset rajoitukset ilmenevät."
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+      "description": "Tällä käyttöoikeuskuvauksella ilmaistaan, että Kohde on vailla tekijänoikeuden suojaa  Yhdysvaltain lainsäädännön nojalla (”Public domain”), mutta sen tekijänoikeudellista statusta muiden valtioiden tekijänoikeuslainsäädännön nojalla ei ole selvitetty.",
+      "definition": "Tämän Kohteen saataville saattanut organisaatio katsoo, ettei Kohde ole tekijänoikeuden suojaama Yhdysvaltain lainsäädännön nojalla (”public domain”), mutta sen tekijänoikeudellista statusta muiden valtioiden tekijänoikeuslainsäädännön nojalla ei ole selvitetty. Kohde voi mahdollisesti olla muiden maiden lainsäädännön nojalla tekijänoikeuden suojaama.\n\n  Lisätietoja voit saada ottamalla yhteyttä Kohteen saataville saattaneeseen organisaatioon.",
+      "note": [
+        "Ellei erikseen ole muuta nimenomaisesti ilmoitettu, tämän Kohteen saataville saattanut organisaatio ei anna mitään Kohdetta koskevaa takuuta eikä voi taata tämän Käyttöoikeuskuvauksen virheettömyyttä. Olet vastuussa omasta käytöstäsi.",
+        "Saatat tarvita muita lupia aikomaasi käyttöä varten. Esimerkiksi moraaliset oikeudet, yksityisyyden suojaa koskevat oikeudet taikka henkilön oikeudet määrätä kuvansa tai henkilönsä tunnistettavan osan kaupallisesta käytöstä voivat rajoittaa aineiston käyttöä.",
+        "Lisätietoja Kohteen tekijänoikeudellisesta statuksesta voi olla saatavissa Kohteen saataville saattaneen organisaation verkkosivuilta."
+      ],
+      "prefLabel": "Ei tekijänoikeutta - Yhdysvallat",
+      "scopeNote": "Tätä käyttöoikeuskuvausta tulisi käyttää Kohteille, jotka organisaatio, joka aikoo saattaa Kohteen saataville, on todennut olevan ilman tekijänoikeuden suojaa Yhdysvaltain lainsäädännön nojalla. Käyttöoikeuskuvausta ei tulisi käyttää orpoteoksiin (joiden oletetaan olevan tekijänoikeuden suojaamia) tai Kohteisiin, joiden osalta organisaatio, joka aikoo saattaa Kohteen saataville, ei ole yrittänyt varmistaa Kohteeseen liittyvän teoksen tekijänoikeudellista statusta."
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/UND/1.0/",
+      "description": "Tällä käyttöoikeuskuvauksella ilmaistaan, että Kohteen saataville saattanut organisaatio on yrittänyt selvittää Kohteen tekijänoikeudellisen ja lähioikeusstatuksen, muttei ole siihen kyennyt.",
+      "definition": "Kohteen saataville saattanut organisaatio on arvioinut tämän Kohteen tekijänoikeudellista ja lähioikeusstatusta muttei ole kyennyt määrittämään sitä varmuudella.\n\n  Lisätietoja voit saada ottamalla yhteyttä Kohteen saataville saattaneeseen organisaatioon.\n\n  Voit käyttää Kohdetta käyttöösi sovellettavan tekijänoikeutta ja lähioikeuksia koskevan lainsäädännön sallimilla tavoilla.",
+      "note": [
+        "Ellei erikseen ole muuta nimenomaisesti ilmoitettu, tämän Kohteen saataville saattanut organisaatio ei anna mitään Kohdetta koskevaa takuuta eikä voi taata tämän Käyttöoikeuskuvauksen virheettömyyttä. Olet vastuussa omasta käytöstäsi.",
+        "Saatat tarvita muita lupia aikomaasi käyttöä varten. Esimerkiksi moraaliset oikeudet, yksityisyyden suojaa koskevat oikeudet taikka henkilön oikeudet määrätä kuvansa tai henkilönsä tunnistettavan osan kaupallisesta käytöstä voivat rajoittaa aineiston käyttöä.",
+        "Lisätietoja Kohteen tekijänoikeudellisesta statuksesta voi olla saatavissa Kohteen saataville saattaneen organisaation verkkosivuilta."
+      ],
+      "prefLabel": "Tekijänoikeusstatus määrittämätön",
+      "scopeNote": "Tätä käyttöoikeuskuvausta tulisi käyttää Kohteille, joiden tekijänoikeudellinen status on jäänyt tuntemattomaksi, vaikka Kohteen saataville saattanut organisaatio on sitä yrittänyt määrittää. Käyttöoikeuskuvausta käytetään tyypillisesti tapauksissa, joissa organisaatiolta puuttuu tekijänoikeusstatuksen täsmällisen määrittämisen edellyttämiä olennaisia tietoja."
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/collection-ic/1.0/",
+      "prefLabel": "Kuvaukset tekijänoikeuden suojaamille teoksille"
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/collection-nc/1.0/",
+      "prefLabel": "Kuvaukset teoksille, joita tekijänoikeus ei suojaa"
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/collection-other/1.0/",
+      "prefLabel": "Kuvaukset teoksille, joiden tekijänoikeudellinen status on epäselvä"
+    }
+  ]
+}

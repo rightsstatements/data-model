@@ -1,0 +1,167 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "et",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@graph": [
+    {
+      "@id": "http://rightsstatements.org/vocab/CNE/1.0/",
+      "description": "See autoriõigusliku seisundi deklaratsioon näitab, et objekti avaldanud organisatsioon ei ole hinnanud objekti autoriõiguslikku ega sellega seotud õigustest tulenevat seisundit.",
+      "definition": "Objekti autoriõiguslik ja sellega seotud õigustest tulenev seisund on hindamata.\n\n  Palun küsige täiendavat infot objekti kättesaadavaks teinud organisatsioonilt.\n\n  Objekti võib vabalt kasutada kõigil viisidel, mis on lubatud kavandatavale kasutusviisile kohalduvates autoriõigust ja sellega seotud õigusi puudutavates seadustes.",
+      "note": [
+        "Juhul kui ei ole otseselt öeldud teisiti, ei anna objekti kättesaadavaks teinud organisatsioon objekti kohta mingeid garantiisid ega taga käesoleva autoriõigusliku seisundi deklaratsiooni täpsust. Kasutusviisi õiguspärasuse eest vastutab kasutaja ise.",
+        "Teie kavandatav kasutusviis võib nõuda täiendavate lubade hankimist. Näiteks võivad materjali kasutamist piirata muud õigused, nagu isiku-, eraelu puutumatuse ning moraalsed õigused.",
+        "Objekti kättesaadavaks teinud organisatsiooni koduleht võib sisaldada täiendavat informatsiooni objekti autoriõigusliku seisundi kohta."
+      ],
+      "prefLabel": "Autoriõiguslik seisund hindamata",
+      "scopeNote": "See autoriõigusliku seisundi deklaratsioon on mõeldud selliste objektide märgistamiseks, mille autoriõiguslik seisund on teadmata ja mille puhul objekti kättesaadavaks teha kavatsev organisatsioon ei ole teinud pingutusi objekti aluseks oleva teose autoriõigusliku seisundi tuvastamiseks."
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/InC-EDU/1.0/",
+      "description": "Selle autoriõigusliku seisundi deklaratsiooniga märgistatud objektile kehtib autoriõigus, kuid seda on lubatud kasutada hariduslikult ilma selleks täiendavalt luba taotlemata.",
+      "definition": "Objekt on kaitstud autoriõiguse ja/või sellega seotud õigustega.\n\n  Objekti võib vabalt kasutada kõigil viisidel, mis on lubatud kavandatavale kasutusviisile kohalduvates autoriõigust ja sellega seotud õigusi puudutavates seadustes. Ühtlasi ei ole selle hariduslikuks kasutamiseks vaja õiguste valdaja(te) luba.\n\n  Teiste kasutusviiside puhul on vajalik autoriõiguse valdaja(te) luba.",
+      "note": [
+        "Juhul kui ei ole otseselt öeldud teisiti, ei anna objekti kättesaadavaks teinud organisatsioon objekti kohta mingeid garantiisid ega taga käesoleva autoriõigusliku seisundi deklaratsiooni täpsust. Kasutusviisi õiguspärasuse eest vastutab kasutaja ise.",
+        "Teie kavandatav kasutusviis võib nõuda täiendavate lubade hankimist. Näiteks võivad materjali kasutamist piirata muud õigused, nagu isiku-, eraelu puutumatuse ning moraalsed õigused.",
+        "Objekti kättesaadavaks teinud organisatsiooni koduleht võib sisaldada täiendavat informatsiooni objekti autoriõigusliku seisundi kohta."
+      ],
+      "prefLabel": "Kehtiv autoriõigus - lubatud hariduslik kasutus",
+      "scopeNote": "Seda autoriõigusliku seisundi deklaratsiooni võib rakendada ainult autoriõigusega kaitstud objektidele, mille puhul objekti kättesaadavaks tegev organisatsioon on objekti õiguste valdaja või on selle õiguste valdaja(te)lt saanud selgesõnalise loa võimaldada kolmandatel osapooltel nende teos(t)e kasutamist hariduslikul eesmärgil ilma selleks esmalt luba taotlemata."
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/",
+      "description": "Selle autoriõigusliku seisundi deklaratsiooniga märgistatud objektile kehtib autoriõigus, kuid seda on lubatud kasutada mitteärilisel eesmärgil ilma selleks täiendavalt luba taotlemata.",
+      "definition": "Objekt on kaitstud autoriõiguse ja/või sellega seotud õigustega.\n\n  Objekti võib vabalt kasutada kõigil viisidel, mis on lubatud kavandatavale kasutusviisile kohalduvates autoriõigust ja sellega seotud õigusi puudutavates seadustes. Ühtlasi ei ole selle mitteäriliseks kasutamiseks vaja õiguste valdaja(te) luba.\n\n  Teiste kasutusviiside puhul on vajalik autoriõiguse valdaja(te) luba.",
+      "note": [
+        "Juhul kui ei ole otseselt öeldud teisiti, ei anna objekti kättesaadavaks teinud organisatsioon objekti kohta mingeid garantiisid ega taga käesoleva autoriõigusliku seisundi deklaratsiooni täpsust. Kasutusviisi õiguspärasuse eest vastutab kasutaja ise.",
+        "Teie kavandatav kasutusviis võib nõuda täiendavate lubade hankimist. Näiteks võivad materjali kasutamist piirata muud õigused, nagu isiku-, eraelu puutumatuse ning moraalsed õigused.",
+        "Objekti kättesaadavaks teinud organisatsiooni koduleht võib sisaldada täiendavat informatsiooni objekti autoriõigusliku seisundi kohta."
+      ],
+      "prefLabel": "Kehtiv autoriõigus - lubatud mitteäriline kasutus",
+      "scopeNote": "Seda autoriõigusliku seisundi deklaratsiooni võib rakendada ainult sellistele autoriõigusega kaitstud objektidele, mille puhul objekti kättesaadavaks tegev organisatsioon on objekti õiguste valdaja või on selle õiguste valdaja(te)lt saanud selgesõnalise loa võimaldada kolmandatel osapooltel nende teos(t)e kasutamist mitteärilisel eesmärgil ilma selleks esmalt luba taotlemata."
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/InC-OW-EU/1.0/",
+      "description": "Selle deklaratsiooniga märgistatud objekt on EL orbteoste direktiivi alusel tuvastatud kui „orbteos“.",
+      "definition": "Euroopa Parlamendi ja Nõukogu 25. oktoobri 2012 direktiivi 2012/28/EL “Orbteoste teatavate lubatud kasutusviiside kohta” alusel loetakse objekti selle esmaavaldamisriigis orbteoseks.\n\n  See tähendab, et (a) autoriõiguse valdajat (valdajaid) ei ole tuvastatud või (b) õiguste valdaja(d) on küll tuvastatud, kuid neid ei ole leitud vaatamata sellele, et on tehtud õiguste valdajate hoolikas otsing. Tehtud hoolika otsingu tulemused on leitavad EL orbteoste andmebaasist.\n\n  Objekti võib vabalt kasutada kõigil viisidel, mis on lubatud kavandatavale kasutusviisile kohalduvates autoriõigust ja sellega seotud õigusi puudutavates seadustes.",
+      "note": [
+        "Juhul kui ei ole otseselt öeldud teisiti, ei anna objekti kättesaadavaks teinud organisatsioon objekti kohta mingeid garantiisid ega taga käesoleva autoriõigusliku seisundi deklaratsiooni täpsust. Kasutusviisi õiguspärasuse eest vastutab kasutaja ise.",
+        "Teie kavandatav kasutusviis võib nõuda täiendavate lubade hankimist. Näiteks võivad materjali kasutamist piirata muud õigused, nagu isiku-, eraelu puutumatuse ning moraalsed õigused.",
+        "Objekti kättesaadavaks teinud organisatsiooni koduleht võib sisaldada täiendavat informatsiooni objekti autoriõigusliku seisundi kohta.",
+        "Juhul kui Te valdate informatsiooni, mis võib kaasa aidata õiguste valdaja(te) tuvastamisele või leidmisele, teavitage sellest objekti kättesaadavaks teinud organisatsiooni."
+      ],
+      "prefLabel": "Kehtiv autoriõigus - EL orbteos",
+      "scopeNote": "Selle autoriõigusliku seisundi deklaratsiooniga võib märgistada objekte, mis põhinevad teostel, mis on tunnistatud nende esmaavaldamisriigis orbteosteks vastavalt Euroopa Parlamendi ja Nõukogu 25. oktoobri 2012 direktiivile 2012/28/EL “Orbteoste teatavate lubatud kasutusviiside kohta”. See on rakendatav ainult objektidele, mis on tuletatud orbteoste direktiivis käsitletud teostest, nagu raamatu, ajakirja, ajalehe või muu trükisena avaldatud teosed või kinematograafilised ja audiovisuaalsed teosed ja fonogrammid (märkus: see ei hõlma fotograafiat ja kujutavaid kunste). Deklaratsiooni võivad rakendada direktiiviga soodustatud isikutest organisatsioonid: liikmesriikides asuvad avalikud raamatukogud, haridusasutused ja muuseumid, avalikud arhiivid, filmi- ja audiopärandi säilitamisega tegelevad organisatsioonid ja avalikkust teenindavad ringhäälinguorganisatsioonid. Soodustatud isik peab ühtlasi teose registreerima EUIPO hallatavas EL orbteoste andmebaasis."
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/InC-RUU/1.0/",
+      "description": "Selle autoriõigusliku seisundi deklaratsiooniga märgistatud objektile kehtib autoriõigus, kuid õiguste valdajat (või valdajaid) ei ole võimalik tuvastada või leida.",
+      "definition": "Objekt on kaitstud autoriõiguse ja/või sellega seotud õigustega. Samas (a) ei ole objekti autoriõiguste valdajat (valdajaid) õnnestunud tuvastada või (b) õiguste valdaja(d) on küll teada, kuid neid ei ole õnnestunud leida.\n\n  Objekti võib vabalt kasutada kõigil viisidel, mis on lubatud kavandatavale kasutusviisile kohalduvates autoriõigust ja sellega seotud õigusi puudutavates seadustes.",
+      "note": [
+        "Juhul kui ei ole otseselt öeldud teisiti, ei anna objekti kättesaadavaks teinud organisatsioon objekti kohta mingeid garantiisid ega taga käesoleva autoriõigusliku seisundi deklaratsiooni täpsust. Kasutusviisi õiguspärasuse eest vastutab kasutaja ise.",
+        "Teie kavandatav kasutusviis võib nõuda täiendavate lubade hankimist. Näiteks võivad materjali kasutamist piirata muud õigused, nagu isiku-, eraelu puutumatuse ning moraalsed õigused.",
+        "Objekti kättesaadavaks teinud organisatsiooni koduleht võib sisaldada täiendavat informatsiooni objekti autoriõigusliku seisundi kohta.",
+        "Juhul kui Te valdate informatsiooni, mis võib kaasa aidata õiguste valdaja(te) tuvastamisele või leidmisele, palun teavitage sellest objekti kättesaadavaks teinud organisatsiooni."
+      ],
+      "prefLabel": "Kehtiv autoriõigus - õiguste valdaja(d) ei ole leitavad või tuvastatavad",
+      "scopeNote": "See autoriõigusliku seisundi deklaratsioon on mõeldud selliste objektide märgistamiseks, millele kehtib autoriõigus, kuid mille õiguste valdajat (valdajaid) pole õnnestunud mõistliku otsimise tulemusena tuvastada või leida. See on mõeldud ainult sellisteks juhtudeks, kus objekti kättesaadavaks teha kavatsev organisatsioon on võrdlemisi kindel, et objekti aluseks olev teos on autoriõigusega kaitstud. Deklaratsioon ei ole mõeldud EL-is asuvatele organisatsioonidele, kes on EL orbteoste direktiivist lähtuvalt leidnud teosed olevat orbteosed (sellisel juhul tuleb kasutada deklaratsiooni InC-OW-EU)."
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/InC/1.0/",
+      "description": "Selle autoriõigusliku seisundi deklaratsiooniga märgistatud objektile kehtib autoriõigus.",
+      "definition": "Objekt on kaitstud autoriõiguse ja/või sellega seotud õigustega.\n\n  Objekti võib vabalt kasutada kõigil viisidel, mis on lubatud kavandatavale kasutusviisile kohalduvates autoriõigust ja sellega seotud õigusi puudutavates seadustes.\n\n  Teiste kasutusviiside puhul on vajalik autoriõiguse valdaja(te) luba.",
+      "note": [
+        "Juhul, kui ei ole otseselt öeldud teisiti, ei anna objekti kättesaadavaks teinud organisatsioon objekti kohta mingeid garantiisid ega taga käesoleva deklaratsiooni täpsust. Kasutusviisi õiguspärasuse eest vastutab kasutaja ise.",
+        "Teie kavandatav kasutusviis võib nõuda täiendavate lubade hankimist. Näiteks võivad materjali kasutamist piirata muud õigused nagu isiku-, eraelu puutumatuse ning moraalsed õigused.",
+        "Objekti kättesaadavaks teinud organisatsiooni koduleht võib sisaldada täiendavat informatsiooni objekti autoriõigusliku seisundi kohta."
+      ],
+      "prefLabel": "Kehtiv autoriõigus",
+      "scopeNote": "See autoriõigusliku seisundi deklaratsioon on mõeldud kehtiva autoriõigusega objektide märgistamiseks. Selle kasutamine tähendab, et objekti kättesaadavaks teinud organisatsioon on otsustanud, et objektile kehtib autoriõigus ja objekti avaldaja on kas selle õiguste valdaja, st on saanud teos(t)e kättesaadavaks tegemiseks vastavate õiguste valdaja(te)lt loa, või teeb objekti kättesaadavaks seda võimaldavate autoriõiguse erandite ja piirangute (nagu õigustatud kasutus) alusel."
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/NKC/1.0/",
+      "description": "See autoriõigusliku seisundi deklaratsioon näitab, et objekti avaldanud organisatsiooni veendumuse kohaselt ei kehti deklaratsiooniga märgistatud objektile autoriõigus ega sellega seotud õigused, kuid seda pole õnnestunud lõplikult tuvastada.",
+      "definition": "Objekti kättesaadavaks teinud organisatsioon usub mõistlikkuse piires, et objekti kasutamist ei piira autoriõigus ega sellega seotud õigused, kuid lõplikku kinnitust sellele ei ole.\n\n  Palun küsige täiendavat infot objekti kättesaadavaks teinud organisatsioonilt.\n\n  Objekti võib vabalt kasutada kõigil viisidel, mis on lubatud kavandatavale kasutusviisile kohalduvates autoriõigust ja sellega seotud õigusi puudutavates seadustes.",
+      "note": [
+        "Juhul kui ei ole otseselt öeldud teisiti, ei anna objekti kättesaadavaks teinud organisatsioon objekti kohta mingeid garantiisid ega taga käesoleva autoriõigusliku seisundi deklaratsiooni täpsust. Kasutusviisi õiguspärasuse eest vastutab kasutaja ise.",
+        "Teie kavandatav kasutusviis võib nõuda täiendavate lubade hankimist. Näiteks võivad materjali kasutamist piirata muud õigused, nagu isiku-, eraelu puutumatuse ning moraalsed õigused.",
+        "Objekti kättesaadavaks teinud organisatsiooni koduleht võib sisaldada täiendavat informatsiooni objekti autoriõigusliku seisundi kohta."
+      ],
+      "prefLabel": "Autoriõigus teadaolevalt ei kehti",
+      "scopeNote": "See autoriõigusliku seisundi deklaratsioon on mõeldud selliste objektide märgistamiseks, mille autoriõiguslikku seisundit ei ole õnnestunud lõplikult tuvastada, kuid mille puhul on objekti kättesaadavaks teha kavatseval organisatsioonil mõistlikkuse piires alust arvata, et objekti aluseks olevale teosele ei kehti enam autoriõigus ega sellega seotud õigused. Deklaratsiooni ei peaks kasutama orbteoste (millele eeldatakse kehtivat autoriõigus) ega selliste objektide märgistamiseks, mille aluseks oleva teose autoriõiguslikku seisundit ei ole objekti kättesaadavaks teha kavatsev organisatsioon püüdnud tuvastada."
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/NoC-CR/1.0/",
+      "description": "Selle autoriõigusliku seisundi deklaratsiooniga märgistatud teos on avalikus omandis, kuid objekti avalikuks teinud organisatsioon on lepinguliselt kohustatud piirama kolmandatel osapooltel selle kasutamist teatud viisidel.",
+      "definition": "Autoriõigus ja/või sellega seotud õigused objekti kasutamist ei piira.\n\n  Objekti kättesaadavaks teinud organisatsioon on seoses selle teose omandamise või digiteerimisega lepinguliselt kohustatud piirama objekti kasutusviise. Piirangud võivad olla seotud näiteks eraelu puutumatuse, kultuurikaitse, digiteerimislepingute või annetuslepingutega.\n\n  Palun küsige täiendavat infot objekti kättesaadavaks teinud organisatsioonilt.",
+      "note": [
+        "Juhul kui ei ole otseselt öeldud teisiti, ei anna objekti kättesaadavaks teinud organisatsioon objekti kohta mingeid garantiisid ega taga käesoleva autoriõigusliku seisundi deklaratsiooni täpsust. Kasutusviisi õiguspärasuse eest vastutab kasutaja ise.",
+        "Teie kavandatav kasutusviis võib nõuda täiendavate lubade hankimist. Näiteks võivad materjali kasutamist piirata muud õigused, nagu isiku-, eraelu puutumatuse ning moraalsed õigused.",
+        "Objekti kättesaadavaks teinud organisatsiooni koduleht võib sisaldada täiendavat informatsiooni objekti autoriõigusliku seisundi kohta."
+      ],
+      "prefLabel": "Autoriõigus ei kehti - lepingulised piirangud",
+      "scopeNote": "See autoriõigusliku seisundi deklaratsioon on rakendatav ainult objektidele, mis on avalikus omandis, kuid millega seoses on objekti kättesaadavaks teha kavatsev organisatsioon allkirjastanud lepingu, mis nõuab neilt objekti kasutamise piiramist kolmandatele osapooltele. Deklaratsiooni siduvuse tagamiseks peab objekti kättesaadavaks teha kavatsev organisatsioon sellele lisama viite objekti kasutamisega seotud lepingulisi piiranguid käsitlevale veebilehele."
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/",
+      "description": "Selle autoriõigusliku seisundi deklaratsiooniga märgistatud objekti aluseks olev teos on avalikus omandis, kuid objekti avaldanud organisatsioon on lepinguliselt kohustatud võimaldama kolmandatel osapooltel ainult objekti mitteärilist kasutamist.",
+      "definition": "Teos on digiteeritud avaliku ja erasektori koostöös. Selle koostöö osana on partnerid leppinud kokku teose digitaalse kujutise äriliste kasutusvõimaluste piiramises kolmandate osapoolte jaoks.\n\n  Objekti võib mitteärilisel eesmärgil kopeerida, modifitseerida, levitada, näidata või esitada ilma selleks luba taotlemata. Teiste lubatud kasutusviiside kohta leiate infot objekti kättesaadavaks teinud organisatsiooni avaldatud kasutustingimustest.",
+      "note": [
+        "Juhul kui ei ole otseselt öeldud teisiti, ei anna objekti kättesaadavaks teinud organisatsioon objekti kohta mingeid garantiisid ega taga käesoleva autoriõigusliku seisundi deklaratsiooni täpsust. Kasutusviisi õiguspärasuse eest vastutab kasutaja ise.",
+        "Teie kavandatav kasutusviis võib nõuda täiendavate lubade hankimist. Näiteks võivad materjali kasutamist piirata muud õigused, nagu isiku-, eraelu puutumatuse ning moraalsed õigused.",
+        "Objekti kättesaadavaks teinud organisatsiooni koduleht võib sisaldada täiendavat informatsiooni objekti autoriõigusliku seisundi kohta."
+      ],
+      "prefLabel": "Autoriõigus ei kehti - ainult mitteäriline kasutus",
+      "scopeNote": "See autoriõigusliku seisundi deklaratsioon on rakendatav ainult teostele, mis on avalikus omandis, kuid on digiteeritud osana avaliku ja erasektori koostööprojektist, mille raames partnerid on leppinud kokku teose digitaalse kujutise ärilise kasutamise võimaluste piiramises kolmandate osapoolte jaoks. See on välja töötatud Euroopa raamatukogude ja Google'i koostöös digiteeritud teoste tarbeks, kuid on teoorias rakendatav ka teiste sarnaste avaliku ja erasektori koostööprojektide raames digiteeritud teostele."
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/NoC-OKLR/1.0/",
+      "description": "Selle autoriõigusliku seisundi deklaratsiooniga märgistatud objekti aluseks olev teos on avalikus omandis ja sellele ei kehti autoriõigus ega sellega seotud õigused, kuid teadaolevalt laienevad teosele teistes seadustes sätestatud piirangud, mis puudutavad objekti kasutamist kolmandate osapoolte poolt.",
+      "definition": "Autoriõigus ja/või sellega seotud õigused objekti kasutamist ei piira.\n\n  Ühes või mitmes õigusruumis piiravad objekti kasutamist teadaolevalt muud seadused peale autoriõiguse ja sellega seotud õiguste.\n\n  Palun küsige täiendavat infot objekti kättesaadavaks teinud organisatsioonilt.",
+      "note": [
+        "Juhul kui ei ole otseselt öeldud teisiti, ei anna objekti kättesaadavaks teinud organisatsioon objekti kohta mingeid garantiisid ega taga käesoleva autoriõigusliku seisundi deklaratsiooni täpsust. Kasutusviisi õiguspärasuse eest vastutab kasutaja ise.",
+        "Teie kavandatav kasutusviis võib nõuda täiendavate lubade hankimist. Näiteks võivad materjali kasutamist piirata muud õigused, nagu isiku-, eraelu puutumatuse ning moraalsed õigused.",
+        "Objekti kättesaadavaks teinud organisatsiooni koduleht võib sisaldada täiendavat informatsiooni objekti autoriõigusliku seisundi kohta."
+      ],
+      "prefLabel": "Autoriõigus ei kehti - muud teadaolevad õiguslikud piirangud",
+      "scopeNote": "See autoriõigusliku seisundi deklaratsioon on mõeldud selliste objektide märgistamiseks, mis on avalikus omandis, kuid mida ei ole võimalik vabalt taaskasutada tulenevalt teadaolevatest õiguslikest piirangutest, nagu kultuuripärandi või traditsiooniliste väljendusvormide kaitse, mis ei luba objekti kättesaadavaks teha kavatseval organisatsioonil võimaldada objekti vaba taaskasutamist. Deklaratsiooni siduvuse tagamiseks peab objekti kättesaadavaks teha kavatsev organisatsioon sellele lisama viite objekti taaskasutamist piiravaid õiguslikke piiranguid käsitlevale veebilehele."
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+      "description": "Selle autoriõigusliku seisundi deklaratsiooniga märgistatud objekt on Ameerika Ühendriikide seadustikust lähtuvalt avalikus omandis, kuid selle teiste riikide autoriõiguse seadustikust tulenev õiguslik seisund on hindamata.",
+      "definition": "Objekti kättesaadavaks teinud organisatsioon usub, et see on Ameerika Ühendriikide õigusest lähtuvalt avalikus omandis, kuid selle teiste riikide autoriõiguse seadustikest tulenev õiguslik seisund on hindamata. Objekt ei pruugi  olla avalikus omandis teiste riikide seadustikust lähtuvalt.\n\n  Palun küsige täiendavat infot objekti kättesaadavaks teinud organisatsioonilt.",
+      "note": [
+        "Juhul kui ei ole otseselt öeldud teisiti, ei anna objekti kättesaadavaks teinud organisatsioon objekti kohta mingeid garantiisid ega taga käesoleva autoriõigusliku seisundi deklaratsiooni täpsust. Kasutusviisi õiguspärasuse eest vastutab kasutaja ise.",
+        "Teie kavandatav kasutusviis võib nõuda täiendavate lubade hankimist. Näiteks võivad materjali kasutamist piirata muud õigused, nagu isiku-, eraelu puutumatuse ning moraalsed õigused.",
+        "Objekti kättesaadavaks teinud organisatsiooni koduleht võib sisaldada täiendavat informatsiooni objekti autoriõigusliku seisundi kohta."
+      ],
+      "prefLabel": "Autoriõigus ei kehti - Ameerika Ühendriigid",
+      "scopeNote": "See autoriõigusliku seisundi deklaratsioon on mõeldud selliste objektide märgistamiseks, millele (objekti kättesaadavaks teha kavatsevale organisatsioonile teadaolevalt) Ameerika Ühendriikide seadustikust lähtuvalt autoriõigus ei kehti. Deklaratsiooni ei tohi kasutada orbteoste (millele eeldatakse kehtivat autoriõigus) ega selliste objektide märgistamiseks, mille autoriõiguslikku seisundit ei ole objekti kättesaadavaks teha kavatsev organisatsioon püüdnud tuvastada."
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/UND/1.0/",
+      "description": "See autoriõigusliku seisundi deklaratsioon näitab, et objekti kättesaadavaks teinud organisatsioon on teinud pingutusi objekti autoriõigusest ja sellega seonduvatest õigustest tuleneva seisundi hindamiseks, kuid objekti autoriõiguslikku seisundit ei ole õnnestunud tuvastada.",
+      "definition": "Objekti kättesaadavaks teinud organisatsioon on teinud pingutusi objekti autoriõigusest ja sellega seonduvatest õigustest tuleneva seisundi hindamiseks, kuid pole suutnunud objekti autoriõiguslikku seisundit lõplikult kindlaks teha.\n\n  Palun küsige täiendavat infot objekti kättesaadavaks teinud organisatsioonilt.\n\n  Objekti võib vabalt kasutada kõigil viisidel, mis on lubatud kavandatavale kasutusviisile kohalduvates autoriõigust ja sellega seotud õigusi puudutavates seadustes.",
+      "note": [
+        "Juhul kui ei ole otseselt öeldud teisiti, ei anna objekti kättesaadavaks teinud organisatsioon selle kohta mingeid garantiisid ega taga selle autoriõigusliku seisundi deklaratsiooni täpsust. Kasutusviisi õiguspärasuse eest vastutab kasutaja ise.",
+        "Teie kavandatav kasutusviis võib nõuda täiendavate lubade hankimist. Näiteks võivad materjali kasutamist piirata muud õigused, nagu isiku-, eraelu puutumatuse ning moraalsed õigused.",
+        "Objekti kättesaadavaks teinud organisatsiooni koduleht võib sisaldada täiendavat informatsiooni objekti autoriõigusliku seisundi kohta."
+      ],
+      "prefLabel": "Autoriõiguslik seisund tuvastamata",
+      "scopeNote": "See autoriõigusliku seisundi deklaratsioon on mõeldud selliste objektide märgistamiseks, mille autoriõiguslik seisund on teadmata ja mille kättesaadavaks teinud organisatsioon on teinud (tulemusteta) pingutusi objekti aluseks oleva teose autoriõigusliku seisundi tuvastamiseks. Üldjuhul kasutatakse seda olukorras, kus puuduvad teose autoriõigusliku seisundi täpseks tuvastamiseks olulised faktid."
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/collection-ic/1.0/",
+      "prefLabel": "Autoriõigusliku seisundi deklaratsioonid kehtiva autoriõigusega objektidele"
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/collection-nc/1.0/",
+      "prefLabel": "Autoriõigusliku seisundi deklaratsioonid objektidele, millele ei kehti autoriõigus"
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/collection-other/1.0/",
+      "prefLabel": "Muud autoriõigusliku seisundi deklaratsioonid"
+    }
+  ]
+}

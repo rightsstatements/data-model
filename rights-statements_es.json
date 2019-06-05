@@ -1,0 +1,166 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "es",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@graph": [
+    {
+      "@id": "http://rightsstatements.org/vocab/CNE/1.0/",
+      "description": "Esta Declaración de Derechos indica que la organización que ha publicado el material no ha evaluado el estado del derecho de autor y derechos conexos del material.",
+      "definition": "El estado del derecho de autor y derechos conexos de este material no ha sido evaluado.\n\n  Por favor, refiérase a la organización que ha puesto el material a disposición para más información.\n\n  Usted es libre de utilizar este material de cualquier forma que esté permitida por la legislación de derecho de autor y derechos conexos que se aplique para el uso que pretende hacer.",
+      "note": [
+        "A menos que se exprese lo contrario, la organización que ha puesto este material a disposición no otorga garantías sobre el material y no puede garantizar la exactitud de esta Declaración de Derechos. Usted es responsable por el uso que haga del material.",
+        "Usted quizás necesite obtener permiso para el uso que pretende hacer del material. Por ejemplo, otros derechos tales como el derecho a la publicidad, el derecho a la privacidad o los derechos morales pueden limitar la forma en que puede utilizar el material.",
+        "Usted puede encontrar información adicional sobre el estado del derecho de autor del material en el sitio web de la organización que puso a disposición el material."
+      ],
+      "prefLabel": "Derecho de autor sin evaluar",
+      "scopeNote": "Esta Declaración de Derechos debe ser utilizada para materiales para los cuales el estado del derecho de autor es desconocido y para los cuales la organización que pretende poner a disposición el material no ha realizado un esfuerzo para determinar el estado del derecho de autor de la obra subyacente."
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/InC-EDU/1.0/",
+      "description": "Esta Declaración de Derechos indica que el material etiquetado con esta Declaración de Derechos está protegido por derecho de autor pero se autoriza el uso con fines educativos sin necesidad de obtener un permiso adicional.",
+      "definition": "Este material está protegido por derecho de autor y/o derechos conexos.\n\n  Usted es libre de utilizar este material de cualquier forma que esté permitida por la legislación de derecho de autor y derechos conexos que se aplique al uso que pretende hacer. Adicionalmente, no se requiere permiso del titular o titulares de derechos para usos educativos.\n\n  Para otros usos, usted necesita obtener permiso del titular o titulares de derechos.",
+      "note": [
+        "A menos que se exprese lo contrario, la organización que ha puesto este material a disposición no otorga garantías sobre el material y no puede garantizar la exactitud de esta Declaración de Derechos. Usted es responsable por el uso que haga del material.",
+        "Usted quizás necesite obtener permiso para el uso que pretende hacer del material. Por ejemplo, otros derechos tales como el derecho a la publicidad, el derecho a la privacidad o los derechos morales pueden limitar la forma en que puede utilizar el material.",
+        "Usted puede encontrar información adicional sobre el estado del derecho de autor del material en el sitio web de la organización que puso a disposición el material."
+      ],
+      "prefLabel": "Protegido por derecho de autor - Uso educativo permitido",
+      "scopeNote": "Esta Declaración de Derechos solo puede ser utilizada para materiales protegidos por derecho de autor para los cuales la organización que está poniendo a disposición el material o bien es la titular de derechos o ha sido explícitamente autorizada por el titular o los titulares de derechos para permitir a terceras partes utilizar la obra con propósitos educativos sin necesidad de obtener permiso primero."
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/",
+      "description": "Esta Declaración de Derechos indica que el material etiquetado con esta Declaración de Derechos está protegido por derecho de autor pero el uso no comercial está autorizado sin necesidad de obtener permiso adicional.",
+      "definition": "Este material está protegido por derecho de autor y/o derechos conexos.\n\n  Usted es libre de utilizar este material de cualquier forma que esté permitida por la legislación de derecho de autor y derechos conexos que se aplique al uso que pretende hacer. Adicionalmente, no se requiere permiso del titular o titulares de derechos para usos no comerciales.\n\n  Para otros usos, usted necesita obtener permiso del titular o titulares de derechos.",
+      "note": [
+        "A menos que se exprese lo contrario, la organización que ha puesto este material a disposición no otorga garantías sobre el material y no puede garantizar la exactitud de esta Declaración de Derechos. Usted es responsable por el uso que haga del material.",
+        "Usted quizás necesite obtener permiso para el uso que pretende hacer del material. Por ejemplo, otros derechos tales como el derecho a la publicidad, el derecho a la privacidad o los derechos morales pueden limitar la forma en que puede utilizar el material.",
+        "Usted puede encontrar información adicional sobre el estado del derecho de autor del material en el sitio web de la organización que puso a disposición el material."
+      ],
+      "prefLabel": "Protegido por derecho de autor - Uso No Comercial permitido",
+      "scopeNote": "Esta Declaración de Derechos solo puede ser utilizada para materiales protegidos por derecho de autor para los cuales la organización que pone a disposición el material es o bien la titular de los derechos o ha sido explícitamente autorizada por el titular o los titulares de derechos para permitir a terceras partes utilizar la obra con propósitos no comerciales sin necesidad de obtener permiso primero."
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/InC-OW-EU/1.0/",
+      "description": "Esta Declaración de Derechos indica que el material etiquetado con esta Declaración de Derechos ha sido identificado como ‘obra huérfana’ según los términos de la Directiva de Obras Huérfanas de la Unión Europea.",
+      "definition": "Este material ha sido identificado como una obra huérfana en el país de la primera publicación y en consonancia con la Directiva 2012/28/EU del Parlamento Europeo y del Comité del 25 de octubre de 2012 sobre ciertos usos permitidos de las obras huérfanas.\n\n  Para este material, o bien (a) no se han identificado titular o titulares de derechos o (b) uno o más titulares de derechos han sido identificados pero ninguno ha podido ser localizado a pesar de que se ha realizado una búsqueda diligente para intentar localizar al titular o a los titulares de derechos. Los resultados de la búsqueda diligente están disponibles en la Base de Datos de Obras Huérfanas de la UE.\n\n  Usted es libre de utilizar este material de cualquier forma que esté permitida por la legislación de derecho de autor y derechos conexos que se aplique al uso que pretende hacer.",
+      "note": [
+        "A menos que se exprese lo contrario, la organización que ha puesto este material a disposición no otorga garantías sobre el material y no puede garantizar la exactitud de esta Declaración de Derechos. Usted es responsable por el uso que haga del material.",
+        "Usted quizás necesite obtener permiso para el uso que pretende hacer del material. Por ejemplo, otros derechos tales como el derecho a la publicidad, el derecho a la privacidad o los derechos morales pueden limitar la forma en que puede utilizar el material.",
+        "Usted puede encontrar información adicional sobre el estado del derecho de autor del material en el sitio web de la organización que puso a disposición el material.",
+        "Si usted tiene cualquier información que pueda contribuir a identificar o localizar al titular o a los titulares de derechos, por favor, notifique a la organización que ha puesto el material a disposición."
+      ],
+      "prefLabel": "Protegido por derecho de autor - Obra huérfana UE",
+      "scopeNote": "Esta Declaración de Derechos está prevista para ser utilizada con materiales que han sido identificados como obras huérfanas de acuerdo a la Directiva 2012/28/EU del Parlamento Europeo y del Comité del 25 de octubre de 2012 sobre ciertos usos permitidos de las obras huérfanas. Solo puede aplicarse a materiales derivados de las obras que están cubiertas por la Directiva: obras publicadas en la forma de libros, publicaciones periódicas, diarios, periódicos, revistas u otro tipo de escritos, así como obras cinematográficas o audiovisuales y fonogramas (nota: esto excluye a la fotografía y a las artes visuales). Solo puede ser aplicada por organizaciones que sean beneficiarias de la Directiva: bibliotecas públicas, establecimientos educativos y museos, archivos, instituciones de patrimonio fílmico o de audio y organizaciones de servicios públicos de radiodifusión, radicadas en uno de los estados miembros de la Unión Europea. Se espera del beneficiario que haya registrado la obra en la Base de Datos de Obras Huérfanas de la Unión Europea mantenida por la EUIPO (Oficina de la Propiedad Intelectual Europea)."
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/InC-RUU/1.0/",
+      "description": "Esta Declaración de Derechos indica que el material etiquetado con esta Declaración de Derechos ha sido identificado como protegido por derecho de autor, pero el titular o los titulares de derechos no pueden ser identificados o no pueden ser localizados.",
+      "definition": "Este material está protegido por derecho de autor y/o derechos conexos. Sin embargo, para este material, o bien (a) no se han identificado el titular o los titulares de derechos o (b) uno o más titulares de derechos han sido identificados, pero ninguno ha podido ser localizado.\n\n  Usted es libre de utilizar este material de cualquier forma que esté permitida por la legislación de derecho de autor y derechos conexos que se aplique al uso que pretende hacer.",
+      "note": [
+        "A menos que se exprese lo contrario, la organización que ha puesto este material a disposición no otorga garantías sobre el material y no puede garantizar la exactitud de esta Declaración de Derechos. Usted es responsable por el uso que haga del material.",
+        "Usted quizás necesite obtener permiso para el uso que pretende hacer del material. Por ejemplo, otros derechos tales como el derecho a la publicidad, el derecho a la privacidad o los derechos morales pueden limitar la forma en que puede utilizar el material.",
+        "Si usted tiene cualquier información que pueda contribuir a identificar o localizar al titular o a los titulares de derechos, por favor, notifique a la organización que ha puesto el material a disposición."
+      ],
+      "prefLabel": "Protegido por derecho de autor - Titular o titulares de derechos imposibles de localizar o de identificar",
+      "scopeNote": "Esta Declaración de Derechos está prevista para ser utilizada con un material que ha sido identificado como material protegido por derecho de autor pero cuyo titular o titulares de derechos no han sido identificados o localizados tras llevar a cabo una investigación razonable. Esta Declaración de Derechos solo debe ser utilizada si la organización que pretende poner a disposición el material está razonablemente segura de que la obra subyacente está protegida por derecho de autor. Esta Declaración de Derechos no está prevista para ser utilizada por organizaciones con sede en la Unión Europea que han identificado las obras como obras huérfanas en acuerdo con la Directiva de Obras Huérfanas de la UE (en cambio, deben utilizar la InC-OW-EU)."
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/InC/1.0/",
+      "description": "Esta Declaración de Derechos indica que el material etiquetado con esta Declaración de Derechos se encuentra protegido por derecho de autor.",
+      "definition": "Este material se encuentra protegido por derecho de autor y/o otros derechos conexos.\n\n  Usted es libre de utilizar este material de cualquier forma que esté permitida por la legislación sobre derecho de autor y derechos conexos que aplique para su uso.\n\n  Para otros usos, usted necesita obtener permiso del titular o titulares de derechos.",
+      "note": [
+        "A menos que se exprese lo contrario, la organización que ha puesto este material a disposición no otorga garantías sobre el material y no puede garantizar la exactitud de esta Declaración de Derechos. Usted es responsable por el uso que haga del material.",
+        "Usted quizás necesite obtener permiso para el uso que pretende hacer del material. Por ejemplo, otros derechos tales como el derecho a la publicidad, el derecho a la privacidad o los derechos morales pueden limitar la forma en que puede utilizar el material.",
+        "Usted puede encontrar información adicional sobre el estado del derecho de autor del material en el sitio web de la organización que puso a disposición el material."
+      ],
+      "prefLabel": "Protegido por derecho de autor",
+      "scopeNote": "Esta Declaración de Derechos puede ser utilizada para un material que está protegido por derecho de autor. El uso de esta declaración implica que la organización que ha puesto este material a disposición ha determinado que el material está protegido por derecho de autor y que o bien es la titular de derechos o ha obtenido permiso del titular o titulares de derechos o pone el material a disposición bajo una excepción o limitación al derecho de autor (incluyendo el uso justo) que la autoriza a poner a disposición el material."
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/NKC/1.0/",
+      "description": "Esta Declaración de Derechos indica que la organización que publicó el material cree que no existe protección del derecho de autor o derechos conexos sobre el material, pero que no se pudo realizar una determinación concluyente.",
+      "http://www.w3.org/2004/02/skos/core#description": "La organización que ha puesto a disposición el material cree razonablemente que el material no está restringido por el derecho de autor o derechos conexos, pero no se pudo hacer una determinación concluyente.\n\n  Por favor, refiérase a la organización que ha puesto el material a disposición para más información.\n\n  Usted es libre de utilizar este material de cualquier forma que esté permitida bajo la legislación de derecho de autor y derechos conexos que aplique para el uso que pretende hacer.",
+      "note": [
+        "A menos que se exprese lo contrario, la organización que ha puesto este material a disposición no otorga garantías sobre el material y no puede garantizar la exactitud de esta Declaración de Derechos. Usted es responsable por el uso que haga del material.",
+        "Usted quizás necesite obtener permiso para el uso que pretende hacer del material. Por ejemplo, otros derechos tales como el derecho a la publicidad, el derecho a la privacidad o los derechos morales pueden limitar la forma en que puede utilizar el material.",
+        "Usted puede encontrar información adicional sobre el estado del derecho de autor del material en el sitio web de la organización que puso a disposición el material."
+      ],
+      "prefLabel": "Sin derecho de autor conocido",
+      "scopeNote": "Esta Declaración de Derechos debería ser utilizada para materiales para los cuales el estado de derecho de autor no ha sido determinado de manera concluyente, pero para los cuales la organización que pretende poner a disposición el material tiene causa razonable para creer que la obra subyacente ya no está cubierta por derecho de autor o derechos conexos. Esta Declaración de Derechos no debe ser utilizada para obras huérfanas (para las cuales se asume que están protegidas por derecho de autor) o para materiales para los cuales la organización que pretende ponerlos a disposición no ha realizado un esfuerzo para determinar el estado del derecho de autor de la obra subyacente."
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/NoC-CR/1.0/",
+      "description": "Esta Declaración de Derechos indica que la obra subyacente está en el dominio público, pero que la organización que ha publicado el material está contractualmente obligada a restringir ciertos tipos de uso por terceras partes.",
+      "definition": "El uso de este material no está restringido por el derecho de autor y/o derechos conexos.\n\n  Como parte de la adquisición o la digitalización de esta obra, la organización que ha puesto a disposición el material está contractualmente obligada a limitar el uso de este material. Las limitaciones pueden incluir, pero no están limitadas a, cuestiones de privacidad, protecciones culturales, acuerdos de digitalización o acuerdos de donación.\n\n  Por favor, refiérase a la organización que ha puesto a disposición el material para más información.",
+      "note": [
+        "A menos que se exprese lo contrario, la organización que ha puesto este material a disposición no otorga garantías sobre el material y no puede garantizar la exactitud de esta Declaración de Derechos. Usted es responsable por el uso que haga del material.",
+        "Usted quizás necesite obtener permiso para el uso que pretende hacer del material. Por ejemplo, otros derechos tales como el derecho a la publicidad, el derecho a la privacidad o los derechos morales pueden limitar la forma en que puede utilizar el material.",
+        "Usted puede encontrar información adicional sobre el estado del derecho de autor del material en el sitio web de la organización que puso a disposición el material."
+      ],
+      "prefLabel": "Sin derecho de autor - Restricciones Contractuales",
+      "scopeNote": "Esta Declaración de Derechos solo puede ser utilizada para materiales que están en el dominio público pero para los cuales la organización que pretende poner a disposición el material ha realizado acuerdos contractuales que le exigen tomar medidas para restringir los usos del material por terceras partes. Para que esta Declaración de Derechos sea concluyente, la organización que pretende poner a disposición el material debe proveer un vínculo a una página que detalle las restricciones contractuales que aplican para el uso del material."
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/",
+      "description": "Esta Declaración de Derechos indica que la obra subyacente está en el dominio público, pero la organización que ha publicado el material está contractualmente obligada a autorizar solamente el uso no comercial por terceras partes.",
+      "definition": "Esta obra ha sido digitalizada en una asociación pública-privada. Como parte de esta asociación, los asociados han acordado limitar los usos comerciales por terceras partes de esta representación digital del objeto.\n\n  Usted puede, sin solicitar permiso, copiar, modificar, distribuir, exhibir o representar el objeto digital para usos no comerciales. Para cualquier otro uso permitido, por favor, revise los términos y condiciones de la organización que ha puesto el material a disposición.",
+      "note": [
+        "A menos que se exprese lo contrario, la organización que ha puesto este material a disposición no otorga garantías sobre el material y no puede garantizar la exactitud de esta Declaración de Derechos. Usted es responsable por el uso que haga del material.",
+        "Usted quizás necesite obtener permiso para el uso que pretende hacer del material. Por ejemplo, otros derechos tales como el derecho a la publicidad, el derecho a la privacidad o los derechos morales pueden limitar la forma en que puede utilizar el material.",
+        "Usted puede encontrar información adicional sobre el estado del derecho de autor del material en el sitio web de la organización que puso a disposición el material."
+      ],
+      "prefLabel": "Sin derecho de autor - Uso No Comercial solamente",
+      "scopeNote": "Esta Declaración de Derechos solo puede ser utilizada para obras que están en el dominio público y han sido digitalizadas en una asociación pública-privada como parte de la cual los asociados han acordado limitar los usos comerciales por terceras partes de esta representación digital de la obra. Ha sido desarrollada específicamente para permitir la inclusión de obras que han sido digitalizadas como parte de las asociaciones entre bibliotecas europeas y Google, pero en teoría puede ser aplicada a materiales que han sido digitalizados por asociaciones público-privadas similares."
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/NoC-OKLR/1.0/",
+      "description": "Esta Declaración de Derechos indica que el material subyacente está en el dominio público, pero hay restricciones conocidas impuestas por leyes distintas del derecho de autor y/o derechos conexos sobre el uso del material por terceras partes.",
+      "definition": "El uso de este material no está restringido por el derecho de autor y/o derechos conexos.\n\n  En una o más jurisdicciones, se sabe que otras leyes distintas del derecho de autor imponen restricciones al uso de este material.\n\n  Por favor, refiérase a la organización que ha puesto a disposición el material para más información.",
+      "note": [
+        "A menos que se exprese lo contrario, la organización que ha puesto este material a disposición no otorga garantías sobre el material y no puede garantizar la exactitud de esta Declaración de Derechos. Usted es responsable por el uso que haga del material.",
+        "Usted quizás necesite obtener permiso para el uso que pretende hacer del material. Por ejemplo, otros derechos tales como el derecho a la publicidad, el derecho a la privacidad o los derechos morales pueden limitar la forma en que puede utilizar el material.",
+        "Usted puede encontrar información adicional sobre el estado del derecho de autor del material en el sitio web de la organización que puso a disposición el material."
+      ],
+      "prefLabel": "Sin derecho de autor - Otras restricciones legales conocidas",
+      "scopeNote": "Esta Declaración de Derechos debe ser utilizada para materiales que están en el dominio público pero que no pueden ser libremente re-utilizados como consecuencia de restricciones legales conocidas que le impiden a la organización permitir la libre reutilización del material, tales como protecciones sobre el patrimonio cultural o sobre expresiones culturales tradicionales. Para que esta Declaración de Derechos sea concluyente, la organización que pretende poner a disposición el material debe proveer un vínculo a una página que detalle las restricciones legales que limitan la reutilización del material."
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+      "description": "Esta Declaración de Derechos indica que el material está en el dominio público según las leyes de Estados Unidos, pero no hay una resolución sobre su estado bajo las leyes de derecho de autor de otros países.",
+      "definition": "La organización que ha puesto a disposición el material cree que el material está en el dominio público bajo las leyes de los Estados Unidos, pero no se ha determinado el estado de derecho de autor bajo las leyes de derecho de autor de otros países. El material puede no estar en el dominio público según las leyes de otros países.\n\n  Por favor, refiérase a la organización que ha puesto a disposición el material para más información.",
+      "note": [
+        "A menos que se exprese lo contrario, la organización que ha puesto este material a disposición no otorga garantías sobre el material y no puede garantizar la exactitud de esta Declaración de Derechos. Usted es responsable por el uso que haga del material.",
+        "Usted quizás necesite obtener permiso para el uso que pretende hacer del material. Por ejemplo, otros derechos tales como el derecho a la publicidad, el derecho a la privacidad o los derechos morales pueden limitar la forma en que puede utilizar el material.",
+        "Usted puede encontrar información adicional sobre el estado del derecho de autor del material en el sitio web de la organización que puso a disposición el material."
+      ],
+      "prefLabel": "Sin derecho de autor - Estados Unidos",
+      "scopeNote": "Esta Declaración de Derechos debe ser utilizada para materiales para los cuales la organización ha determinado que son libres de derecho de autor bajo las leyes de los Estados Unidos. Esta Declaración de Derechos no debe ser utilizada para obras huérfanas (para las cuales se asume que están protegidas por derecho de autor) o para obras para las cuales la organización que pretende poner a disposición el material no ha realizado un esfuerzo para determinar el estado del derecho de autor de la obra subyacente."
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/UND/1.0/",
+      "description": "Esta Declaración de Derechos indica que la organización que ha puesto a disposición el material ha revisado el estado del derecho de autor y conexos del material, pero no pudo determinar el estado del derecho de autor del material.",
+      "definition": "El estado del derecho de autor y derechos conexos de este material ha sido evaluado por la organización que ha puesto a disposición el material, pero la organización no pudo hacer una determinación concluyente sobre el estado del derecho de autor sobre la obra.\n\n  Por favor, refiérase a la organización que ha puesto el material a disposición para más información.\n\n  Usted es libre de utilizar este material de cualquier forma que esté permitida por la legislación de derecho de autor y derechos conexos que se aplique para el uso que pretende hacer.",
+      "note": [
+        "A menos que se exprese lo contrario, la organización que ha puesto este material a disposición no otorga garantías sobre el material y no puede garantizar la exactitud de esta Declaración de Derechos. Usted es responsable por el uso que haga del material.",
+        "Usted quizás necesite obtener permiso para el uso que pretende hacer del material. Por ejemplo, otros derechos tales como el derecho a la publicidad, el derecho a la privacidad o los derechos morales pueden limitar la forma en que puede utilizar el material.",
+        "Usted puede encontrar información adicional sobre el estado del derecho de autor del material en el sitio web de la organización que puso a disposición el material."
+      ],
+      "prefLabel": "Derecho de autor sin determinar",
+      "scopeNote": "Esta Declaración de Derechos debe ser utilizada para materiales para los cuales el estado del derecho de autor es desconocido y para los cuales la organización que ha puesto el material a disposición ha realizado un esfuerzo (fallido) para determinar el estado del derecho de autor sobre la obra. Típicamente, esta Declaración de Derechos es utilizada cuando a la organización le faltan elementos claves esenciales para hacer una adecuada determinación del estado del derecho de autor."
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/collection-ic/1.0/",
+      "prefLabel": "Declaraciones para obras que están protegidas por derecho de autor"
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/collection-nc/1.0/",
+      "prefLabel": "Declaraciones para obras que no están protegidas por derecho de autor"
+    },
+    {
+      "@id": "http://rightsstatements.org/vocab/collection-other/1.0/",
+      "prefLabel": "Declaraciones para obras cuyo estado de derecho de autor es poco claro"
+    }
+  ]
+}
