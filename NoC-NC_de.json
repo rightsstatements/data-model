@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "de",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/",
+  "description": "Dieser Rechtehinweis besagt, dass das zugrundeliegende Werk gemeinfrei ist, aber die Institution, die das Objekt zugänglich macht, vertraglich gebunden ist und lediglich nicht kommerzielle Nutzungen durch Dritte erlauben darf.",
+  "definition": "Das Werk wurde in einer öffentlich-privaten Partnerschaft (PPP) digitalisiert. Innerhalb der Partnerschaft haben die Vertragspartner Einschränkungen einer kommerziellen Nutzung des Digitalisats durch Dritte vereinbart.\n\n  Sie sind berechtigt, auch ohne weitere Erlaubnis das Objekt für nicht kommerzielle Nutzungen zu kopieren, zu verändern, zu verbreiten, auszustellen oder aufzuführen. Für alle anderen zulässigen Nutzungen überprüfen Sie bitte die Nutzungsbedingungen der Institution, die das Objekt zugänglich gemacht hat.",
+  "note": [
+    "Soweit nicht ausdrücklich an anderer Stelle ausgewiesen, macht die Institution, die das Objekt zugänglich macht, keine Zusicherungen in Bezug auf dieses und übernimmt keine Garantie für die Richtigkeit des gewählten Rechtehinweises. Sie sind für die eigene Nutzung selbst verantwortlich.",
+    "Möglicherweise benötigen Sie zusätzliche Erlaubnisse für die beabsichtigte Nutzung. Zum Beispiel weil andere Rechte wie Veröffentlichungs-, Persönlichkeits- oder Urheberpersönlichkeitsrechte den erlaubten Nutzungsumfang einschränken.",
+    "Möglicherweise finden Sie zusätzliche Informationen zum Urheberrechtsschutz des Objekts auf der Website der Institution, die das Objekt verfügbar gemacht hat."
+  ],
+  "prefLabel": "Kein Urheberrechtsschutz - nur nicht kommerzielle Nutzung erlaubt",
+  "scopeNote": "Dieser Rechtehinweis kann nur für gemeinfreie Werke verwendet werden, die in einer öffentlich-privaten Partnerschaft (PPP) digitalisiert wurden, innerhalb derer die Vertragspartner vereinbart haben, die kommerzielle Nutzung des Digitalisats durch Dritte nur mit Einschränkungen zu erlauben. Der Rechtehinweis wurde speziell für die Einbeziehung von Werken aus Digitalisierungsprojekten in Partnerschaft zwischen europäischen Bibliotheken und Google entwickelt, kann aber ebenso auf Objekte angewandt werden, die in gleichgelagerten Fällen in öffentlichen-privaten Partnerschaften entstanden sind."
+}

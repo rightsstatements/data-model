@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "fi",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/NoC-CR/1.0/",
+  "description": "Tällä käyttöoikeuskuvauksella ilmaistaan, että Kohteeseen liittyvä teos ei ole tekijänoikeuden suojaama, mutta Kohteen julkaisseen organisaation on sopimussyistä asetettava kolmansille osapuolille rajoituksia koskien kohteen tiettyjä käyttömuotoja.",
+  "definition": "Tekijänoikeus ja/tai lähioikeudet eivät rajoita tämän Kohteen käyttöä.\n\n  Osana Kohteen hankintaa tai digitointia Kohteen saataville saattanut organisaatio on sopimuksen perusteella velvoitettu rajoittamaan Kohteen käyttöä. Rajoitukset voivat liittyä muun muassa yksityisyyden suojaan, kulttuurin suojeluun taikka digitointi- tai lahjoitussopimuksiin.\n\n  Lisätietoja voit saada ottamalla yhteyttä Kohteen saataville saattaneeseen organisaatioon.",
+  "note": [
+    "Ellei erikseen ole muuta nimenomaisesti ilmoitettu, tämän Kohteen saataville saattanut organisaatio ei anna mitään Kohdetta koskevaa takuuta eikä voi taata tämän käyttöoikeuskuvauksen virheettömyyttä. Olet vastuussa omasta käytöstäsi.",
+    "Saatat tarvita muita lupia aikomaasi käyttöä varten. Esimerkiksi moraaliset oikeudet, yksityisyyden suojaa koskevat oikeudet taikka henkilön oikeudet määrätä kuvansa tai henkilönsä tunnistettavan osan kaupallisesta käytöstä voivat rajoittaa aineiston käyttöä.",
+    "Lisätietoja Kohteen tekijänoikeudellisesta statuksesta voi olla saatavissa Kohteen saataville saattaneen organisaation verkkosivuilta."
+  ],
+  "prefLabel": "Ei tekijänoikeutta - sopimuksellisia rajoituksia",
+  "scopeNote": "Tätä käyttöoikeuskuvausta voidaan käyttää ainoastaan sellaisiin Kohteisiin, jotka eivät ole tekijänoikeuden suojaamia mutta joiden osalta organisaatio, joka aikoo saattaa kohteen saataville, on tehnyt sopimuksen, joka velvoittaa sitä rajoittamaan Kohteen käyttöä kolmansien osapuolten toimesta. Organisaation, joka aikoo saattaa Kohteen saataville, tulisi täydentää tätä kuvausta linkillä verkkosivulle, josta Kohteen käyttöä koskevat sopimukselliset rajoitukset ilmenevät."
+}

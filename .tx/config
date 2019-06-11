@@ -1,7 +1,77 @@
 [main]
 host = https://www.transifex.com
 
-[rightsstatementsorg.rights-statements_enjson]
-file_filter = rights-statements_<lang>.json
+[rightsstatementsorg.cne_enjson]
+file_filter = CNE_<lang>.json
+source_lang = en
+type = KEYVALUEJSON
+
+[rightsstatementsorg.collection-ic_enjson]
+file_filter = collection-ic_<lang>.json
+source_lang = en
+type = KEYVALUEJSON
+
+[rightsstatementsorg.collection-nc_enjson]
+file_filter = collection-nc_<lang>.json
+source_lang = en
+type = KEYVALUEJSON
+
+[rightsstatementsorg.collection-other_enjson]
+file_filter = collection-other_<lang>.json
+source_lang = en
+type = KEYVALUEJSON
+
+[rightsstatementsorg.inc-edu_enjson]
+file_filter = InC-EDU_<lang>.json
+source_lang = en
+type = KEYVALUEJSON
+
+[rightsstatementsorg.inc_enjson]
+file_filter = InC_<lang>.json
+source_lang = en
+type = KEYVALUEJSON
+
+[rightsstatementsorg.inc-nc_enjson]
+file_filter = InC-NC_<lang>.json
+source_lang = en
+type = KEYVALUEJSON
+
+[rightsstatementsorg.inc-ow-eu_enjson]
+file_filter = InC-OW-EU_<lang>.json
+source_lang = en
+type = KEYVALUEJSON
+
+[rightsstatementsorg.inc-ruu_enjson]
+file_filter = InC-RUU_<lang>.json
+source_lang = en
+type = KEYVALUEJSON
+
+[rightsstatementsorg.nkc_enjson]
+file_filter = NKC_<lang>.json
+source_lang = en
+type = KEYVALUEJSON
+
+[rightsstatementsorg.noc-cr_enjson]
+file_filter = NoC-CR_<lang>.json
+source_lang = en
+type = KEYVALUEJSON
+
+[rightsstatementsorg.noc-nc_enjson]
+file_filter = NoC-NC_<lang>.json
+source_lang = en
+type = KEYVALUEJSON
+
+[rightsstatementsorg.noc-oklr_enjson]
+file_filter = NoC-OKLR_<lang>.json
+source_lang = en
+type = KEYVALUEJSON
+
+[rightsstatementsorg.noc-us_enjson]
+file_filter = NoC-US_<lang>.json
+source_lang = en
+type = KEYVALUEJSON
+
+[rightsstatementsorg.und_enjson]
+file_filter = UND_<lang>.json
 source_lang = en
 type = KEYVALUEJSON

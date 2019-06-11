@@ -1,0 +1,9 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "en",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/collection-other/1.0/",
+  "prefLabel": "Statements for works where the copyright status is unclear"
+}

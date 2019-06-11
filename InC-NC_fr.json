@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "fr",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/",
+  "description": "Cette Déclaration des Droits indique que l'Objet auquel elle se rapporte est protégé par le droit d'auteur, mais que son utilisation à des fins non commerciales est permise sans requérir d'autorisation supplémentaire",
+  "definition": "Cet Objet est protégé par le droit d'auteur et/ou les droits voisins.\n\n  Vous avez le droit d'utiliser l'Objet de toutes les manières autorisées par la législation sur le droit d'auteur et les droits voisins applicable à votre utilisation. De plus, l'utilisation à des fins non commerciales est accordée de plein droit.\n\n  Les autres utilisations requièrent l'autorisation du/des titulaire(s) des droits.",
+  "note": [
+    "Sauf mention expresse contraire, l'organisme qui a rendu cet Objet accessible ne donne aucune garantie concernant ce dernier ni ne garantit l'exactitude de la présente Déclaration des Droits. Vous êtes responsable de votre propre utilisation.",
+    "Il est possible que l'utilisation que vous envisagez requière des autorisations supplémentaires. Il se peut, par exemple, que d'autres droits, comme les droits de la personnalité ou de la publicité, les droits liés à la protection de la vie privée ou les droits moraux, limitent vos possibilités d'utilisation.",
+    "Il est possible que vous trouviez, sur le site Web de l'organisme ayant rendu l'Objet accessible, des informations supplémentaires concernant la protection de l'objet par le droit d'auteur."
+  ],
+  "prefLabel": "Protégé par le droit d'auteur - Utilisation non commerciale autorisée",
+  "scopeNote": "La présente Déclaration des Droits peut uniquement être utilisée pour les Objets protégés par le droit d'auteur. De plus, l'organisme qui les rend accessibles doit être titulaire des droits ou avoir été explicitement autorisé par le(s) titulaire(s) des droits à permettre à des tiers d'utiliser son/ses/leur(s) œuvre(s) à des fins pédagogiques sans autorisation préalable."
+}

@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "fr",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/",
+  "description": "La présente Déclaration des Droits indique que l'Oeuvre sous-jacente est dans le Domaine Public, mais que l'organisme qui a publié l'Objet est contractuellement tenu d'autoriser uniquement l'utilisation par des tiers à des fins non commerciales.",
+  "definition": "Cette Oeuvre a été numérisée en partenariat public-privé. Dans le cadre de ce partenariat, les parties contractantes ont convenu de limiter les utilisations commerciales de cette représentation numérique de l'Oeuvre par des tiers.\n\n  Vous pouvez, sans autorisation, copier, modifier, distribuer, exposer ou représenter l'Objet à des fins non commerciales. Pour toutes autres utilisations permises, veuillez examiner les conditions générales de l'organisme qui a rendu l'Objet accessible.",
+  "note": [
+    "Sauf mention expresse contraire, l'organisme qui a rendu cet Objet accessible ne donne aucune garantie concernant ce dernier ni ne garantit l'exactitude de la présente Déclaration des Droits. Vous êtes responsable de votre propre utilisation.",
+    "Il est possible que l'utilisation que vous envisagez requière des autorisations supplémentaires. Il se peut, par exemple, que d'autres droits, comme les droits de la personnalité ou de la publicité, les droits liés à la protection de la vie privée ou les droits moraux, limitent vos possibilités d'utilisation.",
+    "Il est possible que vous trouviez, sur le site Web de l'organisme ayant rendu l'Objet accessible, des informations supplémentaires concernant la protection de l'Objet par le droit d'auteur."
+  ],
+  "prefLabel": "Absence de protection par le droit d'auteur - Utilisation à des fins uniquement non commerciales",
+  "scopeNote": "L'utilisation de cette Déclaration des Droits est limitée aux œuvres qui sont dans le Domaine Public et qui ont été numérisées au sein d'un partenariat public-privé dans le cadre duquel les parties contractantes ont convenu de limiter les utilisations commerciales de cette représentation numérique de l'Oeuvre par des tiers. Spécialement élaborée afin de pouvoir inclure les œuvres numérisées dans le cadre des partenariats existant entre des bibliothèques européennes et Google, elle peut théoriquement être utilisée pour des Objets qui ont été numérisés dans le cadre de partenariats public-privé similaires."
+}

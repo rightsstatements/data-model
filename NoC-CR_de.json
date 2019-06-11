@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "de",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/NoC-CR/1.0/",
+  "description": "Dieser Rechtehinweis besagt, dass das zugrunde liegende Werk gemeinfrei ist, aber die Institution, die das Objekt zugänglich macht, vertraglich verpflichtet ist, bestimmte Nutzungen durch Dritte nur eingeschränkt zu erlauben.",
+  "definition": "Die Nutzung des Objektes ist nicht beschränkt durch Urheberrecht und/oder verwandte Schutzrechte.\n\n  Durch Kauf oder Digitalisierung des Werks ist die Institution, die das Objekt zugänglich macht, vertraglich verpflichtet, die Nutzung des Objekts durch Dritte nur eingeschränkt zu erlauben. Einschränkungen ergeben sich möglicherweise aus Persönlichkeitsrechten, Kulturgutschutz, Digitalisierungsabkommen oder Schenkungsverträgen, können aber auch andere Gründe haben.\n\n  Bitte kontaktieren Sie für weitergehende Informationen die Institution, die das Objekt zugänglich gemacht hat.",
+  "note": [
+    "Soweit nicht ausdrücklich an anderer Stelle ausgewiesen, macht die Institution, die das Objekt zugänglich macht, keine Zusicherungen in Bezug auf dieses und übernimmt keine Garantie für die Richtigkeit des gewählten Rechtehinweises. Sie sind für die eigene Nutzung selbst verantwortlich.",
+    "Möglicherweise benötigen Sie zusätzliche Erlaubnisse für die beabsichtigte Nutzung. Zum Beispiel weil andere Rechte wie Veröffentlichungs-, Persönlichkeits- oder Urheberpersönlichkeitsrechte den erlaubten Nutzungsumfang einschränken.",
+    "Möglicherweise finden Sie zusätzliche Informationen zum Urheberrechtsschutz des Objekts auf der Website der Institution, die das Objekt verfügbar gemacht hat."
+  ],
+  "prefLabel": "Kein Urheberrechtsschutz - Vertragliche Beschränkungen",
+  "scopeNote": "Dieser Rechtehinweis kann nur für Objekte verwendet werden, die gemeinfrei sind und bei denen die Institution, die beabsichtigt, das Objekt zugänglich zu machen, vertragliche Vereinbarungen eingegangen ist, die bestimmte Einschränkungen der Nutzung durch Dritte verlangen. Damit der Rechtehinweis eindeutig ist, sollte die Institution, die beabsichtigt das Objekt zugänglich zu machen, einen Link mitteilen, der zu einer Seite mit Detailinformationen zu den vertraglichen Einschränkungen der Nutzung des Objekts führt."
+}

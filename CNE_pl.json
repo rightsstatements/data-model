@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "pl",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/CNE/1.0/",
+  "description": "To oświadczenie prawne oznacza, że organizacja która udostępniła obiekt nie zbadała statusu obiektu w kontekście prawa autorskiego i praw pokrewnych.",
+  "definition": "Status obiektu w kontekście prawa autorskiego i praw pokrewnych nie został zbadany.\n\n  W celu uzyskania dodatkowych informacji należy skontaktować się z organizacją, która udostępniła obiekt.\n\n  Można wykorzystywać ten obiekt w dowolny sposób dozwolony przez przepisy o prawie autorskim i prawach pokrewnych, które mają zastosowanie w kontekście planowanego wykorzystania.",
+  "note": [
+    "Jeżeli wyraźnie nie zaznaczono inaczej, organizacja która udostępniła dany obiekt nie daje w związku z nim żadnych gwarancji i nie może zagwarantować poprawności oświadczenia prawnego. Sam odpowiadasz za własne działania.",
+    "Może być również konieczne uzyskanie innych zgód w celu wykorzystania obiektu. Na przykład prawa związane z ochroną wizerunku i danych osobowych, prywatnością lub prawa osobiste mogą ograniczać możliwości wykorzystania obiektu.",
+    "Dodatkowe informacje o statusie prawnoautorskim obiektu mogą być dostępne na stronie internetowej organizacji, która ten obiekt udostępniła."
+  ],
+  "prefLabel": "Niezbadany status prawnoautorski",
+  "scopeNote": "To oświadczenie prawne powinno być wykorzystywane dla obiektów, których status w kontekście prawa autorskiego i praw pokrewnych jest nieznany, a organizacja, która zamierza taki obiekt udostępnić nie podjęła działań mających na celu ustalenie takiego statusu dla utworu pierwotnego."
+}

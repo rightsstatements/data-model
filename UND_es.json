@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "es",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/UND/1.0/",
+  "description": "Esta Declaración de Derechos indica que la organización que ha puesto a disposición el material ha revisado el estado del derecho de autor y conexos del material, pero no pudo determinar el estado del derecho de autor del material.",
+  "definition": "El estado del derecho de autor y derechos conexos de este material ha sido evaluado por la organización que ha puesto a disposición el material, pero la organización no pudo hacer una determinación concluyente sobre el estado del derecho de autor sobre la obra.\n\n  Por favor, refiérase a la organización que ha puesto el material a disposición para más información.\n\n  Usted es libre de utilizar este material de cualquier forma que esté permitida por la legislación de derecho de autor y derechos conexos que se aplique para el uso que pretende hacer.",
+  "note": [
+    "A menos que se exprese lo contrario, la organización que ha puesto este material a disposición no otorga garantías sobre el material y no puede garantizar la exactitud de esta Declaración de Derechos. Usted es responsable por el uso que haga del material.",
+    "Usted quizás necesite obtener permiso para el uso que pretende hacer del material. Por ejemplo, otros derechos tales como el derecho a la publicidad, el derecho a la privacidad o los derechos morales pueden limitar la forma en que puede utilizar el material.",
+    "Usted puede encontrar información adicional sobre el estado del derecho de autor del material en el sitio web de la organización que puso a disposición el material."
+  ],
+  "prefLabel": "Derecho de autor sin determinar",
+  "scopeNote": "Esta Declaración de Derechos debe ser utilizada para materiales para los cuales el estado del derecho de autor es desconocido y para los cuales la organización que ha puesto el material a disposición ha realizado un esfuerzo (fallido) para determinar el estado del derecho de autor sobre la obra. Típicamente, esta Declaración de Derechos es utilizada cuando a la organización le faltan elementos claves esenciales para hacer una adecuada determinación del estado del derecho de autor."
+}

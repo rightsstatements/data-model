@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "de",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/",
+  "description": "Dieser Rechtehinweis besagt, dass Urheberrechtsschutz besteht, aber die nicht kommerzielle Nutzung des Objekts ohne zusätzliche Rechteeinholung gestattet ist.",
+  "definition": "Dieses Objekt ist durch das Urheberrecht und/oder verwandte Schutzrechte geschützt.\n\n  Sie sind berechtigt, das Objekt in jeder Form zu nutzen, die das Urheberrechtsgesetz und/oder einschlägige verwandte Schutzrechte gestatten. Darüber hinaus ist auch die nicht kommerzielle Nutzung ohne weitere Erlaubnis der Rechteinhaber gestattet.\n\n  Für weitere Nutzungsarten benötigen Sie die Zustimmung der/des Rechteinhaber/s.",
+  "note": [
+    "Soweit nicht ausdrücklich an anderer Stelle ausgewiesen, macht die Institution, die das Objekt zugänglich macht, keine Zusicherungen in Bezug auf dieses und übernimmt keine Garantie für die Richtigkeit des gewählten Rechtehinweises. Sie sind für die eigene Nutzung selbst verantwortlich.",
+    "Möglicherweise benötigen Sie zusätzliche Erlaubnisse für die beabsichtigte Nutzung. Zum Beispiel weil andere Rechte, wie Veröffentlichungs-, Persönlichkeits- oder Urheberpersönlichkeitsrechte den erlaubten Nutzungsumfang einschränken.",
+    "Möglicherweise finden Sie zusätzliche Informationen zum Urheberrechtsschutz des Objekts auf der Website der Institution, die das Objekt verfügbar gemacht hat."
+  ],
+  "prefLabel": "Urheberrechtsschutz - Nicht kommerzielle Nutzung gestattet",
+  "scopeNote": "Dieser Rechtehinweis kann nur für urheberrechtlich geschützte Objekte verwendet werden, bei denen die Institution, die diese verfügbar macht, selbst Rechteinhaber ist oder ausdrücklich von dem/den Rechteinhaber(n) ermächtigt wurde, Dritten die Nutzung dessen/derer Werk(e) zu nicht kommerziellen Zwecken ohne vorherige Rechteeinholung zu erlauben."
+}

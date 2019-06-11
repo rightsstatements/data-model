@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "pl",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/InC-OW-EU/1.0/",
+  "description": "To oświadczenie prawne wskazuje, że oznaczony nim obiekt został zidentyfikowany jako “utwór osierocony” w rozumieniu Dyrektywy UE dotyczącej utworów osieroconych.",
+  "definition": "Ten obiekt został zidentyfikowany jako utwór osierocony w kraju pierwszej publikacji, zgodnie z Dyrektywą Parlamentu Europejskiego i Rady 2012/28/UE z dnia 25 października 2012 r. w sprawie niektórych dozwolonych sposobów korzystania z utworów osieroconych.\n\n  Dla tego obiektu albo (a) nie jest znany ani jeden uprawniony z tytułu praw autorskich lub też (b) co najmniej jeden uprawniony jest znany, jednak nie udało się go odnaleźć, mimo przeprowadzenia starannych poszukiwań. Efekty przeprowadzonych starannych poszukiwań są dostępne w bazie danych utworów osieroconych UE.\n\n  Można wykorzystywać ten obiekt w dowolny sposób dozwolony przez przepisy o prawie autorskim i prawach pokrewnych, które mają zastosowanie w kontekście planowanego wykorzystania.",
+  "note": [
+    "Jeżeli wyraźnie nie zaznaczono inaczej, organizacja która udostępniła dany obiekt nie daje w związku z nim żadnych gwarancji i nie może zagwarantować poprawności oświadczenia prawnego. Sam odpowiadasz za własne działania.",
+    "Może być konieczne uzyskanie innych zgód w celu wykorzystania obiektu. Na przykład prawa związane z ochroną wizerunku i danych osobowych, prywatnością lub prawa osobiste mogą ograniczać możliwości wykorzystania obiektu.",
+    "Dodatkowe informacje o statusie prawnoautorskim obiektu mogą być dostępne na stronie internetowej organizacji, która ten obiekt udostępniła.",
+    "Jeżeli posiadasz jakiekolwiek informacje, które mogą przyczynić się do poznania lub odnalezienia uprawnionego z tytułu praw autorskich, prosimy o poinformowanie o tym fakcie organizacji, która udostępniła dany obiekt."
+  ],
+  "prefLabel": "Objęty pełną ochroną prawnoautorską - Utwór osierocony UE",
+  "scopeNote": "To oświadczenie prawne jest przeznaczone do wykorzystania w przypadku obiektów, dla których utwór pierwotny został zidentyfikowany jako utwór osierocony zgodnie z Dyrektywą Parlamentu Europejskiego i Rady 2012/28/UE z dnia 25 października 2012 r. w sprawie niektórych dozwolonych sposobów korzystania z utworów osieroconych. Oświadczenie to może być zastosowane wyłącznie dla obiektów, które są cyfrowymi kopiami utworów objętych przepisami dyrektywy: utworów opublikowanych w książkach, czasopismach, dziennikach, magazynach lub innych publikacjach drukowanych, a także utworów filmowych lub audiowizualnych, fonogramów i wideogramów (uwaga: wyłączone są fotografie i utwory wizualne, takie jak np. obrazy czy rzeźby). Zastosowanie ograniczone jest wyłącznie do organizacji, które są beneficjentami dyrektywy: publicznie dostępnych bibliotek, placówek oświatowych lub muzeów, archiwów, instytucji odpowiedzialnych za dziedzictwo filmowe lub dźwiękowe oraz nadawców publicznych z siedzibą w państwach członkowskich UE. Beneficjenci są również zobowiązani do zarejestrowania utworu w bazie danych utworów osieroconych UE utrzymywanej przez EUIPO (Urząd Unii Europejskiej ds. Własności Intelektualnej)."
+}

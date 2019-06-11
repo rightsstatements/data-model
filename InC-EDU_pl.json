@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "pl",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/InC-EDU/1.0/",
+  "description": "To oświadczenie prawne wskazuje, że oznaczony nim obiekt jest objęty ochroną autorskich praw majątkowych i praw osobistych, ale dozwolone jest wykorzystanie obiektu w celach edukacyjnych bez uzyskiwania dodatkowych pozwoleń.",
+  "definition": "Ten obiekt jest chroniony prawem autorskim lub prawami pokrewnymi.\n\n  Można wykorzystywać ten obiekt w dowolny sposób dozwolony przez przepisy o prawie autorskim i prawach pokrewnych, które mają zastosowanie w kontekście planowanego wykorzystania. Ponadto, można go wykorzystać, jeżeli przepisy lub zgoda uprawnionego przewidują, że wykorzystanie w celach edukacyjnych nie wymaga pozwolenia ze strony uprawnionego z tytułu autorskich praw majątkowych.\n\n  Dla innych sposobów wykorzystania obiektu niezbędne jest uzyskanie pozwolenia od uprawnionego z tytułu autorskich praw majątkowych.",
+  "note": [
+    "Jeżeli wyraźnie nie zaznaczono inaczej, organizacja która udostępniła dany obiekt nie daje w związku z nim żadnych gwarancji i nie może zagwarantować poprawności oświadczenia prawnego. Sam odpowiadasz za własne działania.",
+    "Może być również konieczne uzyskanie innych zgód w celu wykorzystania obiektu. Na przykład prawa związane z ochroną wizerunku i danych osobowych, prywatnością lub prawa osobiste mogą ograniczać możliwości wykorzystania obiektu.",
+    "Dodatkowe informacje o statusie prawnoautorskim obiektu mogą być dostępne na stronie internetowej organizacji, która ten obiekt udostępniła."
+  ],
+  "prefLabel": "Objęty pełną ochroną prawnoautorską - Dozwolone wykorzystanie edukacyjne",
+  "scopeNote": "To oświadczenie prawne może być wykorzystywane wyłącznie dla obiektu, który jest objęty ochroną prawnoautorską, a organizacja, która udostępnia dany obiekt jest uprawnionym z tytułu majątkowych praw autorskich lub też uzyskała od uprawnionego do tych praw upoważnienie do zezwolenia osobom trzecim na wykorzystanie utworu (utworów) w celach edukacyjnych bez uprzedniego uzyskiwania pozwolenia."
+}

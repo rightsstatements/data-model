@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "de",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/CNE/1.0/",
+  "description": "Dieser Rechtehinweis besagt, dass die Institution, die das Objekt zugänglich macht, den Urheberrechtsschutz und sonstigen Rechtsstatus des Objekts nicht bewertet hat.",
+  "definition": "Der Urheberrechtsschutz und sonstige Rechtsstatus des Objekts wurde nicht bewertet.\n\n  Bitte kontaktieren Sie für weitergehende Informationen die Institution, die das Werk zugänglich gemacht hat.\n\n  Sie sind berechtigt, das Objekt in jeder Form zu nutzen, die das Urheberrechtsgesetz und/oder einschlägige verwandte Schutzrechte gestatten.",
+  "note": [
+    "Soweit nicht ausdrücklich an anderer Stelle ausgewiesen, macht die Institution, die das Objekt zugänglich macht, keine Zusicherungen in Bezug auf dieses und übernimmt keine Garantie für die Richtigkeit des gewählten Rechtehinweises. Sie sind für die eigene Nutzung selbst verantwortlich.",
+    "Möglicherweise benötigen Sie zusätzliche Erlaubnisse für die beabsichtigte Nutzung. Zum Beispiel weil andere Rechte wie Veröffentlichungs-, Persönlichkeits- oder Urheberpersönlichkeitsrechte den erlaubten Nutzungsumfang einschränken.",
+    "Möglicherweise finden Sie zusätzliche Informationen zum Urheberrechtsschutz des Objekts auf der Website der Institution, die das Objekt verfügbar gemacht hat."
+  ],
+  "prefLabel": "Urheberrechtsschutz nicht bewertet",
+  "scopeNote": "Dieser Rechtehinweis sollte für Objekte genutzt werden, bei denen der Urheberrechtsschutz unbekannt ist und bei denen die Institution, die beabsichtigt, das Objekt zugänglich zu machen,  keine Anstrengungen unternommen hat, den Urheberrechtsschutz des zugrunde liegenden Werkes festzustellen."
+}

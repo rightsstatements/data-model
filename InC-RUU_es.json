@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "es",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/InC-RUU/1.0/",
+  "description": "Esta Declaración de Derechos indica que el material etiquetado con esta Declaración de Derechos ha sido identificado como protegido por derecho de autor, pero el titular o los titulares de derechos no pueden ser identificados o no pueden ser localizados.",
+  "definition": "Este material está protegido por derecho de autor y/o derechos conexos. Sin embargo, para este material, o bien (a) no se han identificado el titular o los titulares de derechos o (b) uno o más titulares de derechos han sido identificados, pero ninguno ha podido ser localizado.\n\n  Usted es libre de utilizar este material de cualquier forma que esté permitida por la legislación de derecho de autor y derechos conexos que se aplique al uso que pretende hacer.",
+  "note": [
+    "A menos que se exprese lo contrario, la organización que ha puesto este material a disposición no otorga garantías sobre el material y no puede garantizar la exactitud de esta Declaración de Derechos. Usted es responsable por el uso que haga del material.",
+    "Usted quizás necesite obtener permiso para el uso que pretende hacer del material. Por ejemplo, otros derechos tales como el derecho a la publicidad, el derecho a la privacidad o los derechos morales pueden limitar la forma en que puede utilizar el material.",
+    "Si usted tiene cualquier información que pueda contribuir a identificar o localizar al titular o a los titulares de derechos, por favor, notifique a la organización que ha puesto el material a disposición."
+  ],
+  "prefLabel": "Protegido por derecho de autor - Titular o titulares de derechos imposibles de localizar o de identificar",
+  "scopeNote": "Esta Declaración de Derechos está prevista para ser utilizada con un material que ha sido identificado como material protegido por derecho de autor pero cuyo titular o titulares de derechos no han sido identificados o localizados tras llevar a cabo una investigación razonable. Esta Declaración de Derechos solo debe ser utilizada si la organización que pretende poner a disposición el material está razonablemente segura de que la obra subyacente está protegida por derecho de autor. Esta Declaración de Derechos no está prevista para ser utilizada por organizaciones con sede en la Unión Europea que han identificado las obras como obras huérfanas en acuerdo con la Directiva de Obras Huérfanas de la UE (en cambio, deben utilizar la InC-OW-EU)."
+}

@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "sv-FI",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/InC-EDU/1.0/",
+  "description": "Denna nyttjanderättsbeskrivning innebär att objektet som är märkt med denna nyttjanderättsbeskrivning skyddas av upphovsrätt, men att användning inom undervisning är tillåten utan att behöva skaffa ytterligare tillstånd.",
+  "definition": "Detta Objekt skyddas genom upphovsrätt och/eller närstående rättigheter.\n\n  Du kan använda Objektet på alla sätt som är tillåtna enligt lagstiftningen om upphovsrätt och närstående rättigheter som är tillämplig på din användning. Dessutom krävs inget tillstånd av rättsinnehavaren(rna) för användning inom undervisning.\n\n  För annan användning måste du skaffa tillstånd av rättsinnehavaren(rna).",
+  "note": [
+    "Om inte annat uttryckligen sägs, ger organisationen som har gjort Objektet tillgängligt inga garantier rörande Objektet och den kan inte garantera att denna Nyttjanderättsbeskrivning är riktig. Du ansvarar själv för din egen användning.",
+    "Du kanske måste skaffa andra tillstånd för den användning som du avser. Till exempel moraliska rättigheter, rättigheter gällande skyddet för privatliv eller personens rättigheter att bestämma gällande kommersiell användning av en identifierbar del av sin bild eller sin person kan begränsa dina möjligheter att använda materialet.",
+    "Du kan hitta ytterligare information om Objektets upphovsrättsliga status på den organisations hemsida som har gjort Objektet tillgängligt."
+  ],
+  "prefLabel": "Underkastad upphovsrätt – användning inom undervisning tillåten",
+  "scopeNote": "Denna nyttjanderättsbeskrivning kan endast användas för upphovsrättsskyddade objekt då den organisation som gör objektet tillgängligt är rättsinnehavaren eller uttryckligen har fått tillstånd från rättsinnehavaren att låta tredje parter använda sin verk/sina verk i utbildningsändamål utan att först skaffa tillstånd."
+}

@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "sv-FI",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/NoC-CR/1.0/",
+  "description": "Denna nyttjanderättsbeskrivning innebär att det underliggande verket inte är skyddat av upphovsrätt, men organisationen som har publicerat objektet är avtalsmässigt bunden att begränsa vissa typer av användning av tredje part.",
+  "definition": "Användningen av detta Objekt begränsas inte av lagstiftning om upphovsrätt och/eller närstående rättigheter.\n\n  Som en del av förvärvet eller digitaliseringen av detta Objekt har den organisation som har gjort Objektet tillgängligt en avtalsmässig förpliktelse att begränsa användningen av detta Objekt. Begränsningarna kan omfatta, men inte uteslutande, skyddet för privatlivet, skydd av kultur, eller digitaliserings- eller donationsavtal.\n\n  För ytterligare upplysningar, ta kontakt med den organisation som har gjort Objektet tillgängligt.",
+  "note": [
+    "Om inte annat uttryckligen sägs, ger organisationen som har gjort Objektet tillgängligt inga garantier rörande Objektet och den kan inte garantera att denna Nyttjanderättsbeskrivning är riktig. Du ansvarar själv för din egen användning.",
+    "Du kanske måste skaffa andra tillstånd för den användning som du avser. Till exempel moraliska rättigheter, rättigheter gällande skyddet för privatliv eller personens rättigheter att bestämma gällande kommersiell användning av en identifierbar del av sin bild eller sin person kan begränsa dina möjligheter att använda materialet.",
+    "Du kan hitta ytterligare information om Objektets upphovsrättsliga status på den organisations hemsida som har gjort Objektet tillgängligt."
+  ],
+  "prefLabel": "Ingen upphovsrätt – avtalsmässiga begränsningar",
+  "scopeNote": "Denna nyttjanderättsbeskrivning kan endast användas för objekt som inte är skyddade av upphovsrätt men för vilka organisationen som avser att göra objektet tillgängligt har avtalsmässig förpliktelse att begränsa användningen av objektet av tredje part. Nyttjanderättsbeskrivningen förutsätter att organisationen som avser att göra objektet tillgängligt  tillhandahåller en länk till en sida där objektets avtalsmässiga begränsningar beskrivs."
+}

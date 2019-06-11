@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "sv-FI",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/NKC/1.0/",
+  "description": "Denna nyttjanderättsbeskrivning innebär att organisationen som har publicerat objektet anser att ingen upphovsrätt eller närstående rättighet är kända för objektet, men att det inte gick att bestämmas med säkerhet.",
+  "definition": "Den organisation som har gjort Objektet tillgängligt har rimlig anledning att tro att upphovsrätt eller närstående rättigheter inte begränsar användningen av Objektet, men inga definitiva slutsatser kunde dras.\n\n  För ytterligare upplysningar, ta kontakt med den organisation som har gjort Objektet tillgängligt.\n\n  Du kan använda Objektet på alla sätt som är tillåtna enligt lagstiftningen om upphovsrätt och närstående rättigheter som är tillämplig på din användning.",
+  "note": [
+    "Om inte annat uttryckligen sägs, ger organisationen som har gjort Objektet tillgängligt inga garantier rörande Objektet och den kan inte garantera att denna Nyttjanderättsbeskrivning är riktig. Du ansvarar själv för din egen användning.",
+    "Du kanske måste skaffa andra tillstånd för den användning som du avser. Till exempel moraliska rättigheter, rättigheter gällande skyddet för privatliv eller personens rättigheter att bestämma gällande kommersiell användning av en identifierbar del av sin bild eller sin person kan begränsa dina möjligheter att använda materialet.",
+    "Du kan hitta ytterligare information om Objektets upphovsrättsliga status på den organisations hemsida som har gjort Objektet tillgängligt."
+  ],
+  "prefLabel": "Ingen känd upphovsrätt",
+  "scopeNote": "Denna nyttjanderättsbeskrivning bör användas för objekt vars upphovsrättsliga status inte har bestämts med säkerhet, men organisationen som avser att göra objektet tillgängligt har rimlig anledning att tro att upphovsrätt eller närstående rättigheter inte begränsar användningen av underliggande verket. Denna nyttjanderättsbeskrivning bör inte användas för anonyma verk (vilka antas skyddas av upphovsrätt) eller för verk där organisationen som avser att göra objektet tillgängligt inte har försökt fastställa underliggande verkets upphovsrättsliga status."
+}

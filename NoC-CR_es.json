@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "es",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/NoC-CR/1.0/",
+  "description": "Esta Declaración de Derechos indica que la obra subyacente está en el dominio público, pero que la organización que ha publicado el material está contractualmente obligada a restringir ciertos tipos de uso por terceras partes.",
+  "definition": "El uso de este material no está restringido por el derecho de autor y/o derechos conexos.\n\n  Como parte de la adquisición o la digitalización de esta obra, la organización que ha puesto a disposición el material está contractualmente obligada a limitar el uso de este material. Las limitaciones pueden incluir, pero no están limitadas a, cuestiones de privacidad, protecciones culturales, acuerdos de digitalización o acuerdos de donación.\n\n  Por favor, refiérase a la organización que ha puesto a disposición el material para más información.",
+  "note": [
+    "A menos que se exprese lo contrario, la organización que ha puesto este material a disposición no otorga garantías sobre el material y no puede garantizar la exactitud de esta Declaración de Derechos. Usted es responsable por el uso que haga del material.",
+    "Usted quizás necesite obtener permiso para el uso que pretende hacer del material. Por ejemplo, otros derechos tales como el derecho a la publicidad, el derecho a la privacidad o los derechos morales pueden limitar la forma en que puede utilizar el material.",
+    "Usted puede encontrar información adicional sobre el estado del derecho de autor del material en el sitio web de la organización que puso a disposición el material."
+  ],
+  "prefLabel": "Sin derecho de autor - Restricciones Contractuales",
+  "scopeNote": "Esta Declaración de Derechos solo puede ser utilizada para materiales que están en el dominio público pero para los cuales la organización que pretende poner a disposición el material ha realizado acuerdos contractuales que le exigen tomar medidas para restringir los usos del material por terceras partes. Para que esta Declaración de Derechos sea concluyente, la organización que pretende poner a disposición el material debe proveer un vínculo a una página que detalle las restricciones contractuales que aplican para el uso del material."
+}

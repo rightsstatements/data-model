@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "fr",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/NKC/1.0/",
+  "description": "La présente Déclaration des Droits indique que l'organisme qui a publié l'Objet est d'avis que l'Objet n'est pas protégé par le droit d'auteur ou les droits voisins, mais que l'absence d'une telle protection n'a pas été constatée de manière définitive.",
+  "definition": "L'organisme qui a rendu l'Objet accessible a des motifs raisonnables de croire que l'Objet n'est pas soumis à des restrictions liées au droit d'auteur ou à des droits voisins, sans pour autant l'avoir constaté de manière définitive.\n\n  Pour de plus amples informations, veuillez contacter l'organisme qui a rendu l'Objet accessible.\n\n  Vous avez le droit d'utiliser l'Objet de n'importe quelle manière autorisée par la législation sur le droit d'auteur et les droits voisins applicable à votre utilisation.",
+  "note": [
+    "Sauf mention expresse contraire, l'organisme qui a rendu cet Objet accessible ne donne aucune garantie concernant ce dernier ni ne garantit l'exactitude de la présente Déclaration des Droits. Vous êtes responsable de votre propre utilisation.",
+    "Il est possible que l'utilisation que vous envisagez requière des autorisations supplémentaires. Il se peut, par exemple, que d'autres droits, comme les droits de la personnalité ou de la publicité, les droits liés à la protection de la vie privée ou les droits moraux, limitent vos possibilités d'utilisation.",
+    "Il est possible que vous trouviez, sur le site Web de l'organisme ayant rendu l'Objet accessible, des informations supplémentaires concernant la protection de l'Objet par le droit d'auteur."
+  ],
+  "prefLabel": "Absence de protection connue par le droit d'auteur",
+  "scopeNote": "Cette Déclaration des Droits doit être utilisée pour les Objets dont le statut en matière de droit d'auteur n'a pas été déterminé de manière définitive, mais pour lesquels l'organisme qui entend rendre l'Objet accessible a des motifs raisonnables de croire que l'Oeuvre sous-jacente n'est plus couverte par le droit d'auteur ou des droits voisins. La présente Déclaration des Droits ne doit pas être utilisée pour les Œuvres Orphelines (qui sont présumées être protégées par le droit d'auteur) ou pour les Objets pour lesquels l'organisme qui entend rendre accessible l'Objet n'a pas pris de mesures pour déterminer le statut de l'œuvre sous-jacente en ce qui concerne le droit d'auteur."
+}

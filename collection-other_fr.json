@@ -1,0 +1,9 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "fr",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/collection-other/1.0/",
+  "prefLabel": "Déclarations destinées aux œuvres dont le statut en matière de droit d'auteur n'est pas clair."
+}

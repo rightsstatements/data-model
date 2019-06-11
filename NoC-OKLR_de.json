@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "de",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/NoC-OKLR/1.0/",
+  "description": "Dieser Rechtehinweis besagt, dass das zugrunde liegende Werk gemeinfrei ist, aber Einschränkungen der Nutzung des Objekts durch Dritte bekannt sind, die sich aus anderen Rechten als dem Urheberrecht und/oder verwandten Schutzrechten ergeben.",
+  "definition": "Die Nutzung des Objekts ist nicht durch Urheberrecht und/oder verwandte Schutzrechte beschränkt.\n\n  In einer oder mehreren Rechtsordnungen wird die Nutzung des Objekts durch andere Rechte als das Urheberrecht oder verwandte Schutzrechte beschränkt.\n\n  Bitte kontaktieren Sie für weitergehende Informationen die Institution, die den Inhalt zugänglich gemacht hat.",
+  "note": [
+    "Soweit nicht ausdrücklich an anderer Stelle ausgewiesen, macht die Institution, die das Objekt zugänglich macht, keine Zusicherungen in Bezug auf dieses und übernimmt keine Garantie für die Richtigkeit des gewählten Rechtehinweises. Sie sind für die eigene Nutzung selbst verantwortlich.",
+    "Möglicherweise benötigen Sie zusätzliche Erlaubnisse für die beabsichtigte Nutzung. Zum Beispiel weil andere Rechte wie Veröffentlichungs-, Persönlichkeits- oder Urheberpersönlichkeitsrechte den erlaubten Nutzungsumfang einschränken.",
+    "Möglicherweise finden Sie zusätzliche Informationen zum Urheberrechtsschutz des Objekts auf der Website der Institution, die das Objekt verfügbar gemacht hat."
+  ],
+  "prefLabel": "Kein Urheberrechtsschutz - Andere rechtliche Beschränkungen",
+  "scopeNote": "Dieser Rechtehinweis sollte für Objekte verwendet werden, die gemeinfrei sind, aber im Hinblick auf eine freie Nachnutzung rechtlichen Beschränkungen unterliegen, die sich etwa aus dem  Kulturgutschutz oder dem Schutz von traditionellen kulturellen Ausdrucksformen ergeben, sodass die Institution, die beabsichtigt, ein solches Objekt zugänglich zu machen, eine freie Nachnutzung nicht erlauben kann. Damit der Rechtehinweis eindeutig ist, sollte die Institution, die beabsichtigt, das betreffende Objekt zugänglich zu machen, einen Link mitteilen, der zu einer Seite mit Detailinformationen zu den vertraglichen Beschränkungen der Nutzung des Objekts führt."
+}
