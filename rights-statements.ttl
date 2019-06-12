@@ -53,7 +53,7 @@
   skos:member <CNE/1.0/> ;
   skos:member <UND/1.0/> .
 
-# Individual statements
+# Individual statements (NB: changes listed below may apply to RDF statements represented in other files that describe the rights statements)
 # 2015-07-15: updated from https://docs.google.com/document/d/1tdRAFZZefiyygRwCbcUq-kK7mNdj-6UFwBSCrPRSIoY/edit
 # 2015-07-17: updated from document to use correct URI patterns
 # 2015-08-11: update to make individual statements skos:Concepts, and to
