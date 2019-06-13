@@ -23,15 +23,14 @@ or contact one of the technical co-chairs:
 Contents
 ---
 
-* The current rights statements are located in [`rights-statements.ttl`](rights-statements.ttl). Note that the RDF assertions within this file are organized to make translations easier. Committers should ensure they do not jeopardize this organization!
-* An example file, which contains rights statements with a different version and containing sample, unofficial translations, can be found in [`example-versions.ttl`](example-versions.ttl).
+The current rights statements are located in [`rights-statements.ttl`](rights-statements.ttl) and language specific JSON-LD files.
 
 Implementing translations
 ---
 
-* To implement translations, copy and paste entries from the completed Google Doc for the destination language.
-* Confirm that there are no non-breaking spaces (`\u00A0`), no "smart quotes", and no em- or en-dashes.
-* Note that new languages should be added/inserted for property values based on the order indicated in the Turtle. English should always appear first, and additional languages should appear in lexical order of their language tag.
+[Transifex](https://www.transifex.com/graphthinking-gmbh/rightsstatementsorg/) is used to carry out translations of the statements and collections. They are tagged with the category `data-model`. Please get in touch with the [maintainers](https://www.transifex.com/graphthinking-gmbh/rightsstatementsorg/settings/maintainers/) to add a new language to the project.
+
+To incorporate updates or new translations, install [`tx`](https://docs.transifex.com/client/introduction), run [`tx pull`](https://docs.transifex.com/client/pull#command-options) and commit the changes.
 
 See also notes on implementing translations for the [rights app](https://github.com/rightsstatements/rights-app/blob/master/README.md) and the [website](https://github.com/rightsstatements/rightsstatements.github.io/blob/master/README.md) for more information.
 
