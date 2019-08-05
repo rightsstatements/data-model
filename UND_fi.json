@@ -5,6 +5,7 @@
     "description": "http://purl.org/dc/terms/description"
   },
   "@id": "http://rightsstatements.org/vocab/UND/1.0/",
+  "prefLabel": "Tekijänoikeusstatus määrittämätön",
   "description": "Tällä käyttöoikeuskuvauksella ilmaistaan, että Kohteen saataville saattanut organisaatio on yrittänyt selvittää Kohteen tekijänoikeudellisen ja lähioikeusstatuksen, muttei ole siihen kyennyt.",
   "definition": "Kohteen saataville saattanut organisaatio on arvioinut tämän Kohteen tekijänoikeudellista ja lähioikeusstatusta muttei ole kyennyt määrittämään sitä varmuudella.\n\n  Lisätietoja voit saada ottamalla yhteyttä Kohteen saataville saattaneeseen organisaatioon.\n\n  Voit käyttää Kohdetta käyttöösi sovellettavan tekijänoikeutta ja lähioikeuksia koskevan lainsäädännön sallimilla tavoilla.",
   "note": [
@@ -12,6 +13,5 @@
     "Saatat tarvita muita lupia aikomaasi käyttöä varten. Esimerkiksi moraaliset oikeudet, yksityisyyden suojaa koskevat oikeudet taikka henkilön oikeudet määrätä kuvansa tai henkilönsä tunnistettavan osan kaupallisesta käytöstä voivat rajoittaa aineiston käyttöä.",
     "Lisätietoja Kohteen tekijänoikeudellisesta statuksesta voi olla saatavissa Kohteen saataville saattaneen organisaation verkkosivuilta."
   ],
-  "prefLabel": "Tekijänoikeusstatus määrittämätön",
   "scopeNote": "Tätä käyttöoikeuskuvausta tulisi käyttää Kohteille, joiden tekijänoikeudellinen status on jäänyt tuntemattomaksi, vaikka Kohteen saataville saattanut organisaatio on sitä yrittänyt määrittää. Käyttöoikeuskuvausta käytetään tyypillisesti tapauksissa, joissa organisaatiolta puuttuu tekijänoikeusstatuksen täsmällisen määrittämisen edellyttämiä olennaisia tietoja."
 }

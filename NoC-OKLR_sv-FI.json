@@ -5,6 +5,7 @@
     "description": "http://purl.org/dc/terms/description"
   },
   "@id": "http://rightsstatements.org/vocab/NoC-OKLR/1.0/",
+  "prefLabel": "Ingen upphovsrätt – andra kända rättsliga begränsningar",
   "description": "Denna nyttjanderättsbeskrivning innebär att det underliggande verket inte är  skyddat av upphovsrätt, men att det finns kända begränsningar som görs gällande av andra lagar än upphovsrätt och/eller närstående rättigheter på användningen av objektet av tredje part.",
   "definition": "Användning av detta Objekt begränsas inte av upphovsrätts- och/eller närstående rättigheter.\n\n  Inom ett eller flera jurisdiktionsområden kan annan lag än upphovsrättslagstiftningen veterligen medföra begränsningar för användningen av detta Objekt.\n\n  För ytterligare upplysningar, ta kontakt med den organisation som har gjort Objektet tillgängligt.",
   "note": [
@@ -12,6 +13,5 @@
     "Du kanske måste skaffa andra tillstånd för den användning som du avser. Till exempel moraliska rättigheter, rättigheter gällande skyddet för privatliv eller personens rättigheter att bestämma gällande kommersiell användning av en identifierbar del av sin bild eller sin person kan begränsa dina möjligheter att använda materialet.",
     "Du kan hitta ytterligare information om Objektets upphovsrättsliga status på den organisations hemsida som har gjort Objektet tillgängligt."
   ],
-  "prefLabel": "Ingen upphovsrätt – andra kända rättsliga begränsningar",
   "scopeNote": "Denna nyttjanderättsbeskrivning bör användas för objekt som inte är skyddade av upphovsrätt, men som inte kan användas fritt på grund av kända rättsliga begränsningar som hindrar organisationen som avser att göra objektet tillgängligt från att tillåta fri återanvändning av verket, såsom skydd för kulturarv eller traditionella kulturyttringar. Nyttjanderättsbeskrivningen förutsätter att organisationen som avser att göra objektet tillgängligt tillhandahåller en länk till en sida där objektets rättsliga begränsningar beskrivs."
 }

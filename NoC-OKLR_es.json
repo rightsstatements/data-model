@@ -5,6 +5,7 @@
     "description": "http://purl.org/dc/terms/description"
   },
   "@id": "http://rightsstatements.org/vocab/NoC-OKLR/1.0/",
+  "prefLabel": "Sin derecho de autor - Otras restricciones legales conocidas",
   "description": "Esta Declaración de Derechos indica que el material subyacente está en el dominio público, pero hay restricciones conocidas impuestas por leyes distintas del derecho de autor y/o derechos conexos sobre el uso del material por terceras partes.",
   "definition": "El uso de este material no está restringido por el derecho de autor y/o derechos conexos.\n\n  En una o más jurisdicciones, se sabe que otras leyes distintas del derecho de autor imponen restricciones al uso de este material.\n\n  Por favor, refiérase a la organización que ha puesto a disposición el material para más información.",
   "note": [
@@ -12,6 +13,5 @@
     "Usted quizás necesite obtener permiso para el uso que pretende hacer del material. Por ejemplo, otros derechos tales como el derecho a la publicidad, el derecho a la privacidad o los derechos morales pueden limitar la forma en que puede utilizar el material.",
     "Usted puede encontrar información adicional sobre el estado del derecho de autor del material en el sitio web de la organización que puso a disposición el material."
   ],
-  "prefLabel": "Sin derecho de autor - Otras restricciones legales conocidas",
   "scopeNote": "Esta Declaración de Derechos debe ser utilizada para materiales que están en el dominio público pero que no pueden ser libremente re-utilizados como consecuencia de restricciones legales conocidas que le impiden a la organización permitir la libre reutilización del material, tales como protecciones sobre el patrimonio cultural o sobre expresiones culturales tradicionales. Para que esta Declaración de Derechos sea concluyente, la organización que pretende poner a disposición el material debe proveer un vínculo a una página que detalle las restricciones legales que limitan la reutilización del material."
 }

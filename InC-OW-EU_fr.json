@@ -5,6 +5,7 @@
     "description": "http://purl.org/dc/terms/description"
   },
   "@id": "http://rightsstatements.org/vocab/InC-OW-EU/1.0/",
+  "prefLabel": "Protégé par le droit d'auteur - Œuvre Orpheline de l'UE",
   "description": "Cette présente Déclaration des Droits indique que l'Objet auquel elle se rapporte a été identifié comme « Œuvre Orpheline» au sens de la Directive Européenne sur les Œuvres Orphelines.",
   "definition": "Cet Objet a été identifié comme Œuvre Orpheline dans le pays de première publication, conformément à la Directive 2012/28/UE du Parlement Européen et du Conseil du 25 octobre 2012 sur certaines utilisations autorisées des Œuvres Orphelines.\n\n  Pour cet Objet, soit (a) aucun titulaire des droits n'a été identifié, soit (b) un ou plusieurs titulaires des droits ont été identifiés, mais aucun n'a pu être localisé, malgré une recherche diligente du/des titulaire(s) des droits. Les résultats de la recherche diligente sont disponibles dans la Base de données des Œuvres Orphelines de l'UE.\n\n  Vous avez le droit d'utiliser l'Objet de toutes les manières autorisées par la législation sur le droit d'auteur et les droits voisins applicable à votre utilisation.",
   "note": [
@@ -13,6 +14,5 @@
     "Il est possible que vous trouviez des informations supplémentaires concernant la protection de l'Objet par le droit d'auteur sur le site Web de l'organisme qui a rendu l'Objet accessible.",
     "Si vous disposez d'informations susceptibles de contribuer à l'identification ou à la localisation du/des titulaire(s) des droits, veuillez en informer l'organisme qui a rendu l'Objet accessible."
   ],
-  "prefLabel": "Protégé par le droit d'auteur - Œuvre Orpheline de l'UE",
   "scopeNote": "La présente Déclaration des Droits est destinée à être utilisée pour les Objets dont l'œuvre sous-jacente a été identifiée comme Œuvre Orpheline, conformément à la Directive 2012/28/UE du Parlement Européen et du Conseil du 25 octobre 2012 sur certaines utilisations autorisées des Oeuvres Orphelines. Elle ne peut être utilisée que pour des Objets dérivés d'Oeuvres couvertes par la Directive : il peut s'agir d'Oeuvres publiées sous forme de livres, de revues, de journaux, de magazines ou d'autres écrits, d'œuvres cinématographiques ou audiovisuelles et de phonogrammes (attention : la photographie et les arts visuels sont exclus). Cette Déclaration peut uniquement être utilisée par des organismes bénéficiaires de la Directive : les bibliothèques, les établissements d'enseignement et les musées accessibles au public, les archives, les institutions dépositaires du patrimoine cinématographique ou sonore et les organismes de radiodiffusion de service public, établis dans l'un des États membres de l'UE. En outre, le bénéficiaire doit avoir enregistré l'Oeuvre dans la Base de données des Œuvres Orphelines de l'UE gérée par l'EUIPO."
 }

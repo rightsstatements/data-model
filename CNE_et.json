@@ -5,6 +5,7 @@
     "description": "http://purl.org/dc/terms/description"
   },
   "@id": "http://rightsstatements.org/vocab/CNE/1.0/",
+  "prefLabel": "Autoriõiguslik seisund hindamata",
   "description": "See autoriõigusliku seisundi deklaratsioon näitab, et objekti avaldanud organisatsioon ei ole hinnanud objekti autoriõiguslikku ega sellega seotud õigustest tulenevat seisundit.",
   "definition": "Objekti autoriõiguslik ja sellega seotud õigustest tulenev seisund on hindamata.\n\n  Palun küsige täiendavat infot objekti kättesaadavaks teinud organisatsioonilt.\n\n  Objekti võib vabalt kasutada kõigil viisidel, mis on lubatud kavandatavale kasutusviisile kohalduvates autoriõigust ja sellega seotud õigusi puudutavates seadustes.",
   "note": [
@@ -12,6 +13,5 @@
     "Teie kavandatav kasutusviis võib nõuda täiendavate lubade hankimist. Näiteks võivad materjali kasutamist piirata muud õigused, nagu isiku-, eraelu puutumatuse ning moraalsed õigused.",
     "Objekti kättesaadavaks teinud organisatsiooni koduleht võib sisaldada täiendavat informatsiooni objekti autoriõigusliku seisundi kohta."
   ],
-  "prefLabel": "Autoriõiguslik seisund hindamata",
   "scopeNote": "See autoriõigusliku seisundi deklaratsioon on mõeldud selliste objektide märgistamiseks, mille autoriõiguslik seisund on teadmata ja mille puhul objekti kättesaadavaks teha kavatsev organisatsioon ei ole teinud pingutusi objekti aluseks oleva teose autoriõigusliku seisundi tuvastamiseks."
 }

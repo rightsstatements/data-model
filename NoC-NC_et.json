@@ -5,6 +5,7 @@
     "description": "http://purl.org/dc/terms/description"
   },
   "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/",
+  "prefLabel": "Autoriõigus ei kehti - ainult mitteäriline kasutus",
   "description": "Selle autoriõigusliku seisundi deklaratsiooniga märgistatud objekti aluseks olev teos on avalikus omandis, kuid objekti avaldanud organisatsioon on lepinguliselt kohustatud võimaldama kolmandatel osapooltel ainult objekti mitteärilist kasutamist.",
   "definition": "Teos on digiteeritud avaliku ja erasektori koostöös. Selle koostöö osana on partnerid leppinud kokku teose digitaalse kujutise äriliste kasutusvõimaluste piiramises kolmandate osapoolte jaoks.\n\n  Objekti võib mitteärilisel eesmärgil kopeerida, modifitseerida, levitada, näidata või esitada ilma selleks luba taotlemata. Teiste lubatud kasutusviiside kohta leiate infot objekti kättesaadavaks teinud organisatsiooni avaldatud kasutustingimustest.",
   "note": [
@@ -12,6 +13,5 @@
     "Teie kavandatav kasutusviis võib nõuda täiendavate lubade hankimist. Näiteks võivad materjali kasutamist piirata muud õigused, nagu isiku-, eraelu puutumatuse ning moraalsed õigused.",
     "Objekti kättesaadavaks teinud organisatsiooni koduleht võib sisaldada täiendavat informatsiooni objekti autoriõigusliku seisundi kohta."
   ],
-  "prefLabel": "Autoriõigus ei kehti - ainult mitteäriline kasutus",
   "scopeNote": "See autoriõigusliku seisundi deklaratsioon on rakendatav ainult teostele, mis on avalikus omandis, kuid on digiteeritud osana avaliku ja erasektori koostööprojektist, mille raames partnerid on leppinud kokku teose digitaalse kujutise ärilise kasutamise võimaluste piiramises kolmandate osapoolte jaoks. See on välja töötatud Euroopa raamatukogude ja Google'i koostöös digiteeritud teoste tarbeks, kuid on teoorias rakendatav ka teiste sarnaste avaliku ja erasektori koostööprojektide raames digiteeritud teostele."
 }

@@ -5,6 +5,7 @@
     "description": "http://purl.org/dc/terms/description"
   },
   "@id": "http://rightsstatements.org/vocab/InC-OW-EU/1.0/",
+  "prefLabel": "Urheberrechtsschutz - Verwaistes Werk EU",
   "description": "Dieser Rechtehinweis besagt, dass das damit gekennzeichnete Objekt als „Verwaistes Werk“ im Sinne der Bestimmungen der europäischen Richtlinie zu verwaisten Werken identifiziert wurde.",
   "definition": "Dieses Objekt wurde im Land der Erstveröffentlichung in Übereinstimmung mit der Richtlinie 2012/28/EU des Europäischen Parlaments und Rates vom 25. Oktober 2012 über bestimmte zulässige Formen der Nutzung verwaister Werke als verwaistes Werk identifiziert.\n\n  Für das Objekt konnten entweder (a) ein oder mehrere Rechteinhaber nicht identifiziert oder (b) auch mit Hilfe einer sorgfältigen Suche nicht aufgefunden werden. Die Ergebnisse der sorgfältigen Suche sind in der EU-Datenbank zu verwaisten Werken beim Amt der Europäischen Union für Geistiges Eigentum (EUIPO) verfügbar.\n\n  Sie sind berechtigt, das Objekt in jeder Form zu nutzen, die das Urheberrechtsgesetz oder/und einschlägige verwandte Schutzrechte gestatten.",
   "note": [
@@ -13,6 +14,5 @@
     "Möglicherweise finden Sie zusätzliche Informationen zum Urheberrechtsschutz des Objekts auf der Website der Institution, die das Objekt verfügbar gemacht hat.",
     "Wenn Sie Hinweise haben, die dazu beitragen können, den/die Rechteinhaber zu identifizieren oder auffindbar zu machen, informieren Sie bitte die Institution, die das Objekt verfügbar gemacht hat."
   ],
-  "prefLabel": "Urheberrechtsschutz - Verwaistes Werk EU",
   "scopeNote": "Dieser Rechtehinweis ist für die Verwendung bei Objekten bestimmt, bei denen das zugrunde liegende Werk in Übereinstimmung mit der Richtlinie 2012/28/EU des Europäischen Parlaments und Rates vom 25. Oktober 2012 über bestimmte zulässige Formen der Nutzung verwaister Werke als verwaistes Werk identifiziert wurde. Die Benutzung des Rechtehinweises setzt voraus, dass das dem Objekt zugrunde liegende Werk als solches von der Richtlinie erfasst wird: veröffentlichte Werke in Form von Büchern, Zeitschriften, Zeitungen, Magazinen oder anderen Schriftwerken sowie Filmwerke und andere audiovisuelle Werke und Tonaufzeichnungen (Achtung: Fotografie und Werke der bildenden Kunst sind ausgeschlossen!). Außerdem muss die Institution, die das Objekt verfügbar macht, durch die Richtlinie begünstigt sein: öffentlich zugängliche Bibliotheken, Bildungseinrichtungen und Museen, Archive, Film- und Ton-Kulturerbe-Einrichtungen und öffentlich-rechtliche Rundfunkanstalten aus einem Mitgliedstaat der EU. Die begünstigte Institution muss das entsprechende Werk außerdem in der EU-Datenbank für Verwaiste Werke beim EUIPO eingetragen haben."
 }

@@ -5,6 +5,7 @@
     "description": "http://purl.org/dc/terms/description"
   },
   "@id": "http://rightsstatements.org/vocab/NKC/1.0/",
+  "prefLabel": "Sin derecho de autor conocido",
   "description": "Esta Declaración de Derechos indica que la organización que publicó el material cree que no existe protección del derecho de autor o derechos conexos sobre el material, pero que no se pudo realizar una determinación concluyente.",
   "http://www.w3.org/2004/02/skos/core#description": "La organización que ha puesto a disposición el material cree razonablemente que el material no está restringido por el derecho de autor o derechos conexos, pero no se pudo hacer una determinación concluyente.\n\n  Por favor, refiérase a la organización que ha puesto el material a disposición para más información.\n\n  Usted es libre de utilizar este material de cualquier forma que esté permitida bajo la legislación de derecho de autor y derechos conexos que aplique para el uso que pretende hacer.",
   "note": [
@@ -12,6 +13,5 @@
     "Usted quizás necesite obtener permiso para el uso que pretende hacer del material. Por ejemplo, otros derechos tales como el derecho a la publicidad, el derecho a la privacidad o los derechos morales pueden limitar la forma en que puede utilizar el material.",
     "Usted puede encontrar información adicional sobre el estado del derecho de autor del material en el sitio web de la organización que puso a disposición el material."
   ],
-  "prefLabel": "Sin derecho de autor conocido",
   "scopeNote": "Esta Declaración de Derechos debería ser utilizada para materiales para los cuales el estado de derecho de autor no ha sido determinado de manera concluyente, pero para los cuales la organización que pretende poner a disposición el material tiene causa razonable para creer que la obra subyacente ya no está cubierta por derecho de autor o derechos conexos. Esta Declaración de Derechos no debe ser utilizada para obras huérfanas (para las cuales se asume que están protegidas por derecho de autor) o para materiales para los cuales la organización que pretende ponerlos a disposición no ha realizado un esfuerzo para determinar el estado del derecho de autor de la obra subyacente."
 }

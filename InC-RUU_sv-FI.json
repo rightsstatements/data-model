@@ -5,6 +5,7 @@
     "description": "http://purl.org/dc/terms/description"
   },
   "@id": "http://rightsstatements.org/vocab/InC-RUU/1.0/",
+  "prefLabel": "Underkastad upphovsrätt - rättsinnehavare ej lokaliserats eller identifierats",
   "description": "Denna nyttjanderättsbeskrivning innebär att objektet som är märkt med denna nyttjanderättsbeskrivning har identifierats som skyddat genom upphovsrätt, men där inga rättsinnehavare har kunnat identifieras eller lokaliseras.",
   "definition": "Detta Objekt skyddas genom upphovsrätt och/eller närstående rättigheter. Ifråga om detta Objekt har dock antingen (a) inga rättsinnehavare identifierats, eller (b) en eller flera rättsinnehavare har identifierats, men ingen har lokaliserats.\n\n  Du kan använda Objektet på alla sätt som är tillåtna enligt lagstiftningen om upphovsrätt och närstående rättigheter som är tillämplig på din användning.",
   "note": [
@@ -13,6 +14,5 @@
     "Du kan hitta ytterligare information om Objektets upphovsrättsliga status på den organisations hemsida som har gjort Objektet tillgängligt.",
     "Om du har några upplysningar som kan bidra till att identifiera eller lokalisera rättsinnehavaren(rna), var vänlig och meddela den organisation som har gjort Objektet tillgängligt."
   ],
-  "prefLabel": "Underkastad upphovsrätt - rättsinnehavare ej lokaliserats eller identifierats",
   "scopeNote": "Denna nyttjanderättsbeskrivning är avsedd för objekt som har identifierats som skyddade av upphovsrätt men där inga rättsinnehavare identifierats eller lokaliserats efter rimlig efterforskning. Denna nyttjanderättsbeskrivning bör endast användas om organisationen som avser att göra objektet tillgängligt är tämligen säker på att underliggande verket skyddas av upphovsrätt. Denna nyttjanderättsbeskrivning är inte avsedd för EU-baserade organisationer som har identifierat verket som ett anonymt verk (föräldralöst verk) i enlighet med direktiv 2012/28/EU (de måste istället använda InC-OW-EU)."
 }

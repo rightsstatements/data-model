@@ -5,6 +5,7 @@
     "description": "http://purl.org/dc/terms/description"
   },
   "@id": "http://rightsstatements.org/vocab/InC-RUU/1.0/",
+  "prefLabel": "Objęty pełną ochroną prawnoautorską - Uprawniony z tytułu praw autorskich nieodnaleziony lub nieznany",
   "description": "To oświadczenie prawne wskazuje, że oznaczony nim obiekt został zidentyfikowany jako objęty pełną ochroną prawnoautorską, ale uprawniony z tytułu praw autorskich nie może zostać zidentyfikowany lub odnaleziony.",
   "definition": "Ten obiekt jest chroniony prawem autorskim lub prawami pokrewnymi. Jednakże w przypadku tego obiektu albo (a) nie udało się zidentyfikować ani jednego uprawnionego z tytułu praw autorskich lub też (b) przynajmniej jeden spośród uprawnionych z tytułu praw autorskich, mimo iż jest znany, nie został odnaleziony.\n\n  Można wykorzystywać ten obiekt w dowolny sposób dozwolony przez przepisy o prawie autorskim i prawach pokrewnych, które mają zastosowanie w kontekście planowanego wykorzystania.",
   "note": [
@@ -13,6 +14,5 @@
     "Dodatkowe informacje o statusie prawnoautorskim obiektu mogą być dostępne na stronie internetowej organizacji, która ten obiekt udostępniła.",
     "Jeżeli posiadasz jakiekolwiek informacje, które mogą przyczynić się do zidentyfikowania  lub odnalezienia uprawnionego  z tytułu praw autorskich, prosimy o poinformowanie o tym fakcie organizacji, która udostępniła dany obiekt."
   ],
-  "prefLabel": "Objęty pełną ochroną prawnoautorską - Uprawniony z tytułu praw autorskich nieodnaleziony lub nieznany",
   "scopeNote": "To oświadczenie prawne jest przeznaczone do wykorzystania w przypadku obiektów zidentyfikowanych jako objęte pełną ochroną prawnoautorską, ale dla których co najmniej jeden uprawniony z tytułu praw autorskich nie został zidentyfikowany lub odnaleziony, pomimo podjęcia ku temu wystarczających działań. To oświadczenie prawne powinno być używane wyłącznie, jeżeli organizacja która zamierza udostępnić obiekt jest wystarczająco pewna, że utwór pierwotny jest objęty pełną ochroną prawnoautorską. To oświadczenie prawne nie jest przeznaczona do wykorzystywania przez organizacje zlokalizowane w UE, które zidentyfikowały utwory jako utwory osierocone na zasadach Dyrektywy UE dotyczącej utworów osieroconych (w tej sytuacji należy stosować deklarację InC-OW-EU)."
 }

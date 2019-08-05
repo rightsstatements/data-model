@@ -5,6 +5,7 @@
     "description": "http://purl.org/dc/terms/description"
   },
   "@id": "http://rightsstatements.org/vocab/NKC/1.0/",
+  "prefLabel": "Kein Urheberrechtsschutz bekannt",
   "description": "Dieser Rechtehinweis besagt, dass die Institution, die das Objekt zugänglich macht, davon ausgeht, dass kein Urheberrechtsschutz oder verwandte Schutzrechte bestehen, dies aber nicht abschließend festgestellt hat.",
   "definition": "Die Institution, die das Werk zugänglich gemacht hat, nimmt an, dass kein Urheberrechtsschutz besteht, hat es jedoch nicht abschließend festgestellt.\n\n  Bitte kontaktieren Sie für weitergehende Informationen die Institution, die das Objekt zugänglich gemacht hat.\n\n  Sie sind berechtigt, das Objekt in jeder Form zu nutzen, die das Urheberrechtsgesetz und/oder einschlägige verwandte Schutzrechte gestatten.",
   "note": [
@@ -12,6 +13,5 @@
     "Möglicherweise benötigen Sie zusätzliche Erlaubnisse für die beabsichtigte Nutzung. Zum Beispiel weil andere Rechte wie Veröffentlichungs-, Persönlichkeits- oder Urheberpersönlichkeitsrechte den erlaubten Nutzungsumfang einschränken.",
     "Möglicherweise finden Sie zusätzliche Informationen zum Urheberrechtsschutz des Objekts auf der Website der Institution, die das Objekt verfügbar gemacht hat."
   ],
-  "prefLabel": "Kein Urheberrechtsschutz bekannt",
   "scopeNote": "Dieser Rechtehinweis sollte für Objekte verwendet werden, bei denen der Urheberrechtsschutz nicht abschließend festgestellt wurde, obschon die Institution, die beabsichtigt das Objekt zugänglich zu machen, mit Grund davon ausgeht, dass das zugrundeliegende Werk nicht mehr urheberrechtlich, oder durch verwandte Schutzrechte geschützt ist. Dieser Rechtehinweis sollte nicht für Verwaiste Werke verwendet werden (bei denen davon auszugehen ist, dass diese urheberrechtlich geschützt sind) oder für Objekte, bei denen die Institution, die beabsichtigt, das Objekt zugänglich zu machen, keine Anstrengungen unternommen hat, um den Rechtsstatus des zugrunde liegenden Werks festzustellen."
 }

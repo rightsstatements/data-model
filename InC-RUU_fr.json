@@ -5,6 +5,7 @@
     "description": "http://purl.org/dc/terms/description"
   },
   "@id": "http://rightsstatements.org/vocab/InC-RUU/1.0/",
+  "prefLabel": "Protégé par le droit d'auteur - Titulaire(s) des droits impossible(s) à localiser ou à identifier",
   "description": "Cette Déclaration des Droits indique que l'Objet auquel elle se rapporte a été identifié comme étant protégé par le droit d'auteur, mais que le(s) titulaire(s) des droits y afférents soit ne peut/peuvent pas être identifié(s), soit ne peut/peuvent pas être localisé(s).",
   "definition": "Cet Objet est protégé par le droit d'auteur et/ou les droits voisins. Toutefois, pour cet Objet, soit (a) aucun titulaire des droits n'a été identifié, soit (b) un ou plusieurs titulaires des droits a/ont été identifié(s), mais aucun n'a pu être localisé.\n\n  Vous avez le droit d'utiliser l'Objet de toutes les manières autorisées par la législation sur le droit d'auteur et les droits voisins applicable à votre utilisation.",
   "note": [
@@ -13,6 +14,5 @@
     "Il est possible que vous trouviez, sur le site Web de l'organisme ayant rendu l'Objet accessible, des informations supplémentaires concernant la protection de l'Objet par le droit d'auteur.",
     "Si vous disposez d'informations susceptibles de contribuer à l'identification ou à la localisation du/des titulaire(s) des droits, veuillez en informer l'organisme qui a rendu l'Objet accessible."
   ],
-  "prefLabel": "Protégé par le droit d'auteur - Titulaire(s) des droits impossible(s) à localiser ou à identifier",
   "scopeNote": "La présente Déclaration des Droits est destinée à être utilisée pour un Objet identifié comme étant protégé par le droit d'auteur, mais pour lequel aucun titulaire des droits n'a pu être identifié ou localisé au terme de recherches raisonnables. La présente Déclaration des Droits ne doit être utilisée que si l'organisme envisageant de rendre l'Objet accessible a la certitude raisonnable que l'Oeuvre sous-jacente est protégée par le droit d'auteur. Cette Déclaration des Droits n'est pas destinée à être utilisée par les organismes basés dans l'UE qui ont identifié des Oeuvres comme étant des Oeuvres Orphelines conformément à la Directive Européenne sur les Oeuvres Orphelines (elles doivent plutôt utiliser la Déclaration InC-OW-EU)."
 }

@@ -5,6 +5,7 @@
     "description": "http://purl.org/dc/terms/description"
   },
   "@id": "http://rightsstatements.org/vocab/InC-RUU/1.0/",
+  "prefLabel": "Kehtiv autoriõigus - õiguste valdaja(d) ei ole leitavad või tuvastatavad",
   "description": "Selle autoriõigusliku seisundi deklaratsiooniga märgistatud objektile kehtib autoriõigus, kuid õiguste valdajat (või valdajaid) ei ole võimalik tuvastada või leida.",
   "definition": "Objekt on kaitstud autoriõiguse ja/või sellega seotud õigustega. Samas (a) ei ole objekti autoriõiguste valdajat (valdajaid) õnnestunud tuvastada või (b) õiguste valdaja(d) on küll teada, kuid neid ei ole õnnestunud leida.\n\n  Objekti võib vabalt kasutada kõigil viisidel, mis on lubatud kavandatavale kasutusviisile kohalduvates autoriõigust ja sellega seotud õigusi puudutavates seadustes.",
   "note": [
@@ -13,6 +14,5 @@
     "Objekti kättesaadavaks teinud organisatsiooni koduleht võib sisaldada täiendavat informatsiooni objekti autoriõigusliku seisundi kohta.",
     "Juhul kui Te valdate informatsiooni, mis võib kaasa aidata õiguste valdaja(te) tuvastamisele või leidmisele, palun teavitage sellest objekti kättesaadavaks teinud organisatsiooni."
   ],
-  "prefLabel": "Kehtiv autoriõigus - õiguste valdaja(d) ei ole leitavad või tuvastatavad",
   "scopeNote": "See autoriõigusliku seisundi deklaratsioon on mõeldud selliste objektide märgistamiseks, millele kehtib autoriõigus, kuid mille õiguste valdajat (valdajaid) pole õnnestunud mõistliku otsimise tulemusena tuvastada või leida. See on mõeldud ainult sellisteks juhtudeks, kus objekti kättesaadavaks teha kavatsev organisatsioon on võrdlemisi kindel, et objekti aluseks olev teos on autoriõigusega kaitstud. Deklaratsioon ei ole mõeldud EL-is asuvatele organisatsioonidele, kes on EL orbteoste direktiivist lähtuvalt leidnud teosed olevat orbteosed (sellisel juhul tuleb kasutada deklaratsiooni InC-OW-EU)."
 }

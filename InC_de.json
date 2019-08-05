@@ -5,6 +5,7 @@
     "description": "http://purl.org/dc/terms/description"
   },
   "@id": "http://rightsstatements.org/vocab/InC/1.0/",
+  "prefLabel": "Urheberrechtsschutz",
   "description": "Dieser Rechtehinweis besagt, dass das damit gekennzeichnete Objekt urheberrechtlich geschützt ist.",
   "definition": "Dieses Objekt ist durch das Urheberrecht und/oder verwandte Schutzrechte geschützt.\n\n  Sie sind berechtigt, das Objekt in jeder Form zu nutzen, die das Urheberrechtsgesetz und/oder einschlägige verwandte Schutzrechte gestatten.\n\n  Für weitere Nutzungsarten benötigen Sie die Zustimmung der/des Rechteinhaber/s.",
   "note": [
@@ -12,6 +13,5 @@
     "Möglicherweise benötigen Sie zusätzliche Erlaubnisse für die beabsichtigte Nutzung. Zum Beispiel weil andere Rechte, wie Veröffentlichungsrechte, Persönlichkeits- oder Urheberpersönlichkeitsrechte den erlaubten Nutzungsumfang einschränken.",
     "Möglicherweise finden Sie zusätzliche Informationen zum Urheberrechtsschutz des Objekts auf der Website der Institution, die das Objekt verfügbar gemacht hat."
   ],
-  "prefLabel": "Urheberrechtsschutz",
   "scopeNote": "Dieser Rechtehinweis kann für Objekte verwendet werden, die urheberrechtlich geschützt sind. Die Benutzung des Rechtehinweises setzt voraus, dass die Institution, die das Objekt zugänglich macht, festgestellt hat, dass dieses urheberrechtlich geschützt ist, und sie entweder selbst Rechteinhaber ist, die Erlaubnis der/des Rechteinhaber(s) erhalten hat deren/dessen Werk(e) zugänglich zu machen, oder aber das Objekt berechtigterweise auf der Grundlage einer urheberrechtlichen Ausnahme- oder Schrankenbestimmung (einschließlich Fair Use) zugänglich macht."
 }

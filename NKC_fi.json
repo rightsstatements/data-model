@@ -5,6 +5,7 @@
     "description": "http://purl.org/dc/terms/description"
   },
   "@id": "http://rightsstatements.org/vocab/NKC/1.0/",
+  "prefLabel": "Ei tunnettua tekijänoikeutta",
   "description": "Tällä käyttöoikeuskuvauksella ilmaistaan Kohteen julkaisseen organisaation uskovan, ettei Kohde ole tekijänoikeuden tai lähioikeuksien suojaama, mutta varmuudella tätä ei ole kyetty toteamaan.",
   "definition": "Kohteen saataville saattaneella organisaatiolla on perusteltu syy uskoa, että tekijänoikeus tai lähioikeudet eivät rajoita tämän Kohteen käyttöä, mutta varmuudella tätä ei ole kyetty toteamaan.\n\n  Lisätietoja voit saada ottamalla yhteyttä Kohteen saataville saattaneeseen organisaatioon.\n\n  Voit käyttää Kohdetta käyttöösi sovellettavan tekijänoikeutta ja lähioikeuksia koskevan lainsäädännön sallimilla tavoilla.",
   "note": [
@@ -12,6 +13,5 @@
     "Saatat tarvita muita lupia aikomaasi käyttöä varten. Esimerkiksi moraaliset oikeudet, yksityisyyden suojaa koskevat oikeudet taikka henkilön oikeudet määrätä kuvansa tai henkilönsä tunnistettavan osan kaupallisesta käytöstä voivat rajoittaa aineiston käyttöä.",
     "Lisätietoja Kohteen tekijänoikeudellisesta statuksesta voi olla saatavissa Kohteen saataville saattaneen organisaation verkkosivuilta."
   ],
-  "prefLabel": "Ei tunnettua tekijänoikeutta",
   "scopeNote": "Tätä käyttöoikeuskuvausta tulisi käyttää Kohteille, joiden tekijänoikeudellista statusta ei ole varmuudella todettu, mutta organisaatiolla, joka aikoo saattaa Kohteen saataville, on perusteltu syy uskoa, että Kohteeseen liittyvä teos ei enää kuulu tekijänoikeuden tai lähioikeuksien piiriin. Käyttöoikeuskuvausta ei tulisi käyttää orpoteoksiin (joiden oletetaan olevan tekijänoikeuden suojaamia) tai teoksiin, joiden osalta organisaatio ei ole yrittänyt varmistaa teoksen tekijänoikeudellista statusta."
 }

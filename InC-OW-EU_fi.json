@@ -5,6 +5,7 @@
     "description": "http://purl.org/dc/terms/description"
   },
   "@id": "http://rightsstatements.org/vocab/InC-OW-EU/1.0/",
+  "prefLabel": "Tekijänoikeuden piirissä - EU-orpoteos",
   "description": "Tällä käyttöoikeuskuvauksella ilmaistaan, että käyttöoikeuskuvauksella varustettu Kohde on katsottu ns. orpoteokseksi EU:n orpoteosdirektiivin mukaisesti.",
   "definition": "Tämä Kohde on orpoteosten tietyistä sallituista käyttötarkoituksista 25. päivänä lokakuuta 2012 annetun Euroopan parlamentin ja neuvoston direktiivin 2012/28/EU mukaisesti katsottu orpoteokseksi siinä valtiossa, jossa teos on julkaistu ensimmäisen kerran.\n\n  Tämän Kohteen osalta joko (a) ainuttakaan oikeudenhaltijaa ei ole tunnistettu tai (b) yksi tai useampi oikeudenhaltija on tunnistettu, mutta yhtään niistä ei ole paikannettu, vaikka oikeudenhaltijoita koskeva huolellinen oikeuksien selvitys on tehty. Huolellisen oikeuksien selvityksen tulokset ovat saatavilla EU:n orpoteostietokannassa.\n\n  Voit käyttää Kohdetta käyttöösi sovellettavan tekijänoikeutta ja lähioikeuksia koskevan lainsäädännön sallimilla tavoilla.",
   "note": [
@@ -13,6 +14,5 @@
     "Lisätietoja Kohteen tekijänoikeudellisesta statuksesta voi olla saatavissa Kohteen saataville saattaneen organisaation verkkosivuilta.",
     "Jos sinulla on tietoja, jotka voivat auttaa oikeudenhaltijoiden tunnistamisessa tai paikantamisessa, otathan yhteyttä Kohteen saataville saattaneeseen organisaatioon."
   ],
-  "prefLabel": "Tekijänoikeuden piirissä - EU-orpoteos",
   "scopeNote": "Tämä käyttöoikeuskuvaus on tarkoitettu Kohteille, joihin liittyvä teos on katsottu orpoteokseksi orpoteosten tietyistä sallituista käyttötarkoituksista 25. päivänä lokakuuta 2012 annetun Euroopan parlamentin ja neuvoston direktiivin 2012/28/EU mukaisesti. Kuvausta voidaan käyttää vain Kohteisiin, jotka perustuvat direktiivin soveltamisalaan kuuluviin teoksiin. Tällaisia teoksia ovat kirjojen, aikakausjulkaisujen, sanomalehtien tai muiden kirjoitusten muodossa julkaistut teokset sekä elokuvateokset tai audiovisuaaliset teokset ja äänitteet (huom. ulkopuolelle jäävät valokuva- ja kuvataide). Kuvausta voivat käyttää vain ne tahot, joille direktiivi luo oikeuksia: Euroopan unionin jäsenvaltioon sijoittautuneet yleisölle avoimet kirjastot, oppilaitokset ja museot sekä arkistot, elokuva- ja äänitearkistot ja julkisen palvelun yleisradio-organisaatiot. Tällaisen tahon odotetaan myös rekisteröineen teoksen Euroopan unionin teollisoikeuksien viraston (EUIPO) ylläpitämään EU:n orpoteostietokantaan."
 }

@@ -5,6 +5,7 @@
     "description": "http://purl.org/dc/terms/description"
   },
   "@id": "http://rightsstatements.org/vocab/CNE/1.0/",
+  "prefLabel": "Derecho de autor sin evaluar",
   "description": "Esta Declaración de Derechos indica que la organización que ha publicado el material no ha evaluado el estado del derecho de autor y derechos conexos del material.",
   "definition": "El estado del derecho de autor y derechos conexos de este material no ha sido evaluado.\n\n  Por favor, refiérase a la organización que ha puesto el material a disposición para más información.\n\n  Usted es libre de utilizar este material de cualquier forma que esté permitida por la legislación de derecho de autor y derechos conexos que se aplique para el uso que pretende hacer.",
   "note": [
@@ -12,6 +13,5 @@
     "Usted quizás necesite obtener permiso para el uso que pretende hacer del material. Por ejemplo, otros derechos tales como el derecho a la publicidad, el derecho a la privacidad o los derechos morales pueden limitar la forma en que puede utilizar el material.",
     "Usted puede encontrar información adicional sobre el estado del derecho de autor del material en el sitio web de la organización que puso a disposición el material."
   ],
-  "prefLabel": "Derecho de autor sin evaluar",
   "scopeNote": "Esta Declaración de Derechos debe ser utilizada para materiales para los cuales el estado del derecho de autor es desconocido y para los cuales la organización que pretende poner a disposición el material no ha realizado un esfuerzo para determinar el estado del derecho de autor de la obra subyacente."
 }

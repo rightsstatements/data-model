@@ -5,6 +5,7 @@
     "description": "http://purl.org/dc/terms/description"
   },
   "@id": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+  "prefLabel": "Autoriõigus ei kehti - Ameerika Ühendriigid",
   "description": "Selle autoriõigusliku seisundi deklaratsiooniga märgistatud objekt on Ameerika Ühendriikide seadustikust lähtuvalt avalikus omandis, kuid selle teiste riikide autoriõiguse seadustikust tulenev õiguslik seisund on hindamata.",
   "definition": "Objekti kättesaadavaks teinud organisatsioon usub, et see on Ameerika Ühendriikide õigusest lähtuvalt avalikus omandis, kuid selle teiste riikide autoriõiguse seadustikest tulenev õiguslik seisund on hindamata. Objekt ei pruugi  olla avalikus omandis teiste riikide seadustikust lähtuvalt.\n\n  Palun küsige täiendavat infot objekti kättesaadavaks teinud organisatsioonilt.",
   "note": [
@@ -12,6 +13,5 @@
     "Teie kavandatav kasutusviis võib nõuda täiendavate lubade hankimist. Näiteks võivad materjali kasutamist piirata muud õigused, nagu isiku-, eraelu puutumatuse ning moraalsed õigused.",
     "Objekti kättesaadavaks teinud organisatsiooni koduleht võib sisaldada täiendavat informatsiooni objekti autoriõigusliku seisundi kohta."
   ],
-  "prefLabel": "Autoriõigus ei kehti - Ameerika Ühendriigid",
   "scopeNote": "See autoriõigusliku seisundi deklaratsioon on mõeldud selliste objektide märgistamiseks, millele (objekti kättesaadavaks teha kavatsevale organisatsioonile teadaolevalt) Ameerika Ühendriikide seadustikust lähtuvalt autoriõigus ei kehti. Deklaratsiooni ei tohi kasutada orbteoste (millele eeldatakse kehtivat autoriõigus) ega selliste objektide märgistamiseks, mille autoriõiguslikku seisundit ei ole objekti kättesaadavaks teha kavatsev organisatsioon püüdnud tuvastada."
 }

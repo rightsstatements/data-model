@@ -5,6 +5,7 @@
     "description": "http://purl.org/dc/terms/description"
   },
   "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/",
+  "prefLabel": "Nie objęty ochroną autorskich praw majątkowych - Dozwolone wyłącznie wykorzystanie niekomercyjne",
   "description": "To oświadczenie prawne wskazuje, że utwór pierwotny znajduje się w tzw. domenie publicznej, ale organizacja, które udostępniła ten obiekt jest umownie zobowiązana do wymagania, aby osoby trzecie wykorzystywały obiekt wyłącznie w celach niekomercyjnych.",
   "definition": "Ten utwór został zdigitalizowany w ramach partnerstwa publiczno-prywatnego. W ramach tego partnerstwa, partnerzy uzgodnili ograniczenie osobom trzecim możliwości komercyjnego wykorzystywania cyfrowych kopii utworu.\n\n  Można, bez pozwolenia, kopiować, modyfikować, dystrybuować czy odtwarzać ten obiekt, w celach niekomercyjnych. Aby poznać inne dozwolone możliwości wykorzystania, należy zapoznać się z zasadami i warunkami funkcjonowania organizacji, która udostępniła ten obiekt.",
   "note": [
@@ -12,6 +13,5 @@
     "Może być również konieczne uzyskanie innych zgód w celu wykorzystania obiektu. Na przykład prawa związane z ochroną wizerunku i danych osobowych, prywatnością lub prawa osobiste mogą ograniczać możliwości wykorzystania obiektu.",
     "Dodatkowe informacje o statusie prawnoautorskim obiektu mogą być dostępne na stronie internetowej organizacji, która ten obiekt udostępniła."
   ],
-  "prefLabel": "Nie objęty ochroną autorskich praw majątkowych - Dozwolone wyłącznie wykorzystanie niekomercyjne",
   "scopeNote": "To oświadczenie prawne może być wykorzystywane wyłącznie dla utworów, które znajdują się w Domenie Publicznej i zostały zdigitalizowane w ramach partnerstwa publiczno-prywatnego, w którym partnerzy zgodzili się na ograniczenie osobom trzecim możliwości komercyjnego wykorzystania cyfrowych kopii utworu. To oświadczenie zostało opracowane w szczególności, aby objąć utwory, które zostały zdigitalizowane w ramach partnerstwa pomiędzy bibliotekami europejskimi a Google, ale teoretycznie może być zastosowane dla obiektów, które zostały zdigitalizowane w ramach podobnego partnerstwa publiczno-prywatnego."
 }

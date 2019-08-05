@@ -5,6 +5,7 @@
     "description": "http://purl.org/dc/terms/description"
   },
   "@id": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+  "prefLabel": "Ei tekijänoikeutta - Yhdysvallat",
   "description": "Tällä käyttöoikeuskuvauksella ilmaistaan, että Kohde on vailla tekijänoikeuden suojaa  Yhdysvaltain lainsäädännön nojalla (”Public domain”), mutta sen tekijänoikeudellista statusta muiden valtioiden tekijänoikeuslainsäädännön nojalla ei ole selvitetty.",
   "definition": "Tämän Kohteen saataville saattanut organisaatio katsoo, ettei Kohde ole tekijänoikeuden suojaama Yhdysvaltain lainsäädännön nojalla (”public domain”), mutta sen tekijänoikeudellista statusta muiden valtioiden tekijänoikeuslainsäädännön nojalla ei ole selvitetty. Kohde voi mahdollisesti olla muiden maiden lainsäädännön nojalla tekijänoikeuden suojaama.\n\n  Lisätietoja voit saada ottamalla yhteyttä Kohteen saataville saattaneeseen organisaatioon.",
   "note": [
@@ -12,6 +13,5 @@
     "Saatat tarvita muita lupia aikomaasi käyttöä varten. Esimerkiksi moraaliset oikeudet, yksityisyyden suojaa koskevat oikeudet taikka henkilön oikeudet määrätä kuvansa tai henkilönsä tunnistettavan osan kaupallisesta käytöstä voivat rajoittaa aineiston käyttöä.",
     "Lisätietoja Kohteen tekijänoikeudellisesta statuksesta voi olla saatavissa Kohteen saataville saattaneen organisaation verkkosivuilta."
   ],
-  "prefLabel": "Ei tekijänoikeutta - Yhdysvallat",
   "scopeNote": "Tätä käyttöoikeuskuvausta tulisi käyttää Kohteille, jotka organisaatio, joka aikoo saattaa Kohteen saataville, on todennut olevan ilman tekijänoikeuden suojaa Yhdysvaltain lainsäädännön nojalla. Käyttöoikeuskuvausta ei tulisi käyttää orpoteoksiin (joiden oletetaan olevan tekijänoikeuden suojaamia) tai Kohteisiin, joiden osalta organisaatio, joka aikoo saattaa Kohteen saataville, ei ole yrittänyt varmistaa Kohteeseen liittyvän teoksen tekijänoikeudellista statusta."
 }

@@ -5,6 +5,7 @@
     "description": "http://purl.org/dc/terms/description"
   },
   "@id": "http://rightsstatements.org/vocab/CNE/1.0/",
+  "prefLabel": "Tekijänoikeusstatusta ei arvioitu",
   "description": "Tällä käyttöoikeuskuvauksella ilmaistaan, että Kohteen julkaissut organisaatio ei ole arvioinut kohteen tekijänoikeudellista ja lähioikeusstatusta.",
   "definition": "Tämän Kohteen tekijänoikeudellista ja lähioikeusstatusta ei ole arvioitu.\n\n  Lisätietoja voit saada ottamalla yhteyttä Kohteen saataville saattaneeseen organisaatioon.\n\n  Voit käyttää Kohdetta käyttöösi sovellettavan tekijänoikeutta ja lähioikeuksia koskevan lainsäädännön sallimilla tavoilla.",
   "note": [
@@ -12,6 +13,5 @@
     "Saatat tarvita muita lupia aikomaasi käyttöä varten. Esimerkiksi moraaliset oikeudet, yksityisyyden suojaa koskevat oikeudet taikka henkilön oikeudet määrätä kuvansa tai henkilönsä tunnistettavan osan kaupallisesta käytöstä voivat rajoittaa aineiston käyttöä.",
     "Lisätietoja Kohteen tekijänoikeudellisesta statuksesta voi olla saatavissa Kohteen saataville saattaneen organisaation verkkosivuilta."
   ],
-  "prefLabel": "Tekijänoikeusstatusta ei arvioitu",
   "scopeNote": "Tätä käyttöoikeuskuvausta tulisi käyttää Kohteille, joiden tekijänoikeudellinen status on tuntematon, eikä organisaatio, joka aikoo saattaa Kohteen saataville, ole yrittänyt määrittää sitä."
 }

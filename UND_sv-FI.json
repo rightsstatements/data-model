@@ -5,6 +5,7 @@
     "description": "http://purl.org/dc/terms/description"
   },
   "@id": "http://rightsstatements.org/vocab/UND/1.0/",
+  "prefLabel": "Upphovsrättslig status ej definierats",
   "description": "Denna nyttjanderättsbeskrivning innebär att organisationen som har gjort objektet tillgängligt har granskat objektets status för upphovsrätt och närstående rättigheter, men inte kunnat fastställa objektets upphovsrättsliga status.",
   "definition": "Detta Objekts upphovsrättsliga status och dess status enligt närstående rättigheter har bedömts av den organisation som har gjort Objektet tillgängligt. Organisationen kunde dock inte dra några definitiva slutsatser om Objektets upphovsrättsliga status.\n\n  För ytterligare upplysningar, ta kontakt med den organisation som har gjort Objektet tillgängligt.\n\n  Du kan använda Objektet på alla sätt som är tillåtna enligt lagstiftningen om upphovsrätt och närstående rättigheter som är tillämplig på din användning.",
   "note": [
@@ -12,6 +13,5 @@
     "Du kanske måste skaffa andra tillstånd för den användning som du avser. Till exempel moraliska rättigheter, rättigheter gällande skyddet för privatliv eller personens rättigheter att bestämma gällande kommersiell användning av en identifierbar del av sin bild eller sin person kan begränsa dina möjligheter att använda materialet.",
     "Du kan hitta ytterligare information om Objektets upphovsrättsliga status på den organisations hemsida som har gjort Objektet tillgängligt."
   ],
-  "prefLabel": "Upphovsrättslig status ej definierats",
   "scopeNote": "Denna nyttjanderättsbeskrivning bör användas för objekt vars upphovsrättsliga status är okänd och när organisationen som har gjort objektet tillgängligt har försökt fastställa underliggande verkets upphovsrättsliga status. Denna nyttjanderättsbeskrivning används vanligtvis när organisationen saknar viktiga fakta som krävs för att definiera upphovsrättslig status."
 }

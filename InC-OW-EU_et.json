@@ -5,6 +5,7 @@
     "description": "http://purl.org/dc/terms/description"
   },
   "@id": "http://rightsstatements.org/vocab/InC-OW-EU/1.0/",
+  "prefLabel": "Kehtiv autoriõigus - EL orbteos",
   "description": "Selle deklaratsiooniga märgistatud objekt on EL orbteoste direktiivi alusel tuvastatud kui „orbteos“.",
   "definition": "Euroopa Parlamendi ja Nõukogu 25. oktoobri 2012 direktiivi 2012/28/EL “Orbteoste teatavate lubatud kasutusviiside kohta” alusel loetakse objekti selle esmaavaldamisriigis orbteoseks.\n\n  See tähendab, et (a) autoriõiguse valdajat (valdajaid) ei ole tuvastatud või (b) õiguste valdaja(d) on küll tuvastatud, kuid neid ei ole leitud vaatamata sellele, et on tehtud õiguste valdajate hoolikas otsing. Tehtud hoolika otsingu tulemused on leitavad EL orbteoste andmebaasist.\n\n  Objekti võib vabalt kasutada kõigil viisidel, mis on lubatud kavandatavale kasutusviisile kohalduvates autoriõigust ja sellega seotud õigusi puudutavates seadustes.",
   "note": [
@@ -13,6 +14,5 @@
     "Objekti kättesaadavaks teinud organisatsiooni koduleht võib sisaldada täiendavat informatsiooni objekti autoriõigusliku seisundi kohta.",
     "Juhul kui Te valdate informatsiooni, mis võib kaasa aidata õiguste valdaja(te) tuvastamisele või leidmisele, teavitage sellest objekti kättesaadavaks teinud organisatsiooni."
   ],
-  "prefLabel": "Kehtiv autoriõigus - EL orbteos",
   "scopeNote": "Selle autoriõigusliku seisundi deklaratsiooniga võib märgistada objekte, mis põhinevad teostel, mis on tunnistatud nende esmaavaldamisriigis orbteosteks vastavalt Euroopa Parlamendi ja Nõukogu 25. oktoobri 2012 direktiivile 2012/28/EL “Orbteoste teatavate lubatud kasutusviiside kohta”. See on rakendatav ainult objektidele, mis on tuletatud orbteoste direktiivis käsitletud teostest, nagu raamatu, ajakirja, ajalehe või muu trükisena avaldatud teosed või kinematograafilised ja audiovisuaalsed teosed ja fonogrammid (märkus: see ei hõlma fotograafiat ja kujutavaid kunste). Deklaratsiooni võivad rakendada direktiiviga soodustatud isikutest organisatsioonid: liikmesriikides asuvad avalikud raamatukogud, haridusasutused ja muuseumid, avalikud arhiivid, filmi- ja audiopärandi säilitamisega tegelevad organisatsioonid ja avalikkust teenindavad ringhäälinguorganisatsioonid. Soodustatud isik peab ühtlasi teose registreerima EUIPO hallatavas EL orbteoste andmebaasis."
 }

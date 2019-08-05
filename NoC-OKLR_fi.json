@@ -5,6 +5,7 @@
     "description": "http://purl.org/dc/terms/description"
   },
   "@id": "http://rightsstatements.org/vocab/NoC-OKLR/1.0/",
+  "prefLabel": "Ei tekijänoikeutta - muita tunnettuja oikeudellisia rajoituksia",
   "description": "Tällä käyttöoikeuskuvauksella ilmaistaan, että Kohteeseen liittyvä teos ei ole tekijänoikeuden suojaama, mutta muun kuin tekijänoikeutta ja/tai lähioikeuksia koskevan lainsäädännön tiedetään rajoittavan kolmansien osapuolten oikeutta käyttää kohdetta.",
   "definition": "Tekijänoikeus ja/tai lähioikeudet eivät rajoita tämän Kohteen käyttöä.\n\n  Kuitenkin yhdellä tai useammalla lainkäyttöalueella muun kuin tekijänoikeutta koskevan lainsäädännön tiedetään rajoittavan Kohteen käyttöä.\n\n  Lisätietoja voit saada ottamalla yhteyttä Kohteen saataville saattaneeseen organisaatioon.",
   "note": [
@@ -12,6 +13,5 @@
     "Saatat tarvita muita lupia aikomaasi käyttöä varten. Esimerkiksi moraaliset oikeudet, yksityisyyden suojaa koskevat oikeudet taikka henkilön oikeudet määrätä kuvansa tai henkilönsä tunnistettavan osan kaupallisesta käytöstä voivat rajoittaa aineiston käyttöä.",
     "Lisätietoja Kohteen tekijänoikeudellisesta statuksesta voi olla saatavissa Kohteen saataville saattaneen organisaation verkkosivuilta."
   ],
-  "prefLabel": "Ei tekijänoikeutta - muita tunnettuja oikeudellisia rajoituksia",
   "scopeNote": "Tätä käyttöoikeuskuvausta tulisi käyttää tekijänoikeudesta vapaisiin Kohteisiin, joiden vapaa uudelleenkäyttö ei ole mahdollista, koska on olemassa tunnettuja oikeudellisia rajoituksia, kuten kulttuuriperintöä tai perinteistä kulttuurillista ilmaisua suojaavia rajoituksia, joiden takia organisaatio, joka aikoo saattaa kohteen saataville, ei voi sallia teoksen vapaata uudelleenkäyttöä. Organisaation, joka aikoo saattaa Kohteen saataville, tulisi täydentää tätä kuvausta linkillä verkkosivulle, josta kyseiset oikeudelliset rajoitukset ilmenevät."
 }

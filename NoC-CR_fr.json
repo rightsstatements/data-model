@@ -5,6 +5,7 @@
     "description": "http://purl.org/dc/terms/description"
   },
   "@id": "http://rightsstatements.org/vocab/NoC-CR/1.0/",
+  "prefLabel": "Absence de protection par le droit d'auteur - Restrictions contractuelles",
   "description": "La présente Déclaration des Droits indique que l'Oeuvre sous-jacente est dans le Domaine Public, mais que l'organisme qui a publié l'Objet est contractuellement tenu d'imposer des restrictions à certains types d'utilisations faites par des tiers.",
   "definition": "L'utilisation de cet Objet n'est pas limitée par le droit d'auteur et/ou les droits voisins.\n\n  Dans le cadre de l'acquisition ou de la numérisation de cette Oeuvre, l'organisme qui a rendu l'Objet accessible a été contractuellement obligé de limiter l'utilisation de cet Objet. Les restrictions peuvent être liées entre autres à la protection de la vie privée, à la protection des biens culturels, à des accords de numérisation ou à des accords conclus avec des donateurs.\n\n  Pour de plus amples informations, veuillez contacter l'organisme qui a rendu l'Objet accessible.",
   "note": [
@@ -12,6 +13,5 @@
     "Il est possible que l'utilisation que vous envisagez requière des autorisations supplémentaires. Il se peut, par exemple, que d'autres droits, comme les droits de la personnalité ou de la publicité, les droits liés à la protection de la vie privée ou les droits moraux, limitent vos possibilités d'utilisation.",
     "Il est possible que vous trouviez, sur le site Web de l'organisme ayant rendu l'Objet accessible, des informations supplémentaires concernant la protection de l'Objet par le droit d'auteur."
   ],
-  "prefLabel": "Absence de protection par le droit d'auteur - Restrictions contractuelles",
   "scopeNote": "L'utilisation de cette Déclaration des Droits est limitée aux objets qui sont dans le Domaine Public, mais pour lesquels l'organisme qui entend rendre l'Objet accessible a conclu une convention qui l'oblige à imposer des restrictions quant à l'utilisation de l'Objet par des tiers. Pour que la présente Déclaration des Droits soit probante, l'organisme qui entend rendre l'Objet accessible doit fournir un lien vers une page spécifiant les restrictions contractuelles applicables à l'utilisation de l'Objet."
 }

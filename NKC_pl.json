@@ -5,6 +5,7 @@
     "description": "http://purl.org/dc/terms/description"
   },
   "@id": "http://rightsstatements.org/vocab/NKC/1.0/",
+  "prefLabel": "Niepotwierdzony brak ochrony prawnoautorskiej",
   "description": "To oświadczenie prawne wskazuje, że organizacja, która udostępniła obiekt zakłada, że nie są znane żadne podstawy objęcia obiektu ochroną wynikającą z majątkowych praw autorskich lub praw pokrewnych, ale nie udało się doprowadzić do jednoznacznego potwierdzenia tego założenia.",
   "definition": "Organizacja, która udostępniła obiekt zakłada, że wykorzystanie obiektu nie jest ograniczone przez majątkowe prawa autorskie lub prawa pokrewne, ale nie udało się doprowadzić do jednoznacznego potwierdzenia tego założenia.\n\n  W celu uzyskania dodatkowych informacji należy skontaktować się z organizacją, która udostępniła obiekt.\n\n  Można wykorzystywać ten obiekt w dowolny sposób dozwolony przez przepisy o prawie autorskim i prawach pokrewnych, które mają zastosowanie w kontekście planowanego wykorzystania.",
   "note": [
@@ -12,6 +13,5 @@
     "Może być również konieczne uzyskanie innych zgód w celu wykorzystania obiektu. Na przykład prawa związane z ochroną wizerunku i danych osobowych, prywatnością lub prawa osobiste mogą ograniczać możliwości wykorzystania obiektu.",
     "Dodatkowe informacje o statusie prawnym obiektu mogą być dostępne na stronie internetowej organizacji, która ten obiekt udostępniła."
   ],
-  "prefLabel": "Niepotwierdzony brak ochrony prawnoautorskiej",
   "scopeNote": "To oświadczenie prawne powinno być wykorzystywane dla obiektów, których status ochrony prawnoautorskiej nie został określony w sposób jednoznaczny, ale w przypadku których organizacja zamierzająca je udostępnić, ma uzasadnione podstawy by założyć, że utwór pierwotny nie jest już objęty ochroną majątkowych praw autorskich lub praw pokrewnych. To oświadczenie prawne nie powinno być wykorzystywane dla utworów osieroconych (które z założenia są objęte pełną ochroną prawnoautorską), ani też dla obiektów, w przypadku których organizacja planująca je udostępnić, nie podjęła działań mających na celu określenie statusu prawnoautorskiego utworu pierwotnego."
 }

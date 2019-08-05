@@ -5,6 +5,7 @@
     "description": "http://purl.org/dc/terms/description"
   },
   "@id": "http://rightsstatements.org/vocab/InC-OW-EU/1.0/",
+  "prefLabel": "Protegido por derecho de autor - Obra huérfana UE",
   "description": "Esta Declaración de Derechos indica que el material etiquetado con esta Declaración de Derechos ha sido identificado como ‘obra huérfana’ según los términos de la Directiva de Obras Huérfanas de la Unión Europea.",
   "definition": "Este material ha sido identificado como una obra huérfana en el país de la primera publicación y en consonancia con la Directiva 2012/28/EU del Parlamento Europeo y del Comité del 25 de octubre de 2012 sobre ciertos usos permitidos de las obras huérfanas.\n\n  Para este material, o bien (a) no se han identificado titular o titulares de derechos o (b) uno o más titulares de derechos han sido identificados pero ninguno ha podido ser localizado a pesar de que se ha realizado una búsqueda diligente para intentar localizar al titular o a los titulares de derechos. Los resultados de la búsqueda diligente están disponibles en la Base de Datos de Obras Huérfanas de la UE.\n\n  Usted es libre de utilizar este material de cualquier forma que esté permitida por la legislación de derecho de autor y derechos conexos que se aplique al uso que pretende hacer.",
   "note": [
@@ -13,6 +14,5 @@
     "Usted puede encontrar información adicional sobre el estado del derecho de autor del material en el sitio web de la organización que puso a disposición el material.",
     "Si usted tiene cualquier información que pueda contribuir a identificar o localizar al titular o a los titulares de derechos, por favor, notifique a la organización que ha puesto el material a disposición."
   ],
-  "prefLabel": "Protegido por derecho de autor - Obra huérfana UE",
   "scopeNote": "Esta Declaración de Derechos está prevista para ser utilizada con materiales que han sido identificados como obras huérfanas de acuerdo a la Directiva 2012/28/EU del Parlamento Europeo y del Comité del 25 de octubre de 2012 sobre ciertos usos permitidos de las obras huérfanas. Solo puede aplicarse a materiales derivados de las obras que están cubiertas por la Directiva: obras publicadas en la forma de libros, publicaciones periódicas, diarios, periódicos, revistas u otro tipo de escritos, así como obras cinematográficas o audiovisuales y fonogramas (nota: esto excluye a la fotografía y a las artes visuales). Solo puede ser aplicada por organizaciones que sean beneficiarias de la Directiva: bibliotecas públicas, establecimientos educativos y museos, archivos, instituciones de patrimonio fílmico o de audio y organizaciones de servicios públicos de radiodifusión, radicadas en uno de los estados miembros de la Unión Europea. Se espera del beneficiario que haya registrado la obra en la Base de Datos de Obras Huérfanas de la Unión Europea mantenida por la EUIPO (Oficina de la Propiedad Intelectual Europea)."
 }

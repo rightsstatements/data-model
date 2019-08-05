@@ -5,6 +5,7 @@
     "description": "http://purl.org/dc/terms/description"
   },
   "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/",
+  "prefLabel": "Sin derecho de autor - Uso No Comercial solamente",
   "description": "Esta Declaración de Derechos indica que la obra subyacente está en el dominio público, pero la organización que ha publicado el material está contractualmente obligada a autorizar solamente el uso no comercial por terceras partes.",
   "definition": "Esta obra ha sido digitalizada en una asociación pública-privada. Como parte de esta asociación, los asociados han acordado limitar los usos comerciales por terceras partes de esta representación digital del objeto.\n\n  Usted puede, sin solicitar permiso, copiar, modificar, distribuir, exhibir o representar el objeto digital para usos no comerciales. Para cualquier otro uso permitido, por favor, revise los términos y condiciones de la organización que ha puesto el material a disposición.",
   "note": [
@@ -12,6 +13,5 @@
     "Usted quizás necesite obtener permiso para el uso que pretende hacer del material. Por ejemplo, otros derechos tales como el derecho a la publicidad, el derecho a la privacidad o los derechos morales pueden limitar la forma en que puede utilizar el material.",
     "Usted puede encontrar información adicional sobre el estado del derecho de autor del material en el sitio web de la organización que puso a disposición el material."
   ],
-  "prefLabel": "Sin derecho de autor - Uso No Comercial solamente",
   "scopeNote": "Esta Declaración de Derechos solo puede ser utilizada para obras que están en el dominio público y han sido digitalizadas en una asociación pública-privada como parte de la cual los asociados han acordado limitar los usos comerciales por terceras partes de esta representación digital de la obra. Ha sido desarrollada específicamente para permitir la inclusión de obras que han sido digitalizadas como parte de las asociaciones entre bibliotecas europeas y Google, pero en teoría puede ser aplicada a materiales que han sido digitalizados por asociaciones público-privadas similares."
 }

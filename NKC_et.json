@@ -5,6 +5,7 @@
     "description": "http://purl.org/dc/terms/description"
   },
   "@id": "http://rightsstatements.org/vocab/NKC/1.0/",
+  "prefLabel": "Autoriõigus teadaolevalt ei kehti",
   "description": "See autoriõigusliku seisundi deklaratsioon näitab, et objekti avaldanud organisatsiooni veendumuse kohaselt ei kehti deklaratsiooniga märgistatud objektile autoriõigus ega sellega seotud õigused, kuid seda pole õnnestunud lõplikult tuvastada.",
   "definition": "Objekti kättesaadavaks teinud organisatsioon usub mõistlikkuse piires, et objekti kasutamist ei piira autoriõigus ega sellega seotud õigused, kuid lõplikku kinnitust sellele ei ole.\n\n  Palun küsige täiendavat infot objekti kättesaadavaks teinud organisatsioonilt.\n\n  Objekti võib vabalt kasutada kõigil viisidel, mis on lubatud kavandatavale kasutusviisile kohalduvates autoriõigust ja sellega seotud õigusi puudutavates seadustes.",
   "note": [
@@ -12,6 +13,5 @@
     "Teie kavandatav kasutusviis võib nõuda täiendavate lubade hankimist. Näiteks võivad materjali kasutamist piirata muud õigused, nagu isiku-, eraelu puutumatuse ning moraalsed õigused.",
     "Objekti kättesaadavaks teinud organisatsiooni koduleht võib sisaldada täiendavat informatsiooni objekti autoriõigusliku seisundi kohta."
   ],
-  "prefLabel": "Autoriõigus teadaolevalt ei kehti",
   "scopeNote": "See autoriõigusliku seisundi deklaratsioon on mõeldud selliste objektide märgistamiseks, mille autoriõiguslikku seisundit ei ole õnnestunud lõplikult tuvastada, kuid mille puhul on objekti kättesaadavaks teha kavatseval organisatsioonil mõistlikkuse piires alust arvata, et objekti aluseks olevale teosele ei kehti enam autoriõigus ega sellega seotud õigused. Deklaratsiooni ei peaks kasutama orbteoste (millele eeldatakse kehtivat autoriõigus) ega selliste objektide märgistamiseks, mille aluseks oleva teose autoriõiguslikku seisundit ei ole objekti kättesaadavaks teha kavatsev organisatsioon püüdnud tuvastada."
 }
