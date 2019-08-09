@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "et",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/NoC-OKLR/1.0/",
+  "prefLabel": "Autoriõigus ei kehti - muud teadaolevad õiguslikud piirangud",
+  "description": "Selle autoriõigusliku seisundi deklaratsiooniga märgistatud objekti aluseks olev teos on avalikus omandis ja sellele ei kehti autoriõigus ega sellega seotud õigused, kuid teadaolevalt laienevad teosele teistes seadustes sätestatud piirangud, mis puudutavad objekti kasutamist kolmandate osapoolte poolt.",
+  "definition": "Autoriõigus ja/või sellega seotud õigused objekti kasutamist ei piira.\n\n  Ühes või mitmes õigusruumis piiravad objekti kasutamist teadaolevalt muud seadused peale autoriõiguse ja sellega seotud õiguste.\n\n  Palun küsige täiendavat infot objekti kättesaadavaks teinud organisatsioonilt.",
+  "note": [
+    "Juhul kui ei ole otseselt öeldud teisiti, ei anna objekti kättesaadavaks teinud organisatsioon objekti kohta mingeid garantiisid ega taga käesoleva autoriõigusliku seisundi deklaratsiooni täpsust. Kasutusviisi õiguspärasuse eest vastutab kasutaja ise.",
+    "Teie kavandatav kasutusviis võib nõuda täiendavate lubade hankimist. Näiteks võivad materjali kasutamist piirata muud õigused, nagu isiku-, eraelu puutumatuse ning moraalsed õigused.",
+    "Objekti kättesaadavaks teinud organisatsiooni koduleht võib sisaldada täiendavat informatsiooni objekti autoriõigusliku seisundi kohta."
+  ],
+  "scopeNote": "See autoriõigusliku seisundi deklaratsioon on mõeldud selliste objektide märgistamiseks, mis on avalikus omandis, kuid mida ei ole võimalik vabalt taaskasutada tulenevalt teadaolevatest õiguslikest piirangutest, nagu kultuuripärandi või traditsiooniliste väljendusvormide kaitse, mis ei luba objekti kättesaadavaks teha kavatseval organisatsioonil võimaldada objekti vaba taaskasutamist. Deklaratsiooni siduvuse tagamiseks peab objekti kättesaadavaks teha kavatsev organisatsioon sellele lisama viite objekti taaskasutamist piiravaid õiguslikke piiranguid käsitlevale veebilehele."
+}

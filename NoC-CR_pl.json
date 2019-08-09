@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "pl",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/NoC-CR/1.0/",
+  "prefLabel": "Nie objęty ochroną autorskich praw majątkowych - Ograniczenia wynikające z umów",
+  "description": "To oświadczenie prawne wskazuje, że utwór pierwotny znajduje się w tzw. domenie publicznej, ale organizacja, które udostępniła ten obiekt jest umownie zobowiązana do ograniczenia pewnych sposobów wykorzystania obiektu przez osoby trzecie.",
+  "definition": "Wykorzystanie tego obiektu nie jest ograniczone prawem autorskim lub prawami pokrewnymi.\n\n  W ramach działań związanych z pozyskaniem bądź digitalizacją tego utworu, organizacja która udostępniła obiekt jest zobowiązana umowami do ograniczenia możliwości wykorzystania tego obiektu. Ograniczenia mogą być powiązane między innymi z ochroną prywatności, ochroną dziedzictwa kulturowego, zapisami umów digitalizacyjnych lub umów z donatorami.\n\n  W celu uzyskania dodatkowych informacji należy skontaktować się z organizacją, która udostępniła obiekt.",
+  "note": [
+    "Jeżeli wyraźnie nie zaznaczono inaczej, organizacja która udostępniła dany obiekt nie daje w związku z nim żadnych gwarancji i nie może zagwarantować poprawności oświadczenia prawnego. Sam odpowiadasz za własne działania.",
+    "Może być również konieczne uzyskanie innych zgód w celu wykorzystania obiektu. Na przykład prawa związane z ochroną wizerunku i danych osobowych, prywatnością lub prawa osobiste mogą ograniczać możliwości wykorzystania obiektu.",
+    "Dodatkowe informacje o statusie prawnoautorskim obiektu mogą być dostępne na stronie internetowej organizacji, która ten obiekt udostępniła."
+  ],
+  "scopeNote": "To oświadczenie prawne może być wykorzystywane wyłącznie dla obiektów, które są w tzw. domenie publicznej, ale w przypadku których organizacja zamierzająca udostępnić obiekty związała się umowami nakładającymi na nią obowiązek podjęcia działań ograniczających wykorzystanie obiektu przez osoby trzecie. Aby to oświadczenie prawne było skuteczne, organizacja zamierzająca udostępnić obiekt powinna dostarczyć odnośnik do strony zawierającej szczegółowy opis prawnych ograniczeń wykorzystania obiektu."
+}

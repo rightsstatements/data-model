@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "fr",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/UND/1.0/",
+  "prefLabel": "Droit d'auteur indéterminé",
+  "description": "La présente Déclaration des Droits indique que l'organisme qui a rendu l'Objet accessible, bien qu'il en ait fait l'examen, n'a pas été en mesure de déterminer le statut de l'Objet en ce qui concerne le droit d'auteur et les droits voisins.",
+  "definition": "L'organisme qui a rendu l'Objet accessible a examiné le statut de l'Objet en ce qui concerne le droit d'auteur et les droits voisins. Toutefois, l'organisme n'était pas en mesure de déterminer de manière définitive le statut de l'Objet au vu du droit d'auteur.\n\n  Pour de plus amples informations, veuillez contacter l'organisme qui a rendu l'Objet accessible.\n\n  Vous avez le droit d'utiliser l'Objet de toutes les manières autorisées par la législation sur le droit d'auteur et les droits voisins applicable à votre utilisation.",
+  "note": [
+    "Sauf mention expresse contraire, l'organisme qui a rendu cet Objet accessible ne donne aucune garantie concernant ce dernier ni ne garantit l'exactitude de la présente Déclaration des Droits. Vous êtes responsable de votre propre utilisation.",
+    "Il est possible que l'utilisation que vous envisagez requière des autorisations supplémentaires. Il se peut, par exemple, que d'autres droits, comme les droits de la personnalité ou de la publicité, les droits liés à la protection de la vie privée ou les droits moraux, limitent vos possibilités d'utilisation.",
+    "Il est possible que vous trouviez, sur le site Web de l'organisme ayant rendu l'Objet accessible, des informations supplémentaires concernant la protection de l'Objet par le droit d'auteur."
+  ],
+  "scopeNote": "Cette Déclaration des Droits doit être utilisée pour les Objets dont le statut en matière de droit d'auteur est inconnu et pour lesquels l'organisme qui a rendu l'Objet accessible a pris des mesures (infructueuses) pour déterminer le statut de l'Oeuvre sous-jacente au vu du droit d'auteur. En règle générale, cette Déclaration des Droits est utilisée lorsque l'organisme n'a pas connaissance de tous les éléments-clés nécessaires pour déterminer avec précision le statut de l'Objet en matière de droit d'auteur."
+}

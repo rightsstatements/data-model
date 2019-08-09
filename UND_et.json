@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "et",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/UND/1.0/",
+  "prefLabel": "Autoriõiguslik seisund tuvastamata",
+  "description": "See autoriõigusliku seisundi deklaratsioon näitab, et objekti kättesaadavaks teinud organisatsioon on teinud pingutusi objekti autoriõigusest ja sellega seonduvatest õigustest tuleneva seisundi hindamiseks, kuid objekti autoriõiguslikku seisundit ei ole õnnestunud tuvastada.",
+  "definition": "Objekti kättesaadavaks teinud organisatsioon on teinud pingutusi objekti autoriõigusest ja sellega seonduvatest õigustest tuleneva seisundi hindamiseks, kuid pole suutnunud objekti autoriõiguslikku seisundit lõplikult kindlaks teha.\n\n  Palun küsige täiendavat infot objekti kättesaadavaks teinud organisatsioonilt.\n\n  Objekti võib vabalt kasutada kõigil viisidel, mis on lubatud kavandatavale kasutusviisile kohalduvates autoriõigust ja sellega seotud õigusi puudutavates seadustes.",
+  "note": [
+    "Juhul kui ei ole otseselt öeldud teisiti, ei anna objekti kättesaadavaks teinud organisatsioon selle kohta mingeid garantiisid ega taga selle autoriõigusliku seisundi deklaratsiooni täpsust. Kasutusviisi õiguspärasuse eest vastutab kasutaja ise.",
+    "Teie kavandatav kasutusviis võib nõuda täiendavate lubade hankimist. Näiteks võivad materjali kasutamist piirata muud õigused, nagu isiku-, eraelu puutumatuse ning moraalsed õigused.",
+    "Objekti kättesaadavaks teinud organisatsiooni koduleht võib sisaldada täiendavat informatsiooni objekti autoriõigusliku seisundi kohta."
+  ],
+  "scopeNote": "See autoriõigusliku seisundi deklaratsioon on mõeldud selliste objektide märgistamiseks, mille autoriõiguslik seisund on teadmata ja mille kättesaadavaks teinud organisatsioon on teinud (tulemusteta) pingutusi objekti aluseks oleva teose autoriõigusliku seisundi tuvastamiseks. Üldjuhul kasutatakse seda olukorras, kus puuduvad teose autoriõigusliku seisundi täpseks tuvastamiseks olulised faktid."
+}

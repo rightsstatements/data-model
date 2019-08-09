@@ -1,0 +1,9 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "de",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/collection-nc/1.0/",
+  "prefLabel": "Hinweise für Werke die nicht urheberrechtlich geschützt sind"
+}

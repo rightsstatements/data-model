@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "sv-FI",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/InC/1.0/",
+  "prefLabel": "Underkastad upphovsrätt",
+  "description": "Denna nyttjanderättsbeskrivning innebär att objektet som är märkt med denna nyttjanderättsbeskrivning skyddas av upphovsrätt.",
+  "definition": "Detta Objekt skyddas genom upphovsrätt och/eller närstående rättigheter.\n\n  Du kan använda Objektet på alla sätt som är tillåtna enligt lagstiftningen om upphovsrätt och närstående rättigheter som är tillämplig på din användning.\n\n  För annan användning måste du skaffa tillstånd av rättsinnehavaren(rna).",
+  "note": [
+    "Om inte annat uttryckligen sägs, ger organisationen som har gjort Objektet tillgängligt inga garantier rörande Objektet och den kan inte garantera att denna Nyttjanderättsbeskrivning är riktig. Du ansvarar själv för din egen användning.",
+    "Du kanske måste skaffa andra tillstånd för den användning som du avser. Till exempel moraliska rättigheter, rättigheter gällande skyddet för privatliv eller personens rättigheter att bestämma gällande kommersiell användning av en identifierbar del av sin bild eller sin person kan begränsa dina möjligheter att använda materialet.",
+    "Du kan hitta ytterligare information om Objektets upphovsrättsliga status på den organisations hemsida som har gjort Objektet tillgängligt."
+  ],
+  "scopeNote": "Denna nyttjanderättsbeskrivning kan användas för ett objekt som skyddas av upphovsrätt. Denna beskrivning förutsätter att organisationen som gör objektet tillgängligt har bedömt att objektet skyddas av upphovsrätt och antingen är rättsinnehavare, har fått tillstånd från rättsinnehavaren/rättsinnehavarna att göra sin/sina verk tillgängligt, eller gör objektet tillgängligt genom ett undantag eller en inskränkning i upphovsrätten (inklusive ”Fair use”) som medför rätten att göra objektet tillgängligt."
+}

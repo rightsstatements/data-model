@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "fi",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/",
+  "prefLabel": "Tekijänoikeuden piirissä - ei-kaupallinen käyttö sallittu",
+  "description": "Tällä käyttöoikeuskuvauksella ilmaistaan, että käyttöoikeuskuvauksella varustettu Kohde kuuluu tekijänoikeuden piiriin, mutta sitä saa käyttää ei-kaupallisissa tarkoituksissa ilman erillistä lupaa.",
+  "definition": "Tämä Kohde on tekijänoikeuden ja/tai lähioikeuksien suojaama.\n\n  Voit käyttää Kohdetta käyttöösi sovellettavan tekijänoikeutta ja lähioikeuksia koskevan lainsäädännön sallimilla tavoilla. Ei-kaupalliseen käyttöön ei kuitenkaan tarvita oikeudenhaltijoiden lupaa.\n\n  Muunlaista käyttöä varten tarvitset oikeudenhaltijoiden luvan.",
+  "note": [
+    "Ellei erikseen ole muuta nimenomaisesti ilmoitettu, tämän Kohteen saataville saattanut organisaatio ei anna mitään Kohdetta koskevaa takuuta eikä voi taata tämän käyttöoikeuskuvauksen virheettömyyttä. Olet vastuussa omasta käytöstäsi.",
+    "Saatat tarvita muita lupia aikomaasi käyttöä varten. Esimerkiksi moraaliset oikeudet, yksityisyyden suojaa koskevat oikeudet taikka henkilön oikeudet määrätä kuvansa tai henkilönsä tunnistettavan osan kaupallisesta käytöstä voivat rajoittaa aineiston käyttöä.",
+    "Lisätietoja Kohteen tekijänoikeudellisesta statuksesta voi olla saatavissa Kohteen saataville saattaneen organisaation verkkosivuilta."
+  ],
+  "scopeNote": "Tätä käyttöoikeuskuvausta voidaan käyttää ainoastaan tekijänoikeuden suojaamiin Kohteisiin silloin, kun Kohteen saataville saattava organisaatio on oikeudenhaltija, tai kun oikeudenhaltija tai -haltijat ovat nimenomaisesti valtuuttaneet sen sallimaan kolmansien osapuolten käyttää teostaan tai teoksiaan ei-kaupallisissa tarkoituksissa ilman erillistä lupaa."
+}

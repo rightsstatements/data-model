@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "sv-FI",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/InC-OW-EU/1.0/",
+  "prefLabel": "Underkastad upphovsrätt - EU-anonymt verk",
+  "description": "Denna nyttjanderättsbeskrivning innebär att objektet som är märkt med denna nyttjanderättsbeskrivning har identifierats som ett ”anonymt verk” (föräldralöst verk) i enlighet med direktiv 2012/28/EU.",
+  "definition": "Detta Objekt har identifierats som ett anonymt verk (föräldralöst verk) i staten där verket först utgavs i enlighet med Europaparlamentets och rådets direktiv 2012/28/EU av den 25 oktober 2012 om viss tillåten användning av anonyma verk.\n\n  Ifråga om detta Objekt har antingen (a) inga rättsinnehavare identifierats, eller (b) en eller flera rättsinnehavare har identifierats, men ingen har lokaliserats trots att en omsorgsfull efterforskning av rättsinnehavaren(rna) har gjorts. Resultatet av den omsorgsfulla efterforskningen finns tillgängligt i EU:s databas över anonyma verk.\n\n  Du kan använda Objektet på alla sätt som är tillåtna enligt lagstiftningen om upphovsrätt och närstående rättigheter som är tillämplig på din användning.",
+  "note": [
+    "Om inte annat uttryckligen sägs, ger organisationen som har gjort Objektet tillgängligt inga garantier rörande Objektet och den kan inte garantera att denna Nyttjanderättsbeskrivning är riktig. Du ansvarar själv för din egen användning.",
+    "Du kanske måste skaffa andra tillstånd för den användning som du avser. Till exempel moraliska rättigheter, rättigheter gällande skyddet för privatliv eller personens rättigheter att bestämma gällande kommersiell användning av en identifierbar del av sin bild eller sin person kan begränsa dina möjligheter att använda materialet.",
+    "Du kan hitta ytterligare information om Objektets upphovsrättsliga status på den organisations hemsida som har gjort Objektet tillgängligt.",
+    "Om du har några upplysningar som kan bidra till att identifiera eller lokalisera rättsinnehavaren(rna), var vänlig och meddela den organisation som har gjort Objektet tillgängligt."
+  ],
+  "scopeNote": "Denna nyttjanderättsbeskrivning är avsedd att användas med objekt vars underliggande verk har identifierats som ett anonymt verk (föräldralöst verk) i enlighet med Europaparlamentets och rådets direktiv 2012/28/EU av den 25 oktober 2012 om viss tillåten användning av anonyma verk. Nyttjanderättsbeskrivningen kan endast tillämpas på objekt baserade på verk som omfattas av direktivet: verk som publicerats i form av böcker, tidskrifter, tidningar, magasin eller andra skrifter samt filmverk eller audiovisuella verk och fonogram (Obs! Detta omfattar inte fotografi och bildkonst). Den kan endast tillämpas av organisationer som omfattas av direktivet: bibliotek, utbildningsanstalter och museer som är tillgängliga för allmänheten, samt arkiv, institutioner för film- eller ljudarvet och radio- och televisionsföretag i allmänhetens tjänst, som är etablerade i något av EU-länderna. Mottagaren förväntas också ha registrerat verket i EU:s databas för anonyma verk som förvaltas av EUIPO."
+}

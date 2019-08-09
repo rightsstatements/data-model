@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "pl",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+  "prefLabel": "Nie objęty ochroną autorskich praw majątkowych - Stany Zjednoczone",
+  "description": "To oświadczenie prawne wskazuje, że obiekt znajduje się w tzw. domenie publicznej według systemu prawnego Stanów Zjednoczonych, ale nie określono jaki jest jego status prawnoautorski w systemach prawa autorskiego innych krajów.",
+  "definition": "Organizacja, która udostępniła ten obiekt uważa że jest on w tzw. domenie publicznej według systemu prawnego Stanów Zjednoczonych, ale nie określono jaki jest jego status prawnoautorski w systemach prawa autorskiego innych krajów. Ten obiekt może być poza tzw. domeną publiczną w systemach prawnych innych krajów.\n\n  W celu uzyskania dodatkowych informacji należy skontaktować się z organizacją, która udostępniła obiekt.",
+  "note": [
+    "Jeżeli wyraźnie nie zaznaczono inaczej, organizacja która udostępniła dany obiekt nie daje w związku z nim żadnych gwarancji i nie może zagwarantować poprawności oświadczenia prawnego. Sam odpowiadasz za własne działania.",
+    "Może być również konieczne uzyskanie innych zgód w celu wykorzystania obiektu. Na przykład prawa związane z ochroną wizerunku i danych osobowych, prywatnością lub prawa osobiste mogą ograniczać możliwości wykorzystania obiektu.",
+    "Dodatkowe informacje o statusie prawnoautorskim obiektu mogą być dostępne na stronie internetowej organizacji, która ten obiekt udostępniła."
+  ],
+  "scopeNote": "To oświadczenie prawne powinno być wykorzystywane dla obiektów, które poprzez organizację zamierzającą te obiekty udostępnić, zostały określone jako nieobjęte ochroną majątkowych praw autorskich w systemie prawnym Stanów Zjednoczonych. To oświadczenie prawne nie powinno być wykorzystywane dla utworów osieroconych (które z założenia są objęte pełną ochroną prawnoautorską), ani też dla obiektów, w przypadku których organizacja planująca je udostępnić, nie podjęła działań mających na celu stwierdzenie statusu prawnoautorskiego utworu pierwotnego."
+}

@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "de",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/InC-RUU/1.0/",
+  "prefLabel": "Urheberrechtsschutz - Rechteinhaber nicht auffindbar oder identifizierbar",
+  "description": "Dieser Rechtehinweis besagt, dass das damit gekennzeichnete Objekt urheberrechtlich geschützt ist, aber der/die Rechteinhaber entweder nicht identifiziert oder aufgefunden werden konnte(n).",
+  "definition": "Das Objekt ist durch das Urheberrecht und/oder verwandte Schutzrechte geschützt. Jedoch konnte(n) (ein) Rechteinhaber (a) nicht identifiziert werden oder (b) nicht aufgefunden werden.\n\n  Sie sind berechtigt, das Objekt in jeder Form zu nutzen, die das Urheberrechtsgesetz und/oder einschlägige verwandte Schutzrechte gestatten.",
+  "note": [
+    "Soweit nicht ausdrücklich an anderer Stelle ausgewiesen, macht die Institution, die das Objekt zugänglich macht, keine Zusicherungen in Bezug auf dieses und übernimmt keine Garantie für die Richtigkeit des gewählten Rechtehinweises. Sie sind für die eigene Nutzung selbst verantwortlich.",
+    "Möglicherweise benötigen Sie zusätzliche Erlaubnisse für die beabsichtigte Nutzung. Zum Beispiel weil andere Rechte wie Veröffentlichungs-, Persönlichkeits- oder Urheberpersönlichkeitsrechte den erlaubten Nutzungsumfang einschränken.",
+    "Möglicherweise finden Sie zusätzliche Informationen zum Urheberrechtssschutz des Objekts auf der Website der Institution, die das Objekt verfügbar gemacht hat.",
+    "Wenn Sie Hinweise haben, die dazu beitragen können, den/die Rechteinhaber zu identifizieren oder aufzufinden, informieren Sie bitte die Institution, die das Objekt verfügbar gemacht hat."
+  ],
+  "scopeNote": "Dieser Rechtehinweis ist für die Verwendung bei Objekten bestimmt, die urheberrechtlich geschützt sind, aber für die selbst nach einer sorgfältigen Suche kein(e) Rechteinhaber identifiziert, oder aufgefunden werden konnte(n). Dieser Rechtehinweis sollte nur benutzt werden, wenn die Institution, die beabsichtigt, das Objekt zugänglich zu machen, ziemlich sicher davon ausgeht, dass das zugrundeliegende Werk urheberrechtlich geschützt ist. Der Rechtehinweis ist nicht für die Anwendung durch Institutionen aus Europa gedacht, die Werke in Übereinstimmung mit den Vorgaben der europäischen Richtlinie zu verwaisten Werken als verwaist identifiziert haben (diese müssen stattdessen den Rechtehinweis InC-OW-EU verwenden)."
+}

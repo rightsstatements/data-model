@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "fi",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/InC-RUU/1.0/",
+  "prefLabel": "Tekijänoikeuden piirissä - oikeudenhaltija(t) paikantamatta tai tunnistamatta",
+  "description": "Tällä käyttöoikeuskuvauksella ilmaistaan, että käyttöoikeuskuvauksella varustetun Kohteen on todettu kuuluvan tekijänoikeuden piiriin, mutta sen oikeudenhaltijaa tai -haltijoita ei ole voitu tunnistaa tai paikantaa.",
+  "definition": "Tämä Kohde on tekijänoikeuden ja/tai lähioikeuksien suojaama. Kuitenkin tämän Kohteen osalta joko (a) ainuttakaan oikeudenhaltijaa ei ole tunnistettu tai (b) yksi tai useampi oikeudenhaltija on tunnistettu, mutta yhtään niistä ei ole paikannettu.\n\n  Voit käyttää Kohdetta käyttöösi sovellettavan tekijänoikeutta ja lähioikeuksia koskevan lainsäädännön sallimilla tavoilla.",
+  "note": [
+    "Ellei erikseen ole muuta nimenomaisesti ilmoitettu, tämän Kohteen saataville saattanut organisaatio ei anna mitään Kohdetta koskevaa takuuta eikä voi taata tämän käyttöoikeuskuvauksen virheettömyyttä. Olet vastuussa omasta käytöstäsi.",
+    "Saatat tarvita muita lupia aikomaasi käyttöä varten. Esimerkiksi moraaliset oikeudet, yksityisyyden suojaa koskevat oikeudet taikka henkilön oikeudet määrätä kuvansa tai henkilönsä tunnistettavan osan kaupallisesta käytöstä voivat rajoittaa aineiston käyttöä.",
+    "Lisätietoja Kohteen tekijänoikeudellisesta statuksesta voi olla saatavissa Kohteen saataville saattaneen organisaation verkkosivuilta.",
+    "Jos sinulla on tietoja, jotka voivat auttaa oikeudenhaltijoiden tunnistamisessa tai paikantamisessa, otathan yhteyttä Kohteen saataville saattaneeseen organisaatioon."
+  ],
+  "scopeNote": "Tämä käyttöoikeuskuvaus on tarkoitettu Kohteelle, jonka on katsottu olevan tekijänoikeuden suojaama mutta jonka kohdalla oikeudenhaltijaa tai -haltijoita ei ole kohtuullisten selvitysten jälkeen tunnistettu tai paikannettu. Tätä käyttöoikeuskuvausta tulisi käyttää vain, jos organisaatio, joka aikoo saattaa kohteen saataville, on kohtuullisen varma siitä, että kohteeseen liittyvä teos kuuluu tekijänoikeuden piiriin. Käyttöoikeuskuvausta ei ole tarkoitettu sellaisten Euroopan unioniin sijoittautuneiden organisaatioiden käyttöön, jotka ovat katsoneet teoksen orpoteokseksi EU:n orpoteosdirektiivin mukaisesti (tällaisissa tapauksissa tulisi käyttää käyttöoikeuskuvausta InC-OW-EU)."
+}

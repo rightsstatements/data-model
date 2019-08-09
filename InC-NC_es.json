@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "es",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/",
+  "prefLabel": "Protegido por derecho de autor - Uso No Comercial permitido",
+  "description": "Esta Declaración de Derechos indica que el material etiquetado con esta Declaración de Derechos está protegido por derecho de autor pero el uso no comercial está autorizado sin necesidad de obtener permiso adicional.",
+  "definition": "Este material está protegido por derecho de autor y/o derechos conexos.\n\n  Usted es libre de utilizar este material de cualquier forma que esté permitida por la legislación de derecho de autor y derechos conexos que se aplique al uso que pretende hacer. Adicionalmente, no se requiere permiso del titular o titulares de derechos para usos no comerciales.\n\n  Para otros usos, usted necesita obtener permiso del titular o titulares de derechos.",
+  "note": [
+    "A menos que se exprese lo contrario, la organización que ha puesto este material a disposición no otorga garantías sobre el material y no puede garantizar la exactitud de esta Declaración de Derechos. Usted es responsable por el uso que haga del material.",
+    "Usted quizás necesite obtener permiso para el uso que pretende hacer del material. Por ejemplo, otros derechos tales como el derecho a la publicidad, el derecho a la privacidad o los derechos morales pueden limitar la forma en que puede utilizar el material.",
+    "Usted puede encontrar información adicional sobre el estado del derecho de autor del material en el sitio web de la organización que puso a disposición el material."
+  ],
+  "scopeNote": "Esta Declaración de Derechos solo puede ser utilizada para materiales protegidos por derecho de autor para los cuales la organización que pone a disposición el material es o bien la titular de los derechos o ha sido explícitamente autorizada por el titular o los titulares de derechos para permitir a terceras partes utilizar la obra con propósitos no comerciales sin necesidad de obtener permiso primero."
+}

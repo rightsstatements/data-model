@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "fr",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/InC/1.0/",
+  "prefLabel": "Protégé par le droit d'auteur",
+  "description": "Cette Déclaration des Droits indique que l'Objet auquel elle se rapporte est protégé par le droit d'auteur.",
+  "definition": "Cet Objet est protégé par le droit d'auteur et/ou les droits voisins.\n\n  Vous avez le droit d'utiliser l'Objet de toutes les manières autorisées par la législation sur le droit d'auteur et les droits voisins applicable à votre utilisation.\n\n  Les autres utilisations requièrent l'autorisation du/des titulaire(s) des droits.",
+  "note": [
+    "Sauf mention expresse contraire, l'organisme qui a rendu cet Objet accessible ne donne aucune garantie concernant cet Objet, ni ne garantit l'exactitude de la présente Déclaration des Droits. Vous êtes responsable de votre propre utilisation.",
+    "Il est possible que l'utilisation que vous envisagez requière des autorisations supplémentaires. Il se peut par exemple que d'autres droits, comme les droits de la personnalité ou de la publicité, les droits liés à la protection de la vie privée ou les droits moraux, limitent vos possibilités d'utilisation.",
+    "Il est possible que vous trouviez des informations supplémentaires concernant la protection de l'Objet par le droit d'auteur sur le site Web de l'organisme qui a rendu l'Objet accessible."
+  ],
+  "scopeNote": "La présente Déclaration des Droits peut être utilisée pour un Objet protégé par le droit d'auteur. L'utilisation de la présente Déclaration implique que l'organisme qui rend l'Objet accessible ait constaté que celui-ci est protégé par le droit d'auteur et que, soit il est le titulaire des droits sur l'Objet, soit il a obtenu du/des titulaire(s) des droits l'autorisation de rendre accessible(s) son/ses/leur(s) œuvre(s) ou alors il rend l'Objet accessible en vertu d'une exception ou d'une limitation au droit d'auteur (y compris le “Fair use”) qui l'autorise à rendre l'Objet accessible."
+}

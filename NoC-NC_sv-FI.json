@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "sv-FI",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/",
+  "prefLabel": "Ingen upphovsrätt - endast för icke-kommersiell användning",
+  "description": "Denna nyttjanderättsbeskrivning innebär att det underliggande verket inte är skyddat av upphovsrätt, men organisationen som har publicerat objektet är avtalsmässigt bunden att tillåta enbart icke-kommersiell användning av tredje part.",
+  "definition": "Detta Verk har digitaliserats i ett offentligt-privat partnerskap. Som en del av detta partnerskap har parterna kommit överens om att begränsa kommersiell användning av den digitala representationen av objektet av tredje part.\n\n  Du kan utan tillstånd framställa exemplar av, ändra, sprida, visa eller framföra Objektet för icke-kommersiella ändamål. Såvitt gäller all annan tillåten användning bör du granska den organisations villkor som har gjort Objektet tillgängligt.",
+  "note": [
+    "Om inte annat uttryckligen sägs, ger organisationen som har gjort Objektet tillgängligt inga garantier rörande Objektet och den kan inte garantera att denna Nyttjanderättsbeskrivning är riktig. Du ansvarar själv för din egen användning.",
+    "Du kanske måste skaffa andra tillstånd för den användning som du avser. Till exempel moraliska rättigheter, rättigheter gällande skyddet för privatliv eller personens rättigheter att bestämma gällande kommersiell användning av en identifierbar del av sin bild eller sin person kan begränsa dina möjligheter att använda materialet.",
+    "Du kan hitta ytterligare information om Objektets upphovsrättsliga status på den organisations hemsida som har gjort Objektet tillgängligt."
+  ],
+  "scopeNote": "Denna nyttjanderättsbeskrivning kan endast användas för verk som inte är skyddade av upphovsrätt och har digitaliserats i ett offentligt-privat partnerskap. Som en del av detta partnerskap har parterna kommit överens om att begränsa kommersiell användning av den digitala representationen av verket av tredje part. Nyttjanderättsbeskrivningen har utvecklats speciellt för att omfatta verk som har digitaliserats som en del av partnerskapen mellan europeiska bibliotek och Google, men kan teoretiskt sett tillämpas på verk som har digitaliserats i liknande offentligt-privata partnerskap."
+}

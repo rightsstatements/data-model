@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "et",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/",
+  "prefLabel": "Kehtiv autoriõigus - lubatud mitteäriline kasutus",
+  "description": "Selle autoriõigusliku seisundi deklaratsiooniga märgistatud objektile kehtib autoriõigus, kuid seda on lubatud kasutada mitteärilisel eesmärgil ilma selleks täiendavalt luba taotlemata.",
+  "definition": "Objekt on kaitstud autoriõiguse ja/või sellega seotud õigustega.\n\n  Objekti võib vabalt kasutada kõigil viisidel, mis on lubatud kavandatavale kasutusviisile kohalduvates autoriõigust ja sellega seotud õigusi puudutavates seadustes. Ühtlasi ei ole selle mitteäriliseks kasutamiseks vaja õiguste valdaja(te) luba.\n\n  Teiste kasutusviiside puhul on vajalik autoriõiguse valdaja(te) luba.",
+  "note": [
+    "Juhul kui ei ole otseselt öeldud teisiti, ei anna objekti kättesaadavaks teinud organisatsioon objekti kohta mingeid garantiisid ega taga käesoleva autoriõigusliku seisundi deklaratsiooni täpsust. Kasutusviisi õiguspärasuse eest vastutab kasutaja ise.",
+    "Teie kavandatav kasutusviis võib nõuda täiendavate lubade hankimist. Näiteks võivad materjali kasutamist piirata muud õigused, nagu isiku-, eraelu puutumatuse ning moraalsed õigused.",
+    "Objekti kättesaadavaks teinud organisatsiooni koduleht võib sisaldada täiendavat informatsiooni objekti autoriõigusliku seisundi kohta."
+  ],
+  "scopeNote": "Seda autoriõigusliku seisundi deklaratsiooni võib rakendada ainult sellistele autoriõigusega kaitstud objektidele, mille puhul objekti kättesaadavaks tegev organisatsioon on objekti õiguste valdaja või on selle õiguste valdaja(te)lt saanud selgesõnalise loa võimaldada kolmandatel osapooltel nende teos(t)e kasutamist mitteärilisel eesmärgil ilma selleks esmalt luba taotlemata."
+}

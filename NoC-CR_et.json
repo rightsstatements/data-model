@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "et",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/NoC-CR/1.0/",
+  "prefLabel": "Autoriõigus ei kehti - lepingulised piirangud",
+  "description": "Selle autoriõigusliku seisundi deklaratsiooniga märgistatud teos on avalikus omandis, kuid objekti avalikuks teinud organisatsioon on lepinguliselt kohustatud piirama kolmandatel osapooltel selle kasutamist teatud viisidel.",
+  "definition": "Autoriõigus ja/või sellega seotud õigused objekti kasutamist ei piira.\n\n  Objekti kättesaadavaks teinud organisatsioon on seoses selle teose omandamise või digiteerimisega lepinguliselt kohustatud piirama objekti kasutusviise. Piirangud võivad olla seotud näiteks eraelu puutumatuse, kultuurikaitse, digiteerimislepingute või annetuslepingutega.\n\n  Palun küsige täiendavat infot objekti kättesaadavaks teinud organisatsioonilt.",
+  "note": [
+    "Juhul kui ei ole otseselt öeldud teisiti, ei anna objekti kättesaadavaks teinud organisatsioon objekti kohta mingeid garantiisid ega taga käesoleva autoriõigusliku seisundi deklaratsiooni täpsust. Kasutusviisi õiguspärasuse eest vastutab kasutaja ise.",
+    "Teie kavandatav kasutusviis võib nõuda täiendavate lubade hankimist. Näiteks võivad materjali kasutamist piirata muud õigused, nagu isiku-, eraelu puutumatuse ning moraalsed õigused.",
+    "Objekti kättesaadavaks teinud organisatsiooni koduleht võib sisaldada täiendavat informatsiooni objekti autoriõigusliku seisundi kohta."
+  ],
+  "scopeNote": "See autoriõigusliku seisundi deklaratsioon on rakendatav ainult objektidele, mis on avalikus omandis, kuid millega seoses on objekti kättesaadavaks teha kavatsev organisatsioon allkirjastanud lepingu, mis nõuab neilt objekti kasutamise piiramist kolmandatele osapooltele. Deklaratsiooni siduvuse tagamiseks peab objekti kättesaadavaks teha kavatsev organisatsioon sellele lisama viite objekti kasutamisega seotud lepingulisi piiranguid käsitlevale veebilehele."
+}

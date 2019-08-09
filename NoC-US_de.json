@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "de",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+  "prefLabel": "Kein Urheberrechtsschutz - Vereinigte Staaten",
+  "description": "Dieser Rechtehinweis besagt, dass das damit gekennzeichnete Objekt nach dem Recht der Vereinigten Staaten gemeinfrei ist, aber eine Einordnung des Urheberrechtsschutz in anderen Rechtsordnungen nicht vorgenommen wurde.",
+  "definition": "Die Institution, die das Objekt zugänglich gemacht hat, nimmt an, dass dieses nach dem Recht der Vereinigten Staaten gemeinfrei ist, aber es wurde nicht festgestellt, ob es nach den Urheberrechtsgesetzen anderer Länder urheberrechtlich geschützt ist. Das Objekt ist in anderen Rechtsordnungen möglicherweise nicht gemeinfrei.\n\n  Bitte kontaktieren Sie für weitergehende Informationen die Institution, die das Werk zugänglich gemacht hat.",
+  "note": [
+    "Soweit nicht ausdrücklich an anderer Stelle ausgewiesen, macht die Institution, die das Objekt zugänglich macht, keine Zusicherungen in Bezug auf dieses und übernimmt keine Garantie für die Richtigkeit des gewählten Rechtehinweises. Sie sind für die eigene Nutzung selbst verantwortlich.",
+    "Möglicherweise benötigen Sie zusätzliche Erlaubnisse für die beabsichtigte Nutzung. Zum Beispiel weil andere Rechte wie Veröffentlichungs-, Persönlichkeits- oder Urheberpersönlichkeitsrechte die Reichweite des erlaubten Nutzungsumfangs einschränken.",
+    "Möglicherweise finden Sie zusätzliche Informationen zum Urheberrechtsschutz des Objekts auf der Website der Institution, die das Objekt verfügbar gemacht hat."
+  ],
+  "scopeNote": "Dieser Rechtehinweis sollte für Objekte verwendet werden, bei denen die Institution, die beabsichtigt, das Objekt zugänglich zu machen, davon ausgeht, dass dieses nach dem Recht der Vereinigten Staaten urheberrechtsfrei ist. Dieser Rechtehinweis sollte nicht für Verwaiste Werke verwendet werden (bei denen davon auszugehen ist, dass sie urheberrechtlich geschützt sind) oder für Objekte, bei denen die Institution, die beabsichtigt, das Objekt zugänglich zu machen, keine Anstrengungen unternommen hat, um den Rechtsstatus des zugrunde liegenden Werks festzustellen."
+}

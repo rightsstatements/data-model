@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "fr",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/NoC-OKLR/1.0/",
+  "prefLabel": "Absence de protection par le droit d'auteur - Autres restrictions juridiques connues",
+  "description": "La présente Déclaration des Droits indique que l'œuvre sous-jacente est dans le Domaine Public, mais qu'il existe, en matière d'utilisation de l'Objet par des tiers, des restrictions connues découlant de dispositions légales autres que le droit d'auteur et/ou les droits voisins.",
+  "definition": "L'utilisation de cet Objet n'est pas limitée par le droit d'auteur et/ou les droits voisins.\n\n  Dans un ou plusieurs systèmes juridiques, des dispositions légales autres que le droit d'auteur ou les droits voisins imposent des restrictions à l'utilisation de cet Objet.\n\n  Pour de plus amples informations, veuillez contacter l'organisme qui a rendu l'Objet accessible.",
+  "note": [
+    "Sauf mention expresse contraire, l'organisme qui a rendu cet Objet accessible ne donne aucune garantie concernant ce dernier ni ne garantit l'exactitude de la présente Déclaration des Droits. Vous êtes responsable de votre propre utilisation.",
+    "Il est possible que l'utilisation que vous envisagez requière des autorisations supplémentaires. Il se peut, par exemple, que d'autres droits, comme les droits de la personnalité ou de la publicité, les droits liés à la protection de la vie privée ou les droits moraux, limitent vos possibilités d'utilisation.",
+    "Il est possible que vous trouviez, sur le site Web de l'organisme ayant rendu l'Objet accessible, des informations supplémentaires concernant la protection de l'Objet par le droit d'auteur."
+  ],
+  "scopeNote": "Cette Déclaration des Droits devrait être utilisée pour les Objets qui sont dans le Domaine Public, mais dont la libre réutilisation est soumise à des restrictions juridiques connues, liées par exemple à la protection du patrimoine culturel ou des expressions culturelles traditionnelles. Ainsi, l'organisme qui entend rendre l'Objet accessible ne pourra pas autoriser sa libre réutilisation. Pour que la présente Déclaration des Droits soit probante, l'organisme qui entend rendre l'Objet accessible doit fournir un lien vers une page spécifiant les restrictions juridiques limitant la réutilisation de l'Objet."
+}

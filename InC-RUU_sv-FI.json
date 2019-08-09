@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "sv-FI",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/InC-RUU/1.0/",
+  "prefLabel": "Underkastad upphovsrätt - rättsinnehavare ej lokaliserats eller identifierats",
+  "description": "Denna nyttjanderättsbeskrivning innebär att objektet som är märkt med denna nyttjanderättsbeskrivning har identifierats som skyddat genom upphovsrätt, men där inga rättsinnehavare har kunnat identifieras eller lokaliseras.",
+  "definition": "Detta Objekt skyddas genom upphovsrätt och/eller närstående rättigheter. Ifråga om detta Objekt har dock antingen (a) inga rättsinnehavare identifierats, eller (b) en eller flera rättsinnehavare har identifierats, men ingen har lokaliserats.\n\n  Du kan använda Objektet på alla sätt som är tillåtna enligt lagstiftningen om upphovsrätt och närstående rättigheter som är tillämplig på din användning.",
+  "note": [
+    "Om inte annat uttryckligen sägs, ger organisationen som har gjort Objektet tillgängligt inga garantier rörande Objektet och den kan inte garantera att denna Nyttjanderättsbeskrivning är riktig. Du ansvarar själv för din egen användning.",
+    "Du kanske måste skaffa andra tillstånd för den användning som du avser. Till exempel moraliska rättigheter, rättigheter gällande skyddet för privatliv eller personens rättigheter att bestämma gällande kommersiell användning av en identifierbar del av sin bild eller sin person kan begränsa dina möjligheter att använda materialet.",
+    "Du kan hitta ytterligare information om Objektets upphovsrättsliga status på den organisations hemsida som har gjort Objektet tillgängligt.",
+    "Om du har några upplysningar som kan bidra till att identifiera eller lokalisera rättsinnehavaren(rna), var vänlig och meddela den organisation som har gjort Objektet tillgängligt."
+  ],
+  "scopeNote": "Denna nyttjanderättsbeskrivning är avsedd för objekt som har identifierats som skyddade av upphovsrätt men där inga rättsinnehavare identifierats eller lokaliserats efter rimlig efterforskning. Denna nyttjanderättsbeskrivning bör endast användas om organisationen som avser att göra objektet tillgängligt är tämligen säker på att underliggande verket skyddas av upphovsrätt. Denna nyttjanderättsbeskrivning är inte avsedd för EU-baserade organisationer som har identifierat verket som ett anonymt verk (föräldralöst verk) i enlighet med direktiv 2012/28/EU (de måste istället använda InC-OW-EU)."
+}

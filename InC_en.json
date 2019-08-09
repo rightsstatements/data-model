@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "en",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/InC/1.0/",
+  "prefLabel": "In Copyright",
+  "description": "This Rights Statement indicates that the Item labeled with this Rights Statement is in copyright.",
+  "definition": "This Item is protected by copyright and/or related rights.\n\n  You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use.\n\n  For other uses you need to obtain permission from the rights-holder(s).",
+  "note": [
+    "Unless expressly stated otherwise, the organization that has made this Item available makes no warranties about the Item and cannot guarantee the accuracy of this Rights Statement. You are responsible for your own use.",
+    "You may need to obtain other permissions for your intended use. For example, other rights such as publicity, privacy or moral rights may limit how you may use the material.",
+    "You may find additional information about the copyright status of the Item on the website of the organization that has made the Item available."
+  ],
+  "scopeNote": "This Rights Statement can be used for an Item that is in copyright. Using this statement implies that the organization making this Item available has determined that the Item is in copyright and either is the rights-holder, has obtained permission from the rights-holder(s) to make their Work(s) available, or makes the Item available under an exception or limitation to copyright (including Fair Use) that entitles it to make the Item available."
+}

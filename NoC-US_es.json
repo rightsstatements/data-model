@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "es",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+  "prefLabel": "Sin derecho de autor - Estados Unidos",
+  "description": "Esta Declaración de Derechos indica que el material está en el dominio público según las leyes de Estados Unidos, pero no hay una resolución sobre su estado bajo las leyes de derecho de autor de otros países.",
+  "definition": "La organización que ha puesto a disposición el material cree que el material está en el dominio público bajo las leyes de los Estados Unidos, pero no se ha determinado el estado de derecho de autor bajo las leyes de derecho de autor de otros países. El material puede no estar en el dominio público según las leyes de otros países.\n\n  Por favor, refiérase a la organización que ha puesto a disposición el material para más información.",
+  "note": [
+    "A menos que se exprese lo contrario, la organización que ha puesto este material a disposición no otorga garantías sobre el material y no puede garantizar la exactitud de esta Declaración de Derechos. Usted es responsable por el uso que haga del material.",
+    "Usted quizás necesite obtener permiso para el uso que pretende hacer del material. Por ejemplo, otros derechos tales como el derecho a la publicidad, el derecho a la privacidad o los derechos morales pueden limitar la forma en que puede utilizar el material.",
+    "Usted puede encontrar información adicional sobre el estado del derecho de autor del material en el sitio web de la organización que puso a disposición el material."
+  ],
+  "scopeNote": "Esta Declaración de Derechos debe ser utilizada para materiales para los cuales la organización ha determinado que son libres de derecho de autor bajo las leyes de los Estados Unidos. Esta Declaración de Derechos no debe ser utilizada para obras huérfanas (para las cuales se asume que están protegidas por derecho de autor) o para obras para las cuales la organización que pretende poner a disposición el material no ha realizado un esfuerzo para determinar el estado del derecho de autor de la obra subyacente."
+}

@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "fi",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/",
+  "prefLabel": "Ei tekijänoikeutta - vain ei-kaupalliseen käyttöön",
+  "description": "Tällä käyttöoikeuskuvauksella ilmaistaan, että Kohteeseen liittyvä teos ei ole tekijänoikeuden suojaama, mutta Kohteen julkaissut organisaatio voi sopimussyistä sallia kolmansille osapuolille ainoastaan Kohteen ei-kaupallisen käytön.",
+  "definition": "Tämä teos on digitoitu julkisen ja yksityisen sektorin kumppanuushankkeen yhteydessä. Osana kumppanuushanketta kumppanit ovat sopineet, että Kohteen digitaalisen esitysmuodon kaupallista käyttöä kolmansien osapuolten toimesta rajoitetaan.\n\n  Ilman lupaa voit kopioida, muokata, levittää, näyttää tai esittää Kohdetta vain ei-kaupallisessa käytössä. Muiden sallittujen käyttötapojen osalta voit tutustua Kohteen saataville saattaneen organisaation ehtoihin.",
+  "note": [
+    "Ellei erikseen ole muuta nimenomaisesti ilmoitettu, tämän Kohteen saataville saattanut organisaatio ei anna mitään Kohdetta koskevaa takuuta eikä voi taata tämän käyttöoikeuskuvauksen virheettömyyttä. Olet vastuussa omasta käytöstäsi.",
+    "Saatat tarvita muita lupia aikomaasi käyttöä varten. Esimerkiksi moraaliset oikeudet, yksityisyyden suojaa koskevat oikeudet taikka henkilön oikeudet määrätä kuvansa tai henkilönsä tunnistettavan osan kaupallisesta käytöstä voivat rajoittaa aineiston käyttöä.",
+    "Lisätietoja Kohteen tekijänoikeudellisesta statuksesta voi olla saatavissa Kohteen saataville saattaneen organisaation verkkosivuilta."
+  ],
+  "scopeNote": "Tätä käyttöoikeuskuvausta voidaan käyttää ainoastaan sellaisiin teoksiin, jotka eivät ole tekijänoikeuden piirissä ja jotka on digitoitu julkisen ja yksityisen sektorin kumppanuushankkeessa, jonka osana kumppanit ovat sopineet rajoittavansa teoksen digitaalisen esitysmuodon kaupallista käyttöä kolmansien osapuolten toimesta. Kuvaus on kehitetty erityisesti Euroopan kirjastojen ja Googlen kumppanuushankkeissa digitoituja teoksia varten, mutta teoriassa sitä voidaan soveltaa myös muissa vastaavissa julkisen ja yksityisen sektorin kumppanuushankkeissa digitoituihin kohteisiin."
+}

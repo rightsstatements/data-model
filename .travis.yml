@@ -3,6 +3,8 @@ addons:
   apt:
     packages:
       - raptor2-utils
+before_script:
+  - npm install -g jsonld-cli
 script:
   - rapper -q -i turtle rights-statements.ttl > /dev/null
-  - rapper -q -i turtle example-versions.ttl > /dev/null
+  - (for f in *.json; do jsonld normalize $f > /dev/null || exit 1; done)

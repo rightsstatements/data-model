@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "et",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/InC/1.0/",
+  "prefLabel": "Kehtiv autoriõigus",
+  "description": "Selle autoriõigusliku seisundi deklaratsiooniga märgistatud objektile kehtib autoriõigus.",
+  "definition": "Objekt on kaitstud autoriõiguse ja/või sellega seotud õigustega.\n\n  Objekti võib vabalt kasutada kõigil viisidel, mis on lubatud kavandatavale kasutusviisile kohalduvates autoriõigust ja sellega seotud õigusi puudutavates seadustes.\n\n  Teiste kasutusviiside puhul on vajalik autoriõiguse valdaja(te) luba.",
+  "note": [
+    "Juhul, kui ei ole otseselt öeldud teisiti, ei anna objekti kättesaadavaks teinud organisatsioon objekti kohta mingeid garantiisid ega taga käesoleva deklaratsiooni täpsust. Kasutusviisi õiguspärasuse eest vastutab kasutaja ise.",
+    "Teie kavandatav kasutusviis võib nõuda täiendavate lubade hankimist. Näiteks võivad materjali kasutamist piirata muud õigused nagu isiku-, eraelu puutumatuse ning moraalsed õigused.",
+    "Objekti kättesaadavaks teinud organisatsiooni koduleht võib sisaldada täiendavat informatsiooni objekti autoriõigusliku seisundi kohta."
+  ],
+  "scopeNote": "See autoriõigusliku seisundi deklaratsioon on mõeldud kehtiva autoriõigusega objektide märgistamiseks. Selle kasutamine tähendab, et objekti kättesaadavaks teinud organisatsioon on otsustanud, et objektile kehtib autoriõigus ja objekti avaldaja on kas selle õiguste valdaja, st on saanud teos(t)e kättesaadavaks tegemiseks vastavate õiguste valdaja(te)lt loa, või teeb objekti kättesaadavaks seda võimaldavate autoriõiguse erandite ja piirangute (nagu õigustatud kasutus) alusel."
+}
