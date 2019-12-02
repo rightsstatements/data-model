@@ -1,0 +1,9 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "hi",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/collection-other/1.0/",
+  "prefLabel": "उन कार्यों के लिए कथन जहां प्रतिलिप्यधिकार (कॉपीराइट) स्थिति स्पष्ट नहीं है"
+}
