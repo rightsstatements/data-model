@@ -1,0 +1,9 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "hi",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/collection-nc/1.0/",
+  "prefLabel": "उन सामग्री के लिए न्‍यायसंगत कथन जो प्रतिलिप्यधिकार (कॉपीराइट) में नहीं हैं"
+}
