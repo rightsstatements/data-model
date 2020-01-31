@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "en",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/NoC-CR/1.0/",
+  "prefLabel": "Autorių teisės negalioja – taikomi sutartiniai apribojimai",
+  "description": "Ši Teisių pareikštis nurodo, jog paženklintas Objektas yra viešojoje srityje (public domain), tačiau jį viešai prieinamu padariusi institucija saistoma sutartinių įsipareigojimų riboti tam tikrus panaudojimo būdus tretiesiems asmenims.",
+  "definition": "Šio Objekto naudojimo neriboja autorių teisės ir (arba) gretutinės teisės.\n\n Pagal šio Objekto įsigijimo ar skaitmeninimo sąlygas, Objektą viešai prieinamu padariusi institucija yra saistoma įsipareigojimų riboti šio Objekto panaudojimą. Tokie ribojimai būti nustatyti dėl teisių į privatų gyvenimą, kultūros vertybių apsaugos, skaitmeninimo susitarimų ar paramos sutarčių sąlygų.\n\nNorint gauti daugiau informacijos, prašome kreiptis į instituciją, kuri Objektą padarė viešai prieinamu",
+  "note": [
+    "Jei aiškiai nenurodyta priešingai, Objektą paviešinusi institucija neteikia dėl jo jokių garantijų ir negali užtikrinti šios Teisių pareikšties tikslumo. Už naudojimą atsakote patys.",
+    "Jūsų norimam Objekto panaudojimui gali tekti gauti papildomus leidimus. Pavyzdžiui, šios medžiagos panaudojimas gali būti ribojamas reikalavimų, taikomų viešai skelbiamai informacijai, teisių į privatų gyvenimą, neturtinių autorių/atlikėjų teisių.",
+    "Papildomos informacijos apie Objektą saugančių autorių teisių būseną galite rasti Objektą paviešinusios institucijos tinklalapyje."
+  ],
+  "scopeNote": "Ši Teisių pareikštis gali būti taikoma tik viešojoje srityje (public domain) esantiems Objektams, kai institucija, ketinanti padaryti Objektą prieinamu, yra sudariusi sutartis, kurios ją įpareigoja imtis priemonių, ribojančių galimybę jį naudoti tretiesiems asmenims. Siekiant, kad ši Teisių pareikštis būtų išbaigta, institucija, kuri Objektą padarė prieinamu, turėtų pateikti nuorodą į tinklapį, kuriame detalizuojami sutartiniai apribojimai Objekto panaudojimui."
+}

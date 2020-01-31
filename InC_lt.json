@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "en",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/InC/1.0/",
+  "prefLabel": "Autorių teisės saugomos",
+  "description": "Ši Teisių pareikštis nurodo, kad ja paženklintas Objektas saugomas pagal autorių teisės normas.",
+  "definition": "Galioja autorių teisės ir (arba) gretutinės teisės į šį Objektą.\n\n Jūs galite šį Objektą naudoti tokiais būdais, kuriuos leidžia tokiam panaudojimui taikytini autorių ir gretutines teises reglamentuojantys teisės aktai.\n\nNorėdami Objektą naudoti kitais būdais, turite gauti teisių turėtojo(-ų) leidimą.",
+  "note": [
+    "Jei aiškiai nenurodyta priešingai, Objektą paviešinusi institucija neteikia dėl jo jokių garantijų ir negali užtikrinti šios Teisių pareikšties tikslumo. Už naudojimą atsakote patys.",
+    "Jūsų norimam Objekto panaudojimui gali tekti gauti papildomus leidimus. Pavyzdžiui, šios medžiagos panaudojimas gali būti ribojamas reikalavimų, taikomų viešai skelbiamai informacijai, teisių į privatų gyvenimą, neturtinių autorių/atlikėjų teisių.",
+    "Papildomos informacijos apie Objektą saugančių autorių teisių būseną galite rasti Objektą paviešinusios institucijos tinklalapyje."
+  ],
+  "scopeNote": "Ši Teisių pareikštis gali būti taikoma Objektui, saugomam pagal autorių teisės normas. Šios pareikšties pritaikymas reiškia, kad jį viešai prieinamu padariusi institucija nustatė, jog galioja autorių teisės į Objektą, ir arba pati institucija yra teisių turėtoja arba ji iš teisių turėtojo(-ų) gavo leidimą padaryti Darbus viešai prieinamais arba Objektas yra padarytas viešai prieinamu taikant tam tikrą autorių teisių išimtį ar apribojimą, kurie leidžia padaryti Objektą viešai prieinamu."
+}

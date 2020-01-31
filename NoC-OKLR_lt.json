@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "en",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/NoC-OKLR/1.0/",
+  "prefLabel": "Autorių teisės negalioja – kiti teisiniai apribojimai",
+  "description": "Ši Teisių pareikštis nurodo, jog paženklintas Objektas yra viešojoje srityje (public domain), tačiau galimybė jį panaudoti tretiesiems asmenims ribojama pagal teisės aktus (kitus, nei autorių ir/ar gretutines teises reglamentuojantys teisės aktai).",
+  "definition": "Šio Objekto naudojimo neriboja autorių teisės ir (arba) gretutinės teisės.\n\nVienoje ar daugiau jurisdikcijų taikytini teisės aktai (kiti, nei autorių ir/ar gretutines teises reglamentuojantys teisės aktai) riboja šio Objekto panaudojimą.\n\nNorint gauti daugiau informacijos, prašome kreiptis į instituciją, kuri Objektą padarė viešai prieinamu.",
+  "note": [
+    "Jei aiškiai nenurodyta priešingai, Objektą paviešinusi institucija neteikia dėl jo jokių garantijų ir negali užtikrinti šios Teisių pareikšties tikslumo. Už naudojimą atsakote patys.",
+    "Jūsų norimam Objekto panaudojimui gali tekti gauti papildomus leidimus. Pavyzdžiui, šios medžiagos panaudojimas gali būti ribojamas reikalavimų, taikomų viešai skelbiamai informacijai, teisių į privatų gyvenimą, neturtinių autorių/atlikėjų teisių.",
+    "Papildomos informacijos apie Objektą saugančių autorių teisių būseną galite rasti Objektą paviešinusios institucijos tinklalapyje."
+  ],
+  "scopeNote": "Ši Teisių pareikštis gali būti taikoma viešojoje srityje (public domain) esantiems Objektams, kurie negali būti laisvai pakartotinai naudojami dėl teisinio rėžimo, draudžiančio institucijai, ketinančiai padaryti Objektą prieinamu, leisti laisvą Objekto pakartotinį panaudojimą, pavyzdžiui, dėl galiojančio kultūros paveldo apsaugos ar liaudies kūrybos apsaugos teisinio reguliavimo. Siekiant, kad ši Teisių pareikštis būtų išbaigta, institucija, kuri Objektą ketina padaryti prieinamu, turėtų pateikti nuorodą į tinklapį, kuriame detalizuojami teisiniai apribojimai Objekto pakartotiniam panaudojimui."
+}

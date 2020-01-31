@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "en",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/UND/1.0/",
+  "prefLabel": "Autorių teisių būsena neaiški",
+  "description": "Ši Teisių pareikštis nurodo, jog Objektą prieinamu padariusi institucija tyrė jam taikytinų autorių ir gretutinių teisių būseną, tačiau Objekto autorių teisių būsenos nustatyti nepavyko.",
+  "definition": "Šį Objektą padariusi prieinamu institucija vertino jam taikytinas autorių ir gretutines teises, tačiau galutinai Objektui taikytinų autorių ir gretutinių teisių būsenos nustatyti nepavyko.\n\nDaugiau informacijos galite gauti kreipęsi į instituciją, kuri Objektą padarė viešai prieinamu.\n\nJūs galite šį Objektą naudoti tokiais būdais, kuriuos leidžia tokiam panaudojimui taikytini autorių ir gretutines teises reglamentuojantys teisės aktai.",
+  "note": [
+    "Jei aiškiai nenurodyta priešingai, Objektą paviešinusi institucija neteikia dėl jo jokių garantijų ir negali užtikrinti šios Teisių pareikšties tikslumo. Už naudojimą atsakote patys.",
+    "Jūsų norimam Objekto panaudojimui gali tekti gauti papildomus leidimus. Pavyzdžiui, šios medžiagos panaudojimas gali būti ribojamas reikalavimų, taikomų viešai skelbiamai informacijai, teisių į privatų gyvenimą, neturtinių autorių/atlikėjų teisių.",
+    "Papildomos informacijos apie Objektą saugančių autorių teisių būseną galite rasti Objektą paviešinusios institucijos tinklalapyje."
+  ],
+  "scopeNote": "Ši teisių pareikštis turėtų būti taikoma ženklinant Objektus, kurių autorių teisių būsena yra nežinoma, ir kuriuos prieinamais padariusi institucija dėjo pastangas įvertinti galiojančias autorių teises į Kūrinį, kuriuo paremtas Objektas, tačiau nesėkmingai. Dažniausiai ši Teisių pareikštis naudojama, kai institucija neturi esminės informacijos, būtinos tiksliai autorių teisių būsenai nustatyti."
+}
