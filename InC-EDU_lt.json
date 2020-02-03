@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "en",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/InC-EDU/1.0/",
+  "prefLabel": "Autorių teisės saugomos – leidžiama naudoti edukaciniais tikslais",
+  "description": "Ši Teisių pareikštis nurodo, jog paženklintas Objektas saugomas pagal autorių teisės normas, tačiau jį leidžiama panaudoti edukaciniais tikslais, ir tam nereikia gauti papildomų leidimų.",
+  "definition": "Autorių teisės ir (arba) gretutinės teisės į šį Objektą galioja.\n\n Jūs galite šį Objektą naudoti tokiais būdais, kuriuos leidžia tokiam panaudojimui taikytini autorių ir gretutines teises reglamentuojantys teisės aktai. Be to, nereikia gauti papildomo teisių turėtojo(-ų) leidimo, norint Objektą panaudoti edukaciniais tikslais.\n\nNorėdami Objektą naudoti kitiems tikslams, turite gauti leidimą iš teisių turėtojo(-ų).",
+  "note": [
+    "Jei aiškiai nenurodyta priešingai, Objektą paviešinusi institucija neteikia dėl jo jokių garantijų ir negali užtikrinti šios Teisių pareikšties tikslumo. Už naudojimą atsakote patys.",
+    "Jūsų norimam Objekto panaudojimui gali tekti gauti papildomus leidimus. Pavyzdžiui, šios medžiagos panaudojimas gali būti ribojamas reikalavimų, taikomų viešai skelbiamai informacijai, teisių į privatų gyvenimą, neturtinių autorių/atlikėjų teisių.",
+    "Papildomos informacijos apie Objektą saugančių autorių teisių būseną galite rasti Objektą paviešinusios institucijos tinklalapyje."
+  ],
+  "scopeNote": "Ši Teisių pareikštis gali būti taikoma Objektui, saugomam pagal autorių teisės normas, kai Objektą viešai prieinamu padariusi institucija yra gavusi aiškiai išreikštą teisių turėtojo(-ų) sutikimą leisti tretiesiems asmenims naudoti Kūrinį(-ius) edukaciniais tikslais nesikreipiant papildomų išankstinių leidimų."
+}

@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "en",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/InC-RUU/1.0/",
+  "prefLabel": "Autorių teisės saugomos – Neįmanoma rasti ar nustatyti teisių turėtojo(-ų)",
+  "description": "Ši Teisių pareikštis nurodo, kad buvo nustatyta, jog paženklintas Objektas saugomas pagal autorių teisės normas, tačiau teisių į jį turėtojo(-ų) nepavyko nustatyti arba rasti.",
+  "definition": "Autorių teisės ir (arba) gretutinės teisės į šį Objektą galioja. Tačiau (a) teisių turėtojo(-ų) nustatyti nepavyko arba (b) teisių turėtojas ar keli teisių turėtojai buvo nustatyti, bet nei vieno nepavyko surasti. \n\nJūs galite šį Objektą naudoti tokiais būdais, kuriuos leidžia tokiam panaudojimui taikytini autorių ir gretutines teises reglamentuojantys teisės aktai.",
+  "note": [
+    "Jei aiškiai nenurodyta priešingai, Objektą paviešinusi institucija neteikia dėl jo jokių garantijų ir negali užtikrinti šios Teisių pareikšties tikslumo. Už naudojimą atsakote patys.",
+    "Jūsų norimam Objekto panaudojimui gali tekti gauti papildomus leidimus. Pavyzdžiui, šios medžiagos panaudojimas gali būti ribojamas reikalavimų, taikomų viešai skelbiamai informacijai, teisių į privatų gyvenimą, neturtinių autorių/atlikėjų teisių.",
+    "Papildomos informacijos apie Objektą saugančių autorių teisių būseną galite rasti Objektą paviešinusios institucijos tinklalapyje.",
+    "Jei turite kokios nors informacijos, kuri galėtų padėti nustatyti teisių turėtoją(-us) arba jį(juos) surasti, prašome apie tai informuoti instituciją, kuri padarė Objektą viešai prieinamu."
+  ],
+  "scopeNote": "Ši Teisių pareikštis skirta ženklinti Objektą, kuris yra saugomas pagal autorių teisės normas, tačiau nepavykus nustatyti ar surasti teisių turėtojo(-ų) po kruopščios paieškos. Ši Teisių pareikštis turėtų būti taikoma tik tada, kai Objektą viešai prieinamu padariusi institucija yra pagrįstai įsitikinusi, Kūrinys, kuriuo remiasi Objektas, saugomas autorių teisės. Šios Teisių pareikšties neturėtų naudoti ES įsteigta institucija, nustačiusi, kad Darbus galima identifikuoti „kūriniais našlaičiais“ vadovaujantis ES „kūrinių našlaičių“ direktyva (juos dera ženklinti naudojant Inc-OW-EU)."
+}

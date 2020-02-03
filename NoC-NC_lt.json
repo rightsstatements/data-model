@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "en",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/",
+  "prefLabel": "Autorių teisės nebegalioja – tik nekomerciniams tikslams",
+  "description": "Ši Teisių pareikštis nurodo, jog paženklintas Objektas yra viešojoje srityje (public domain), tačiau jį viešai prieinamu padariusi institucija saistoma sutartinių įsipareigojimų tretiesiems asmenims leisti jį naudoti tik nekomerciniais tikslais.",
+  "definition": "Šis Kūrinys skaitmenintas viešosios ir privačiosios partnerystės pagrindais. Bendradarbiaudami partneriai sutarė riboti trečiųjų asmenų teisę panaudoti Darbo skaitmeninę versiją komerciniais tikslais.\n\nNeprašydami papildomų leidimų, galite šį Objektą nekomerciniais tikslais kopijuoti, daryti pakeitimus, platinti, rodyti ar atlikti. Norint Objektą naudoti kitiems tikslams, prašome susipažinti su Objektą padariusios viešai prieinamu institucijos nustatytomis sąlygomis.",
+  "note": [
+    "Jei aiškiai nenurodyta priešingai, Objektą paviešinusi institucija neteikia dėl jo jokių garantijų ir negali užtikrinti šios Teisių pareikšties tikslumo. Už naudojimą atsakote patys.",
+    "Jūsų norimam Objekto panaudojimui gali tekti gauti papildomus leidimus. Pavyzdžiui, šios medžiagos panaudojimas gali būti ribojamas reikalavimų, taikomų viešai skelbiamai informacijai, teisių į privatų gyvenimą, neturtinių autorių/atlikėjų teisių.",
+    "Papildomos informacijos apie Objektą saugančių autorių teisių būseną galite rasti Objektą paviešinusios institucijos tinklalapyje."
+  ],
+  "scopeNote": "Ši Teisių pareikštis gali būti taikoma tik viešojoje srityje (public domain) esantiems objektams, kurie buvo skaitmeninti viešosios ir privačiosios partnerystės pagrindais, ir kuomet partneriai yra sutarę riboti galimybę tretiesiems asmenims teisę panaudoti Darbo skaitmeninę versiją komerciniais tikslais. Ši Pareikštis sukurta specialiai tam, kad apimtų Objektus, skaitmenintus Europos bibliotekoms bendradarbiaujant su Google, tačiau teoriškai gali būti panaudota ir Objektams, kurie skaitmeninami kitais panašiais viešosios ir privačiosios partnerystės atvejais."
+}

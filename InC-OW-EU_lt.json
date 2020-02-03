@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "en",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/InC-OW-EU/1.0/",
+  "prefLabel": "Autorių teisės saugomos – ES kūrinys našlaitis",
+  "description": "Ši Teisių pareikštis nurodo, kad ja paženklintas Objektas yra pripažintas „kūriniu našlaičiu“ pagal ES „Kūrinių našlaičių“ direktyvą",
+  "definition": "Šis Objektas šalyje, kurioje buvo pirmąkart išleistas, buvo pripažintas „kūriniu našlaičiu“ sutinkamai su 2012 m. spalio 25 d. Europos Parlamento ir Tarybos Direktyva 2012/28/ES dėl tam tikro leistino nenustatytų teisių turėtojų kūrinių naudojimo.\n\nŠio Objekto (a) teisių turėtojas(-ai) nebuvo nustatytas(-i) arba (b) buvo nustatytas vienas ar daugiau teisių turėtojų, tačiau nei vienas nebuvo rastas net po kruopščios teisių turėtojo(-ų) paieškos. Kruopščios paieškos rezultatai yra prieinami ES „kūrinių našlaičių“ duomenų bazėje.\n\nJūs galite šį Objektą naudoti tokiais būdais, kuriuos leidžia tokiam panaudojimui taikytini autorių ir gretutines teises reglamentuojantys teisės aktai.\n\n[Daugiau informacijos apie Objektą galima rasti šiame įraše ES „kūrinių našlaičių“ duomenų bazėje: http://pavyzdys.com/1234567]",
+  "note": [
+    "Jei aiškiai nenurodyta priešingai, Objektą paviešinusi institucija neteikia dėl jo jokių garantijų ir negali užtikrinti šios Teisių pareikšties tikslumo. Už naudojimą atsakote patys.",
+    "Jūsų norimam Objekto panaudojimui gali tekti gauti papildomus leidimus. Pavyzdžiui, šios medžiagos panaudojimas gali būti ribojamas reikalavimų, taikomų viešai skelbiamai informacijai, teisių į privatų gyvenimą, neturtinių autorių/atlikėjų teisių.",
+    "Papildomos informacijos apie Objektą saugančių autorių teisių būseną galite rasti Objektą paviešinusios institucijos tinklalapyje.",
+    "Jei turite kokios nors informacijos, kuri galėtų padėti nustatyti teisių turėtoją(-us) arba jį(juos) surasti, prašome apie tai informuoti instituciją, kuri padarė Objektą viešai prieinamu."
+  ],
+  "scopeNote": "Ši Teisių pareikštis skirta ženklinti Objektus, kurie paremti Darbais, pripažintais „kūriniais našlaičiais“ pagal 2012 m. spalio 25 d. Europos Parlamento ir Tarybos Direktyvą 2012/28/ES dėl tam tikro leistino nenustatytų teisių turėtojų kūrinių naudojimo. Ji gali būti taikoma tik Objektams, kildinamiems iš Darbų, patenkančių į Direktyvos reguliavimo sritį: Darbams, išleistiems kaip knygos, dienoraščiai, laikraščiai, žurnalai ar kiti literatūros kūriniai, taip pat bei kinematografijos ar audiovizualiniams Darbams ir fonogramoms (pastaba: į taikymo sritį nepatenka fotografijos ir vaizduojamosios dailės kūriniai). Šią Teisių pareikštį gali pritaikyti tik institucijos, laikomos nenustatytų teisių turėtojų kūrinių naudotojomis pagal Direktyvą: ES valstybėje narėje įsteigtos viešai prieinamos bibliotekos, muziejai, archyvai, kino ir (ar) garso paveldo įstaigos, švietimo įstaigos (ir mokslinių tyrimų institutai) ir visuomeninė transliuojančioji organizacija. Be to, tokia institucija - naudotoja turėtų būti Kūrinį registravusi ES intelektinės nuosavybės tarnybos (EUIPO) valdomoje ES „kūrinių našlaičių“ duomenų bazėje."
+}

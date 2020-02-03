@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "en",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+  "prefLabel": "Autorių teisės negalioja – Jungtinėse Valstijose",
+  "description": "Ši Teisių pareikštis nurodo, jog paženklintas Objektas yra viešojoje srityje (public domain) pagal Jungtinių Valstijų teisės aktus, tačiau pagal kitų valstybių autorių teises reglamentuojančius teisės aktus jo autorių teisių statusas nebuvo vertintas.",
+  "definition": "Institucija, kuri Objektą padarė prieinamu, mano, jog Objektas yra viešojoje srityje (public domain) pagal Jungtinių Amerikos Valstijų įstatymus, tačiau Objekto statusas nebuvo vertintas pagal kitų valstybių autorių teises reglamentuojančius teisės aktus. Kitose šalyse Objektas gali ir nepateikti į viešąją sritį (public domain).\n\nNorint gauti daugiau informacijos, prašome kreiptis į instituciją, kuri Objektą padarė viešai prieinamu.",
+  "note": [
+    "Jei aiškiai nenurodyta priešingai, Objektą paviešinusi institucija neteikia dėl jo jokių garantijų ir negali užtikrinti šios Teisių pareikšties tikslumo. Už naudojimą atsakote patys.",
+    "Jūsų norimam Objekto panaudojimui gali tekti gauti papildomus leidimus. Pavyzdžiui, šios medžiagos panaudojimas gali būti ribojamas reikalavimų, taikomų viešai skelbiamai informacijai, teisių į privatų gyvenimą, neturtinių autorių/atlikėjų teisių.",
+    "Papildomos informacijos apie Objektą saugančių autorių teisių būseną galite rasti Objektą paviešinusios institucijos tinklalapyje."
+  ],
+  "scopeNote": "Ši Teisių pareikštis turėtų būti taikoma Objektams, kuriuos ketinanti padaryti prieinamais institucija nustatė juos esant viešojoje srityje (public domain) pagal Jungtinių Amerikos Valstijų teisės aktus. Ši teisių pareikštis neturėtų būti naudojama „kūriniams našlaičiams“ (t.y., Objektams, kurie, tikėtina, tebėra autorių teisių saugomi) arba Objektams, kurie paremti Darbais, kurių autorių teisių statuso ketinanti padaryti Objektus prieinamais institucija kruopščiai neištyrė."
+}
