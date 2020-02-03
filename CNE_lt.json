@@ -1,7 +1,7 @@
 {
   "@context": {
     "@vocab": "http://www.w3.org/2004/02/skos/core#",
-    "@language": "en",
+    "@language": "lt",
     "description": "http://purl.org/dc/terms/description"
   },
   "@id": "http://rightsstatements.org/vocab/CNE/1.0/",
