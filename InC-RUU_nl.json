@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "nl",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/InC-RUU/1.0/",
+  "prefLabel": "Auteursrechtelijk beschermd - rechthebbende(n) niet-lokaliseerbaar of niet-identificeerbaar",
+  "description": "Deze Rechtenverklaring geeft aan dat het Item dat met deze Rechtenverklaring is gelabeld, is geïdentificeerd als auteursrechtelijk beschermd, maar de rechtenhouder(s) kan niet worden geïdentificeerd of kan niet worden gelokaliseerd.",
+  "definition": "Dit Item wordt beschermd door het auteursrecht en/of aanverwante rechten. Voor dit Item is echter ofwel (a) geen rechthebbende(n) geïdentificeerd of (b) een of meer rechthebbende(n) geïdentificeerd, maar zijn er geen gelokaliseerd.\n\nJe bent vrij om dit Item te gebruiken op elke manier die is toegestaan door de wetgeving betreffende het auteursrecht en de aanverwante rechten die van toepassing is op je gebruik.",
+  "note": [
+    "Tenzij uitdrukkelijk anders vermeld, geeft de organisatie die dit Item beschikbaar heeft gesteld geen garanties over het Item en kan ze de juistheid van deze Rechtenverklaring niet verzekeren. Je bent zelf verantwoordelijk voor je gebruik van dit Item.",
+    "Mogelijk moet je andere vormen van toestemming verkrijgen voor het beoogde gebruik. Andere rechten, zoals het recht van mededeling aan het publiek, de bescherming van de privacy of de morele rechten, kunnen bijvoorbeeld de manier waarop je het materiaal kan gebruiken beperken.",
+    "Je kan aanvullende informatie over de auteursrechtelijke status van het Item vinden op de website van de organisatie die het Item beschikbaar heeft gesteld.",
+    "Als je informatie hebt die kan bijdragen aan het identificeren of vinden van de rechthebbende(n), neem dan alsjeblieft contact op met de organisatie die het Item beschikbaar heeft gesteld."
+  ],
+  "scopeNote": "Deze Rechtenverklaring is bedoeld voor gebruik met een Item dat is geïdentificeerd als auteursrechtelijk beschermd, maar waarvoor na enig redelijk onderzoek geen rechthebbende(n) is geïdentificeerd of gelokaliseerd. Deze Rechtenverklaring dient alleen gebruikt te worden als de organisatie die van plan is het Item beschikbaar te stellen redelijk zeker is dat het onderliggende Werk auteursrechtelijk beschermd is. Deze Rechtenverklaring is niet bedoeld voor gebruik door in de EU gevestigde organisaties die werken als Verweesde Werken hebben geïdentificeerd in overeenstemming met de EU-richtlijn voor Verweesde Werken (in plaats daarvan moeten ze InC-OW-EU gebruiken)."
+}

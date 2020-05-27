@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "nl",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/InC-EDU/1.0/",
+  "prefLabel": "Auteursrechtelijk beschermd - educatief gebruik toegestaan",
+  "description": "Deze Rechtenverklaring geeft aan dat het met deze Rechtenverklaring gelabelde Item auteursrechtelijk beschermd is, maar dat educatief gebruik is toegestaan ​​zonder dat hiervoor aanvullende toestemming nodig is.",
+  "definition": "Dit Item is beschermd door het auteursrecht en/of aanverwante rechten.\n\nJe bent vrij om dit Item te gebruiken op elke manier die is toegestaan ​​door de wetgeving betreffende het auteursrecht en de aanverwante rechten die van toepassing is op je gebruik. Bovendien is voor educatief gebruik geen toestemming van de rechthebbende(n) vereist.\n\nVoor andere vormen van gebruik moet je toestemming krijgen van de rechthebbende(n).",
+  "note": [
+    "Tenzij uitdrukkelijk anders vermeld, geeft de organisatie die dit Item beschikbaar heeft gesteld geen garanties over het Item en kan ze de juistheid van deze Rechtenverklaring niet verzekeren. Je bent zelf verantwoordelijk voor je gebruik van dit Item.",
+    "Mogelijk moet je andere vormen van toestemming verkrijgen voor het beoogde gebruik. Andere rechten, zoals het recht van mededeling aan het publiek, de bescherming van de privacy of de morele rechten, kunnen bijvoorbeeld de manier waarop je het materiaal kan gebruiken beperken.",
+    "Je kan aanvullende informatie over de auteursrechtelijke status van het Item vinden op de website van de organisatie die het Item beschikbaar heeft gesteld."
+  ],
+  "scopeNote": "Deze Rechtenverklaring kan alleen worden gebruikt voor Items die auteursrechtelijk beschermd zijn, en waarvan de organisatie die het Item beschikbaar stelt zelf de rechthebbende is, of door de rechthebbende(n) expliciet gemachtigd is om derden toe te staan ​​hun Werk(en) voor educatieve doeleinden te gebruiken zonder eerst toestemming te vragen."
+}
