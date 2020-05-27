@@ -1,0 +1,9 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "nl",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/collection-nc/1.0/",
+  "prefLabel": "Verklaringen voor werken die niet auteursrechtelijk beschermd zijn"
+}

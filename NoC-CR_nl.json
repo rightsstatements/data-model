@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "nl",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/NoC-CR/1.0/",
+  "prefLabel": "Niet auteursrechtelijk beschermd - contractuele beperkingen",
+  "description": "Deze Rechtenverklaring geeft aan dat het onderliggende Werk zich in het Publiek Domein bevindt, maar dat de organisatie die het Item heeft gepubliceerd contractueel verplicht is bepaalde vormen van gebruik door derden te beperken.",
+  "definition": "Het gebruik van dit Item is niet beperkt door het auteursrecht en/of aanverwante rechten.\n\nAls onderdeel van de verwerving of digitalisering van dit Werk, is de organisatie die het Item beschikbaar heeft gesteld contractueel verplicht om het gebruik van dit Item te beperken. Beperkingen kunnen omvatten, maar zijn niet beperkt tot, privacykwesties, culturele bescherming, digitaliseringsovereenkomsten of donorovereenkomsten.\n\nVoor meer informatie, neem alsjeblieft contact op met de organisatie die het Item beschikbaar heeft gesteld.",
+  "note": [
+    "Tenzij uitdrukkelijk anders vermeld, geeft de organisatie die dit Item beschikbaar heeft gesteld geen garanties over het Item en kan ze de juistheid van deze Rechtenverklaring niet verzekeren. Je bent zelf verantwoordelijk voor je gebruik van dit Item.",
+    "Mogelijk moet je andere vormen van toestemming verkrijgen voor het beoogde gebruik. Andere rechten, zoals het recht van mededeling aan het publiek, de bescherming van de privacy of de morele rechten, kunnen bijvoorbeeld de manier waarop je het materiaal kan gebruiken beperken.",
+    "Je kan aanvullende informatie over de auteursrechtelijke status van het Item vinden op de website van de organisatie die het Item beschikbaar heeft gesteld."
+  ],
+  "scopeNote": "Deze Rechtenverklaring kan alleen worden gebruikt voor Items die zich in het Publiek Domein bevinden, maar waarvoor de organisatie die van plan is het Item beschikbaar te stellen een contractuele overeenkomst heeft afgesloten die vereist dat ze stappen onderneemt om het gebruik van het Item door derden te beperken. Om deze Rechtenverklaring definitief te laten zijn, moet de organisatie die van plan is het Item beschikbaar te stellen een link naar een pagina verstrekken met de contractuele beperkingen die van toepassing zijn op het gebruik van het Item."
+}

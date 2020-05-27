@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "nl",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/InC-OW-EU/1.0/",
+  "prefLabel": "Auteursrechtelijk beschermd - EU Verweesd Werk",
+  "description": "Deze Rechtenverklaring geeft aan dat het Item dat is gelabeld met deze Rechtenverklaring is geïdentificeerd als een ‘Verweesd Werk’ onder de voorwaarden van de EU-richtlijn betreffende Verweesde Werken.",
+  "definition": "Dit Item is geïdentificeerd als een Verweesd Werk in het land van eerste publicatie en in overeenstemming met de Richtlijn 2012/28 /EU van het Europees Parlement en de Raad van 25 oktober 2012 betreffende bepaald toegestaan gebruik van Verweesde Werken.\n\nVoor dit item is ofwel (a) geen rechthebbende(n) geïdentificeerd, of (b) een of meer rechthebbende(n) geïdentificeerd, maar ondanks een zorgvuldig onderzoek naar de rechthebbende(n) geen enkele gelokaliseerd. De resultaten van het zorgvuldig zoeken zijn beschikbaar in de Europese Databank van Verweesde Werken.\n\nJe bent vrij om dit Item te gebruiken op elke manier die is toegestaan door de wetgeving betreffende het auteursrecht en de aanverwante rechten die van toepassing is op je gebruik.",
+  "note": [
+    "Tenzij uitdrukkelijk anders vermeld, geeft de organisatie die dit Item beschikbaar heeft gesteld geen garanties over het Item en kan ze de juistheid van deze Rechtenverklaring niet verzekeren. Je bent zelf verantwoordelijk voor je gebruik van dit Item.",
+    "Mogelijk moet je andere vormen van toestemming verkrijgen voor het beoogde gebruik. Andere rechten, zoals het recht van mededeling aan het publiek, de bescherming van de privacy of de morele rechten, kunnen bijvoorbeeld de manier waarop je het materiaal kan gebruiken beperken.",
+    "Je kan aanvullende informatie over de auteursrechtelijke status van het Item vinden op de website van de organisatie die het Item beschikbaar heeft gesteld.",
+    "Als je informatie hebt die kan bijdragen aan het identificeren of lokaliseren van de rechthebbende(n), neem dan alsjeblieft contact op met de organisatie die het Item beschikbaar heeft gesteld."
+  ],
+  "scopeNote": "Deze Rechtenverklaring is bedoeld voor gebruik met Items waarvan het onderliggende Werk is geïdentificeerd als Verweesd Werk in overeenstemming met de Richtlijn 2012/28 /EU van het Europees Parlement en de Raad van 25 oktober 2012 betreffende bepaald toegestaan gebruik van Verweesde Werken. Het kan alleen worden toegepast op Items die zijn afgeleid van Werken die onder de Richtlijn vallen: werken die zijn gepubliceerd in de vorm van boeken, tijdschriften, kranten, magazines of andere geschriften, evenals cinematografische of audiovisuele werken en fonogrammen (let op: fotografie en visuele kunsten zijn uitgesloten). Het kan alleen worden toegepast door organisaties die in aanmerking komen voor de Richtlijn: openbaar toegankelijke bibliotheken, onderwijsinstellingen en musea, archieven, instellingen voor cinematografisch of audio-erfgoed en publieke omroeporganisaties, gevestigd in een van de EU-lidstaten. Van de begunstigde wordt ook verwacht dat hij het werk heeft geregistreerd in de Europese Databank voor Verweesde Werken die wordt onderhouden door EUIPO."
+}

@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "nl",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/",
+  "prefLabel": "Niet auteursrechtelijk beschermd - uitsluitend niet-commercieel gebruik toegestaan",
+  "description": "Deze Rechtenverklaring geeft aan dat het onderliggende Werk zich in het Publiek Domein bevindt, maar dat de organisatie die het Item heeft gepubliceerd contractueel verplicht is om alleen niet-commercieel gebruik door derden toe te staan.",
+  "definition": "Dit werk is gedigitaliseerd in een publiek-private samenwerking. Als onderdeel van dit partnerschap zijn de deelnemers overeengekomen om commercieel gebruik van deze digitale representatie van het Werk door derden te beperken.\n\nJe kan het Item zonder toestemming kopiëren, wijzigen, distribueren, weergeven of uitvoeren voor niet-commercieel gebruik. Voor elk ander toegestaan gebruik de algemene voorwaarden van de organisatie die het Item beschikbaar heeft gesteld.",
+  "note": [
+    "Tenzij uitdrukkelijk anders vermeld, geeft de organisatie die dit Item beschikbaar heeft gesteld geen garanties over het Item en kan ze de juistheid van deze Rechtenverklaring niet verzekeren. Je bent zelf verantwoordelijk voor je gebruik van dit Item.",
+    "Mogelijk moet je andere vormen van toestemming verkrijgen voor het beoogde gebruik. Andere rechten, zoals het recht van mededeling aan het publiek, de bescherming van de privacy of de morele rechten, kunnen bijvoorbeeld de manier waarop je het materiaal kan gebruiken beperken.",
+    "Je kan aanvullende informatie over de auteursrechtelijke status van het Item vinden op de website van de organisatie die het Item beschikbaar heeft gesteld."
+  ],
+  "scopeNote": "Deze Rechtenverklaring kan alleen worden gebruikt voor Werken die zich in het Publiek Domein bevinden en zijn gedigitaliseerd in een publiek-private samenwerking, als onderdeel waarvan de deelnemers zijn overeengekomen om commercieel gebruik van deze digitale representatie van het Werk door derden te beperken. Deze is specifiek ontwikkeld om Werken op te nemen die zijn gedigitaliseerd als onderdeel van de partnerschappen tussen Europese bibliotheken en Google, maar kan in theorie worden toegepast op Items die zijn gedigitaliseerd in soortgelijke publiek-private partnerschappen."
+}
