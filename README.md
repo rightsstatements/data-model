@@ -32,7 +32,7 @@ Implementing translations
 
 To incorporate updates or new translations, install [`tx`](https://docs.transifex.com/client/introduction), run [`tx pull`](https://docs.transifex.com/client/pull#command-options) and commit the changes into your local clone (the tx client needs an API token available in your Transifex account settings). This needs to be done for all repositories where there are translations (data-model, etc). The language of the translation being pulled can be specified in a parameter (otherwise the selection can be done in the commit from local to reference).
 
-See also notes on implementing translations for the [rights app](https://github.com/rightsstatements/rights-app/blob/master/README.md) and the [website](https://github.com/rightsstatements/rightsstatements.github.io/blob/master/README.md) for more information.
+For deployment you have to re-start the service with rights-deploy. See also notes on implementing translations for the [rights app](https://github.com/rightsstatements/rights-app/blob/master/README.md) and the [website](https://github.com/rightsstatements/rightsstatements.github.io/blob/master/README.md) for more information.
 
 License
 ---
