@@ -30,7 +30,7 @@ Implementing translations
 
 [Transifex](https://www.transifex.com/graphthinking-gmbh/rightsstatementsorg/) is used to carry out translations of the statements and collections. They are tagged with the category `data-model`. Please get in touch with the [maintainers](https://www.transifex.com/graphthinking-gmbh/rightsstatementsorg/settings/maintainers/) to add a new language to the project.
 
-To incorporate updates or new translations, install [`tx`](https://docs.transifex.com/client/introduction), run [`tx pull`](https://docs.transifex.com/client/pull#command-options) and commit the changes.
+To incorporate updates or new translations, install [`tx`](https://docs.transifex.com/client/introduction), run [`tx pull`](https://docs.transifex.com/client/pull#command-options) and commit the changes into your local clone (the tx client needs an API token available in your Transifex account settings).
 
 See also notes on implementing translations for the [rights app](https://github.com/rightsstatements/rights-app/blob/master/README.md) and the [website](https://github.com/rightsstatements/rightsstatements.github.io/blob/master/README.md) for more information.
 
