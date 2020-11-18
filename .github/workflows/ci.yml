@@ -1,0 +1,21 @@
+name: CI build
+on: push
+jobs:
+  ci:
+    name: Run continuous integration tests
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+      - name: Setup Node.js runtime
+        uses: actions/setup-node@v1
+        with:
+          node-version: '12.x'
+      - name: Install raptor2-utils
+        run: sudo apt-get install raptor2-utils
+      - name: Install jsonld-cli
+        run: npm install -g jsonld-cli
+      - name: Audit source Turtle data
+        run: rapper -q -i turtle rights-statements.ttl > /dev/null
+      - name: Audit JSON-LD translations
+        run: (for f in *.json; do jsonld normalize $f > /dev/null || exit 1; done)
