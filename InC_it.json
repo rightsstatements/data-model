@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "it",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/InC/1.0/",
+  "prefLabel": "In Copyright",
+  "description": "La presente dichiarazione di diritti indica che l'oggetto contrassegnato con questa dichiarazione di diritti è protetto dal diritto d'autore.",
+  "definition": "Questo oggetto è protetto dal diritto d'autore e/o da diritti connessi.\n\nL'utente è libero di usare questo oggetto in qualsiasi modo consentito dalla legislazione sul diritto d'autore e sui diritti connessi che si applica al suo utilizzo.\n\nPer altri usi è necessario ottenere l'autorizzazione dal/i titolare/i dei diritti.",
+  "note": [
+    "Salvo diversa indicazione esplicita, l'organizzazione che ha messo questo oggetto a disposizione non fornisce alcuna garanzia sull'oggetto e non può garantire l'accuratezza di questa dichiarazione di diritti. L'utente è responsabile del proprio utilizzo.",
+    "Potrebbe essere necessario ottenere altre autorizzazioni per l'utilizzo previsto dall'utente. Altri diritti come la pubblicità, la privacy o i diritti morali potrebbero limitare le modalità di utilizzo del materiale.",
+    "Ulteriori informazioni sul diritto d'autore di questo oggetto si possono trovare sul sito dell'organizzazione che ha messo l'oggetto a disposizione."
+  ],
+  "scopeNote": "La presente dichiarazione di diritti può essere utilizzata per un oggetto protetto dal diritto d'autore. L'utilizzo di questa dichiarazione implica che l'organizzazione che mette a disposizione questo oggetto ha stabilito che l'oggetto è protetto dal diritto d'autore e ne è titolare, oppure ha ottenuto dal/i titolare/i del diritto d'autore l'autorizzazione per mettere l'opera a disposizione, o mette l'oggetto a disposizione in base a un'eccezione o limitazione del diritto d'autore (incluso il Fair Use) che gli dà diritto a mettere a disposizione l'oggetto."
+}

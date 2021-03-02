@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "it",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/InC-RUU/1.0/",
+  "prefLabel": "In Copyright - Titolari dei diritti non rintracciabili o non identificabili",
+  "description": "La presente dichiarazione di diritti indica che l'oggetto contrassegnato con questa dichiarazione di diritti è stato identificato come protetto dal diritto d'autore, ma i titolari dei diritti non possono essere identificati o rintracciati.",
+  "definition": "Questo oggetto è protetto dal diritto d'autore e/o da diritti connessi. Tuttavia, per questo oggetto, o (a) non è stato identificato alcun titolare di diritti o (b) sono stati identificati uno o più titolari di diritti ma nessuno di essi è stato rintracciato.\n\nL'utente è libero di utilizzare questo articolo in qualsiasi modo consentito dalla legislazione sul diritto d'autore e sui diritti connessi che si applica al suo utilizzo.",
+  "note": [
+    "Salvo diversa indicazione esplicita, l'organizzazione che ha messo questo oggetto a disposizione non fornisce alcuna garanzia sull'oggetto e non può garantire l'accuratezza di questa dichiarazione di diritti. L'utente è responsabile del proprio utilizzo.",
+    "Potrebbe essere necessario ottenere altre autorizzazioni per l'utilizzo previsto dall'utente. Altri diritti come la pubblicità, la privacy o i diritti morali potrebbero limitare le modalità di utilizzo del materiale.",
+    "Ulteriori informazioni sul diritto d'autore di questo oggetto si possono trovare sul sito dell'organizzazione che ha messo l'oggetto a disposizione.",
+    "Se si dispone di informazioni che possano contribuire a identificare o rintracciare i titolari di diritti si prega di informare l'organizzazione che ha messo l'oggetto a disposizione."
+  ],
+  "scopeNote": "La presente dichiarazione è destinata a oggetti che sono stati identificati come protetti dal diritto d'autore ma per i quali nessun titolare di diritti è stato identificato o rintracciato dopo un'indagine ragionevole. Questa dichiarazione di diritti deve essere usata solo se l'organizzazione che intende mettere l'oggetto a disposizione è ragionevolmente certa che l'opera sottostante sia protetta dal diritto d'autore. La presente dichiarazione di diritti non è destinata all'uso da parte di organizzazioni con sede nell'UE che abbiano identificato le opere come opere orfane in conformità alla Direttiva UE sulle opere orfane (devono invece usare InC-OW-EU)."
+}

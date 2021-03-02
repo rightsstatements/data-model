@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "it",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/InC-OW-EU/1.0/",
+  "prefLabel": "In Copyright - Opera orfana UE",
+  "description": "La presente dichiarazione di diritti indica che l'oggetto contrassegnato con questa dichiarazione di diritti è stato identificato come \"opera orfana\" ai sensi della Direttiva UE sulle opere orfane.",
+  "definition": "Questo oggetto è stato identificato come opera orfana nel paese di prima pubblicazione e in linea con la Direttiva 2012/28/EU del Parlamento Europeo e del Consiglio del 25 ottobre 2012 su alcuni usi consentiti di opere orfane.\n\nPer questo oggetto o (a) non è stato identificato alcun titolare di diritti o (b) uno o più titolari di diritti sono stati identificati ma nessuno di essi è stato rintracciato nonostante sia stata condotta una diligente ricerca dei titolari di diritti. I risultati della ricerca sono disponibili nella Banca dati delle Opere Orfane dell'UE.\n\n L'utente è libero di utilizzare questo oggetto in qualsiasi modo consentito dalla legislazione sul diritto d'autore e sui diritti correlati che si applica al suo utilizzo.",
+  "note": [
+    "Salvo diversa indicazione esplicita, l'organizzazione che ha messo a disposizione questo oggetto non fornisce alcuna garanzia sull'oggetto e non può garantire l'accuratezza di questa dichiarazione di diritti. L'utente è responsabile del proprio utilizzo.",
+    "Potrebbe essere necessario ottenere altre autorizzazioni per l'utilizzo previsto dall'utente. Altri diritti come la pubblicità, la privacy o i diritti morali potrebbero limitare le modalità di utilizzo del materiale.",
+    "Ulteriori informazioni sul diritto d'autore di questo oggetto si possono trovare sul sito dell'organizzazione che ha messo l'oggetto a disposizione.",
+    "Se si dispone di informazioni che possano contribuire a identificare o rintracciare i titolari dei diritti, si prega di informare l'organizzazione che ha messo l'oggetto a disposizione."
+  ],
+  "scopeNote": "La presente dichiarazione di diritti è destinata all'utilizzo con oggetti identificati come opere orfane in conformità alla Direttiva 2012/28/EU del Parlamento europeo e del Consiglio del 25 ottobre 2012 su alcuni usi consentiti delle opere orfane. Può essere applicata solo a oggetti derivati da opere che rientrano nel campo di applicazione della Direttiva: opere pubblicate sotto forma di libri, periodici, quotidiani, riviste o altri scritti, nonché opere cinematografiche o audiovisive e fonogrammi (nota: sono escluse la fotografia e le arti visive). Può essere applicata solo da organizzazioni beneficiarie della Direttiva: biblioteche accessibili al pubblico, istituti di istruzione e musei, archivi, istituti per il patrimonio cinematografico o audio e radiotelevisivi di servizio pubblico, con sede in uno degli stati membri dell'UE. I beneficiari devono anche aver registrato l'opera nella Banca dati delle Opere Orfane dell'UE gestita dall'EUIPO."
+}

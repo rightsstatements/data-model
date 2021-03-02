@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "it",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/",
+  "prefLabel": "No copyright - Solo uso non commerciale",
+  "description": "Questa dichiarazione di diritti indica che l'opera sottostante è nel pubblico dominio, ma l'organizzazione che ha pubblicato l'oggetto è contrattualmente tenuta a consentirne solo l'uso non commerciale da parte di terzi.",
+  "definition": "Questa opera è stata digitalizzata in un partenariato pubblico-privato. Nell'ambito di questo partenariato, le parti hanno concordato di limitare gli usi commerciali di questa rappresentazione digitale dell'opera da parte di terzi.\n\nE' possibile, senza autorizzazione, copiare, modificare, distribuire, mostrare o rappresentare l'oggetto per scopi non commerciali. Per qualsiasi altro uso ammissibile, si prega di consultare i termini e le condizioni dell'organizzazione che ha messo l'oggetto a disposizione.",
+  "note": [
+    "Salvo diversa indicazione esplicita, l'organizzazione che ha messo questo oggetto a disposizione non fornisce alcuna garanzia sull'oggetto e non può garantire l'accuratezza di questa dichiarazione di diritti. L'utente è responsabile del proprio utilizzo.",
+    "Potrebbe essere necessario ottenere altre autorizzazioni per l'uso previsto dall'utente. Altri diritti come la pubblicità, la privacy o i diritti morali possono limitare le modalità di utilizzo del materiale.",
+    "Ulteriori informazioni sul diritto d'autore di questo oggetto si possono trovare sul sito dell'organizzazione che ha messo l'oggetto a disposizione."
+  ],
+  "scopeNote": "Questa dichiarazione di diritti può essere utilizzata solo per opere che sono nel pubblico dominio e che sono state digitalizzate in un partenariato pubblico-privato, nell'ambito del quale le parti hanno accettato di limitare gli usi commerciali di questa rappresentazione digitale dell'opera da parte di terzi. È stata sviluppata appositamente per consentire l'inclusione di opere digitalizzate nell'ambito dei partenariati tra le biblioteche europee e Google, ma può in teoria essere applicato a opere digitalizzate in analoghi partenariati pubblico-privati."
+}

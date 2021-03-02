@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "it",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/UND/1.0/",
+  "prefLabel": "Copyright indeterminato",
+  "description": "Questa dichiarazione di diritti indica che l'organizzazione che ha messo l'oggetto a disposizione ha esaminato il diritto d'autore e i diritti connessi dell'oggetto ma non è stata in grado di determinarli. ",
+  "definition": "Il diritto d'autore e i diritti connessi dell'oggetto sono stati esaminati dall'organizzazione che ha messo l'oggetto a disposizione, ma l'organizzazione non è stata in grado di determinare in modo definitivo il diritto d'autore dell'oggetto.\n\nSi prega di fare riferimento all'organizzazione che ha messo a l'oggetto a disposizione per maggiori informazioni.\n\nL'utente è libero di utilizzare questo oggetto in qualsiasi modo consentito dalla legislazione sul diritto d'autore e sui diritti connessi che si applica al suo utilizzo.",
+  "note": [
+    "Salvo diversa indicazione esplicita, l'organizzazione che ha messo questo oggetto a disposizione non fornisce alcuna garanzia sull'oggetto e non può garantire l'accuratezza di questa dichiarazione di diritti. L'utente è responsabile del proprio utilizzo.",
+    "Potrebbe essere necessario ottenere altre autorizzazioni per l'utilizzo previsto dall'utente. Altri diritti come la pubblicità, la privacy o i diritti morali potrebbero limitare le modalità di utilizzo del materiale.",
+    "Ulteriori informazioni sul diritto d'autore di questo oggetto si possono trovare sul sito dell'organizzazione che ha messo l'oggetto a disposizione."
+  ],
+  "scopeNote": "La presente dichiarazione di diritti deve essere utilizzata per oggetti il cui diritto d'autore non è noto e per i quali l'organizzazione che ha messo a disposizione l'oggetto ha intrapreso uno sforzo (infruttuoso) per determinare il diritto d'autore dell'opera sottostante. In genere questa dichiarazione di diritti viene usata quando mancano informazioni indispensabili per determinare con precisione il diritto d'autore."
+}
