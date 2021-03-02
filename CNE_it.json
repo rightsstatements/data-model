@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "it",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/CNE/1.0/",
+  "prefLabel": "Copyright non esaminato",
+  "description": "Questa dichiarazione di diritti indica che l'organizzazione che ha pubblicato l'oggetto non ha esaminato lo stato del diritto d'autore e i diritti connessi.",
+  "definition": "Il diritto d'autore e i diritti connessi di questo oggetto non sono stati esaminati.\n\nPer maggiori informazioni si prega di fare riferimento all'organizzazione che ha messo l'oggetto a disposizione.\n\nL'utente è libero di usare questo oggetto in qualsiasi modo consentito dalla legislazione sul diritto d'autore e sui diritti connessi che si applica al suo utilizzo.",
+  "note": [
+    "Salvo diversa indicazione esplicita, l'organizzazione che ha messo a disposizione questo oggetto non fornisce garanzie sull'oggetto e non può garantire l'accuratezza di questa dichiarazione di diritti. L'utente è responsabile del proprio utilizzo.",
+    "Potrebbe essere necessario ottenere altre autorizzazioni per l'utilizzo previsto dall'utente. Altri diritti come la pubblicità, la privacy o i diritti morali potrebbero limitare le modalità di utilizzo del materiale.",
+    "Ulteriori informazioni sul diritto d'autore di questo oggetto si possono trovare sul sito dell'organizzazione che ha messo l'oggetto a disposizione."
+  ],
+  "scopeNote": "Questa dichiarazione di diritti deve essere usata per oggetti per i quali non si conosce il diritto d'autore e per i quali l'organizzazione che intende mettere l'oggetto a disposizione non ha intrapreso uno sforzo per determinare il diritto d'autore dell'opera sottostante."
+}

@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "it",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+  "prefLabel": "No Copyright - Stati Uniti",
+  "description": "La presente dichiarazione di diritti indica che l'oggetto è nel pubblico dominio secondo le leggi degli Stati Uniti, ma che non è stato determinato il suo stato di copyright secondo le leggi sul diritto d'autore di altri paesi.",
+  "definition": "L'organizzazione che ha messo l'oggetto a disposizione ritiene che l'oggetto sia nel pubblico dominio secondo le leggi degli Stati Uniti, ma non è stato determinato lo stato del suo copyright secondo le leggi sul diritto d'autore di altri paesi. L'oggetto potrebbe non essere nel pubblico dominio secondo le leggi di altri paesi. \nSi prega di fare riferimento all'organizzazione che ha messo l'oggetto a disposizione per maggiori informazioni.",
+  "note": [
+    "Salvo diversa indicazione esplicita, l'organizzazione che ha messo questo oggetto a disposizione non fornisce alcuna garanzia sull'oggetto e non può garantire l'accuratezza di questa dichiarazione di diritti. L'utente è responsabile del proprio utilizzo.",
+    "Potrebbe essere necessario ottenere altre autorizzazioni per l'utilizzo previsto dall'utente. Altri diritti come la pubblicità, la privacy o i diritti morali potrebbero limitare le modalità di utilizzo del materiale.",
+    "Ulteriori informazioni sul diritto d'autore di questo oggetto si possono trovare sul sito dell'organizzazione che ha messo l'oggetto a disposizione."
+  ],
+  "scopeNote": "La presente dichiarazione di diritti deve essere usata per oggetti per i quali l'organizzazione che intende mettere l'oggetto a disposizione ha stabilito che sono liberi da copyright secondo la legge degli Stati Uniti. Questa dichiarazione di diritti non deve essere usata per opere orfane (che si presume siano protette da copyright) o per oggetti per i quali l'organizzazione che intende mettere l'oggetto a disposizione non si è impegnata ad accertare lo stato del copyright dell'opera sottostante."
+}

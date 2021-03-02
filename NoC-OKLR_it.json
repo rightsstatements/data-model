@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "it",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/NoC-OKLR/1.0/",
+  "prefLabel": "No Copyright - Altre restrizioni legali note",
+  "description": "La presente dichiarazione di diritti indica che l'opera sottostante è nel pubblico dominio ma che ci sono note restrizioni imposte da leggi diverse dal diritto d'autore e/o dai diritti connessi riguardo l'uso dell'oggetto da parte di terzi.",
+  "definition": "L'uso di questo oggetto non è limitato dal diritto d'autore e/o dai diritti connessi.\n\nIn una o più giurisdizioni è noto che leggi diverse dal diritto d'autore impongono restrizioni all'uso di questo oggetto.\n\nSi prega di fare riferimento all'organizzazione che ha messo l'oggetto a disposizione per maggiori informazioni.",
+  "note": [
+    "Salvo diversa indicazione esplicita, l'organizzazione che ha messo questo oggetto a disposizione non fornisce alcuna garanzia sull'oggetto e non può garantire l'accuratezza di questa dichiarazione di diritti. L'utente è responsabile del proprio utilizzo.",
+    "Potrebbe essere necessario ottenere altre autorizzazioni per l'utilizzo previsto dall'utente. Altri diritti come la pubblicità, la privacy o i diritti morali potrebbero limitare le modalità di utilizzo del materiale.",
+    "Ulteriori informazioni sul diritto d'autore di questo oggetto si possono trovare sul sito dell'organizzazione che ha messo l'oggetto a disposizione."
+  ],
+  "scopeNote": "Questa dichiarazione di diritti deve essere usata per oggetti che sono nel pubblico dominio ma che non possono essere liberamente riutilizzati come conseguenza di note restrizioni legali che impediscono all'organizzazione che intende mettere a disposizione l'oggetto di consentirne il libero riuso, come forme di protezione del patrimonio culturale o di espressioni culturali tradizionali. Affinché la dichiarazione di diritti sia definitiva, l'organizzazione che intende mettere l'oggetto a disposizione deve fornire un link a una pagina che descriva in dettaglio le restrizioni legali che limitano il riuso dell'oggetto."
+}

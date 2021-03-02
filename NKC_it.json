@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "it",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/NKC/1.0/",
+  "prefLabel": "Nessun Copyright conosciuto",
+  "description": "Questa dichiarazione di diritti indica che l'organizzazione che ha pubblicato l'oggetto ritiene che per l'oggetto non siano noti il diritto d'autore o i diritti connessi, ma che non è stato possibile effettuare una determinazione definitiva.",
+  "definition": "L'organizzazione che ha messo l'oggetto a disposizione ritiene ragionevolmente che l'oggetto non sia limitato dal diritto d'autore o dai diritti connessi, ma non è stato possibile effettuare una determinazione decisiva.\n\nSi prega di fare riferimento all'organizzazione che ha messo l'oggetto a disposizione per ulteriori informazioni.\n\nL'utente è libero di utilizzare questo oggetto in qualsiasi modo consentito dalla legislazione sul diritto d'autore e sui diritti connessi che si applica al suo utilizzo.",
+  "note": [
+    "Salvo diversa indicazione esplicita, l'organizzazione che ha messo questo oggetto a disposizione non fornisce alcuna garanzia sull'oggetto e non può garantire l'accuratezza di questa dichiarazione di diritti. L'utente è responsabile del proprio utilizzo.",
+    "Potrebbe essere necessario ottenere altre autorizzazioni per l'utilizzo previsto dall'utente. Altri diritti come la pubblicità, la privacy o i diritti morali potrebbero limitare le modalità di utilizzo del materiale.",
+    "Ulteriori informazioni sul diritto d'autore di questo oggetto si possono trovare sul sito dell'organizzazione che ha messo l'oggetto a disposizione."
+  ],
+  "scopeNote": "La presente dichiarazione di diritti deve essere usata per oggetti il cui diritto d'autore non è stato determinato in modo definitivo, ma per i quali l'organizzazione che intende mettere l'oggetto a disposizione ha ragionevoli motivi per ritenere che l'opera sottostante non sia più protetta dal diritto d'autore o da diritti connessi. Questa dichiarazione di diritti non deve essere usata per le opere orfane (che si presume siano protette dal diritto d'autore) o per oggetti per i quali l'organizzazione che intende mettere l'oggetto a disposizione non abbia intrapreso uno sforzo per accertare il diritto d'autore relativo all'opera sottostante."
+}
