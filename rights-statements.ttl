@@ -77,6 +77,7 @@
 # 2019-04-18: Addition of Polish translations
 # 2019-05-19: Addition of French translations
 # 2019-06-05: Moved descriptive text to language specific JSON-LD files
+# 2022-04-27: Addition of Croatian and Catalan translation
 
 <InC/1.0/> a dcterms:RightsStatement, skos:Concept ;
   # term-level metadata
@@ -84,7 +85,7 @@
   skos:notation "InC" ;
   owl:versionInfo "1.0" ;
   dcterms:creator <irswg> ;
-  dcterms:modified "2019-04-18"^^xsd:date ;
+  dcterms:modified "2022-04-27"^^xsd:date ;
 
   # alignments
   skos:relatedMatch premiscopy:cpr ;
@@ -98,7 +99,7 @@
   skos:notation "InC-OW-EU" ;
   owl:versionInfo "1.0" ;
   dcterms:creator <irswg> ;
-  dcterms:modified "2010-04-18"^^xsd:date ;
+  dcterms:modified "2022-04-27"^^xsd:date ;
 
   # alignments
   skos:relatedMatch premiscopy:cpr ;
@@ -112,7 +113,7 @@
   skos:notation "InC-RUU" ;
   owl:versionInfo "1.0" ;
   dcterms:creator <irswg> ;
-  dcterms:modified "2019-04-18"^^xsd:date ;
+  dcterms:modified "2022-04-27"^^xsd:date ;
 
   # alignments
   skos:relatedMatch premiscopy:cpr ;
@@ -125,7 +126,7 @@
   skos:notation "InC-EDU" ;
   owl:versionInfo "1.0" ;
   dcterms:creator <irswg> ;
-  dcterms:modified "2019-04-18"^^xsd:date ;
+  dcterms:modified "2022-04-27"^^xsd:date ;
 
   # alignments
   skos:relatedMatch premiscopy:cpr ;
@@ -138,7 +139,7 @@
   skos:notation "InC-NC" ;
   owl:versionInfo "1.0" ;
   dcterms:creator <irswg> ;
-  dcterms:modified "2019-04-18"^^xsd:date ;
+  dcterms:modified "2022-04-27"^^xsd:date ;
 
   # alignments
   cc:prohibits cc:CommercialUse ;
@@ -153,7 +154,7 @@
   skos:notation "NoC-NC" ;
   owl:versionInfo "1.0" ;
   dcterms:creator <irswg> ;
-  dcterms:modified "2019-04-18"^^xsd:date ;
+  dcterms:modified "2022-04-27"^^xsd:date ;
 
   # alignments
   cc:prohibits cc:CommercialUse ;
@@ -167,7 +168,7 @@
   skos:notation "NoC-CR" ;
   owl:versionInfo "1.0" ;
   dcterms:creator <irswg> ;
-  dcterms:modified "2019-04-18"^^xsd:date ;
+  dcterms:modified "2022-04-27"^^xsd:date ;
 
   # alignments
   skos:relatedMatch premiscopy:pub ;
@@ -180,7 +181,7 @@
   skos:notation "NoC-OKLR" ;
   owl:versionInfo "1.0" ;
   dcterms:creator <irswg> ;
-  dcterms:modified "2019-04-18"^^xsd:date ;
+  dcterms:modified "2022-04-27"^^xsd:date ;
 
   # alignments
   skos:relatedMatch premiscopy:pub ;
@@ -193,7 +194,7 @@
   skos:notation "NoC-US" ;
   owl:versionInfo "1.0" ;
   dcterms:creator <irswg> ;
-  dcterms:modified "2019-04-18"^^xsd:date ;
+  dcterms:modified "2022-04-27"^^xsd:date ;
 
   # alignments
 
@@ -205,7 +206,7 @@
   skos:notation "NKC" ;
   owl:versionInfo "1.0" ;
   dcterms:creator <irswg> ;
-  dcterms:modified "2019-04-18"^^xsd:date ;
+  dcterms:modified "2022-04-27"^^xsd:date ;
 
   # alignments
   skos:relatedMatch premiscopy:unk ;
@@ -218,7 +219,7 @@
   skos:notation "CNE" ;
   owl:versionInfo "1.0" ;
   dcterms:creator <irswg> ;
-  dcterms:modified "2019-04-18"^^xsd:date ;
+  dcterms:modified "2022-04-27"^^xsd:date ;
 
   # alignments
   skos:closeMatch <http://www.europeana.eu/rights/unknown/> ;
@@ -232,7 +233,7 @@
   skos:notation "UND" ;
   owl:versionInfo "1.0" ;
   dcterms:creator <irswg> ;
-  dcterms:modified "2019-04-18"^^xsd:date ;
+  dcterms:modified "2022-04-27"^^xsd:date ;
 
   # alignments
 
