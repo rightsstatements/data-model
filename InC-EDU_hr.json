@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "hr",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/InC-EDU/1.0/",
+  "prefLabel": "Zaštićeno autorskim pravom – dopušteno korištenje u obrazovne svrhe",
+  "description": "Ova izjava o pravima upućuje na to da je objekt označen ovom izjavom zaštićen autorskim pravom, ali da je korištenje u obrazovne svrhe dopušteno bez potrebe za pribavljanjem dodatnog odobrenja.",
+  "definition": "Ovaj je objekt zaštićen autorskim pravom i/ili srodnim pravima.\n\n Ovaj objekt možete slobodno koristiti na način dopušten zakonodavstvom u području autorskog i srodnih prava koje se primjenjuje na vaše korištenje. Uz to, nije potrebno odobrenje nositelja prava za korištenje u obrazovne svrhe.\n\n Za druge vrste korištenja morate pribaviti odobrenje nositelja prava.",
+  "note": [
+    "Osim ako nije izričito drugačije navedeno, ustanova koja je ovaj objekt učinila dostupnim ne daje ovlaštenja za objekt i ne može jamčiti za točnost ove izjave o pravima. Vi ste odgovorni za vlastito korištenje.",
+    "Možda ćete morati dobiti druga odobrenja za namjeravano korištenje. Na primjer, druga prava kao što su pravo na publicitet, pravo na zaštitu privatnosti ili moralna prava mogu ograničiti način na koji možete koristiti materijal.",
+    "Dodatne informacije o statusu autorskog prava objekta možete pronaći na mrežnoj stranici ustanove koja je objekt učinila dostupnim."
+  ],
+  "scopeNote": "Ova se izjava o pravima može koristiti samo za objekte zaštićene autorskim pravom kojima je ustanova koja objekt čini dostupnim nositelj prava ili su je nositelji prava izričito ovlastili da trećim stranama omogući korištenje njihovih djela u obrazovne svrhe bez prethodnog pribavljanja odobrenja."
+}

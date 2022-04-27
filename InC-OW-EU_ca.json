@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "ca",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/InC-OW-EU/1.0/",
+  "prefLabel": "Protegit per Drets d’Autor - Obra Òrfena UE",
+  "description": "Aquesta Declaració de Drets indica que el material ha estat identificat com a “Obra Òrfena” d’acord amb la Directiva Europea sobre Obres Òrfenes.",
+  "definition": "Aquest material ha estat identificat com a obra òrfena en el país de primera publicació d’acord amb la Directiva 2012/28/UE del Parlament Europeu i del Consell del 25 d'octubre de 2012 sobre determinats usos permesos de les obres òrfenes.\n\nEn relació a aquest material, cap titular(s) de dret(s) ha estat identificat, o bé un o més titular(s) de drets han estat identificats però no han pogut ser localitzats tot i haver-se realitzat una cerca diligent. Els resultats de la cerca diligent estan disponibles en la base de dades d’obres òrfenes.\n\nPodeu utilitzar aquest material en funció del que permet la legislació de drets d’autor i drets afins del vostre país.",
+  "note": [
+    "Excepte que s'indiqui expressament el contrari, l'organització que ha posat a disposició aquest material no dóna cap garantia sobre el material i no assegura la precisió d’aquesta Declaració de Drets. Sou responsables de l'ús que feu del material.",
+    "Pot ser que necessiteu obtenir altres permisos per a l'ús que voleu fer del material. Per exemple, hi pot haver altres drets com el dret a la intimitat o drets morals que poden limitar les possibilitats d’utilitzar-lo.",
+    "Trobareu més informació sobre el règim de protecció del material per drets d’autor en la web de l’organització que l’ha posat a disposició.",
+    "Si disposeu de qualsevol informació que podria contribuir a identificar o localitzar el(s) titular(s) de drets, si us plau informeu-ne l’organització que ha posat a disposició el material."
+  ],
+  "scopeNote": "Aquesta Declaració de Drets està pensada per a ser utilitzada en material l’obra subjacent del qual ha estat identificada com a obra òrfena d'acord amb la Directiva 2012/28/UE del Parlament Europeu i del Consell del 25 d'octubre de 2012 sobre determinats usos permesos de les obres òrfenes. Només es pot aplicar a materials derivats de les obres a les que fa referència la Directiva: obres publicades en forma de llibre, publicacions periòdiques, diaris, revistes o altre tipus de textos, així com obres cinematogràfiques o audiovisuals i fonogrames. En queden excloses les fotografies i les obres plàstiques. Únicament pot ser aplicada per part de les institucions indicades a la Directiva que radiquin a un dels estats membres de la Unió Europea: biblioteques accessibles al públic, centres educatius, museus, arxius, organismes de conservació del patrimoni cinematogràfic o sonor i organismes públics de radiodifusió. Es pressuposa que la institució beneficiària haurà registrat l'obra a la base de dades d'Obres Òrfenes de la Unió Europea gestionada per l’EUIPO (Oficina Europea de la Propietat Intel·lectual)."
+}

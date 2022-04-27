@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "ca",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/NKC/1.0/",
+  "prefLabel": "Sense Dret d’Autor Conegut",
+  "description": "Aquesta Declaració indica que l’organització que ha publicat aquest material considera que no existeixen drets d’autor o drets afins que l’afectin, però que no ho pot assegurar de manera concloent. ",
+  "definition": "L’organització que ha posat aquest material a disposició té raons per creure que el material no està protegit per drets d’autor o drets afins, però no ho pot assegurar de manera concloent.\n\nPer a més informació dirigiu-vos si us plau a l'organització que ha posat a disposició el material.\n\nPodeu utilitzar aquest material en funció del que permet la legislació de drets d’autor d'aplicació al vostre cas.",
+  "note": [
+    "Excepte que s'indiqui expressament el contrari, l'organització que ha posat a disposició aquest material no dóna cap garantia sobre el material i no assegura la precisió d’aquesta Declaració de Drets. Sou responsables de l'ús que feu del material.",
+    "Pot ser que necessiteu obtenir altres permisos per a l'ús que voleu fer del material. Per exemple, hi pot haver altres drets com el dret a la intimitat o drets morals que poden limitar les possibilitats d’utilitzar-lo.",
+    "Trobareu més informació sobre el règim de protecció del material per drets d’autor en la web de l’organització que l’ha posat a disposició."
+  ],
+  "scopeNote": "Aquesta Declaració de Drets hauria de ser utilitzada per a materials pels quals el règim de protecció pel dret d'autor no ha estat determinat de manera concloent, però pels quals l'organització que el vol posar a disposició té motius raonables per creure que l'obra subjacent ja no està protegida per drets d'autor o drets afins. Aquesta Declaració de Drets no ha de ser utilitzada per a obres òrfenes (per a les quals s'assumeix que estan protegides pel dret d'autor) o per materials per als quals l'organització que pretén posar-los a disposició no ha realitzat un esforç per determinar el règim de protecció del dret d’autor de l'obra subjacent."
+}

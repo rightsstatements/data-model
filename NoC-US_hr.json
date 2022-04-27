@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "hr",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+  "prefLabel": "Nije zaštićeno autorskim pravom - Sjedinjene Američke Države",
+  "description": "Ova izjava o pravima upućuje na to da je objekt javno dobro prema zakonima Sjedinjenih Američkih Država, ali da autorskopravni status objekta prema zakonima o autorskom pravu drugih zemalja nije utvrđen.",
+  "definition": "Ustanova koja je objekt učinila dostupnim smatra da je objekt javno dobro prema zakonima Sjedinjenih Američkih Država, ali da autorskopravni status objekta prema zakonima o autorskom pravu drugih zemalja nije utvrđen. Objekt možda nije javno dobro prema zakonima drugih zemalja.\n\n Za više informacija obratite se ustanovi koja je objekt učinila dostupnim.",
+  "note": [
+    "Osim ako nije izričito drugačije navedeno, ustanova koja je ovaj objekt učinila dostupnim ne daje ovlaštenja za objekt i ne može jamčiti za točnost ove izjave o pravima. Vi ste odgovorni za vlastito korištenje.",
+    "Možda ćete morati pribaviti druga odobrenja za namjeravano korištenje. Na primjer, druga prava kao što su pravo na publicitet, pravo na zaštitu privatnosti ili moralna prava mogu ograničiti način na koji možete koristiti materijal.",
+    "Dodatne informacije o statusu autorskog prava objekta možete pronaći na mrežnoj stranici ustanove koja je objekt učinila dostupnim."
+  ],
+  "scopeNote": "Ova se izjava o pravima treba koristiti za objekte za koja je ustanova koja namjerava objekt učiniti dostupnim utvrdila da nije zaštićen autorskim pravom prema zakonima Sjedinjenih Američkih Država. Ova se izjava o pravima ne smije koristiti za djela siročad (za koja se pretpostavlja da su zaštićena autorskim pravom) ili za objekte za koje ustanova koja namjerava objekt učiniti dostupnim nije uložila napor da utvrdi status autorskog prava izvornog djela."
+}

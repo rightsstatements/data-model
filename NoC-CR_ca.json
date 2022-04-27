@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "ca",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/NoC-CR/1.0/",
+  "prefLabel": "Sense Dret d’Autor - Limitacions Contractuals",
+  "description": "Aquesta Declaració de Drets indica que el material és de domini públic, però que l’organització que l’ha publicat està contractualment obligada a restringir determinades formes d'explotació per part de terceres persones.",
+  "definition": "Aquest material no està protegit per drets d’autor i/o drets afins.\n\nCom a conseqüència de les condicions d’adquisició o digitalització d’aquest material, l'organització que l’ha posat a disposició està contractualment obligada a limitar-ne l'ús. Les limitacions poden fer referència, entre d’altres, al dret a la intimitat, a la protecció del patrimoni cultural o a acords de digitalització o de donació.\n\nSi us plau dirigiu-vos a l'organització que ha posat a disposició el material per obtenir més informació.",
+  "note": [
+    "Excepte que s'indiqui expressament el contrari, l'organització que ha posat a disposició aquest material no dóna cap garantia sobre el material i no assegura la precisió d’aquesta Declaració de Drets. Sou responsables de l'ús que feu del material.",
+    "Pot ser que necessiteu obtenir altres permisos per a l'ús que voleu fer del material. Per exemple, hi pot haver altres drets com el dret a la intimitat o drets morals que poden limitar les possibilitats d’utilitzar-lo.",
+    "Trobareu més informació sobre el règim de protecció del material per drets d’autor en la web de l’organització que l’ha posat a disposició."
+  ],
+  "scopeNote": "Aquesta Declaració de Drets només pot ser utilitzada per a materials que són de domini públic però per als quals l'organització que pretén posar-los a disposició ha establert acords contractuals que li exigeixen prendre mesures per restringir els usos del material per part de terceres persones. Per tal que aquesta Declaració de Drets sigui concloent, l'organització que pretén posar a disposició el material ha de facilitar un enllaç a una pàgina que detalli les limitacions contractuals que s’apliquen per a l'ús del material."
+}

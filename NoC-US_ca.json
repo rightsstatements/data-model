@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "ca",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+  "prefLabel": "Sense Dret d’Autor - Estats Units",
+  "description": "Aquesta Declaració de Drets indica que el material és de domini públic als Estats Units, però que la determinació del seu règim de protecció per drets d’autor no ha estat feta en altres jurisdiccions.",
+  "definition": "L'organització que ha posat el material a disposició considera que el material és de domini públic als Estats Units, però no ha determinat el seu règim de protecció per drets d’autor en altres jurisdiccions. Aquest material no és de domini Públic d’acord amb les lleis d’altres països.\n\nPer a més informació dirigiu-vos si us plau a l'organització que ha posat a disposició el material.",
+  "note": [
+    "Excepte que s'indiqui el contrari, l'organització que ha posat a disposició aquest material no dóna cap garantia sobre el material i no assegura la precisió d’aquesta Declaració de Drets. Sou responsables de l'ús que feu del material.",
+    "Pot ser que necessiteu obtenir altres permisos per a l'ús que voleu fer del material. Per exemple, hi pot haver altres drets com el dret a la intimitat o drets morals que poden limitar les possibilitats d’utilitzar-lo.",
+    "Trobareu més informació sobre el règim de protecció del material per drets d’autor en la web de l’organització que l’ha posat a disposició."
+  ],
+  "scopeNote": "Aquesta Declaració de Drets ha de ser utilitzada per a materials per als quals l'organització que té la intenció de posar-los a disposició ha determinat que són lliures de dret d'autor d’acord amb les lleis dels Estats Units. Aquesta Declaració de Drets no ha de ser utilitzada per a obres òrfenes (per a les quals s'assumeix que estan protegides per dret d'autor) o per a obres per a les quals l'organització que té la intenció de posar a disposició el material no ha realitzat un esforç per determinar el règim de protecció del dret d'autor de l'obra subjacent."
+}

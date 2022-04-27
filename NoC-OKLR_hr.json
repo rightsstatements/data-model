@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "hr",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/NoC-OKLR/1.0/",
+  "prefLabel": "Nije zaštićeno autorskim pravom – ostala poznata zakonska ograničenja",
+  "description": "Ova izjava o pravima upućuje na to da je izvorno djelo javno dobro, ali da postoje druga poznata zakonska ograničenja, koja se ne odnose na autorsko pravo i/ili srodna prava, a koja trećim stranama ograničavaju korištenje objekta.",
+  "definition": "Korištenje ovog objekta nije ograničeno autorskim pravom i/ili srodnim pravima.\n\n U jednoj ili više jurisdikcija, određeni zakoni, koji se ne odnose na autorsko pravo, nameću ograničenja za korištenje ovog objekta.\n\n Za više informacija obratite se ustanovi koja je objekt učinila dostupnim.",
+  "note": [
+    "Osim ako nije izričito drugačije navedeno, ustanova koja je ovaj objekt učinila dostupnim ne daje ovlaštenja za objekt i ne može jamčiti za točnost ove izjave o pravima. Vi ste odgovorni za vlastito korištenje.",
+    "Možda ćete morati pribaviti druga odobrenja za namjeravano korištenje. Na primjer, druga prava kao što su pravo na publicitet, pravo na zaštitu privatnosti ili moralna prava mogu ograničiti način na koji možete koristiti materijal.",
+    "Dodatne informacije o statusu autorskog prava objekta možete pronaći na mrežnoj stranici ustanove koja je objekt učinila dostupnim."
+  ],
+  "scopeNote": "Ova se izjava o pravima treba koristiti za objekte koji su javno dobro, ali koji se ne mogu slobodno ponovno koristiti zbog drugih poznatih zakonskih ograničenja. Ta ograničenja, poput zaštite kulturne baštine ili tradicionalnih kulturnih izričaja, sprječavaju ustanovu koja namjerava objekt učiniti dostupnim da omogući slobodno ponovno korištenje objekta. Kako bi ova izjava o pravima bila nedvojbena, ustanova koja namjerava objekt učiniti dostupnim trebala bi objaviti poveznicu na stranicu na kojoj se nalaze detalji koji se odnose na zakonska ograničenja koja ograničavaju ponovno korištenje objekta."
+}

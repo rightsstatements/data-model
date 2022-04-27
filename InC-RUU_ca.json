@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "ca",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/InC-RUU/1.0/",
+  "prefLabel": "Protegit per Drets d’Autor - Titular(s) de Drets No Localitzable(s) o Identificable(s)",
+  "description": "Aquesta Declaració de Drets indica que el material està protegit per drets d’autor, però que el(s) titular(s) dels drets no es pot(den) identificar o localitzar.",
+  "definition": "Aquest material està protegit per drets d’autor i/o drets afins. No obstant, en relació a aquest material cap titular(s) de dret(s) ha estat identificat, o bé un o més titular(s) de drets ha(n) estat identificat(s) però no ha(n) pogut ser localitzat(s).\n\nPodeu utilitzar aquest material en funció del que permet la legislació de drets d’autor d'aplicació al vostre cas.",
+  "note": [
+    "Excepte que s'indiqui el contrari, l'organització que ha posat a disposició aquest material no dóna cap garantia sobre el material i no assegura la precisió d’aquesta Declaració de Drets. Sou responsables de l'ús que feu del material.",
+    "Pot ser que necessiteu obtenir altres permisos per a l'ús que voleu fer del material. Per exemple, hi pot haver altres drets com el dret a la intimitat o drets morals que poden limitar les possibilitats d’utilitzar-lo.",
+    "Trobareu més informació sobre el règim de protecció del material per drets d’autor en la web de l’organització que l’ha posat a disposició.",
+    "Si disposeu de qualsevol informació que podria contribuir a identificar o localitzar el(s) titular(s) de drets, si us plau informeu-ne l’organització que ha posat a disposició el material."
+  ],
+  "scopeNote": "Aquesta Declaració de Drets està pensada per a ser utilitzada en material identificat com a material protegit pel dret d'autor, el(s) titular(s) del qual no ha(n) estat identificat(s) o localitzat(s) després d’investigar-ho de forma diligent. Aquesta Declaració de Drets només ha de ser utilitzada si l’organització que pretén posar a disposició el material està suficientment convençuda de que l'obra subjacent està protegida pel dret d'autor. Aquesta Declaració de drets no està pensada per a ser utilitzada per organitzacions amb seu a la Unió Europea que han identificat les obres com a obres òrfenes d’acord amb la Directiva d'Obres Òrfenes de la UE (han d’utilitzar preferentment la declaració InC-OW-EU)."
+}
