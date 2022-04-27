@@ -1,7 +1,7 @@
 rightsstatements.org data model
 ===
 
-[![Build Status](https://travis-ci.org/rightsstatements/data-model.svg)](https://travis-ci.org/rightsstatements/data-model)
+![Build Status](https://github.com/rightsstatements/data-model/actions/workflows/ci.yml/badge.svg)
 
 This repository contains the implementation of interoperable rights
 statements developed for [RightsStatements.org](http://rightsstatements.org/).

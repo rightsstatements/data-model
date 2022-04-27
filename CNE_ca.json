@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "ca",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/CNE/1.0/",
+  "prefLabel": "Dret d’Autor Sense Avaluar",
+  "description": "Aquesta Declaració de Drets indica que l’organització que ha publicat el material no n’ha avaluat els drets d’autor i drets afins.",
+  "definition": "Els drets d’autor i drets afins d’aquest material no han estat avaluats.\nSi us plau dirigiu-vos a l'organització que ha fet el material disponible per a més informació.\n\nPodeu utilitzar aquest material en funció del que permet la legislació de drets d’autor d'aplicació al vostre cas.",
+  "note": [
+    "Excepte que s'indiqui expressament el contrari, l'organització que ha posat a disposició aquest material no dóna cap garantia sobre el material i no assegura la precisió d’aquesta Declaració de Drets. Sou responsables de l'ús que feu del material.",
+    "Pot ser que necessiteu obtenir altres permisos per a l'ús que voleu fer del material. Per exemple, hi pot haver altres drets com el dret a la intimitat o drets morals que poden limitar les possibilitats d’utilitzar-lo.",
+    "Trobareu més informació sobre el règim de protecció del material per drets d’autor en la web de l’organització que l’ha posat a disposició."
+  ],
+  "scopeNote": "Aquesta Declaració de Drets hauria de ser utilitzada per a materials per als quals el règim de protecció pel dret d'autor és desconegut i per als quals l'organització que pretén posar a disposició el material no ha realitzat un esforç per determinar el règim de protecció pel dret d'autor de l'obra subjacent."
+}

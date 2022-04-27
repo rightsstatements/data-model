@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "hr",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/InC-RUU/1.0/",
+  "prefLabel": "Zaštićeno autorskim pravom – nositelja prava nije moguće pronaći ili identificirati",
+  "description": "Ova izjava o pravima upućuje na to da je za objekt označen ovom izjavom utvrđeno da je zaštićen autorskim pravom, ali se njegove nositelje prava ne može identificirati ili ih se ne može pronaći.",
+  "definition": "Ovaj je objekt zaštićen autorskim pravom i/ili srodnim pravima. Međutim, za ovaj objekt ili (a) nijedan nositelj prava nije identificiran ili (b) jedan ili više nositelja prava je identificiran, ali nijedan nije pronađen.\n\n Ovaj objekt možete slobodno koristiti na način dopušten zakonodavstvom u području autorskog i srodnih prava koje se primjenjuje na vaše korištenje.",
+  "note": [
+    "Osim ako nije izričito drugačije navedeno, ustanova koja je ovaj objekt učinila dostupnim ne daje ovlaštenja za objekt i ne može jamčiti za točnost ove izjave o pravima. Vi ste odgovorni za vlastito korištenje.",
+    "Možda ćete morati pribaviti druga odobrenja za namjeravano korištenje. Na primjer, druga prava kao što su pravo na publicitet, pravo na zaštitu privatnosti ili moralna prava mogu ograničiti način na koji možete koristiti materijal.",
+    "Dodatne informacije o statusu autorskog prava objekta možete pronaći na mrežnoj stranici ustanove koja je objekt učinila dostupnim.",
+    "Ako su vam poznate informacije koje mogu pridonijeti identificiranju ili pronalasku nositelja prava, molimo obavijestite ustanovu koja je objekt učinila dostupnim."
+  ],
+  "scopeNote": "Ova izjava o pravima namijenjena je za upotrebu uz objekte za koje je utvrđeno da su zaštićeni autorskim pravom, ali za koje nijedan nositelj prava nije identificiran ili pronađen nakon razumne potrage. Ovu izjavu o pravima treba koristiti samo ako je ustanova koja namjerava objekt učiniti dostupnim u velikoj mjeri sigurna da je izvorno djelo zaštićeno autorskim pravom. Ova izjava o pravima nije namijenjena za upotrebu u ustanovama sa sjedištem u Europskoj uniji koje su djela identificirale kao djela siročad u skladu s Direktivom o djelima siročadi (one moraju koristiti izjavu InC-OW-EU)."
+}

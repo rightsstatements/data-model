@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "ca",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/NoC-OKLR/1.0/",
+  "prefLabel": "Sense Dret d’Autor - Altres Limitacions Legals Conegudes",
+  "description": "Aquesta Declaració de Drets indica que el material és de domini públic però que hi ha limitacions legals conegudes, establertes per llei, diferents al dret d’autor, que no permeten autoritzar l'ús per part de terceres persones.",
+  "definition": "Aquest material està protegit per drets d’autor i/o drets afins.\n\nPodeu utilitzar aquest material en funció del que permet la legislació de drets d’autor del seu país.\n\nPer a més informació dirigiu-vos si us plau a l'organització que ha posat a disposició el material.",
+  "note": [
+    "Excepte que s'indiqui expressament el contrari, l'organització que ha posat a disposició aquest material no dóna cap garantia sobre el material i no assegura la precisió d’aquesta Declaració de Drets. Sou responsables de l'ús que feu del material.",
+    "Pot ser que necessiteu obtenir altres permisos per a l'ús que voleu fer del material. Per exemple, hi pot haver altres drets com el dret a la intimitat o drets morals que poden limitar les possibilitats d’utilitzar-lo.",
+    "Trobareu més informació sobre el règim de protecció del material per drets d’autor en la web de l’organització que l’ha posat a disposició."
+  ],
+  "scopeNote": "Aquesta Declaració de Drets ha de ser utilitzada en materials que són de domini públic però que no poden ser lliurement re-utilitzats com a conseqüència de limitacions legals conegudes que impedeixen a la institució permetre la lliure reutilització del material, com ara la preservació del patrimoni cultural o d’expressions culturals tradicionals. Per tal que aquesta Declaració de Drets sigui concloent, la institució que pretén posar a disposició el material ha de proporcionar un enllaç a una pàgina que detalli les limitacions legals que limiten la reutilització del material."
+}

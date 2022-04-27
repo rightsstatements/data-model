@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "ca",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/",
+  "prefLabel": "Sense Dret d’Autor - Només Ús No Comercial",
+  "description": "Aquesta Declaració de Drets indica que l’obra subjacent és de domini públic, però l’organització que ha publicat el material està obligada contractualment a autoritzar només usos no comercials per part de terceres persones.",
+  "definition": "Aquesta obra ha estat digitalitzada per via d’un acord público-privat. Com a part d’aquest acord, les parts han acordat limitar els usos d’aquesta representació digital de l’obra a terceres persones.\n\nPots, sense autorització expressa, copiar, modificar, distribuir, presentar i representar el material per a usos no comercials. Per altres usos, si us plau revisa les condicions establertes en el web de l’organització que ha posat el material a disposició.",
+  "note": [
+    "Excepte que s'indiqui el contrari, l'organització que ha posat a disposició aquest material no dóna cap garantia sobre el material i no garanteix la precisió d’aquesta Declaració de Drets. Ets responsable de l'ús que facis del material.",
+    "Pot ser que necessitis altres autoritzacions per a l'ús que vols fer del material. Per exemple, hi pot haver altres drets com el dret a la intimitat o drets morals que poden limitar les possibilitats d’utilitzar el material.",
+    "Trobaràs més informació sobre l’estat de protecció per drets d’autor del material en la web de l’organització que l’ha posat a disposició."
+  ],
+  "scopeNote": "Aquesta Declaració de Drets només pot ser utilitzada per a obres que són de domini públic i han estat digitalitzades en el marc d’un acord público-privat segons el qual les parts han acordat limitar els usos comercials de terceres parts d'aquesta representació digital de l'obra. Ha estat desenvolupada específicament per permetre la inclusió d'obres que han estat digitalitzades com a part dels convenis entre biblioteques europees i Google, però en teoria pot ser aplicada a materials que han estat digitalitzats en el marc d’acords público-privats similars."
+}

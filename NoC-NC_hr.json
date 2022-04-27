@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "hr",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/",
+  "prefLabel": "Nije zaštićeno autorskim pravom – samo nekomercijalno korištenje",
+  "description": "Ova izjava o pravima upućuje na to da je izvorno djelo javno dobro, ali je ustanova koja je objekt učinila dostupnim ugovorno obvezana trećim stranama dopustiti samo nekomercijalno korištenje.",
+  "definition": "Ovo je djelo digitalizirano u javno-privatnom partnerstvu. Kao dio ovog partnerstva, partneri su dogovorili da će trećim stranama ograničiti komercijalno korištenje ove digitalne inačice djela.\n\n Bez odobrenja možete kopirati, mijenjati, prikazivati, izvoditi ili distribuirati objekt u nekomercijalne svrhe. Za bilo koje druge dopuštene svrhe, molimo pregledajte uvjete korištenja ustanove koja je objekt učinila dostupnim.",
+  "note": [
+    "Osim ako nije izričito drugačije navedeno, ustanova koja je ovaj objekt učinila dostupnim ne daje ovlaštenja za objekt i ne može jamčiti za točnost ove izjave o pravima. Vi ste odgovorni za vlastito korištenje.",
+    "Možda ćete morati pribaviti druga odobrenja za namjeravano korištenje. Na primjer, druga prava kao što su pravo na publicitet, pravo na zaštitu privatnosti ili moralna prava mogu ograničiti način na koji možete koristiti materijal.",
+    "Dodatne informacije o statusu autorskog prava objekta možete pronaći na mrežnoj stranici ustanove koja je objekt učinila dostupnim."
+  ],
+  "scopeNote": "Ova se izjava o pravima može koristiti samo za djela koja su javno dobro i koja su digitalizirana u javno-privatnom partnerstvu, u sklopu kojega su se partneri složili da će trećim stranama ograničiti komercijalno korištenje ove digitalne inačice djela. Posebno je razvijena kako bi se omogućilo uključivanje djela koja su digitalizirana u okviru partnerstva europskih knjižnica i Googlea, ali se u teoriji može primijeniti na objekte koji su digitalizirani u sličnim javno-privatnim partnerstvima."
+}

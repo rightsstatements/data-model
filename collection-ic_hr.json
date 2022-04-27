@@ -1,0 +1,9 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "hr",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/collection-ic/1.0/",
+  "prefLabel": "Izjave za djela koja su zaštićena autorskim pravom"
+}
