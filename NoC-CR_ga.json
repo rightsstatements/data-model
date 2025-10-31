@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "ga",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/NoC-CR/1.0/",
+  "prefLabel": "Cóipcheart ar bith - Srianta Conarthacha",
+  "description": "Tugann an Ráiteas ar Chearta seo le fios go bhfuil an Bunsaothar san Fhearann Poiblí, ach go gceanglaítear go conarthach ar an eagraíocht a d’fhoilsigh an Mhír srian a chur le cineálacha áirithe úsáide ag tríú páirtithe.",
+  "definition": "Níl úsáid na Míre seo srianta ag cóipcheart agus/nó ag cearta gaolmhara.\n\n Mar chuid d’fháil nó de dhigitiú na Míre seo, ceanglaítear go conarthach ar an eagraíocht a chuir an Mhír ar fáil úsáid na Míre seo a theorannú. D’fhéadfadh go n-áireofaí i measc na dteorainneacha saincheisteanna príobháideachais, cosaintí cultúrtha, comhaontuithe digitithe nó comhaontuithe deontóra, ach níl siad teoranta don mhéid sin amháin.\n\n Féach an eagraíocht a chuir an Mhír ar fáil chun tuilleadh eolais a fháil. ",
+  "note": [
+    "Mura luaitear a mhalairt go sainráite, ní thugann an eagraíocht a chuir an Mhír seo ar fáil aon ráthaíocht faoin Mír agus ní féidir léi cruinneas an Ráitis ar Chearta seo a ráthú. Tá tú freagrach as d’úsáid féin.",
+    "D’fhéadfadh go mbeadh ort ceadanna eile a fháil don úsáid atá beartaithe agat. Mar shampla, d’fhéadfadh cearta eile amhail cearta pearsantachta, príobháideachais nó morálta srian a chur leis an gcaoi a bhféadfá an t-ábhar a úsáid.",
+    "Féadfaidh tú faisnéis bhreise a aimsiú faoi stádas cóipchirt na Míre ar shuíomh gréasáin na heagraíochta a chuir an Mhír ar fáil."
+  ],
+  "scopeNote": "Ní féidir an Ráiteas ar Chearta seo a úsáid ach amháin le haghaidh Míreanna atá san Fhearann Poiblí ach a bhfuil comhaontú conarthach déanta ina leith ag an eagraíocht a bhfuil sé de rún aici an Mhír a chur ar fáil lena gceanglaítear uirthi bearta a dhéanamh chun srian a chur ar úsáidí tríú páirtí na Míre. Ionas go mbeidh an Ráiteas ar Chearta seo dochloíte, ba cheart don eagraíocht a bhfuil sé de rún aici an Mhír a chur ar fáil nasc a chur ar fáil chuig leathanach ina sonraítear na srianta conarthacha a bhaineann le húsáid na Míre."
+}
