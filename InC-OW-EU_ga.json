@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "ga",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/InC-OW-EU/1.0/",
+  "prefLabel": "Faoi Chóipcheart - Saothar Dílleachtach AE",
+  "description": "Tugann an Ráiteas ar Chearta seo le fios gur aithníodh an Mhír atá lipéadaithe leis an Ráiteas ar Chearta seo mar ‘Shaothar Dílleachtach’ faoi théarmaí Threoir AE maidir le Saothair Dhílleachtacha.",
+  "definition": "Aithníodh an Mhír seo mar Shaothar Dílleachtach sa tír inar foilsíodh ar dtús í agus i gcomhréir le Treoir 2012/28/AE ó Pharlaimint na hEorpa agus ón gComhairle an 25 Deireadh Fómhair 2012 maidir le húsáidí ceadaithe áirithe de Shaothair Dhílleachtacha.\n\n Maidir leis an Mír seo, (a) níor sainaithníodh aon sealbhóir/sealbhóirí ceart nó (b) sainaithníodh sealbhóir/sealbhóirí ceart amháin nó níos mó ach níor aimsíodh aon cheann acu cé go ndearnadh cuardach dícheallach don sealbhóir/do na sealbhóirí ceart. Tá torthaí an chuardaigh dhícheallaigh ar fáil i mBunachar Sonraí Saothar Dílleachtach AE.\n\n Tá cead agat an Mhír seo a úsáid ar bhealach ar bith a cheadaítear leis an reachtaíocht chóipchirt agus ceart gaolmhar a bhfuil feidhm aici maidir le d’úsáid. ",
+  "note": [
+    "Mura luaitear a mhalairt go sainráite, ní thugann an eagraíocht a chuir an Mhír seo ar fáil aon ráthaíocht faoin Mír agus ní féidir léi cruinneas an Ráitis ar Chearta seo a ráthú. Tá tú freagrach as d’úsáid féin.",
+    "D’fhéadfadh go mbeadh ort ceadanna eile a fháil don úsáid atá beartaithe agat. Mar shampla, d’fhéadfadh cearta eile amhail cearta pearsantachta, príobháideachais nó morálta srian a chur leis an gcaoi a bhféadfá an t-ábhar a úsáid.",
+    "Féadfaidh tú faisnéis bhreise a aimsiú faoi stádas cóipchirt na Míre ar shuíomh gréasáin na heagraíochta a chuir an Mhír ar fáil.",
+    "Má tá aon fhaisnéis agat a d’fhéadfadh cabhrú chun an sealbhóir/na sealbhóirí ceart a shainaithint nó a aimsiú, cuir fógra chuig an eagraíocht a chuir an Mhír ar fáil."
+  ],
+  "scopeNote": "Tá an Ráiteas ar Chearta seo beartaithe le húsáid le Míreanna ar aithníodh a mBunsaothar mar Shaothar Dílleachtach i gcomhréir le Treoir 2012/28/AE ó Pharlaimint na hEorpa agus ón gComhairle an 25 Deireadh Fómhair 2012 maidir le húsáidí ceadaithe áirithe de Shaothair Dhílleachtacha. Ní féidir é a chur i bhfeidhm ach amháin i leith Míreanna a bhaintear ó Shaothair a chumhdaítear leis an Treoir: Saothair arna bhfoilsiú i bhfoirm leabhar, irisí, nuachtán, irisleabhar nó scríbhinní eile chomh maith le Saothair chineamatagrafacha nó chlosamhairc agus fónagraim (tabhair faoi deara: ní áirítear leis seo grianghrafadóireacht agus na hamharc-ealaíona). Ní féidir ach amháin eagraíochtaí ar tairbhithe de chuid na Treorach iad é a chur i bhfeidhm: leabharlanna, forais oideachais agus músaeim atá inrochtana don phobal, cartlanna, institiúidí oidhreachta scannánaíochta nó closinstitiúidí oidhreachta agus eagraíochtaí craolacháin seirbhíse poiblí, atá bunaithe i gceann de bhallstáit AE. Beifear ag coinne leis freisin gur chláraigh an tairbhí an Saothar i mBunachar Sonraí Saothar Dílleachtach AE arna choinneáil ag EUIPO."
+}

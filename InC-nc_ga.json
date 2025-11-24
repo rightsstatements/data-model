@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "ga",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/",
+  "prefLabel": "Faoi Chóipcheart - Úsáid Neamhthráchtála Ceadaithe",
+  "description": "Tugann an Ráiteas ar Chearta seo le fios go bhfuil an Mhír atá lipéadaithe leis an Ráiteas ar Chearta seo faoi chóipcheart ach go gceadaítear úsáid neamhthráchtála gan gá cead breise a fháil.",
+  "definition": "Tá an Mhír seo faoi chosaint ag cóipcheart agus/nó ag cearta gaolmhara.\n\n Tá cead agat an Mhír seo a úsáid ar bhealach ar bith a cheadaítear leis an reachtaíocht chóipchirt agus ceart gaolmhar a bhfuil feidhm aici le d’úsáid. Ina theannta sin, níl aon chead de dhíth ón sealbhóir/na sealbhóirí ceart le haghaidh úsáidí neamhthráchtála.\n\n Le haghaidh úsáidí eile is gá duit cead a fháil ón sealbhóir/na sealbhóirí ceart.",
+  "note": [
+    "Mura luaitear a mhalairt go sainráite, ní thugann an eagraíocht a chuir an Mhír seo ar fáil aon ráthaíocht faoin Mír agus ní féidir léi cruinneas an Ráitis ar Chearta seo a ráthú. Tá tú freagrach as d’úsáid féin.",
+    "D’fhéadfadh go mbeadh ort ceadanna eile a fháil don úsáid atá beartaithe agat. Mar shampla, d’fhéadfadh cearta eile amhail cearta pearsantachta, príobháideachais nó morálta srian a chur leis an gcaoi a bhféadfá an t-ábhar a úsáid.",
+    "Féadfaidh tú faisnéis bhreise a aimsiú faoi stádas cóipchirt na Míre ar shuíomh gréasáin na heagraíochta a chuir an Mhír ar fáil."
+  ],
+  "scopeNote": "Ní féidir an Ráiteas ar Chearta seo a úsáid ach amháin le haghaidh Míreanna faoi chóipcheart arb í an eagraíocht a chuireann an Mhír ar fáil a sealbhóir ceart nó i gcás gur údaraigh an sealbhóir/na sealbhóirí ceart an eagraíocht sin go sainráite chun ligean do thríú páirtithe a chuid/a gcuid Saothair/Saothar a úsáid chun críoch neamhthráchtála gan cead a fháil ar dtús."
+}
