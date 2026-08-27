@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "sv",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/",
+  "prefLabel": "Ingen upphovsrätt – endast för icke-kommersiell användning",
+  "description": "Denna upphovsrättsbeskrivningar visar på att det bakomliggande verket som objektet härrör ifrån inte är skyddat av upphovsrätt, men att organisationen som har tillgängliggjort objektet av avtalsmässiga skäl bara kan tillåta icke-kommersiell användning av tredje part.",
+  "definition": "Detta verk har digitaliserats genom offentlig-privat samverkan. Inom samverkan har parterna kommit överens om att begränsa tredje parts kommersiella användning av den här digitala representationen av verket.\n\nDu kan, utan att begära tillstånd, kopiera, modifiera, distribuera, visa eller framföra objektet för icke-kommersiella ändamål. För andra tillåtna sätt att använda objektet på, läs villkoren hos organisationen som har tillgängliggjort objektet.",
+  "note": [
+    "Om inte något annat uttryckligen anges så kan organisationen som har tillgängliggjort objektet inte lämna några garantier rörande objektet eller garantera riktigheten av denna rättighetsmärkning. Du ansvarar för din egen användning av materialet.",
+    "Du kan behöva hämta in andra tillstånd och beakta andra regler för din planerade användning. Till exempel kan det finnas regler kring tryckfrihet och yttrandefrihet, integritetsskyddslagstiftning, ideella rättigheter och användning av namn och bild i reklam som begränsar hur du kan använda materialet.",
+    "Du kan hitta ytterligare information om det upphovsrättsliga skyddet av detta objekt på hemsidan som tillhör den organisation som tillgängliggjort objektet."
+  ],
+  "scopeNote": "Denna upphovsrättsbeskrivningar kan endast användas för verk som inte skyddas av upphovsrätt och som har digitaliserats inom offentlig-privat samverkan där parterna har kommit överens om att begränsa tredje parts kommersiella användning av den här digitala representationen av verket. Upphovsrättsbeskrivningar har utvecklats särskilt för att kunna omfatta verk som har digitaliserats som en del av de samarbeten som skett mellan europeiska bibliotek och Google, men kan teoretiskt sett tillämpas på objekt som har blivit digitaliserade i liknande offentlig-privat samverkan."
+}

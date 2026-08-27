@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "sv",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/NKC/1.0/",
+  "prefLabel": "Ingen känd upphovsrätt",
+  "description": "Denna upphovsrättsbeskrivningar visar på att organisationen som har tillgängliggjort objektet antar att objektet inte skyddas av upphovsrätt eller närstående rättigheter, men att en säker bedömning inte kunnat göras.",
+  "definition": "Organisationen som har tillgängliggjort objektet har rimlig anledning att tro att det inte skyddas av upphovsrätt eller närstående rättigheter, men en säker bedömning har inte kunnat göras.\n\nVänligen ta kontakt med organisationen som tillgängliggjort objektet för mer information.\n\nDu får använda objektet på alla sätt som är tillåtna enligt den upphovsrättsliga lagstiftning som är tillämplig i ditt fall.",
+  "note": [
+    "Om inte något annat uttryckligen anges så kan organisationen som har tillgängliggjort objektet inte lämna några garantier rörande objektet eller garantera riktigheten av denna rättighetsbeskrivning. Du ansvarar för din egen användning av materialet.",
+    "Du kan behöva hämta in andra tillstånd och beakta andra regler för din planerade användning. Till exempel kan det finnas regler kring tryckfrihet och yttrandefrihet, integritetsskyddslagstiftning, ideella rättigheter och användning av namn och bild i reklam som begränsar hur du kan använda materialet.",
+    "Du kan hitta ytterligare information om det upphovsrättsliga skyddet av detta objekt på hemsidan som tillhör den organisation som tillgängliggjort objektet."
+  ],
+  "scopeNote": "Denna upphovsrättsbeskrivningar bör användas för objekt för vilka den upphovsrättsliga statusen inte har blivit definitivt avgjord, men för vilket organisationen som avser att tillgängliggöra objektet har rimlig anledning att tro att det bakomliggande verket inte längre skyddas av upphovsrätt eller närstående rätt. Denna upphovsrättsbeskrivningar bör inte användas för herrelösa verk (som förutsätts skyddas av upphovsrätt) eller för objekt där organisationen som avser att tillgängliggöra objektet inte har försökt fastställa det bakomliggande verkets upphovsrättsliga status."
+}

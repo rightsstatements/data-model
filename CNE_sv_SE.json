@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "sv",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatement.org/vocab/CNE/1.0/",
+  "prefLabel": "Upphovsrätt  ej utvärderad",
+  "description": "Denna upphovsrättsbeskrivningar anger att organisationen som har publicerat artikeln inte har utvärderat status för upphovsrätten och närstående rättigheter.",
+  "definition": "Status för upphovsrätt och närstående rättigheter för det här verket  har inte utvärderat.\n\nVänligen ta kontakt med organisationen som har tillgängliggjort verket för mer information.\n\nDu får använda verket på alla sätt som är tillåtna enligt den upphovsrättsliga lagstiftning som är tillämplig i ditt fall.",
+  "note": [
+    "Om inte något annat uttryckligen anges så kan organisationen som har tillgängliggjort verket  inte lämna några garantier rörande objektet eller garantera riktigheten av denna rättighet förklaring. Du ansvarar för din egen användning av materialet.",
+    "Du kan behöva få andra tillstånd för din planerade användning. Till exempel kan det finnas regler kring göra reklam eller ideella rättigheter som kan begränsa hur  kan du använda materialet.",
+    "Du kan hitta ytterligare information om det upphovsrättsliga status av verket  på hemsidans organisationen som tillhört och tillgängliggjort verket."
+  ],
+  "scopeNote": "Denna upphovsrättsbeskrivningar bör användas för objekt där den upphovsrättsliga statusen är okänd, och för vilket organisationen som avser att tillgängliggöra objektet inte har försökt fastställa upphovsrättslig status på det bakomliggande verket."
+}

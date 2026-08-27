@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "ga",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/",
+  "prefLabel": "Cóipcheart ar bith - Úsáid Neamhthráchtála Amháin",
+  "description": "Tugann an Ráiteas ar Chearta seo le fios go bhfuil an Bunsaothar san Fhearann Poiblí, ach go gceanglaítear go conarthach ar an eagraíocht a d’fhoilsigh an Mhír gan ach úsáid neamhthráchtála ag tríú páirtithe a cheadú.",
+  "definition": "Rinneadh digitiú ar an Saothar seo i gcomhpháirtíocht phoiblí agus phríobháideach. Mar chuid den chomhpháirtíocht sin, chomhaontaigh na comhpháirtithe teorainn a chur le húsáidí tráchtála an léirithe dhigitigh seo ar an Saothar ag tríú páirtithe.\n\n Is féidir leat, gan chead, an Mhír a chóipeáil, a athrú, a dháileadh, a léiriú, nó a chur ar stáitse, le haghaidh úsáidí neamhthráchtála. Le haghaidh aon úsáid eile atá ceadaithe, déan athbhreithniú ar théarmaí agus coinníollacha na heagraíochta a chuir an Mhír ar fáil.",
+  "note": [
+    "Mura luaitear a mhalairt go sainráite, ní thugann an eagraíocht a chuir an Mhír seo ar fáil aon ráthaíocht faoin Mír agus ní féidir léi cruinneas an Ráitis ar Chearta seo a ráthú. Tá tú freagrach as d’úsáid féin.",
+    "D’fhéadfadh go mbeadh ort ceadanna eile a fháil don úsáid atá beartaithe agat. Mar shampla, d’fhéadfadh cearta eile amhail cearta pearsantachta, príobháideachais, nó morálta teorainn a chur leis an gcaoi a bhféadfá an t-ábhar a úsáid.",
+    "Féadfaidh tú faisnéis bhreise a aimsiú faoi stádas cóipchirt na Míre ar shuíomh gréasáin na heagraíochta a chuir an Mhír ar fáil."
+  ],
+  "scopeNote": "Ní féidir an Ráiteas ar Chearta seo a úsáid ach amháin le haghaidh Saothar atá san Fhearann Poiblí agus arna ndigitiú i gcomhpháirtíocht phoiblí agus phríobháideach inar aontaigh na comhpháirtithe teorainn a chur le húsáidí tráchtála ￼an léirithe dhigitigh seo ar an Saothar ag tríú páirtithe. Forbraíodh é go sonrach chun gur féidir Saothair arna ndigitiú mar chuid de na comhpháirtíochtaí idir Leabharlanna Eorpacha agus Google a chur san áireamh, ach is féidir é a chur i bhfeidhm go teoiriciúil i leith Míreanna arna ndigitiú i gcomhpháirtíochtaí poiblí agus príobháideacha comhchosúla. "
+}
