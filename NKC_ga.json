@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "ga",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/NKC/1.0/",
+  "prefLabel": "Cóipcheart ar bith ar eolas",
+  "description": "Tugann an Ráiteas ar Chearta seo le fios go gcreideann an eagraíocht a d’fhoilsigh an Mhír nach bhfuil eolas ar aon chóipcheart nó cearta gaolmhara arb ann dóibh i leith na Míre, ach nárbh fhéidir cinneadh dochloíte a dhéanamh.",
+  "definition": "Creideann an eagraíocht a chuir an Mhír ar fáil go réasúnta nach bhfuil an Mhír srianta ag cóipcheart nó ag cearta gaolmhara, ach níorbh fhéidir cinneadh dochloíte a dhéanamh.\n\n Féach an eagraíocht a chuir an Mhír ar fáil chun tuilleadh eolais a fháil.\n\n Tá cead agat an Mhír seo a úsáid ar bhealach ar bith a cheadaítear leis an reachtaíocht chóipchirt agus ceart gaolmhar a bhfuil feidhm aici le d’úsáid. ",
+  "note": [
+    "Mura luaitear a mhalairt go sainráite, ní thugann an eagraíocht a chuir an Mhír seo ar fáil aon ráthaíocht faoin Mír agus ní féidir léi cruinneas an Ráitis ar Chearta seo a ráthú. Tá tú freagrach as d’úsáid féin.",
+    "D’fhéadfadh go mbeadh ort ceadanna eile a fháil don úsáid atá beartaithe agat. Mar shampla, d’fhéadfadh cearta eile amhail cearta pearsantachta, príobháideachais nó morálta srian a chur leis an gcaoi a bhféadfá an t-ábhar a úsáid.",
+    "Féadfaidh tú faisnéis bhreise a aimsiú faoi stádas cóipchirt na Míre ar shuíomh gréasáin na heagraíochta a chuir an Mhír ar fáil."
+  ],
+  "scopeNote": "Ba cheart an Ráiteas ar Chearta seo a úsáid le haghaidh Míreanna nár cinneadh a stádas cóipchirt go cinntitheach, ach a bhfuil cúis réasúnach ag an eagraíocht a bhfuil sé de rún aici an Mhír a chur ar fáil a chreidiúint ina leith nach gcumhdaítear an Bunsaothar faoi chóipcheart nó faoi chearta gaolmhara a thuilleadh. Níor cheart an Ráiteas ar Chearta seo a úsáid le haghaidh Saothair Dhílleachtacha (a ghlactar leis a bheith faoi chóipcheart) nó le haghaidh Saothar nach bhfuil iarracht déanta ag an eagraíocht a bhfuil sé de rún aici an Mhír a chur ar fáil stádas cóipchirt an Bhunsaothair a fháil amach."
+}
