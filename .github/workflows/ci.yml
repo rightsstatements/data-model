@@ -10,7 +10,7 @@ jobs:
       - name: Setup Node.js runtime
         uses: actions/setup-node@v1
         with:
-          node-version: '12.x'
+          node-version: '24.x'
       - name: Install raptor2-utils
         run: sudo apt-get install raptor2-utils
       - name: Install jsonld-cli
