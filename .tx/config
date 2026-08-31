@@ -1,77 +1,138 @@
 [main]
 host = https://www.transifex.com
 
-[rightsstatementsorg.cne_enjson]
-file_filter = CNE_<lang>.json
-source_lang = en
-type = KEYVALUEJSON
+[o:rightsstatements-org:p:rightsstatementsorg:r:cne_enjson]
+file_filter            = CNE_<lang>.json
+source_file            = CNE_en.json
+source_lang            = en
+type                   = KEYVALUEJSON
+minimum_perc           = 100
+replace_edited_strings = false
+keep_translations      = false
 
-[rightsstatementsorg.collection-ic_enjson]
-file_filter = collection-ic_<lang>.json
-source_lang = en
-type = KEYVALUEJSON
+[o:rightsstatements-org:p:rightsstatementsorg:r:collection-ic_enjson]
+file_filter            = collection-ic_<lang>.json
+source_file            = collection-ic_en.json
+source_lang            = en
+type                   = KEYVALUEJSON
+minimum_perc           = 100
+replace_edited_strings = false
+keep_translations      = false
 
-[rightsstatementsorg.collection-nc_enjson]
-file_filter = collection-nc_<lang>.json
-source_lang = en
-type = KEYVALUEJSON
+[o:rightsstatements-org:p:rightsstatementsorg:r:collection-nc_enjson]
+file_filter            = collection-nc_<lang>.json
+source_file            = collection-nc_en.json
+source_lang            = en
+type                   = KEYVALUEJSON
+minimum_perc           = 100
+replace_edited_strings = false
+keep_translations      = false
 
-[rightsstatementsorg.collection-other_enjson]
-file_filter = collection-other_<lang>.json
-source_lang = en
-type = KEYVALUEJSON
+[o:rightsstatements-org:p:rightsstatementsorg:r:collection-other_enjson]
+file_filter            = collection-other_<lang>.json
+source_file            = collection-other_en.json
+source_lang            = en
+type                   = KEYVALUEJSON
+minimum_perc           = 100
+replace_edited_strings = false
+keep_translations      = false
 
-[rightsstatementsorg.inc-edu_enjson]
-file_filter = InC-EDU_<lang>.json
-source_lang = en
-type = KEYVALUEJSON
+[o:rightsstatements-org:p:rightsstatementsorg:r:inc-edu_enjson]
+file_filter            = InC-EDU_<lang>.json
+source_file            = InC-EDU_en.json
+source_lang            = en
+type                   = KEYVALUEJSON
+minimum_perc           = 100
+replace_edited_strings = false
+keep_translations      = false
 
-[rightsstatementsorg.inc_enjson]
-file_filter = InC_<lang>.json
-source_lang = en
-type = KEYVALUEJSON
+[o:rightsstatements-org:p:rightsstatementsorg:r:inc-nc_enjson]
+file_filter            = InC-NC_<lang>.json
+source_file            = InC-NC_en.json
+source_lang            = en
+type                   = KEYVALUEJSON
+minimum_perc           = 100
+replace_edited_strings = false
+keep_translations      = false
 
-[rightsstatementsorg.inc-nc_enjson]
-file_filter = InC-NC_<lang>.json
-source_lang = en
-type = KEYVALUEJSON
+[o:rightsstatements-org:p:rightsstatementsorg:r:inc-ow-eu_enjson]
+file_filter            = InC-OW-EU_<lang>.json
+source_file            = InC-OW-EU_en.json
+source_lang            = en
+type                   = KEYVALUEJSON
+minimum_perc           = 100
+replace_edited_strings = false
+keep_translations      = false
 
-[rightsstatementsorg.inc-ow-eu_enjson]
-file_filter = InC-OW-EU_<lang>.json
-source_lang = en
-type = KEYVALUEJSON
+[o:rightsstatements-org:p:rightsstatementsorg:r:inc-ruu_enjson]
+file_filter            = InC-RUU_<lang>.json
+source_file            = InC-RUU_en.json
+source_lang            = en
+type                   = KEYVALUEJSON
+minimum_perc           = 100
+replace_edited_strings = false
+keep_translations      = false
 
-[rightsstatementsorg.inc-ruu_enjson]
-file_filter = InC-RUU_<lang>.json
-source_lang = en
-type = KEYVALUEJSON
+[o:rightsstatements-org:p:rightsstatementsorg:r:inc_enjson]
+file_filter            = InC_<lang>.json
+source_file            = InC_en.json
+source_lang            = en
+type                   = KEYVALUEJSON
+minimum_perc           = 100
+replace_edited_strings = false
+keep_translations      = false
 
-[rightsstatementsorg.nkc_enjson]
-file_filter = NKC_<lang>.json
-source_lang = en
-type = KEYVALUEJSON
+[o:rightsstatements-org:p:rightsstatementsorg:r:nkc_enjson]
+file_filter            = NKC_<lang>.json
+source_file            = NKC_en.json
+source_lang            = en
+type                   = KEYVALUEJSON
+minimum_perc           = 100
+replace_edited_strings = false
+keep_translations      = false
 
-[rightsstatementsorg.noc-cr_enjson]
-file_filter = NoC-CR_<lang>.json
-source_lang = en
-type = KEYVALUEJSON
+[o:rightsstatements-org:p:rightsstatementsorg:r:noc-cr_enjson]
+file_filter            = NoC-CR_<lang>.json
+source_file            = NoC-CR_en.json
+source_lang            = en
+type                   = KEYVALUEJSON
+minimum_perc           = 100
+replace_edited_strings = false
+keep_translations      = false
 
-[rightsstatementsorg.noc-nc_enjson]
-file_filter = NoC-NC_<lang>.json
-source_lang = en
-type = KEYVALUEJSON
+[o:rightsstatements-org:p:rightsstatementsorg:r:noc-nc_enjson]
+file_filter            = NoC-NC_<lang>.json
+source_file            = NoC-NC_en.json
+source_lang            = en
+type                   = KEYVALUEJSON
+minimum_perc           = 100
+replace_edited_strings = false
+keep_translations      = false
 
-[rightsstatementsorg.noc-oklr_enjson]
-file_filter = NoC-OKLR_<lang>.json
-source_lang = en
-type = KEYVALUEJSON
+[o:rightsstatements-org:p:rightsstatementsorg:r:noc-oklr_enjson]
+file_filter            = NoC-OKLR_<lang>.json
+source_file            = NoC-OKLR_en.json
+source_lang            = en
+type                   = KEYVALUEJSON
+minimum_perc           = 100
+replace_edited_strings = false
+keep_translations      = false
 
-[rightsstatementsorg.noc-us_enjson]
-file_filter = NoC-US_<lang>.json
-source_lang = en
-type = KEYVALUEJSON
+[o:rightsstatements-org:p:rightsstatementsorg:r:noc-us_enjson]
+file_filter            = NoC-US_<lang>.json
+source_file            = NoC-US_en.json
+source_lang            = en
+type                   = KEYVALUEJSON
+minimum_perc           = 100
+replace_edited_strings = false
+keep_translations      = false
 
-[rightsstatementsorg.und_enjson]
-file_filter = UND_<lang>.json
-source_lang = en
-type = KEYVALUEJSON
+[o:rightsstatements-org:p:rightsstatementsorg:r:und_enjson]
+file_filter            = UND_<lang>.json
+source_file            = UND_en.json
+source_lang            = en
+type                   = KEYVALUEJSON
+minimum_perc           = 100
+replace_edited_strings = false
+keep_translations      = false
+

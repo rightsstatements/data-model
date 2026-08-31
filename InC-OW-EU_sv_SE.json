@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "sv",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/InC-OW-EU/1.0/",
+  "prefLabel": "Upphovsrättsligt skyddad - EU herrelösa verk",
+  "description": "Denna upphovsrättsbeskrivningar visar på att objektet som är märkt med denna rättighetsmärkning har klassats som ett ”Orphan Work” (herrelöst verk) i enlighet med EU:s direktiv 2012/28/EU.",
+  "definition": "Detta objekt har blivit klassat som ett herrelöst verk i det land där det först offentliggjordes och i enlighet med Europaparlamentets och rådets direktiv 2012/28/EU av den 25 oktober 2012 om viss tillåten användning av herrelösa verk.\n\nFör objektet har antingen (a) inga rättighetsinnehavare identifierats eller (b) en eller flera rättighetsinnehavare identifierats men ingen gått att finna trots omsorgsfull efterforskning. Resultatet av den omsorgsfulla efterforskningen finns tillgänglig i EU:s herrelösa verks databas  .\n\nDu får använda objektet på alla sätt som är tillåtna enligt den upphovsrättsliga lagstiftning som är tillämplig i ditt fall.",
+  "note": [
+    "Om inte något annat uttryckligen anges så kan organisationen som har tillgängliggjort objektet inte lämna några garantier rörande objektet eller garantera riktigheten av denna Upphovsrättsbeskrivningar. Du ansvarar för din egen användning av materialet.",
+    "Du kan behöva hämta in andra tillstånd och beakta andra regler för din planerade användning. Till exempel kan det finnas regler kring tryckfrihet och yttrandefrihet, integritetsskyddslagstiftning, ideella rättigheter och användning av namn och bild i reklam som begränsar hur du kan använda materialet.",
+    "Du kan hitta ytterligare information om det upphovsrättsliga skyddet av detta objekt på hemsidan som tillhör den organisation som tillgängliggjort objektet.",
+    "Om du har någon information som kan medverka till att rättighetsinnehavaren/-innehavarna kan identifieras eller nås, var vänlig meddela organisationen som tillgängliggjort objektet."
+  ],
+  "scopeNote": "Denna upphovsrättsbeskrivningar är avsedd att användas för objekt för vilket det underliggande verket har klassats som ett herrelöst verk enligt Europaparlamentets och rådets direktiv 2012/28/EU av den 25 oktober 2012 om viss tillåten användning av herrelösa verk. Upphovsrättsbeskrivningar kan endast tillämpas på objekt som härrör från verk som omfattas av direktivet; verk som utgivits i form av böcker, tidskrifter, tidningar eller andra skrivelser såväl som filmverk eller audiovisuella verk och fonogram (observera: detta exkluderar fotografier och bildkonst). Den kan endast användas av organisationer som omfattas av direktivet: bibliotek, utbildningsinstitutioner och museer som är tillgängliga för allmänheten, arkiv, film- eller ljudarvsinstitutioner och public service-tv/-radio som är etablerade i en av EU:s medlemsstater (i Sverige de organisationer som blivit godkända av Patent- och registreringsverket som ”kulturarvsinstitutioner”). Organisationen förväntas också ha registrerat verket i EU:s databas för herrelösa verk som förvaltas av EUIPO."
+}

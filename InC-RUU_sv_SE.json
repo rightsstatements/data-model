@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "sv",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/IC-RUU/1.0/",
+  "prefLabel": "Skyddas av upphovsrätt - rättighetsinnehavare inte lokaliserade  eller identifierade",
+  "description": "Denna upphovsrättsbeskrivningar visar på att objektet som har denna märkning skyddas av upphovsrätt, men att rättighetsinnehavaren/-innehavarna inte har kunnat identifieras eller lokaliseras.",
+  "definition": "Denna upphovsrättsbeskrivningar innebär att objektet som har denna märkning skyddas av upphovsrätt, men rättighetsinnehavarna har (a) inte gått att identifiera eller (b) en eller flera rättighetsinnehavare har identifierats men ingen har kunnat lokaliseras.Du får använda objektet på alla sätt som är tillåtna enligt den upphovsrättsliga lagstiftning som är tillämplig i ditt fall.",
+  "note": [
+    "Om inte något annat uttryckligen anges så kan organisationen som har tillgängliggjort objektet inte lämna några garantier rörande objektet eller garantera riktigheten av denna rättighetsmärkning. Du ansvarar för din egen användning av materialet.",
+    "Du kan behöva hämta in andra tillstånd och beakta andra regler för din planerade användning. Till exempel kan det finnas regler kring tryckfrihet och yttrandefrihet, integritetsskyddslagstiftning, ideella rättigheter och användning av namn och bild i reklam som begränsar hur du kan använda materialet.",
+    "Du kan hitta ytterligare information om det upphovsrättsliga skyddet av detta objekt på hemsidan som tillhör den organisation som tillgängliggjort objektet.",
+    "Om du har någon information som kan medverka till att rättighetsinnehavaren/-innehavarna kan identifieras eller nås, var vänlig meddela organisationen som tillgängliggjort objektet."
+  ],
+  "scopeNote": "Denna upphovsrättsbeskrivningar kan användas för ett objekt som skyddas av upphovsrätt men där inga rättighetsinnehavare har identifierats eller lokaliserats efter en rimlig efterforskning. Upphovsrättsbeskrivningar bör endast användas om organisationen som planerar att tillgängliggöra objektet är tämligen säker på att det verk som objektet baseras på skyddas av upphovsrätt. Upphovsrättsbeskrivningar ska inte användas av EU-baserade institutioner som har identifierat verk som herrelösa verk i enlighet med direktiv 2012/28/EU. Istället ska de använda InC-OW-EU (In Copyright-EU Orphan Work)."
+}

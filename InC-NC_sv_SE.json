@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "sv",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/",
+  "prefLabel": "Upphovsrättsligt skyddad – icke-kommersiell användning tillåten",
+  "description": "Denna upphovsrättsbeskrivningar visar på att objektet som försetts med denna märkning skyddas av upphovsrätt men icke-kommersiell användning är tillåten utan att tillstånd inhämtats först.",
+  "definition": "Detta objekt skyddas av upphovsrätt och/eller närstående rättigheter.\n\nDu får använda objektet på alla sätt som är tillåtna enligt den upphovsrättsliga lagstiftning som är tillämplig i ditt fall. Dessutom krävs inget ytterligare tillstånd från rättighetsinnehavaren/-innehavarna för att använda materialet i icke-kommersiella sammanhang.\n\nFör annan användning måste du ha tillstånd från rättighetsinnehavaren/-innehavarna.",
+  "note": [
+    "Om inte något annat uttryckligen anges så kan organisationen som har tillgängliggjort objektet inte lämna några garantier rörande objektet eller garantera riktigheten av denna rättighetsmärkning. Du ansvarar för din egen användning av materialet.",
+    "Du kan behöva hämta in andra tillstånd och beakta andra regler för din planerade användning. Till exempel kan det finnas regler kring tryckfrihet och yttrandefrihet, integritetsskyddslagstiftning, ideella rättigheter och användning av namn och bild i reklam som begränsar hur du kan använda materialet.",
+    "Du kan hitta ytterligare information om det upphovsrättsliga skyddet av detta objekt på hemsidan som tillhör den organisation som tillgängliggjort objektet."
+  ],
+  "scopeNote": "Denna upphovsrättsbeskrivningar kan endast användas för upphovsrättsligt skyddade objekt som den organisation som tillgängliggör dem är rättighetshavare till, eller där organisationen uttryckligen har fått tillstånd av rättighetsinnehavaren/-innehavarna att tillgängliggöra objektet med villkoret att tredje part får använda deras verk för icke-kommersiella ändamål utan att först be om tillstånd."
+}

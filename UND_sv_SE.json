@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "sv",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/UND/1.0/",
+  "prefLabel": "Upphovsrättslig status obestämd",
+  "description": "Denna upphovsrättsbeskrivningar visar på att organisationen som har tillgängliggjort objektet har bedömt objektets status vad gäller upphovsrätt och närstående rättigheter, men inte kunnat komma fram till ett entydigt svar.",
+  "definition": "Objektets status vad gäller upphovsrätt och närstående rättigheter har blivit bedömd av den organisation som har tillgängliggjort objektet, men organisationen kunde inte dra några definitiva slutsatser gällande statusen.\n\nVänligen ta kontakt med den organisation som tillgängliggjort objektet för mer information.\n\nDu får använda objektet på alla sätt som är tillåtna enligt den upphovsrättsliga lagstiftning som är tillämplig i ditt fall.",
+  "note": [
+    "Om inte något annat uttryckligen anges så kan organisationen som har tillgängliggjort objektet inte lämna några garantier rörande objektet eller garantera riktigheten av denna Upphovsrättsbeskrivningar. Du ansvarar för din egen användning av materialet.",
+    "Du kan behöva hämta in andra tillstånd och beakta andra regler för din planerade användning. Till exempel kan det finnas regler kring tryckfrihet och yttrandefrihet, integritetsskyddslagstiftning, ideella rättigheter och användning av namn och bild i reklam som begränsar hur du kan använda materialet.",
+    "Du kan hitta ytterligare information om det upphovsrättsliga skyddet av detta objekt på hemsidan som tillhör den organisation som tillgängliggjort objektet."
+  ],
+  "scopeNote": "Denna upphovsrättsbeskrivningar bör användas för objekt vars upphovsrättsliga status är okänd och för vilket organisationen som har tillgängliggjort objektet har försökt fastställa det bakomliggande verkets upphovsrättsliga status. Denna upphovsrättsbeskrivningar används vanligtvis när det saknas några viktiga fakta som är nödvändiga för att kunna göra en tillförlitlig upphovsrättslig bedömning."
+}

@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "sv",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/NoC-CR/1.0/",
+  "prefLabel": "Ingen upphovsrätt – avtalade begränsningar",
+  "description": "Denna upphovsrättsbeskrivningar visar på att det bakomliggande verket inte skyddas av upphovsrätt, men att organisationen som har tillgängliggjort objektet är avtalsmässigt bunden att begränsa vissa former av användning av tredje part.",
+  "definition": "Användningen av detta objekt begränsas inte av upphovsrätt och/eller till upphovsrätten närstående rättigheter.\n\nSom en del av förvärvet eller digitaliseringen av detta objekt är organisationen som tillgängliggjort det avtalsmässigt bunden att begränsa användningen av objektet. Begränsningarna kan omfatta, men är inte begränsade till, integritetsskyddsfrågor, kulturellt skydd, digitaliseringsvillkor eller donationsvillkor.\n\nTa kontakt med den organisation som har tillgängliggjort objektet för mer information.",
+  "note": [
+    "Om inte något annat uttryckligen anges så kan organisationen som har tillgängliggjort objektet inte lämna några garantier rörande objektet eller garantera riktigheten av denna rättighetsmärkning. Du ansvarar för din egen användning av materialet.",
+    "Du kan behöva hämta in andra tillstånd och beakta andra regler för din planerade användning. Till exempel kan det finnas regler kring tryckfrihet och yttrandefrihet, integritetsskyddslagstiftning, ideella rättigheter och användning av namn och bild i reklam som begränsar hur du kan använda materialet.",
+    "Du kan hitta ytterligare information om det upphovsrättsliga skyddet av detta objekt på hemsidan som tillhör den organisation som tillgängliggjort objektet."
+  ],
+  "scopeNote": "Denna upphovsrättsbeskrivningar kan endast användas för objekt som inte skyddas av upphovsrätt men där organisationen som avser att göra objektet tillgängligt genom avtal är förpliktade att vidta åtgärder för att begränsa tredje parts användning av objektet. För att rättighetsbeskrivningar ska bli entydig bör organisationen som avser att tillgängliggöra objektet tillhandahålla en länk till en sida där de avtalsmässiga begränsningarna som rör användandet av objektet beskrivs."
+}

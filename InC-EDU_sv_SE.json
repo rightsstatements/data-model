@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "@language": "sv",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "http://rightsstatements.org/vocab/InC-EDU/1.0/",
+  "prefLabel": "Upphovsrättsligt skyddad - användning i undervisningssammanhang tillåtet",
+  "description": "Denna upphovsrättsbeskrivningar visar på att objektet som försetts med denna märkning skyddas av upphovsrätt, men att användning i undervisningssammanhang är tillåten utan att tillstånd måste inhämtas först.",
+  "definition": "Detta objekt skyddas av upphovsrätt och/eller närstående rättigheter.\n\nDu får använda objektet på alla sätt som är tillåtna enligt den upphovsrättsliga lagstiftning som är tillämplig i ditt fall. Dessutom krävs inget ytterligare tillstånd från rättighetsinnehavaren/-innehavarna för att använda materialet i undervisningssammanhang.\n\nFör annan användning måste du inhämta tillstånd från rättighetsinnehavaren/-innehavarna.",
+  "note": [
+    "Om inte något annat uttryckligen anges så kan organisationen som har tillgängliggjort objektet inte lämna några garantier rörande objektet eller garantera riktigheten av denna rättighetsmärkning. Du ansvarar för din egen användning av materialet.",
+    "Du kan behöva hämta in andra tillstånd och beakta andra regler för din planerade användning. Till exempel kan det finnas regler kring tryckfrihet och yttrandefrihet, integritetsskyddslagstiftning, ideella rättigheter och användning av namn och bild i reklam som begränsar hur du kan använda materialet.",
+    "Du kan hitta ytterligare information om det upphovsrättsliga skyddet av detta objekt på hemsidan som tillhör den organisation som tillgängliggjort objektet."
+  ],
+  "scopeNote": "Denna upphovsrättsbeskrivningar kan endast användas för upphovsrättsligt skyddade objekt som den organisation som tillgängliggör dem är rättighetshavare till, eller där organisationen uttryckligen har fått tillstånd av rättighetshavaren/-innehavarna att tillgängliggöra verket på ett sådant sätt att tredje part kan använda verket i undervisningssammanhang utan att först be om tillstånd."
+}

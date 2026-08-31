@@ -10,7 +10,7 @@ jobs:
       - name: Setup Node.js runtime
         uses: actions/setup-node@v1
         with:
-          node-version: '12.x'
+          node-version: '24.x'
       - name: Install raptor2-utils
         run: sudo apt-get install raptor2-utils
       - name: Install jsonld-cli
@@ -18,4 +18,4 @@ jobs:
       - name: Audit source Turtle data
         run: rapper -q -i turtle rights-statements.ttl > /dev/null
       - name: Audit JSON-LD translations
-        run: (for f in *.json; do jsonld normalize $f > /dev/null || exit 1; done)
+        run: (for f in *.json; do jsonld canonize $f > /dev/null || exit 1; done)
