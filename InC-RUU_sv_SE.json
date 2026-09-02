@@ -4,7 +4,7 @@
     "@language": "sv",
     "description": "http://purl.org/dc/terms/description"
   },
-  "@id": "http://rightsstatements.org/vocab/IC-RUU/1.0/",
+  "@id": "http://rightsstatements.org/vocab/InC-RUU/1.0/",
   "prefLabel": "Skyddas av upphovsrätt - rättighetsinnehavare inte lokaliserade  eller identifierade",
   "description": "Denna upphovsrättsbeskrivningar visar på att objektet som har denna märkning skyddas av upphovsrätt, men att rättighetsinnehavaren/-innehavarna inte har kunnat identifieras eller lokaliseras.",
   "definition": "Denna upphovsrättsbeskrivningar innebär att objektet som har denna märkning skyddas av upphovsrätt, men rättighetsinnehavarna har (a) inte gått att identifiera eller (b) en eller flera rättighetsinnehavare har identifierats men ingen har kunnat lokaliseras.Du får använda objektet på alla sätt som är tillåtna enligt den upphovsrättsliga lagstiftning som är tillämplig i ditt fall.",
