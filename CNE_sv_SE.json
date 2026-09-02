@@ -4,7 +4,7 @@
     "@language": "sv",
     "description": "http://purl.org/dc/terms/description"
   },
-  "@id": "http://rightsstatement.org/vocab/CNE/1.0/",
+  "@id": "http://rightsstatements.org/vocab/CNE/1.0/",
   "prefLabel": "Upphovsrätt  ej utvärderad",
   "description": "Denna upphovsrättsbeskrivningar anger att organisationen som har publicerat artikeln inte har utvärderat status för upphovsrätten och närstående rättigheter.",
   "definition": "Status för upphovsrätt och närstående rättigheter för det här verket  har inte utvärderat.\n\nVänligen ta kontakt med organisationen som har tillgängliggjort verket för mer information.\n\nDu får använda verket på alla sätt som är tillåtna enligt den upphovsrättsliga lagstiftning som är tillämplig i ditt fall.",

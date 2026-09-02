@@ -4,7 +4,7 @@
     "@language": "sv",
     "description": "http://purl.org/dc/terms/description"
   },
-  "@id": "http://rightsstatements.org/vocab/InC/1.0/ ",
+  "@id": "http://rightsstatements.org/vocab/InC/1.0/",
   "prefLabel": "Upphovsrättsligt skyddad",
   "description": "Denna upphovsrättsbeskrivningar visar på att objektet som är märkt med denna märkning skyddas av upphovsrätt.",
   "definition": "Detta objekt skyddas av upphovsrätt eller närstående rättigheter.\n\nDu får använda objektet på alla sätt som är tillåtna enligt den upphovsrättsliga lagstiftning som är tillämplig i ditt läge.\n\nFör annan användning måste du ha tillstånd från rättighetsinnehavaren/-innehavarna.",
